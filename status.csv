@@ -1,11 +1,11 @@
 id,city,was_crawled,was_analyzed
-AT00007025,alachua,yes,
-AT00007036,alford,yes,
-AT00007051,altamonte springs,yes,
-AT00007054,altha,yes,
-AT00007062,alva,yes,
-AT00007077,anna maria,yes,
-AT00007084,apalachicola,yes,
+AT00007025,alachua,yes,yes
+AT00007036,alford,yes,yes
+AT00007051,altamonte springs,yes,yes
+AT00007054,altha,yes,yes
+AT00007062,alva,yes,yes
+AT00007077,anna maria,yes,yes
+AT00007084,apalachicola,yes,yes
 AT00007089,apopka,yes,
 AT00007092,arcadia,yes,
 AT00007094,archer,yes,

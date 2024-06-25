@@ -114,7 +114,7 @@ class Crawler:
             return False
     
     def start(self):
-        for index, row in self.df.iterrows():
+        for index, row in tqdm(self.df.iterrows()):
             if row[WAS_CRAWLED] != YES:
                 unique_id = row[ID]
                 city = row[CITY]
@@ -210,7 +210,7 @@ class Analyzer:
             return False
 
     def start(self):
-        for index, row in self.df.iterrows():
+        for index, row in tqdm(self.df.iterrows()):
             if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] != YES:
                 unique_id = row[ID]
                 if self.analyze(unique_id):
