@@ -1,82 +1,334 @@
-from youtube_transcript_api import YouTubeTranscriptApi
+import shutil
 import csv
+import datetime
 import json
-from googleapiclient.discovery import build
+import os
+import shutil
+import pandas as pd
 import isodate
+from tqdm import tqdm
 
-api_key = 'AIzaSyBHJkj-ghB84lI8b3dX5QGhjy7U3N0CsRU'
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+from openai import OpenAI
+from youtube_transcript_api import YouTubeTranscriptApi
 
-# Set up the API key and service
-youtube = build('youtube', 'v3', developerKey=api_key)
+STATUS_FILE = 'status.csv'
+RESPONSES_DIR = 'responses' 
+ANALYSIS_DIR = 'analysis'
+
+# status.csv columns and answers
+ID = 'id'
+CITY = 'city'
+WAS_CRAWLED = 'was_crawled'
+WAS_ANALYZED = 'was_analyzed'
+NO = 'no'
+YES = 'yes'
 
 
-# Function to get transcript
-def get_transcript(video_id):
-
-    try:
-        # Fetch the transcript
-        transcript = YouTubeTranscriptApi.get_transcript(video_id)
-        
-        # Combine transcript segments into one text
-        transcript_text = " ".join([entry['text'] for entry in transcript])
-        
-        return transcript_text
-    except Exception as e:
-        return str(e)
+class Crawler:
     
+    """Runs YouTube APIs on a daily basis as much as quota allows. 
+    Status is stored in status.csv file with columns: 'id', 'city' `was_crawled`, 'was_analyzed'. 
+    
+    Each day, at class init, a status file is read, and line by line determines what still needs 
+    to be crawled. It then stores responses in a response json file in directory 'responses'. 
+    If it reaches limit, (i.e. API gives exception), then it stops crawling. 
+    The status.csv file is then updated.
+    """
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
 
-def get_video_info(video_id):
-    # Get video details
-    request = youtube.videos().list(
-        part="snippet,contentDetails,statistics",
-        id=video_id
-    )
-    response = request.execute()
+    def __init__(self, csv_file=STATUS_FILE):
+        self.csv_file = csv_file
+        self.df = self.load_csv()
+        
+        if not os.path.exists(RESPONSES_DIR):
+            os.makedirs(RESPONSES_DIR)
+    
+    def load_csv(self):
+        if os.path.exists(self.csv_file):
+            return pd.read_csv(self.csv_file)
+        else:
+            df = pd.read_excel('assets/cities_to_collect.xlsx')
+            df = df[['ObligorId', 'extracted_issuer']]
+            df.rename(columns={'ObligorId': ID, 'extracted_issuer': CITY}, inplace=True)
+            df[WAS_CRAWLED] = ''
+            df[WAS_ANALYZED] = ''
+            df.to_csv(STATUS_FILE, index=False)
+            return df
+    
+    def save_csv(self):
+        # Create a backup of the current CSV file
+        backup_file = f"{self.csv_file}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
+        shutil.copy(self.csv_file, backup_file)
+        
+        self.df.to_csv(self.csv_file, index=False)
+    
+    def search_one(self, search_query):
+        # Search for videos matching the query
+        request = self.youtube.search().list(
+            q=search_query,
+            part="snippet",   # this retrieves basic information about the channel
+            type="channel",
+            maxResults=5
+        )
+        response = request.execute()
+        return response
+    
+    def crawl(self, unique_id, city):
+                    
+        try:
+            responses = []
+            for query in ['town', 'city']:
+                search_query = f"{query} of {city} florida"
+                response = self.search_one(search_query)
+                responses.append(response)
+                
+            with open(RESPONSES_DIR/f'{unique_id}.json', 'w') as f:
+                json.dump(responses, f)
+            
+            return True
+        except HttpError as e:
+            if e.resp.status == 403:
+                error_response = json.loads(e.content)
+                error_reason = error_response["error"]["errors"][0]["reason"]
+                if error_reason == "quotaExceeded":
+                    print("Quota exceeded. Stopping crawling.")
+                    return False
+            return False
+    
+    def start(self):
+        for index, row in self.df.iterrows():
+            if row[WAS_CRAWLED] == NO:
+                unique_id = row[ID]
+                city = row[CITY]
+                if self.crawl(unique_id, city):
+                    self.df.at[index, WAS_CRAWLED] = YES
+                else:
+                    break
+        self.save_csv()
+        
+        
+class Analyzer:
+    
+    """
+    Loads status.csv file and then analyzes the newly crawled cities 
+    (where 'was_crawled' == 'yes' and 'was_analyzed' == 'no')
+    
+    The analysis loads a respective json file with responses, and creates a DataFrame 
+    with column `is_official`, then save this to a csv file named with unique city id, 
+    all in folder named 'analysis'.
+    """
+    
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+    
+    chat_history =[{"role": "system", "content": "Your job will be to analyze short prompts \
+            comprised of title and description of YouTube channels to asses whether the channel \
+            is official town or city you tube channel. You answer 'Yes' or 'No' only"}]
+    
+    # Set your API key here
+    client = OpenAI(api_key=openai_api_key)
+    
+    def __init__(self, csv_file=STATUS_FILE):
+        self.csv_file = csv_file
+        self.df = pd.read_csv(self.csv_file)
+        
+        if not os.path.exists(ANALYSIS_DIR):
+            os.makedirs(ANALYSIS_DIR)
 
-    if "items" not in response or len(response["items"]) == 0:
-        print("Video not found.")
-        return None
+    def save_csv(self):
+        self.df.to_csv(self.csv_file, index=False)
 
-    video = response["items"][0]
+    def is_official(self, blurb):  
+            
+            self.chat_history.append({"role": "user", "content": blurb})
 
-    # Extract relevant details
-    video_info = {
-        "vid_id": video_id,
-        "vid_title": video["snippet"]["title"],
-        "vid_desc": video["snippet"]["description"],
-        "vid_upload_date": video["snippet"]["publishedAt"],
-        "vid_length_min": convert_duration(video["contentDetails"]["duration"]),
-        "vid_views": video["statistics"].get("viewCount", 0),
-        "vid_likes": video["statistics"].get("likeCount", 0),
-        "channel_id": video["snippet"]["channelId"],
-        "channel_title": video["snippet"]["channelTitle"],
-    }
+            reply = self.client.chat.completions.create(
+                model="gpt-4",
+                messages=self.chat_history
+                )
 
-    return video_info
+            reply_message = reply.choices[0].message
+            self.chat_history.append({'role': reply_message.role, 'content':reply_message.content})
+        
+            return reply_message.content.lower() == 'yes'  # this will always return 'yes' or 'no'
+    
+    def get_smaller_response(self, response):
+        # Process the search results
+        smaller_response = []
+        for item in response.get("items", []):
+            channel_id = item["id"]["channelId"]
+            channel_title = item["snippet"]["title"]
+            channel_description = item["snippet"]["description"]
+            
+            result = {
+                "channel_id": channel_id,
+                "channel_title": channel_title,
+                "channel_description": channel_description
+            }
+            smaller_response.append(result)
+        return smaller_response
+    
+    def analyze(self, unique_id):
+        try:
+            with open(RESPONSES_DIR/f'{unique_id}.json', 'r') as f:
+                responses = json.load(f)
+                
+            rows = []
+            for response in responses:  # there will be two, one for town and one for city
+                smaller_response = self.get_smaller_response(response)
+                for item in smaller_response:
+                    blurb = f"channel title is: {item['channel_title']} and \
+                        channel description is: {item['channel_description']}"
+                    
+                    if self.is_official(blurb):
+                        item.update({'is_official': 'yes'})
+                        rows.append(item)
+                
+            df = pd.DataFrame(rows)
+                
+            # Save the analysis DataFrame to a CSV file named with the unique city id
+            df.to_csv(ANALYSIS_DIR/f'{unique_id}.csv', index=False)
+            
+            return True
+        except FileNotFoundError:
+            print(f"File {RESPONSES_DIR}/{unique_id}.json not found.")
+            return False
+
+    def start(self):
+        for index, row in self.df.iterrows():
+            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] == NO:
+                unique_id = row[ID]
+                if self.analyze(unique_id):
+                    self.df.at[index, WAS_ANALYZED] = YES
+        self.save_csv()
+    
+    def print_result(self, result):
+        print(f"Channel ID: {result['channel_id']}")
+        print(f"Title: {result['channel_title']}")
+        print(f"Description: {result['channel_description']}")
+        print("-" * 40)
+        print("\n")
+        
+
+def aggregate(csv_file = STATUS_FILE):    
+    status_df = pd.read_csv(csv_file)
+    
+    dfs = []
+
+    # Iterate over each row in the dataframe
+    for index, row in self.df.iterrows():
+        unique_id = row['id']
+        analysis_file = f'analysis_{unique_id}.csv'
+        
+        # Load the analysis CSV file if it exists
+        try:
+            analysis_df = pd.read_csv(analysis_file)
+            dfs.append(analysis_df)
+        except FileNotFoundError:
+            print(f"File {analysis_file} not found.")
+            continue
+
+    # Concatenate all dataframes into one
+    if dfs:
+        combined_df = pd.concat(dfs, ignore_index=True)
+        # Filter out rows where is_official is 'no'
+        official_df = combined_df[combined_df['is_official'] == 'yes']
+        return official_df
+    else:
+        return pd.DataFrame()  # Return an empty dataframe if no dataframes were found
+
+# Usage example
 
 
-def convert_duration(duration):
+
+
+# Save the aggregated dataframe to a new CSV file
+official_df.to_csv('aggregated_officials.csv', index=False)
+
+
+class VideoInfo(object):
+    """
+    Important video info
+    """
+    
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
+    
+    def __init__(self, video_id):
+        self.id = video_id
+        self.url = f'https://www.youtube.com/watch?v={self.id}'
+            
+    @staticmethod
+    def convert_duration(duration):
     # Convert ISO 8601 duration to minutes
-    
-    parsed_duration = isodate.parse_duration(duration)
-    return parsed_duration.total_seconds() / 60
+        parsed_duration = isodate.parse_duration(duration)
+        return parsed_duration.total_seconds() / 60
 
-    
-def save_transcript_to_file(filename, transcript):
-    # Write the string to the CSV file
-    with open(filename, mode='w', newline='') as file:
-        writer = csv.writer(file)
+    def get_video_info(self):
+        # Get video details
+        request = self.youtube.videos().list(
+            part="snippet,contentDetails,statistics",
+            id=self.id
+        )
+        response = request.execute()
+
+        if "items" not in response or len(response["items"]) == 0:
+            print("Video not found.")
+            return None
+
+        video = response["items"][0]
+
+        self.title = video["snippet"]["title"]
+        self.description = video["snippet"]["description"]
+        self.upload_date = video["snippet"]["publishedAt"]
+        self.duration = self.convert_duration(video["contentDetails"]["duration"])
+        self.views = video["statistics"].get("viewCount", 0)
+        self.likes = video["statistics"].get("likeCount", 0)
+        self.channel_id = video["snippet"]["channelId"]
+        self.channel_title = video["snippet"]["channelTitle"]
         
-        # Write the string as a single row
-        writer.writerow([transcript])
+    def export(self, filename):
+        # Extract relevant details
+        video_info = {
+            "id": self.id,
+            "title": self.title,
+            "description": self.description,
+            "upload_date": self.upload_date,
+            "duration": self.duration,
+            "views": self.views,
+            "likes": self.likes,
+            "channel_id": self.channel_id,
+            "channel_title": self.channel_title,
+            "url": self.url
+        }
 
-    print(f"String saved to {filename}")
-    
-    
-def save_metadata_to_file(filename, video_info):
+        # Write the dictionary to a JSON file
+        with open(filename, 'w') as json_file:
+            json.dump(video_info, json_file, indent=4)
 
-    # Write the dictionary to a JSON file
-    with open(filename, 'w') as json_file:
-        json.dump(video_info, json_file, indent=4)
+        print(f"Dictionary saved to {filename}")
+        
+    # Function to get transcript
+    def get_transcript(self):
+        
+        try:
+            # Fetch the transcript
+            transcript = YouTubeTranscriptApi.get_transcript(self.id)
+            
+            # Combine transcript segments into one text
+            transcript_text = " ".join([entry['text'] for entry in transcript])
+            
+            self.transcript = transcript_text
+            
+            filename = f'transcript_{self.id}.csv'
+            # Write the string to the CSV file
+            with open(f'transcripts/{filename}', mode='w', newline='') as file:
+                writer = csv.writer(file)
+                
+                # Write the string as a single row
+                writer.writerow([transcript])
 
-    print(f"Dictionary saved to {filename}")
+            print(f"String saved to {filename}")
+        
+        except Exception as e:
+            return str(e)
