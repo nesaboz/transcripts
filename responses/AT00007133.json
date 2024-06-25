@@ -1,0 +1,51 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "Y9yssqunNB3h2t4VQij-RBJgZWI",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MpwmsMCWTMxwz5IYPNcN7J3b1GY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpjTO6o352pHjvS4etO9uBw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-13T14:26:22Z",
+                    "channelId": "UCpjTO6o352pHjvS4etO9uBw",
+                    "title": "Bascom Grooms Real Estate [OLD ACCOUNT]",
+                    "description": "Bascom Grooms Real Estate is an independent locally owned real estate firm serving Key West and the Lower Florida Keys.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_cttzAJESs4ht6SmV6D-40CSns5uEFYh_hJMpQOZGtmo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_cttzAJESs4ht6SmV6D-40CSns5uEFYh_hJMpQOZGtmo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_cttzAJESs4ht6SmV6D-40CSns5uEFYh_hJMpQOZGtmo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bascom Grooms Real Estate [OLD ACCOUNT]",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-13T14:26:22Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "l9skBSXu1HCZS8ilV8bGu6sbF8k",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 0,
+            "resultsPerPage": 0
+        },
+        "items": []
+    }
+]

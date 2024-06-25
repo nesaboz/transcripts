@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "IOvSLx9-xEEzHOYm6ORWmGhOS7Q",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 826,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jOC_u-lM33vh9x3tMmB8uND3opM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl6Odacm7g41cqVb6JRhuSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-11-19T15:37:23Z",
+                    "channelId": "UCl6Odacm7g41cqVb6JRhuSQ",
+                    "title": "City of Boca Raton Government",
+                    "description": "Official City of Boca Raton (Government)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Boca Raton Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-11-19T15:37:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qZTbie2hRxqz4B7y3-UDqG_BWjc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC01SJbCQneYo_5P4hJzTf2A"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-05T12:53:16Z",
+                    "channelId": "UC01SJbCQneYo_5P4hJzTf2A",
+                    "title": "Town Center Church",
+                    "description": "A brand new community of Jesus followers in Boca Raton, Florida led by Pastor Jerry Sander.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town Center Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-05T12:53:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7JxP1MXFssx6k9k2k4EWaLaKv5E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPLwuGyC2hQk9ONTlh8YPfQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-02T21:47:56Z",
+                    "channelId": "UCPLwuGyC2hQk9ONTlh8YPfQ",
+                    "title": "Living in Boca Raton Florida",
+                    "description": "Are you wondering what it's like to live in Boca Raton, Florida? Well, this is the channel you need! We absolutely love this town ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FCPur3bGDOuNMPF9qX8Jimc3QCJJEU8NMaXh2Q03vCoJZInppstLEyPT8dEoyPuZ7I_vI1Xb8g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FCPur3bGDOuNMPF9qX8Jimc3QCJJEU8NMaXh2Q03vCoJZInppstLEyPT8dEoyPuZ7I_vI1Xb8g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FCPur3bGDOuNMPF9qX8Jimc3QCJJEU8NMaXh2Q03vCoJZInppstLEyPT8dEoyPuZ7I_vI1Xb8g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Boca Raton Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-02T21:47:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nyzCYs-qaGpzGLRCeBIXNF2MNCw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1Ihc7AwhY8mpfJ3oQrjpig"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-09T20:57:42Z",
+                    "channelId": "UC1Ihc7AwhY8mpfJ3oQrjpig",
+                    "title": "BocaHistory",
+                    "description": "The mission and purpose of the Boca Raton Historical Society & Museum is to collect, preserve, and present information and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mU02a3wuQcEIaSXqffnDKqapQ36p2lHmDi_RSPIxI93ts=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mU02a3wuQcEIaSXqffnDKqapQ36p2lHmDi_RSPIxI93ts=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mU02a3wuQcEIaSXqffnDKqapQ36p2lHmDi_RSPIxI93ts=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BocaHistory",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-09T20:57:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MpCf9sGvpwJeQVsOdSrIDx4rdmk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtBkjXmzO0K5o34EwPfNUkA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-14T17:50:12Z",
+                    "channelId": "UCtBkjXmzO0K5o34EwPfNUkA",
+                    "title": "2500Boca on Federal - Boca Raton, FL",
+                    "description": "EXPERIENCE EXCEPTIONAL LIVING Tucked away in the scenic northeastern portion of Boca Raton, Florida 2500 Boca offers ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNSIpSgUDWdZq8vbxcGB-bavRX3z4ZI_cGhm0DXP1mtw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNSIpSgUDWdZq8vbxcGB-bavRX3z4ZI_cGhm0DXP1mtw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNSIpSgUDWdZq8vbxcGB-bavRX3z4ZI_cGhm0DXP1mtw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "2500Boca on Federal - Boca Raton, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-14T17:50:12Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "8rHzB4fBcXr8YzI3PBZUIJksOWk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 588,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jOC_u-lM33vh9x3tMmB8uND3opM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl6Odacm7g41cqVb6JRhuSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-11-19T15:37:23Z",
+                    "channelId": "UCl6Odacm7g41cqVb6JRhuSQ",
+                    "title": "City of Boca Raton Government",
+                    "description": "Official City of Boca Raton (Government)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCqx5ZUYSoX6ieaQmR4SuU48vig8lK_km3DIjqN4BQhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Boca Raton Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-11-19T15:37:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9mM_xoFfv9FkR0_pjW6NtLF0FFE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmZcjmxKYh3hAS-PDQObkXA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-18T14:23:45Z",
+                    "channelId": "UCmZcjmxKYh3hAS-PDQObkXA",
+                    "title": "City Highlights",
+                    "description": "City Highlights is web series about south Florida cities. Beginning with Delray Beach and Boca Raton, the channel will cover ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kud3iQ_kwZOJzQ0EZ1pHj90Pg7_Y3zRVpmLfC77Bta3A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kud3iQ_kwZOJzQ0EZ1pHj90Pg7_Y3zRVpmLfC77Bta3A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kud3iQ_kwZOJzQ0EZ1pHj90Pg7_Y3zRVpmLfC77Bta3A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Highlights",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-18T14:23:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qZTbie2hRxqz4B7y3-UDqG_BWjc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC01SJbCQneYo_5P4hJzTf2A"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-05T12:53:16Z",
+                    "channelId": "UC01SJbCQneYo_5P4hJzTf2A",
+                    "title": "Town Center Church",
+                    "description": "A brand new community of Jesus followers in Boca Raton, Florida led by Pastor Jerry Sander.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/GZNRtrqAvNyYMVKM4Rtc9Bbta99CR-HLuv5pzdscHoYq-mVI0JCO6xqYzvbXjUj5oYxxB99F=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town Center Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-05T12:53:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gI6PDjVTRFjUE0QuMTAb4p0iJu0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCilpir3rzIcsT_qYvDBc4bQ"
+                },
+                "snippet": {
+                    "publishedAt": "2008-12-03T13:49:27Z",
+                    "channelId": "UCilpir3rzIcsT_qYvDBc4bQ",
+                    "title": "Boca Raton Police Services Department",
+                    "description": "Our police department has 327 men and women, including both law enforcement and civilian employees, dedicated to keeping ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGHOQMgHi7kr14fgl6ZifoNi6P7lPkxU1JlnMSUvXolQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGHOQMgHi7kr14fgl6ZifoNi6P7lPkxU1JlnMSUvXolQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGHOQMgHi7kr14fgl6ZifoNi6P7lPkxU1JlnMSUvXolQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Boca Raton Police Services Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-12-03T13:49:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T3kGP7EakV0dWhIbzvjzzAOOaC0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqdqpXL8P86Tw6IX_rmgG8g"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-11T10:48:22Z",
+                    "channelId": "UCqdqpXL8P86Tw6IX_rmgG8g",
+                    "title": "Visit Boca Raton",
+                    "description": "Welcome to our channel devoted to Boca Raton, Florida! This vibrant city has something to offer for everyone, from nature ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/74OosLOjk0EXRmjfwwEPSL1NgD3ipk8nDT1Xxmqvu6vkZJv8SDL71Vd2bUR3uyE_8Kte-WwZYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/74OosLOjk0EXRmjfwwEPSL1NgD3ipk8nDT1Xxmqvu6vkZJv8SDL71Vd2bUR3uyE_8Kte-WwZYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/74OosLOjk0EXRmjfwwEPSL1NgD3ipk8nDT1Xxmqvu6vkZJv8SDL71Vd2bUR3uyE_8Kte-WwZYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Visit Boca Raton",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-11T10:48:22Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sbpDd7UmAdgbqBZtp-xb5QmgYp4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 12,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nkEdbnfswSexyDJ7ikPNFR0xY8Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPRBTIJPBe60dKAtgCHYwpQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-04-22T16:15:30Z",
+                    "channelId": "UCPRBTIJPBe60dKAtgCHYwpQ",
+                    "title": "City of Gainesville, Florida",
+                    "description": "The latest videos from the City of Gainesville's Communications Office.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Gainesville, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-04-22T16:15:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lbKkhu04uZaxGGAbhSvR0E_bVe8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-15T18:15:10Z",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ",
+                    "title": "City of Newberry",
+                    "description": "Official YouTube channel for the City of Newberry. Includes commission meetings and other municipal government meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Newberry",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-15T18:15:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xjh21etrQ7VOsktg5VAeKfpFDNM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUhASDn-hIMpD4OqFk31s_g"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-12T13:25:09Z",
+                    "channelId": "UCUhASDn-hIMpD4OqFk31s_g",
+                    "title": "Patricia S",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Patricia S",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-12T13:25:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6ruTiU-Li54s-M4RqkTSXunwqc4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnoDBN2eLiJamBbSpqKpN_Q"
+                },
+                "snippet": {
+                    "publishedAt": "2022-09-15T13:05:31Z",
+                    "channelId": "UCnoDBN2eLiJamBbSpqKpN_Q",
+                    "title": "WCJB TV20 News",
+                    "description": "Your Local Station for North Central Florida News, Weather and Sports. For news tips, email tv20news@wcjb.com.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/RZUbIXY6ANC99OY4IfwYsS4mCWp14_gtIIXIcVjbgaHwhcmHcQKqRt_0pXZsntYPG2NNyvyDvw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/RZUbIXY6ANC99OY4IfwYsS4mCWp14_gtIIXIcVjbgaHwhcmHcQKqRt_0pXZsntYPG2NNyvyDvw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/RZUbIXY6ANC99OY4IfwYsS4mCWp14_gtIIXIcVjbgaHwhcmHcQKqRt_0pXZsntYPG2NNyvyDvw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WCJB TV20 News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-09-15T13:05:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "if_GoHfkRBGKjbTuJYpPOGO948I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCauFs6zBf3hFqrt8D9EVtgA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-19T03:38:47Z",
+                    "channelId": "UCauFs6zBf3hFqrt8D9EVtgA",
+                    "title": "Douglas61821",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kwJ8ZEn5H5bCPhUuiRnlevtww2Q1X9itANShca9u8jtw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kwJ8ZEn5H5bCPhUuiRnlevtww2Q1X9itANShca9u8jtw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kwJ8ZEn5H5bCPhUuiRnlevtww2Q1X9itANShca9u8jtw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Douglas61821",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-19T03:38:47Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "wlC8-ZU-XZ4lEvtmXpgooLPUwRU",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 4,
+            "resultsPerPage": 4
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xjh21etrQ7VOsktg5VAeKfpFDNM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUhASDn-hIMpD4OqFk31s_g"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-12T13:25:09Z",
+                    "channelId": "UCUhASDn-hIMpD4OqFk31s_g",
+                    "title": "Patricia S",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/x_euTHW6mWxwOh78f-3WakGAH7UzkybwY6cFP0EzNgEp9V70Fjn8WcZfN8ZYh9e9crk_3oa4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Patricia S",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-12T13:25:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ReL6YGrf6Dsc-JtvF4uuGEkSkb4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8XspEn8YOcqgYiyoSEqWRw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-23T02:39:34Z",
+                    "channelId": "UC8XspEn8YOcqgYiyoSEqWRw",
+                    "title": "PawnBroker Pickers",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VEQ3F0wvQVPC8By26vzZKpUzjhx9e78CfhknSOosEtajspamOokoNAUNoBve99sElpU-WtrfdQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VEQ3F0wvQVPC8By26vzZKpUzjhx9e78CfhknSOosEtajspamOokoNAUNoBve99sElpU-WtrfdQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VEQ3F0wvQVPC8By26vzZKpUzjhx9e78CfhknSOosEtajspamOokoNAUNoBve99sElpU-WtrfdQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "PawnBroker Pickers",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-23T02:39:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T3jXU5eUkzTZAUl3i1fbDvNLQyY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCowjzpE3UxuTC6UhXlFfh2g"
+                },
+                "snippet": {
+                    "publishedAt": "2021-01-08T20:30:16Z",
+                    "channelId": "UCowjzpE3UxuTC6UhXlFfh2g",
+                    "title": "Walk the Bay",
+                    "description": "Walking tour videos around the Tampa Bay area. Take a walk and see the Tampa Bay area - it's parks, waterfronts, downtown ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nH_e088L4GfOWrCZgRNDUHHZ31CAQOhO22oF1xJ0qmjw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nH_e088L4GfOWrCZgRNDUHHZ31CAQOhO22oF1xJ0qmjw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nH_e088L4GfOWrCZgRNDUHHZ31CAQOhO22oF1xJ0qmjw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Walk the Bay",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-01-08T20:30:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WOQjwKBueXsiFzUO877DokYwNcA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChJ79St9Ieh03R7RPvFp0RQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-01-11T15:32:53Z",
+                    "channelId": "UChJ79St9Ieh03R7RPvFp0RQ",
+                    "title": "Josh Christian",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vtJftcR22nPUuiPPKAmjDM_vyLww3mDcBoyGuYo04itl5vJL6L-wUjLj77IJCywrHxl2dw9F=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vtJftcR22nPUuiPPKAmjDM_vyLww3mDcBoyGuYo04itl5vJL6L-wUjLj77IJCywrHxl2dw9F=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vtJftcR22nPUuiPPKAmjDM_vyLww3mDcBoyGuYo04itl5vJL6L-wUjLj77IJCywrHxl2dw9F=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Josh Christian",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-01-11T15:32:53Z"
+                }
+            }
+        ]
+    }
+]

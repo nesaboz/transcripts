@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "BXwXrnSDUlju65ly0kkjy_Qnevw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 6,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5w3Q8PL3BN7GA3fz5tQnrKES4YU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgRGEAjXgfFLG5U0oLfUBzA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-14T21:38:39Z",
+                    "channelId": "UCgRGEAjXgfFLG5U0oLfUBzA",
+                    "title": "Town of Belleair, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmUoRHYBJeD3lz6cVAaSPhYeI6RYDuZJS_fFTj6Zo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmUoRHYBJeD3lz6cVAaSPhYeI6RYDuZJS_fFTj6Zo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmUoRHYBJeD3lz6cVAaSPhYeI6RYDuZJS_fFTj6Zo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Belleair, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-01-14T21:38:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SrdxAeQQ-wTYrfDEOU1gmTDr8a4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-jAx9b1_DNd91FDKZNYJTg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-06T17:41:40Z",
+                    "channelId": "UC-jAx9b1_DNd91FDKZNYJTg",
+                    "title": "Ron Chorny",
+                    "description": "I am a Licensed Florida Realtor and Certified Distressed Property Expert (CDPE). I have helped many distressed property owners ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_myiFmzw3w3lRiDHOvRx5LreSPaldQlH-Xege_hAYDgww=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_myiFmzw3w3lRiDHOvRx5LreSPaldQlH-Xege_hAYDgww=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_myiFmzw3w3lRiDHOvRx5LreSPaldQlH-Xege_hAYDgww=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ron Chorny",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-06T17:41:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aazvk1z3ouenaOzQvuRY7YBGU3c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrgtBiLjNH5taRrOLIYM9NQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-01T19:21:57Z",
+                    "channelId": "UCrgtBiLjNH5taRrOLIYM9NQ",
+                    "title": "Biltmore Construction",
+                    "description": "Biltmore provides construction management, general contracting, design-build and integrated project delivery services on many ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mc4luNf0y0KMwWgRMe0-rcFnQbY0sguLOyeFOYh5mpbQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mc4luNf0y0KMwWgRMe0-rcFnQbY0sguLOyeFOYh5mpbQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mc4luNf0y0KMwWgRMe0-rcFnQbY0sguLOyeFOYh5mpbQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Biltmore Construction",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-09-01T19:21:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RFCFHsmwAdzbvcO5G9v0865FFFw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmB1CsZZ6cSfS1o3Kv5WxJw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-22T19:52:31Z",
+                    "channelId": "UCmB1CsZZ6cSfS1o3Kv5WxJw",
+                    "title": "Joe's pizza",
+                    "description": "Business Entrepreneur/Tampa bay area Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oHHZK8miASmhZYAFWTTzx3AI8H4CLSQgGCeyn18bgsLttA9s7c83ijINcv313G1jd1Qj7jyH=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oHHZK8miASmhZYAFWTTzx3AI8H4CLSQgGCeyn18bgsLttA9s7c83ijINcv313G1jd1Qj7jyH=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oHHZK8miASmhZYAFWTTzx3AI8H4CLSQgGCeyn18bgsLttA9s7c83ijINcv313G1jd1Qj7jyH=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Joe's pizza",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-22T19:52:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-wqYFmqo0KWPe56eGs4dhqTHmmE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCazvexXZ9p5uL2nRs5wY00A"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-16T03:04:01Z",
+                    "channelId": "UCazvexXZ9p5uL2nRs5wY00A",
+                    "title": "Ben S",
+                    "description": "Pro Home Sales Solutions, powered by The Sierra Group, LLC, offers the Fastest, Most Convenient way to Sell your House.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7s6c7x_JbOLYFdcqbjVgoTGUaODjwg3y6RjGp5tkrhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7s6c7x_JbOLYFdcqbjVgoTGUaODjwg3y6RjGp5tkrhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7s6c7x_JbOLYFdcqbjVgoTGUaODjwg3y6RjGp5tkrhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ben S",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-16T03:04:01Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "I5ty8dnjb4h-Cfx5QJJ3RU8NG-k",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 30,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S3F7mdSvyCfiH8CBlakDijuyM1k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBTiCuq7bdOfOjqAnHY0zbA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-16T11:01:35Z",
+                    "channelId": "UCBTiCuq7bdOfOjqAnHY0zbA",
+                    "title": "City of Belleair Beach Official",
+                    "description": "Official City of Belleair Beach.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGPDI3gvbe2MvDkZWjm36XwC89C3T6Ht1O63IXXfgjiw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGPDI3gvbe2MvDkZWjm36XwC89C3T6Ht1O63IXXfgjiw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGPDI3gvbe2MvDkZWjm36XwC89C3T6Ht1O63IXXfgjiw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Belleair Beach Official",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-16T11:01:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uVck2aLvlmt8D_Qx_Mz4hgXEJxg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCMvQcn937Fq9aNp0OsoMnw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-27T16:59:55Z",
+                    "channelId": "UCCMvQcn937Fq9aNp0OsoMnw",
+                    "title": "Zach Strong",
+                    "description": "Welcome to my Channel. I am Zach Strong and I am a Father to 2 daughters L and K, a Husband to Chelsie and a Real Estate ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Bn4AZ3Wd15FYbxnFHJPX5vYtJPCsQQpZhFQAAmQXDsL7_nTzEK0hwfQvDOl9CaaBbswVSpnR_w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Bn4AZ3Wd15FYbxnFHJPX5vYtJPCsQQpZhFQAAmQXDsL7_nTzEK0hwfQvDOl9CaaBbswVSpnR_w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Bn4AZ3Wd15FYbxnFHJPX5vYtJPCsQQpZhFQAAmQXDsL7_nTzEK0hwfQvDOl9CaaBbswVSpnR_w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Zach Strong",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-27T16:59:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FjFr2ywUVSHOzxi8PZf08izTfSY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoR3AaPsg1Bv_9KI03wrjBg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-07-11T20:13:31Z",
+                    "channelId": "UCoR3AaPsg1Bv_9KI03wrjBg",
+                    "title": "Home Safety Solutions",
+                    "description": "Home Safety Solutions is Tampa Bay's Storm Shielder since 1986. As one of the oldest full-service providers of hurricane & storm ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/QW5uM91NK8KtQ_AsgkCkjE4sTeuiVNy-JfOUAEy0oxBsVzFVp41-Xif4VKb6WU17gtR0EIYLbw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/QW5uM91NK8KtQ_AsgkCkjE4sTeuiVNy-JfOUAEy0oxBsVzFVp41-Xif4VKb6WU17gtR0EIYLbw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/QW5uM91NK8KtQ_AsgkCkjE4sTeuiVNy-JfOUAEy0oxBsVzFVp41-Xif4VKb6WU17gtR0EIYLbw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Home Safety Solutions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-07-11T20:13:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UCtACLV6R-f1Zg1_gHYm_H9J31M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-19T21:42:39Z",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w",
+                    "title": "KB Builders",
+                    "description": "Custom Home Builder, Remodeling Contractor + Design K+B Builders Inc., provides the finest in new and luxury home building ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "KB Builders",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-19T21:42:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sM1vLSyL3fAovfmvBYmzlUYik1M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnpaAy40YXkhTwnCVz24SCw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-09T22:18:23Z",
+                    "channelId": "UCnpaAy40YXkhTwnCVz24SCw",
+                    "title": "Bianchi Realty & Property Management",
+                    "description": "The team behind Bianchi Realty & PM has served over 33 years with Property Management Services to The Greater Tampa Bay ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vbqpjm1dOnapQeOngRPmAzjEt8VSFDsZic_8Bd0LJMteO4D-cGRUfAbooKmIhc_cVunbZ5csjuw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vbqpjm1dOnapQeOngRPmAzjEt8VSFDsZic_8Bd0LJMteO4D-cGRUfAbooKmIhc_cVunbZ5csjuw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vbqpjm1dOnapQeOngRPmAzjEt8VSFDsZic_8Bd0LJMteO4D-cGRUfAbooKmIhc_cVunbZ5csjuw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bianchi Realty & Property Management",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-09T22:18:23Z"
+                }
+            }
+        ]
+    }
+]

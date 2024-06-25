@@ -1,0 +1,107 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "XdQb025uuR-UupOypUsXXONeOCs",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 3,
+            "resultsPerPage": 3
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ee6avUUT8NDY-tzPMW1xRHIaaLk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjQLzllGnzicLNiMMzcLwKQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-24T22:35:06Z",
+                    "channelId": "UCjQLzllGnzicLNiMMzcLwKQ",
+                    "title": "City of Dothan AL",
+                    "description": "Welcome to the City of Dothan Youtube Channel. Here you will find our Live streams and city government official video postings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mII5aJ4o4-HimAAMWglHBkxhUUEEo7phPOE_Qo8N20Cw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mII5aJ4o4-HimAAMWglHBkxhUUEEo7phPOE_Qo8N20Cw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mII5aJ4o4-HimAAMWglHBkxhUUEEo7phPOE_Qo8N20Cw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Dothan AL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-24T22:35:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "39uG5xYmqTtln-YS9S9TXalZZLU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9CujfB962dlYdxBkalY_WA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-05T22:11:01Z",
+                    "channelId": "UC9CujfB962dlYdxBkalY_WA",
+                    "title": "WDHN",
+                    "description": "Here at WDHN, we're dedicated to providing reliable news coverage #ForTheWiregrass, including Dothan, Enterprise, and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vgKFv_hoGUtCFt6S1QV7fxmPpv-0mM31ibTk_Sp2a8PXz3R4iVDTPkxbd-Lx1VoMAXljfwFu4Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vgKFv_hoGUtCFt6S1QV7fxmPpv-0mM31ibTk_Sp2a8PXz3R4iVDTPkxbd-Lx1VoMAXljfwFu4Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vgKFv_hoGUtCFt6S1QV7fxmPpv-0mM31ibTk_Sp2a8PXz3R4iVDTPkxbd-Lx1VoMAXljfwFu4Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WDHN",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-05T22:11:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4HB15F3grT1tFp6UQCFRLM1dxHk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxTZzj4bp1OyBVOtu7R1Cnw"
+                },
+                "snippet": {
+                    "publishedAt": "2009-06-11T19:18:02Z",
+                    "channelId": "UCxTZzj4bp1OyBVOtu7R1Cnw",
+                    "title": "Dothan Eagle",
+                    "description": "News, sports and human interest videos from the daily newspaper of the Wiregrass area in Alabama.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfGYYu6T6S6AYup8wiAuqrsx-sf_feXCw5zHvhEl-fnA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfGYYu6T6S6AYup8wiAuqrsx-sf_feXCw5zHvhEl-fnA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfGYYu6T6S6AYup8wiAuqrsx-sf_feXCw5zHvhEl-fnA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dothan Eagle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-06-11T19:18:02Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "l9skBSXu1HCZS8ilV8bGu6sbF8k",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 0,
+            "resultsPerPage": 0
+        },
+        "items": []
+    }
+]

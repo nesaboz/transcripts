@@ -122,6 +122,7 @@ class Crawler:
                     self.df.at[index, WAS_CRAWLED] = YES
                 else:
                     break
+                self.save_csv()
         self.save_csv()
         
         
@@ -138,10 +139,6 @@ class Analyzer:
     
     openai_api_key = os.getenv("OPENAI_API_KEY")
     
-    chat_history =[{"role": "system", "content": "Your job will be to analyze short prompts \
-            comprised of title and description of YouTube channels to asses whether the channel \
-            is official town or city you tube channel. You answer 'Yes' or 'No' only"}]
-    
     # Set your API key here
     client = OpenAI(api_key=openai_api_key)
     
@@ -156,16 +153,19 @@ class Analyzer:
         self.df.to_csv(self.csv_file, index=False)
 
     def is_official(self, blurb):  
+        
+            chat_history =[{"role": "system", "content": "Your job will be to analyze short prompts \
+            comprised of title and description of YouTube channels to asses whether the channel \
+            is official town or city you tube channel. You answer 'Yes' or 'No' only"}]
             
-            self.chat_history.append({"role": "user", "content": blurb})
+            chat_history.append({"role": "user", "content": blurb})
 
             reply = self.client.chat.completions.create(
-                model="gpt-4",
-                messages=self.chat_history
+                model="gpt-3.5-turbo",
+                messages=chat_history
                 )
 
             reply_message = reply.choices[0].message
-            self.chat_history.append({'role': reply_message.role, 'content':reply_message.content})
         
             return reply_message.content.lower()  # this will always return 'yes' or 'no'
     
@@ -196,8 +196,13 @@ class Analyzer:
                 for item in smaller_response:
                     blurb = f"channel title is: {item['channel_title']} and \
                         channel description is: {item['channel_description']}"
-                    item.update({'is_official': self.is_official(blurb)})
+                        
+                    is_official = self.is_official(blurb)
+                    item.update({'is_official': is_official})
                     rows.append(item)
+                    
+                    if is_official == YES:
+                        break
                 
             df = pd.DataFrame(rows)
                 
@@ -215,6 +220,7 @@ class Analyzer:
                 unique_id = row[ID]
                 if self.analyze(unique_id):
                     self.df.at[index, WAS_ANALYZED] = YES
+                self.save_csv()
         self.save_csv()
     
     def print_result(self, result):
