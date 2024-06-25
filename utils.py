@@ -25,6 +25,7 @@ WAS_CRAWLED = 'was_crawled'
 WAS_ANALYZED = 'was_analyzed'
 NO = 'no'
 YES = 'yes'
+SKIP = 'skip'
 
 
 import os
@@ -42,7 +43,11 @@ def create_backup(csv_file):
         BACKUP_DIR,
         f"{csv_file}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
         )
-    shutil.copy(csv_file, backup_file)
+    try:
+        shutil.copy(csv_file, backup_file)
+    except Exception as e:
+        print(f"Error creating backup: {e}")
+
 
 
 class Crawler:
@@ -201,7 +206,7 @@ class Analyzer:
                     item.update({'is_official': is_official})
                     rows.append(item)
                     
-                    if is_official == YES:
+                    if is_official == YES:  # no need to analyze further
                         break
                 
             df = pd.DataFrame(rows)
@@ -216,7 +221,7 @@ class Analyzer:
 
     def start(self):
         for index, row in tqdm(self.df.iterrows()):
-            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] != YES:
+            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] not in {YES, SKIP}:
                 unique_id = row[ID]
                 if self.analyze(unique_id):
                     self.df.at[index, WAS_ANALYZED] = YES

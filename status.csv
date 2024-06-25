@@ -13,41 +13,41 @@ AT00007108,astatula,yes,yes
 AT00007111,atlantic beach,yes,yes
 AT00007112,atlantis,yes,yes
 AT00007113,auburndale,yes,yes
-AT00007116,aventura,yes,
-AT00007118,avon park,yes,
-AT00007124,baldwin,yes,
-AT00007125,bal harbour village,yes,
-AT00007131,bartow,yes,
-AT00007133,bascom,yes,
-AT00007135,bay harbor islands,yes,
-AT00007138,bay lake,yes,
-AT00007150,bell,yes,
-AT00007152,belleair,yes,
-AT00007157,belle glade,yes,
-AT00007159,belle isle,yes,
-AT00007160,belleview,yes,
-AT00007167,beverly beach,yes,
-AT00007173,biscayne park village,yes,
-AT00007181,blountstown,yes,
-AT00007184,boca raton,yes,
-AT00007186,bonifay,yes,
-AT00007188,bonita springs,yes,
-AT00007191,bowling green,yes,
-AT00007192,boynton beach,yes,
-AT00007194,bradenton,yes,
-AT00007199,branford,yes,
-AT00007201,brent,yes,
-AT00007204,briny breezes,yes,
-AT00007206,bristol,yes,
-AT00007209,bronson,yes,
-AT00007210,brooker,yes,
-AT00007212,brooksville,yes,
-AT00007222,bunnell,yes,
-AT00007224,bushnell,yes,
-AT00007228,callahan,yes,
-AT00007229,callaway,yes,
-AT00007232,campbellton,yes,
-AT00007235,cape canaveral,yes,
+AT00007116,aventura,yes,yes
+AT00007118,avon park,yes,yes
+AT00007124,baldwin,yes,yes
+AT00007125,bal harbour village,yes,yes
+AT00007131,bartow,yes,yes
+AT00007133,bascom,yes,yes
+AT00007135,bay harbor islands,yes,yes
+AT00007138,bay lake,yes,skip
+AT00007150,bell,yes,yes
+AT00007152,belleair,yes,yes
+AT00007157,belle glade,yes,yes
+AT00007159,belle isle,yes,yes
+AT00007160,belleview,yes,yes
+AT00007167,beverly beach,yes,yes
+AT00007173,biscayne park village,yes,yes
+AT00007181,blountstown,yes,yes
+AT00007184,boca raton,yes,yes
+AT00007186,bonifay,yes,yes
+AT00007188,bonita springs,yes,yes
+AT00007191,bowling green,yes,yes
+AT00007192,boynton beach,yes,yes
+AT00007194,bradenton,yes,yes
+AT00007199,branford,yes,yes
+AT00007201,brent,yes,yes
+AT00007204,briny breezes,yes,yes
+AT00007206,bristol,yes,yes
+AT00007209,bronson,yes,yes
+AT00007210,brooker,yes,yes
+AT00007212,brooksville,yes,yes
+AT00007222,bunnell,yes,yes
+AT00007224,bushnell,yes,yes
+AT00007228,callahan,yes,yes
+AT00007229,callaway,yes,yes
+AT00007232,campbellton,yes,yes
+AT00007235,cape canaveral,yes,yes
 AT00007236,cape coral,,
 AT00007238,captiva,,
 AT00007241,carrabelle,,
