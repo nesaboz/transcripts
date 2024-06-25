@@ -16,6 +16,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 STATUS_FILE = 'status.csv'
 RESPONSES_DIR = 'responses' 
 ANALYSIS_DIR = 'analysis'
+BACKUP_DIR = 'backup'
 
 # status.csv columns and answers
 ID = 'id'
@@ -24,6 +25,24 @@ WAS_CRAWLED = 'was_crawled'
 WAS_ANALYZED = 'was_analyzed'
 NO = 'no'
 YES = 'yes'
+
+
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+
+def create_backup(csv_file):
+    if not os.path.exists(BACKUP_DIR):
+        os.makedirs(BACKUP_DIR)
+    
+    backup_file = os.path.join(
+        BACKUP_DIR,
+        f"{csv_file}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
+        )
+    shutil.copy(csv_file, backup_file)
 
 
 class Crawler:
@@ -36,7 +55,7 @@ class Crawler:
     If it reaches limit, (i.e. API gives exception), then it stops crawling. 
     The status.csv file is then updated.
     """
-    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY1'))
 
     def __init__(self, csv_file=STATUS_FILE):
         self.csv_file = csv_file
@@ -58,10 +77,7 @@ class Crawler:
             return df
     
     def save_csv(self):
-        # Create a backup of the current CSV file
-        backup_file = f"{self.csv_file}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
-        shutil.copy(self.csv_file, backup_file)
-        
+        create_backup(self.csv_file)        
         self.df.to_csv(self.csv_file, index=False)
     
     def search_one(self, search_query):
@@ -84,8 +100,8 @@ class Crawler:
                 response = self.search_one(search_query)
                 responses.append(response)
                 
-            with open(RESPONSES_DIR/f'{unique_id}.json', 'w') as f:
-                json.dump(responses, f)
+            with open(os.path.join(RESPONSES_DIR,f'{unique_id}.json'), 'w') as f:
+                json.dump(responses, f, indent=4)
             
             return True
         except HttpError as e:
@@ -99,7 +115,7 @@ class Crawler:
     
     def start(self):
         for index, row in self.df.iterrows():
-            if row[WAS_CRAWLED] == NO:
+            if row[WAS_CRAWLED] != YES:
                 unique_id = row[ID]
                 city = row[CITY]
                 if self.crawl(unique_id, city):
@@ -151,7 +167,7 @@ class Analyzer:
             reply_message = reply.choices[0].message
             self.chat_history.append({'role': reply_message.role, 'content':reply_message.content})
         
-            return reply_message.content.lower() == 'yes'  # this will always return 'yes' or 'no'
+            return reply_message.content.lower()  # this will always return 'yes' or 'no'
     
     def get_smaller_response(self, response):
         # Process the search results
@@ -171,7 +187,7 @@ class Analyzer:
     
     def analyze(self, unique_id):
         try:
-            with open(RESPONSES_DIR/f'{unique_id}.json', 'r') as f:
+            with open(os.path.join(RESPONSES_DIR, f'{unique_id}.json'), 'r') as f:
                 responses = json.load(f)
                 
             rows = []
@@ -180,15 +196,13 @@ class Analyzer:
                 for item in smaller_response:
                     blurb = f"channel title is: {item['channel_title']} and \
                         channel description is: {item['channel_description']}"
-                    
-                    if self.is_official(blurb):
-                        item.update({'is_official': 'yes'})
-                        rows.append(item)
+                    item.update({'is_official': self.is_official(blurb)})
+                    rows.append(item)
                 
             df = pd.DataFrame(rows)
                 
             # Save the analysis DataFrame to a CSV file named with the unique city id
-            df.to_csv(ANALYSIS_DIR/f'{unique_id}.csv', index=False)
+            df.to_csv(os.path.join(ANALYSIS_DIR,f'{unique_id}.csv'), index=False)
             
             return True
         except FileNotFoundError:
@@ -197,7 +211,7 @@ class Analyzer:
 
     def start(self):
         for index, row in self.df.iterrows():
-            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] == NO:
+            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] != YES:
                 unique_id = row[ID]
                 if self.analyze(unique_id):
                     self.df.at[index, WAS_ANALYZED] = YES
@@ -211,40 +225,26 @@ class Analyzer:
         print("\n")
         
 
-def aggregate(csv_file = STATUS_FILE):    
-    status_df = pd.read_csv(csv_file)
-    
+def aggregate_analysis_files(output_file):
     dfs = []
 
-    # Iterate over each row in the dataframe
-    for index, row in self.df.iterrows():
-        unique_id = row['id']
-        analysis_file = f'analysis_{unique_id}.csv'
-        
-        # Load the analysis CSV file if it exists
-        try:
-            analysis_df = pd.read_csv(analysis_file)
-            dfs.append(analysis_df)
-        except FileNotFoundError:
-            print(f"File {analysis_file} not found.")
-            continue
+    # Iterate over each CSV file in the analysis folder
+    for filename in os.listdir(ANALYSIS_DIR):
+        if filename.endswith('.csv'):
+            file_path = os.path.join(ANALYSIS_DIR, filename)
+            df = pd.read_csv(file_path)
+            dfs.append(df)
 
     # Concatenate all dataframes into one
     if dfs:
         combined_df = pd.concat(dfs, ignore_index=True)
-        # Filter out rows where is_official is 'no'
-        official_df = combined_df[combined_df['is_official'] == 'yes']
-        return official_df
+        # Save the combined dataframe to a new CSV file
+        
+        combined_df['is_confirmed'] = ''
+        create_backup(output_file)
+        combined_df.to_csv(output_file, index=False)
     else:
-        return pd.DataFrame()  # Return an empty dataframe if no dataframes were found
-
-# Usage example
-
-
-
-
-# Save the aggregated dataframe to a new CSV file
-official_df.to_csv('aggregated_officials.csv', index=False)
+        print("No CSV files found in the folder.")
 
 
 class VideoInfo(object):
@@ -252,7 +252,7 @@ class VideoInfo(object):
     Important video info
     """
     
-    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY1'))
     
     def __init__(self, video_id):
         self.id = video_id
