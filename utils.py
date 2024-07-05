@@ -209,7 +209,8 @@ class Analyzer:
                     item.update({'is_official': is_official})
                     rows.append(item)
                     
-                    # do NOT do this, we need to analyze all responses, since some might be official but not from town:
+                    # do not do this anymore, let's analyze all responses, since some might be official but not from town
+                    # we might need to go back and re-analyze some responses
                     # if is_official == YES:  # no need to analyze further
                     #     break
                 
