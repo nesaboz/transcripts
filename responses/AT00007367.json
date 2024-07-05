@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "cboh0hdkXLj9pORi-3-4lDTLLjE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 1609,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "y8EE2-ZQP_vJv4z-_IT70qH1-eg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaNkfsmUBuPIStqRdEwKykQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-03T17:31:17Z",
+                    "channelId": "UCaNkfsmUBuPIStqRdEwKykQ",
+                    "title": "Outlaws of the Everglades",
+                    "description": "Outlaws of the Everglades is a film focusing on events that took place in Everglades City & Chokoloskee Florida in the 1970s ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Outlaws of the Everglades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-03T17:31:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9pgT8IhkHudqB6AHIItQUmvkMXE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdb1ZgtLLtoliprXfwxAUwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-12-31T16:56:54Z",
+                    "channelId": "UCdb1ZgtLLtoliprXfwxAUwQ",
+                    "title": "Everglades Jeep Tours",
+                    "description": "Everglades Jeep Tours offers unforgettable adventures through the captivating landscapes of the Everglades, Big Cypress ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Everglades Jeep Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-12-31T16:56:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4x4uGhsukzi_fSFasScIeZVPjcA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4zEkT8R1eBfRsReOmeTFCg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-11T17:22:20Z",
+                    "channelId": "UC4zEkT8R1eBfRsReOmeTFCg",
+                    "title": "Everglades City Airboat Tours",
+                    "description": "Everglades City Airboat Tours is Unique to all other local area tour ride companies. Through our company, your airboat ride is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Everglades City Airboat Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-11T17:22:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fhChtiHFCn7QetV7q7uPHJjpXEs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWhzQjWi5hsPb3h37J1JJbA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-09T00:50:12Z",
+                    "channelId": "UCWhzQjWi5hsPb3h37J1JJbA",
+                    "title": "Florida Everblades",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Everblades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-12-09T00:50:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2wWHMVeVJoSWFAN4TvOnRFBAZPo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwefdo3UYxLaRloG_yOY8ZA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-05T18:11:45Z",
+                    "channelId": "UCwefdo3UYxLaRloG_yOY8ZA",
+                    "title": "Travelodge Florida City / Homestead / Everglades",
+                    "description": "We offer a convenient location to: South Beach (30 miles\u201345 minutes by car), Key Largo, Everglades and Biscayne National Parks ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Travelodge Florida City / Homestead / Everglades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-05T18:11:45Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "B8tZ0_pKuQ27wGE3Weh7_KZvMnU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 772,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "y8EE2-ZQP_vJv4z-_IT70qH1-eg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaNkfsmUBuPIStqRdEwKykQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-03T17:31:17Z",
+                    "channelId": "UCaNkfsmUBuPIStqRdEwKykQ",
+                    "title": "Outlaws of the Everglades",
+                    "description": "Outlaws of the Everglades is a film focusing on events that took place in Everglades City & Chokoloskee Florida in the 1970s ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fYoNuJ92yMBl_p1be8Emw6juDTB4xU8fonV7Wndte08bZ5GAnCCaRNo9MmoccKrqGVv6hg5ttA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Outlaws of the Everglades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-03T17:31:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4x4uGhsukzi_fSFasScIeZVPjcA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4zEkT8R1eBfRsReOmeTFCg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-11T17:22:20Z",
+                    "channelId": "UC4zEkT8R1eBfRsReOmeTFCg",
+                    "title": "Everglades City Airboat Tours",
+                    "description": "Everglades City Airboat Tours is Unique to all other local area tour ride companies. Through our company, your airboat ride is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khrgtMjzwQ7oVDK-ujSvAffXdRb73P_gBvKd3uJjOPHg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Everglades City Airboat Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-11T17:22:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9pgT8IhkHudqB6AHIItQUmvkMXE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdb1ZgtLLtoliprXfwxAUwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-12-31T16:56:54Z",
+                    "channelId": "UCdb1ZgtLLtoliprXfwxAUwQ",
+                    "title": "Everglades Jeep Tours",
+                    "description": "Everglades Jeep Tours offers unforgettable adventures through the captivating landscapes of the Everglades, Big Cypress ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SshsiC7EksWnV4kAW6sTIK9uqxu1c_JzvmAkm3AIEPMcHHsT0sDJsAjXz_KI_t7iLm0O_tvfxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Everglades Jeep Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-12-31T16:56:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2wWHMVeVJoSWFAN4TvOnRFBAZPo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwefdo3UYxLaRloG_yOY8ZA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-05T18:11:45Z",
+                    "channelId": "UCwefdo3UYxLaRloG_yOY8ZA",
+                    "title": "Travelodge Florida City / Homestead / Everglades",
+                    "description": "We offer a convenient location to: South Beach (30 miles\u201345 minutes by car), Key Largo, Everglades and Biscayne National Parks ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtvJFFQzs8uLKdO3KEFJkFinanYzY9BX0J3criS2RRCQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Travelodge Florida City / Homestead / Everglades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-05T18:11:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fhChtiHFCn7QetV7q7uPHJjpXEs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWhzQjWi5hsPb3h37J1JJbA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-09T00:50:12Z",
+                    "channelId": "UCWhzQjWi5hsPb3h37J1JJbA",
+                    "title": "Florida Everblades",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/R15mBiY0Rq2uViZALAqi7QErxKwg62_8P0QE7z6101EAog9etEg3SiBsBRlKCevMSJnOEuNxhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Everblades",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-12-09T00:50:12Z"
+                }
+            }
+        ]
+    }
+]

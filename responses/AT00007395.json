@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "694OPVMRMBK_w6IXiq_gItjHYY0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 108,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FI_QYbTt2qBiyIRFcNE5R4ZZU9U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTF-wEnfKoqXo9WOk-1ev5w"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-22T18:49:30Z",
+                    "channelId": "UCTF-wEnfKoqXo9WOk-1ev5w",
+                    "title": "Town of Fort Myers Beach FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Fort Myers Beach FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-06-22T18:49:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8IRO-IkfxGCVmDA3MjsOTIsJxn8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpL5tRq3FnhCEbox9dMRjKQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-18T18:08:40Z",
+                    "channelId": "UCpL5tRq3FnhCEbox9dMRjKQ",
+                    "title": "Town Of fort Myers Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m3CMiJjZSDTlLXkAM7ERaL5mlDJ08WgsEiFDZYYyU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m3CMiJjZSDTlLXkAM7ERaL5mlDJ08WgsEiFDZYYyU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m3CMiJjZSDTlLXkAM7ERaL5mlDJ08WgsEiFDZYYyU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town Of fort Myers Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-18T18:08:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fIS9ACGo6VVK2nJGhaGm2H0jn7o",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6qt7-RHcEPQU5sBU0q6FDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-22T10:46:27Z",
+                    "channelId": "UC6qt7-RHcEPQU5sBU0q6FDQ",
+                    "title": "Fort Myers Beach, Florida",
+                    "description": "With sunshine almost all year round, Fort Myers Beach is a popular destination for both American and international visitors alike.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg3gBekx6WSxQnjB1g_YSl5tSttyi4l3JNvoJeYRi2xA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg3gBekx6WSxQnjB1g_YSl5tSttyi4l3JNvoJeYRi2xA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg3gBekx6WSxQnjB1g_YSl5tSttyi4l3JNvoJeYRi2xA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Fort Myers Beach, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-22T10:46:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yNhsC8rVcnmXCFg5AidT3iZyLXU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrzCWg7R5oVJPV0oasGNdHg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-13T23:22:33Z",
+                    "channelId": "UCrzCWg7R5oVJPV0oasGNdHg",
+                    "title": "Beach Talk Radio",
+                    "description": "We host a show every weekend from Fort Myers Beach in Florida. Over the years we've met amazingly funny and entertaining ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwRjBi0TV68aqo7n4UxhkHD20T8yz-LOOWcRazYEkkiw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwRjBi0TV68aqo7n4UxhkHD20T8yz-LOOWcRazYEkkiw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwRjBi0TV68aqo7n4UxhkHD20T8yz-LOOWcRazYEkkiw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Beach Talk Radio",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-08-13T23:22:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "OEKRnxSJgn6DF8qR43RufhT9dAs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_INjb7qoOWVedWmGDzAVVw"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-04T03:45:29Z",
+                    "channelId": "UC_INjb7qoOWVedWmGDzAVVw",
+                    "title": "The Space News",
+                    "description": "Get updated with Trending news worldwide.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qN833wtWcIFq6PcbPceVjY4WwNiQ36QTznN5Qfe6clEzaK9E4sZtomKZ_s8UFBbGIKiJLxrrtvQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qN833wtWcIFq6PcbPceVjY4WwNiQ36QTznN5Qfe6clEzaK9E4sZtomKZ_s8UFBbGIKiJLxrrtvQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qN833wtWcIFq6PcbPceVjY4WwNiQ36QTznN5Qfe6clEzaK9E4sZtomKZ_s8UFBbGIKiJLxrrtvQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Space News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-04T03:45:29Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "pVkxOLyZy7sZFIt5j86SfzoojcM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 338,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FI_QYbTt2qBiyIRFcNE5R4ZZU9U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTF-wEnfKoqXo9WOk-1ev5w"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-22T18:49:30Z",
+                    "channelId": "UCTF-wEnfKoqXo9WOk-1ev5w",
+                    "title": "Town of Fort Myers Beach FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Kq4ggwSyUOCHlSiVy6DHJvzNWiVFsOrCx_1WAvBEeK-lET11e9gjRoo3EhuP6khCYQfbJJrG=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Fort Myers Beach FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-06-22T18:49:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cMt_RD4kaJD-vs7QSbFzghG2sTU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKOI55uFU4M-ZqeNXzwKxGQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-08-22T23:55:32Z",
+                    "channelId": "UCKOI55uFU4M-ZqeNXzwKxGQ",
+                    "title": "Lee County Walkers",
+                    "description": "Downtown walks, visits to interesting places such as restaurants, unique stores and Malls, river and ocean rides, beach walks ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lee County Walkers",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-08-22T23:55:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "daqnJuFNB8zzANO7vCVKAIEbYkY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcvmuGsan5FpqQGNX4kDEyA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-29T17:34:16Z",
+                    "channelId": "UCcvmuGsan5FpqQGNX4kDEyA",
+                    "title": "Spring Break Fort Myers Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l-0bhZtrt4fnMcALXR_R2Kqwi-h3bxuhNSHgP_Q8svzw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l-0bhZtrt4fnMcALXR_R2Kqwi-h3bxuhNSHgP_Q8svzw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l-0bhZtrt4fnMcALXR_R2Kqwi-h3bxuhNSHgP_Q8svzw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Spring Break Fort Myers Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-12-29T17:34:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uziUY2ZPzbo4HWv3VTXD6j2knro",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaMuRZI33oeBtMNIyKiyc_w"
+                },
+                "snippet": {
+                    "publishedAt": "2024-05-03T17:05:36Z",
+                    "channelId": "UCaMuRZI33oeBtMNIyKiyc_w",
+                    "title": "BSC Videography",
+                    "description": "Photography, Videography, Cinematography. FAA Licensed Commercial Drone Pilot Located In Cape Coral Florida. For Business ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BSC Videography",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-05-03T17:05:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Z0oRm1DB618GzFBgW0RWaI_4rRM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCugwie44ewqzeqfGAxz0CrA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-17T16:27:53Z",
+                    "channelId": "UCugwie44ewqzeqfGAxz0CrA",
+                    "title": "fortmyersrealty",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxJGqfqiX0PIsJ3NqNIk7JD6KxOOmXtMP29ioJqjk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxJGqfqiX0PIsJ3NqNIk7JD6KxOOmXtMP29ioJqjk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxJGqfqiX0PIsJ3NqNIk7JD6KxOOmXtMP29ioJqjk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "fortmyersrealty",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-10-17T16:27:53Z"
+                }
+            }
+        ]
+    }
+]

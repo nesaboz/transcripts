@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "pQ238a5Td5db7MCehQ_kQ_NuMj8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 135,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ui-IBuLTkf6qciNj_3--mRQVMDs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVmnLgKGLhHhcyQBKZgzvOw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-02T20:13:33Z",
+                    "channelId": "UCVmnLgKGLhHhcyQBKZgzvOw",
+                    "title": "City of Deltona, Florida",
+                    "description": "This is the YouTube channel for DeltonaTV, the government access channel for the City of Deltona, Florida, operated under the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Deltona, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-02T20:13:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "adkKy5zeicxfQW6C1axwam34pZ0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-22T14:36:03Z",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ",
+                    "title": "Deltona TV",
+                    "description": "Deltona TV is the Communication and Information Station for the City of Deltona and Southwest Volusia County. City commission ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Deltona TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-22T14:36:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KXE5oz9u4IVYGrHus8Bgccg1QBk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCj2QdCn3KsIMB9oHnhy3Aow"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-17T07:25:16Z",
+                    "channelId": "UCj2QdCn3KsIMB9oHnhy3Aow",
+                    "title": "Santiago Avila, Jr. Mayor of Deltona, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Santiago Avila, Jr. Mayor of Deltona, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-11-17T07:25:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_e9YurQP1HtHrNBDCgACu8zcNvM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-21T17:10:49Z",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A",
+                    "title": "Journey Church",
+                    "description": "Everyone helping someone take steps to follow Christ. This is the vision of Journey Church, a church led by Pastor James Hilton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Journey Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-21T17:10:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eoJrIOHitTrkmE14K3y2WeHYUBY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCO9zcfy89dlgPldG6w79XRw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-31T19:53:46Z",
+                    "channelId": "UCO9zcfy89dlgPldG6w79XRw",
+                    "title": "Your Central Florida",
+                    "description": "Hello - We are all about Central Florida and showcasing great local events, parks, restaurants and locally owned shops!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_la7zF1FpuNZpriUX2eTvsaGR7GIQAR1o_0KBcM6DakYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_la7zF1FpuNZpriUX2eTvsaGR7GIQAR1o_0KBcM6DakYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_la7zF1FpuNZpriUX2eTvsaGR7GIQAR1o_0KBcM6DakYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Your Central Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-31T19:53:46Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "77DtCU1baRGWMcm1-81tsl5HeXo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 119,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "adkKy5zeicxfQW6C1axwam34pZ0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-22T14:36:03Z",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ",
+                    "title": "Deltona TV",
+                    "description": "Deltona TV is the Communication and Information Station for the City of Deltona and Southwest Volusia County. City commission ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Deltona TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-22T14:36:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ui-IBuLTkf6qciNj_3--mRQVMDs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVmnLgKGLhHhcyQBKZgzvOw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-02T20:13:33Z",
+                    "channelId": "UCVmnLgKGLhHhcyQBKZgzvOw",
+                    "title": "City of Deltona, Florida",
+                    "description": "This is the YouTube channel for DeltonaTV, the government access channel for the City of Deltona, Florida, operated under the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFup5kfsaOPzFq49x8gmFiub4orBsC0TnCA8ZPQFNiQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Deltona, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-02T20:13:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KXE5oz9u4IVYGrHus8Bgccg1QBk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCj2QdCn3KsIMB9oHnhy3Aow"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-17T07:25:16Z",
+                    "channelId": "UCj2QdCn3KsIMB9oHnhy3Aow",
+                    "title": "Santiago Avila, Jr. Mayor of Deltona, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/YGn5N-BnuHeqms5sWKIxZasNNQQ_UwdoPqBLtITFbREERTIEdgXs_ip7mv3dfyVlX6BhyMju=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Santiago Avila, Jr. Mayor of Deltona, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-11-17T07:25:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_e9YurQP1HtHrNBDCgACu8zcNvM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-21T17:10:49Z",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A",
+                    "title": "Journey Church",
+                    "description": "Everyone helping someone take steps to follow Christ. This is the vision of Journey Church, a church led by Pastor James Hilton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Journey Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-21T17:10:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KYXBVModG_07JfxPBbHq88Lzhk8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCh1LmWzs-6gXN0YIVqzgBnQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-27T15:23:40Z",
+                    "channelId": "UCh1LmWzs-6gXN0YIVqzgBnQ",
+                    "title": "Legends Realty - Central Florida Property Management",
+                    "description": "\"Central Florida Property Management\" is what Legends Realty does best! Legends Realty, Property Management 290 Waymont ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDZFYBzKJL28brsRyv9_gxaL5McEEH-r60zKjKETl6z1Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDZFYBzKJL28brsRyv9_gxaL5McEEH-r60zKjKETl6z1Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDZFYBzKJL28brsRyv9_gxaL5McEEH-r60zKjKETl6z1Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Legends Realty - Central Florida Property Management",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-27T15:23:40Z"
+                }
+            }
+        ]
+    }
+]

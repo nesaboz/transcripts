@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "DRGPBgsO3jdll8qH8gwvRcR0kQY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 63,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "t5c35R244xBa5Rza-oFBpoiNdvc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMT4sfctdp-J3ibU9_NA05Q"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-25T14:29:09Z",
+                    "channelId": "UCMT4sfctdp-J3ibU9_NA05Q",
+                    "title": "Dania Beach Ch78",
+                    "description": "Dania Beach's Government Channel 78 and Live Broadcasts from City Hall (Commission meetings)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dania Beach Ch78",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-04-25T14:29:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E_T6xetK6-JVsQs457ZF76JsdlA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fkk0JFb5JDred3zjQiE5kgm_XIo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uDXanqPO3nuUENr3djGqt3NNNUg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwWs-vZ6h-5P6XvQOCllSCA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-25T15:49:03Z",
+                    "channelId": "UCwWs-vZ6h-5P6XvQOCllSCA",
+                    "title": "City of Sunrise, Florida",
+                    "description": "The City of Sunrise, located in western Broward County, Florida is home to approximately 92000 residents and host to several ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sunrise, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-25T15:49:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wInFLuv3PgSzTkO_uW8ZihysPsM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "zKYyAhFMEw8l8ENPUzBo1qR8hI8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 178,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S3NAYWKx90v8NE3YkE-meOoufBE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZ5ZtYmJ5XUnbL_gNO-pmBw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-03-07T20:18:38Z",
+                    "channelId": "UCZ5ZtYmJ5XUnbL_gNO-pmBw",
+                    "title": "City of Dania Beach ",
+                    "description": "The official video channel of the City of Dania Beach, Florida, government. From our exceptional beach, pier and marina to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rk28N4kTaSQrWS3YY8gburSFpIHdHwZCUfGUpuNqH9z0gj_t01YrW9EaDZhkQKj1qnf5VRc4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rk28N4kTaSQrWS3YY8gburSFpIHdHwZCUfGUpuNqH9z0gj_t01YrW9EaDZhkQKj1qnf5VRc4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rk28N4kTaSQrWS3YY8gburSFpIHdHwZCUfGUpuNqH9z0gj_t01YrW9EaDZhkQKj1qnf5VRc4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Dania Beach ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-03-07T20:18:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "t5c35R244xBa5Rza-oFBpoiNdvc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMT4sfctdp-J3ibU9_NA05Q"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-25T14:29:09Z",
+                    "channelId": "UCMT4sfctdp-J3ibU9_NA05Q",
+                    "title": "Dania Beach Ch78",
+                    "description": "Dania Beach's Government Channel 78 and Live Broadcasts from City Hall (Commission meetings)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJpzeAJfSG-Dr73s3zsh5srau95sWyCPzd3fQGT4fWXg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dania Beach Ch78",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-04-25T14:29:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "41XmR3-9qPLuC_tgIGM5e2zk0jE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpJ4goz4R_g2GqQHfixq3Xw"
+                },
+                "snippet": {
+                    "publishedAt": "2008-07-16T03:37:24Z",
+                    "channelId": "UCpJ4goz4R_g2GqQHfixq3Xw",
+                    "title": "City of Dania Beach Pier Cam",
+                    "description": "Watch live video of the Dania Beach pier and beach area. The Dania Beach pier is located at 300 N Beach Rd, Dania Beach, FL ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-PvCkLSMRMumL35YhkKoW9CRlnLXLEvG42e-VJ0176ZE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-PvCkLSMRMumL35YhkKoW9CRlnLXLEvG42e-VJ0176ZE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-PvCkLSMRMumL35YhkKoW9CRlnLXLEvG42e-VJ0176ZE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Dania Beach Pier Cam",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-07-16T03:37:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fDt3nmfSHze6EG_Ldl2TFarcf9k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChPReqcd9w_wVUFqIT5kOjg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-10-12T20:24:42Z",
+                    "channelId": "UChPReqcd9w_wVUFqIT5kOjg",
+                    "title": "LCStudioSPro",
+                    "description": "www.LCStudioS.tv is a full service High Definition, Film and Standard Definition Production Company located in the Miami area.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_upXNkJIx-0ua0jfmEfyUhPikl4uftdd2aCY7g3GpsQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_upXNkJIx-0ua0jfmEfyUhPikl4uftdd2aCY7g3GpsQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_upXNkJIx-0ua0jfmEfyUhPikl4uftdd2aCY7g3GpsQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LCStudioSPro",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-10-12T20:24:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nepDryPEuzuR6E2cWOzvO6kmTqI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCf2iF6Iaxflb2AJrnKMi3AA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-18T16:59:36Z",
+                    "channelId": "UCf2iF6Iaxflb2AJrnKMi3AA",
+                    "title": "3 minutes",
+                    "description": "3 minutes to connect with nature around us.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MWXU74wDuzBNbV37NqhUSQRgPCR-a3vmp81FVvi--PRPggGnoFzaVRie3HCkVOqoEjghqUGlSj0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MWXU74wDuzBNbV37NqhUSQRgPCR-a3vmp81FVvi--PRPggGnoFzaVRie3HCkVOqoEjghqUGlSj0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MWXU74wDuzBNbV37NqhUSQRgPCR-a3vmp81FVvi--PRPggGnoFzaVRie3HCkVOqoEjghqUGlSj0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "3 minutes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-18T16:59:36Z"
+                }
+            }
+        ]
+    }
+]

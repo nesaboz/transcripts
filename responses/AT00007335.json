@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ssnxXcyAp9d-GwbhcuOJOeJqRcI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 1489,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HC7p-72fyUuGBPL9uWJJb3IREek",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn_D1Iq1xxZhrkenq1d7EYA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-03T21:13:54Z",
+                    "channelId": "UCn_D1Iq1xxZhrkenq1d7EYA",
+                    "title": "CityofDestin",
+                    "description": "The City of Destin created this YouTube Channel to help keep residents, businesses and visitors up-to-date on news and City ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityofDestin",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-03T21:13:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HLKjZOEG7bM1erDa-hRODyErlSI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWYf4Z1yYL1B4MFBpi5IICQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-01-29T17:27:12Z",
+                    "channelId": "UCWYf4Z1yYL1B4MFBpi5IICQ",
+                    "title": "Living in Destin-Fort Walton Beach FL",
+                    "description": "Are you wondering what it is like to live in Destin - Fort Walton Beach Florida? Well, this is the channel you need! We absolutely ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vL59EeBj-6xeo9qdervnsR8GpAqegNSe11gx64edTwbFa_q05WlNmWplgNyeDY349P05PPUmsQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vL59EeBj-6xeo9qdervnsR8GpAqegNSe11gx64edTwbFa_q05WlNmWplgNyeDY349P05PPUmsQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vL59EeBj-6xeo9qdervnsR8GpAqegNSe11gx64edTwbFa_q05WlNmWplgNyeDY349P05PPUmsQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Destin-Fort Walton Beach FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-01-29T17:27:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZXqs0TnwfuSvh0A8U9YJXHLt_48",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcIU_RWc6zNS6Zf4_twSv5w"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-26T19:39:38Z",
+                    "channelId": "UCcIU_RWc6zNS6Zf4_twSv5w",
+                    "title": "Living in Destin, Florida",
+                    "description": "This channel will educate you on the local real estate market in the Florida Panhandle. We will show you our favorite places to go, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Destin, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-05-26T19:39:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U1mOBxps01nIUEvsAJLfVpp8LV4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-11T16:23:00Z",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA",
+                    "title": "Destiny Worship Center",
+                    "description": "Welcome to the official Destiny Worship Center YouTube channel which features the latest sermons and preaching from our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destiny Worship Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-11T16:23:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5KRK8vafhEacFt-4aoNT16989Hc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJ8v25EaQ3hpoKv-JCd7OwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-12T02:27:35Z",
+                    "channelId": "UCJ8v25EaQ3hpoKv-JCd7OwQ",
+                    "title": "Destin-E",
+                    "description": "Destin, Florida and everything East to West. Nature to travel attractions and entertainment.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qH5lv5l6CbmD9RP21Ofyg2pngnqlTg-th6cslIjnph5E41Y_WBiAMugHVJx3pDhiMxHmiy3xTg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qH5lv5l6CbmD9RP21Ofyg2pngnqlTg-th6cslIjnph5E41Y_WBiAMugHVJx3pDhiMxHmiy3xTg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qH5lv5l6CbmD9RP21Ofyg2pngnqlTg-th6cslIjnph5E41Y_WBiAMugHVJx3pDhiMxHmiy3xTg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destin-E",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-12T02:27:35Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "IMRtKj9rO2foqp1Li3HNAkPTcAM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 1139,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HC7p-72fyUuGBPL9uWJJb3IREek",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn_D1Iq1xxZhrkenq1d7EYA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-03T21:13:54Z",
+                    "channelId": "UCn_D1Iq1xxZhrkenq1d7EYA",
+                    "title": "CityofDestin",
+                    "description": "The City of Destin created this YouTube Channel to help keep residents, businesses and visitors up-to-date on news and City ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l_deQ9TxMVz1JDO-8KKMm3P4b5ePCHga71xGzB-okhvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityofDestin",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-03T21:13:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZXqs0TnwfuSvh0A8U9YJXHLt_48",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcIU_RWc6zNS6Zf4_twSv5w"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-26T19:39:38Z",
+                    "channelId": "UCcIU_RWc6zNS6Zf4_twSv5w",
+                    "title": "Living in Destin, Florida",
+                    "description": "This channel will educate you on the local real estate market in the Florida Panhandle. We will show you our favorite places to go, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/AW165qagF2HRhI1zo7KdvTn6eebszAGyI9mu6Mwg6m-rYmlu2cCDNF0PpKGI-2txa7JqVC0GPA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Destin, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-05-26T19:39:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jZqfB79A3Gdf3oD66LZmem2wfoY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChlCzGz5Fm1NFuxTxyxqIUA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-20T15:46:30Z",
+                    "channelId": "UChlCzGz5Fm1NFuxTxyxqIUA",
+                    "title": "REAL ESTATE IN DESTIN FLORIDA",
+                    "description": "Hello, my name is Garrett Walker and I am a real estate professional specializing in the beautiful city of Destin, Florida. Located on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/V2HzelzFOX3ssbAeP4aZgEINACryhngTTMPFaDpNPbBx6FroSqCZnqTypwJW_TBJx3cQ3F4w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/V2HzelzFOX3ssbAeP4aZgEINACryhngTTMPFaDpNPbBx6FroSqCZnqTypwJW_TBJx3cQ3F4w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/V2HzelzFOX3ssbAeP4aZgEINACryhngTTMPFaDpNPbBx6FroSqCZnqTypwJW_TBJx3cQ3F4w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "REAL ESTATE IN DESTIN FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-20T15:46:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hd3XB29DGuTAbiJ8PbMExjefgRo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU4SzKWPIO1A7FVI3BBvK-g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-03-23T14:26:35Z",
+                    "channelId": "UCU4SzKWPIO1A7FVI3BBvK-g",
+                    "title": "Destin & 30A Florida Real Estate | Casey Joiner",
+                    "description": "Interested in Destin, 30A or Santa Rosa Beach Real Estate? Let's Chat! \u2b07\ufe0f\u2600\ufe0f\ud83c\udfd6\ufe0f This channel is all about living in Florida, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BmV6bLCBYOcfJDVpJiJCjnFvpcKjXcHDwsd6XeNzCZ7YdRmxm8BVonL25PEcAViGbmqQN0M_=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BmV6bLCBYOcfJDVpJiJCjnFvpcKjXcHDwsd6XeNzCZ7YdRmxm8BVonL25PEcAViGbmqQN0M_=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BmV6bLCBYOcfJDVpJiJCjnFvpcKjXcHDwsd6XeNzCZ7YdRmxm8BVonL25PEcAViGbmqQN0M_=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destin & 30A Florida Real Estate | Casey Joiner",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-03-23T14:26:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "e-FOsDphvv-h3qScqlK1ppG6JPk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLfJOawdgZiKq6OZyAEcKWw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-02T12:24:55Z",
+                    "channelId": "UCLfJOawdgZiKq6OZyAEcKWw",
+                    "title": "Dream Home Destin - Emerald Coast Realtor",
+                    "description": "YOU ARE HERE! Welcome to the Emerald Coast of Florida. Please BUCKLE UP as you will be in \"All Things Destin Information ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_H2nZolKpm63bZCynLPQBaKE3YMJWXzpyJFRiqF4bPgJmb55v8zX8mDPFu549lJIx1RZ8nDQYA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_H2nZolKpm63bZCynLPQBaKE3YMJWXzpyJFRiqF4bPgJmb55v8zX8mDPFu549lJIx1RZ8nDQYA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_H2nZolKpm63bZCynLPQBaKE3YMJWXzpyJFRiqF4bPgJmb55v8zX8mDPFu549lJIx1RZ8nDQYA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dream Home Destin - Emerald Coast Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-02T12:24:55Z"
+                }
+            }
+        ]
+    }
+]

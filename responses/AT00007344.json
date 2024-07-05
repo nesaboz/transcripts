@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "wUlVqFICBkm9Wmr7GzsGqxdm_tM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 65,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NgTS2SRN9EGgHNCotw4JIx68iEM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLFqxewUg8RMEcGHcEwOPNQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-02T13:10:47Z",
+                    "channelId": "UCLFqxewUg8RMEcGHcEwOPNQ",
+                    "title": "Souls Harbor of Dunnellon, FL",
+                    "description": "www.SoulsHarbor.org 7220 US-41 Dunnellon, FL 34432.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Souls Harbor of Dunnellon, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-02T13:10:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lsuZcElB_bEzdOYEeXI34kz9c9g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTAJJ_svHyhzerw2E8atmeA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-07-30T15:33:52Z",
+                    "channelId": "UCTAJJ_svHyhzerw2E8atmeA",
+                    "title": "Manuel Aguiar",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Manuel Aguiar",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-07-30T15:33:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "g9Eng7i6wRlds-29mD-QEVxDOk8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqu8LHwquKDWJDXSoBTa4Bg"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-10T17:46:31Z",
+                    "channelId": "UCqu8LHwquKDWJDXSoBTa4Bg",
+                    "title": "FLORIDA LIFE",
+                    "description": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRC6KMHCDKJ9N.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FLORIDA LIFE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-10T17:46:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Tthi0Q2mT37W3auNnHSzpHfs8A0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyvBotGpHkYMmieXL0v1nBA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-06-03T20:09:41Z",
+                    "channelId": "UCyvBotGpHkYMmieXL0v1nBA",
+                    "title": "Nature Coast Living",
+                    "description": "Are you wondering what it is like to live on the Nature Coast of Florida? Well, this is the channel you need! We absolutely love this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/pQFF5HgztXicbOPeRwI3noLaJhzDxUubttAiery72tnyhDgtsWmvp-X9bHmbj2mDFJ8IBqJXxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/pQFF5HgztXicbOPeRwI3noLaJhzDxUubttAiery72tnyhDgtsWmvp-X9bHmbj2mDFJ8IBqJXxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/pQFF5HgztXicbOPeRwI3noLaJhzDxUubttAiery72tnyhDgtsWmvp-X9bHmbj2mDFJ8IBqJXxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Nature Coast Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-06-03T20:09:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qc76yNZ5UkDylns0j00VzsyOkic",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCV4Fyuyuearn-d7MIFG-mBg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-02-11T05:07:08Z",
+                    "channelId": "UCV4Fyuyuearn-d7MIFG-mBg",
+                    "title": "myfloridaland",
+                    "description": "The founders My Florida Land LLC, Randy Barney and Joseph Lexa, Attorney at Law, have been in business of selling land for ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "myfloridaland",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-02-11T05:07:08Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "tkVOJeDd2Q5U7LKygdTtiLXXVaI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 50,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NgTS2SRN9EGgHNCotw4JIx68iEM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLFqxewUg8RMEcGHcEwOPNQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-02T13:10:47Z",
+                    "channelId": "UCLFqxewUg8RMEcGHcEwOPNQ",
+                    "title": "Souls Harbor of Dunnellon, FL",
+                    "description": "www.SoulsHarbor.org 7220 US-41 Dunnellon, FL 34432.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6w2XApz0Dh8zoIMurdbtKlL9KtO-M3ps2_2y2Cn0DdmxTqm6LlHULoCvNUfP9ssaoy0OrXsg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Souls Harbor of Dunnellon, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-02T13:10:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lsuZcElB_bEzdOYEeXI34kz9c9g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTAJJ_svHyhzerw2E8atmeA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-07-30T15:33:52Z",
+                    "channelId": "UCTAJJ_svHyhzerw2E8atmeA",
+                    "title": "Manuel Aguiar",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/gL-MvhiZ-NzPMnTaDH_3p06fwa0rqLN7bq4mo9g680tB7w9SxAVhrGCybosb7jKDwDRN1lvU8as=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Manuel Aguiar",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-07-30T15:33:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "g9Eng7i6wRlds-29mD-QEVxDOk8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqu8LHwquKDWJDXSoBTa4Bg"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-10T17:46:31Z",
+                    "channelId": "UCqu8LHwquKDWJDXSoBTa4Bg",
+                    "title": "FLORIDA LIFE",
+                    "description": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRC6KMHCDKJ9N.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mag4De65UlQW43RcaM8P8VgdbEqAyoqFqWQtvZ-qqNyg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FLORIDA LIFE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-10T17:46:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qc76yNZ5UkDylns0j00VzsyOkic",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCV4Fyuyuearn-d7MIFG-mBg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-02-11T05:07:08Z",
+                    "channelId": "UCV4Fyuyuearn-d7MIFG-mBg",
+                    "title": "myfloridaland",
+                    "description": "The founders My Florida Land LLC, Randy Barney and Joseph Lexa, Attorney at Law, have been in business of selling land for ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kG17L4lJqcx89Zq9y8K8B0jGZSRIoWHNatCsW6MSMMoA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "myfloridaland",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-02-11T05:07:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mIXjHPAGjoJz-SekLEftABCMZwo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjnQk_At3dT45EDcn6WOEWg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-19T14:39:56Z",
+                    "channelId": "UCjnQk_At3dT45EDcn6WOEWg",
+                    "title": "Tammy Germain Realtor ",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vfrn_0LPCB0JUvJPCrx5wqzkbW4Z_UtCF5-IXxPFRPvuQ4hZgsdrmasKvIgwwa0f54oLwzbYMA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vfrn_0LPCB0JUvJPCrx5wqzkbW4Z_UtCF5-IXxPFRPvuQ4hZgsdrmasKvIgwwa0f54oLwzbYMA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vfrn_0LPCB0JUvJPCrx5wqzkbW4Z_UtCF5-IXxPFRPvuQ4hZgsdrmasKvIgwwa0f54oLwzbYMA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tammy Germain Realtor ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-19T14:39:56Z"
+                }
+            }
+        ]
+    }
+]

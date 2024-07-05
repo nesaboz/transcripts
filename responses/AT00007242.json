@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "7bRnqz5ffEV079qusoTHIAht0Eo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 73,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "71wVfo3djf5ncDCKc7bo_KeiMSA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS6lTmBMhXqlzGJ1_fdl2QQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-02T22:22:45Z",
+                    "channelId": "UCS6lTmBMhXqlzGJ1_fdl2QQ",
+                    "title": "Carrollwood Village HOA",
+                    "description": "Carrollwood Village Homeowners Association in Tampa, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kobtIKB48kYbyoIbTaEMN7k6Obdij_-kVeSMbC28jaAlf34P-acLGJTORMNvUS62PM0Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kobtIKB48kYbyoIbTaEMN7k6Obdij_-kVeSMbC28jaAlf34P-acLGJTORMNvUS62PM0Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kobtIKB48kYbyoIbTaEMN7k6Obdij_-kVeSMbC28jaAlf34P-acLGJTORMNvUS62PM0Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Carrollwood Village HOA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-02T22:22:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BQxkxXzzdGxV9Q6H-2y9jtD1X2g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw4NLvjSRXnBzedOzndJAlA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-06T19:27:28Z",
+                    "channelId": "UCw4NLvjSRXnBzedOzndJAlA",
+                    "title": "Carrollwood Village Chiropractic",
+                    "description": "The only Chiropractic office in Florida that mixes Upper Cervical Chiropractic with Sports Chiropractic. Tampa, Florida We focus ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/luvd4jSCeDu2UDrrPMxyGDsPR_FUx4dXOuydPUIh6Y9_kPLHt16ADCIw21rnfjju07n4j-g0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/luvd4jSCeDu2UDrrPMxyGDsPR_FUx4dXOuydPUIh6Y9_kPLHt16ADCIw21rnfjju07n4j-g0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/luvd4jSCeDu2UDrrPMxyGDsPR_FUx4dXOuydPUIh6Y9_kPLHt16ADCIw21rnfjju07n4j-g0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Carrollwood Village Chiropractic",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-06T19:27:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6ilRe2OpSjf6FbPbRlcXmEg43vo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiH4zBNUBMhDPQ_RFpX0ERg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-09-21T23:33:22Z",
+                    "channelId": "UCiH4zBNUBMhDPQ_RFpX0ERg",
+                    "title": "Classic Martial Art Carrollwood Village",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/IglAx-wwl7TXP-DtvaZ-BZ0xU2xBL6F2kJ-qyySaq5ALwmRQBuICAMEDMzeypqpWtvDgVi0hz0g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/IglAx-wwl7TXP-DtvaZ-BZ0xU2xBL6F2kJ-qyySaq5ALwmRQBuICAMEDMzeypqpWtvDgVi0hz0g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/IglAx-wwl7TXP-DtvaZ-BZ0xU2xBL6F2kJ-qyySaq5ALwmRQBuICAMEDMzeypqpWtvDgVi0hz0g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Classic Martial Art Carrollwood Village",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-09-21T23:33:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UCtACLV6R-f1Zg1_gHYm_H9J31M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-19T21:42:39Z",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w",
+                    "title": "KB Builders",
+                    "description": "Custom Home Builder, Remodeling Contractor + Design K+B Builders Inc., provides the finest in new and luxury home building ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "KB Builders",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-19T21:42:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tirfsUR1fFBds4Qpq20O2YXrew8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-06-06T00:01:04Z",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA",
+                    "title": "Grace Family Church",
+                    "description": "Helping families follow Jesus.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Grace Family Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-06-06T00:01:04Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "JK3na0c8HYXWUfjdyVIdvl-Hhyc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 42,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZyF8VOh8EbMP0BlSfp8J6fo9RMQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCGGIb2F6DOV4gtA-R6ZFCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-24T00:55:57Z",
+                    "channelId": "UCCGGIb2F6DOV4gtA-R6ZFCQ",
+                    "title": "Living in Tampa Bay FL",
+                    "description": "This channel is all about living in Tampa Bay Florida, moving to Tampa Florida, and relocating to Tampa Florida. We also cover ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/T4CQLkaqJp6vtmIlRdrpI-3-i4TeMCBD6lIf_M77XGEGfIKTmqkpjXlKYynl0UKnfgHCoqro5C8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/T4CQLkaqJp6vtmIlRdrpI-3-i4TeMCBD6lIf_M77XGEGfIKTmqkpjXlKYynl0UKnfgHCoqro5C8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/T4CQLkaqJp6vtmIlRdrpI-3-i4TeMCBD6lIf_M77XGEGfIKTmqkpjXlKYynl0UKnfgHCoqro5C8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Tampa Bay FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-24T00:55:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qFumjmHqkNiD713mSNQc2Sk4KCU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-ltrT7T2PDRdEEoU5NtOEg"
+                },
+                "snippet": {
+                    "publishedAt": "2009-06-18T20:07:58Z",
+                    "channelId": "UC-ltrT7T2PDRdEEoU5NtOEg",
+                    "title": "Hillsborough County",
+                    "description": "Welcome to Hillsborough County's YouTube channel. Your one stop shop for information regarding programs, services, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m4d5Nkffw_gigyYbLt8hJ6fhQzpG3LI4tIZDBRr7JUETI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m4d5Nkffw_gigyYbLt8hJ6fhQzpG3LI4tIZDBRr7JUETI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m4d5Nkffw_gigyYbLt8hJ6fhQzpG3LI4tIZDBRr7JUETI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hillsborough County",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-06-18T20:07:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UCtACLV6R-f1Zg1_gHYm_H9J31M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-19T21:42:39Z",
+                    "channelId": "UCFzSYE_pwY-2DTr0_bN5t7w",
+                    "title": "KB Builders",
+                    "description": "Custom Home Builder, Remodeling Contractor + Design K+B Builders Inc., provides the finest in new and luxury home building ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67e2pbxROMe3oO8SC3XDpudXPW4GtVNFf1ImH2QNFfw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "KB Builders",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-19T21:42:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tirfsUR1fFBds4Qpq20O2YXrew8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-06-06T00:01:04Z",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA",
+                    "title": "Grace Family Church",
+                    "description": "Helping families follow Jesus.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Grace Family Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-06-06T00:01:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8NPP2eFzS7Zh3FetnLK7uUElc9U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEHWYUTAHcHloKIKZ8iAWPw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-07-28T19:52:44Z",
+                    "channelId": "UCEHWYUTAHcHloKIKZ8iAWPw",
+                    "title": "AdventHealth West Florida Division",
+                    "description": "The West Florida Division of AdventHealth has some of the nation's brightest medical minds making lifesaving breakthroughs in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_-go0bPH5mMEKNkFL3AJ75t4VeOpiHFyYdto4f5p27dTaN7yiQJFP8cVb7WDkf6-BYT3r1u9AA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_-go0bPH5mMEKNkFL3AJ75t4VeOpiHFyYdto4f5p27dTaN7yiQJFP8cVb7WDkf6-BYT3r1u9AA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_-go0bPH5mMEKNkFL3AJ75t4VeOpiHFyYdto4f5p27dTaN7yiQJFP8cVb7WDkf6-BYT3r1u9AA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "AdventHealth West Florida Division",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-07-28T19:52:44Z"
+                }
+            }
+        ]
+    }
+]

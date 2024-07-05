@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "EMgJ5YZi6eyB3jEOVUcipd-b8-o",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 83,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "f1o6iRAlajCl8aEHJhCTnSOjULk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHCRdbPp_CwUDrxA-UD6OVA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-15T15:58:37Z",
+                    "channelId": "UCHCRdbPp_CwUDrxA-UD6OVA",
+                    "title": "The Hub City Church",
+                    "description": "A Local Expression of the Church in Crestview, Florida, Making Disciples Who Believe the Gospel, Abide in Christ and Obey the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Hub City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-15T15:58:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1lOzhZw7h3E_WRa2uW9yTcWOyio",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-13T19:12:44Z",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ",
+                    "title": "Life on the Emerald Coast",
+                    "description": "We are dedicated to showcasing Life on the Emerald Coast. Are you wondering what it is like to live in Destin Florida, Fort Walton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life on the Emerald Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-13T19:12:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U1mOBxps01nIUEvsAJLfVpp8LV4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-11T16:23:00Z",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA",
+                    "title": "Destiny Worship Center",
+                    "description": "Welcome to the official Destiny Worship Center YouTube channel which features the latest sermons and preaching from our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destiny Worship Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-11T16:23:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RSWcPYEhr1a6JBmvHT6y9KFvFVQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMFmGgNyHWo95B_pVp7lOLg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-02-19T16:14:24Z",
+                    "channelId": "UCMFmGgNyHWo95B_pVp7lOLg",
+                    "title": "Emerald Coast Florida Homes ",
+                    "description": "My name is Jodie Cordell and I'm a real estate agent in Florida's Emerald Coast. I serve the Crestview Area and surrounding ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/onadGLGdDAyljGNWZB-oBCQLMD8B3htXRdd2ernEYFvfGRpnUXUvH5WJY8K28nPAs4qwj5abDw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/onadGLGdDAyljGNWZB-oBCQLMD8B3htXRdd2ernEYFvfGRpnUXUvH5WJY8K28nPAs4qwj5abDw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/onadGLGdDAyljGNWZB-oBCQLMD8B3htXRdd2ernEYFvfGRpnUXUvH5WJY8K28nPAs4qwj5abDw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Emerald Coast Florida Homes ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-02-19T16:14:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "r8RMQNCjhdujeHApQkeZbSevnCU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrkmjltdgh6nj7HIbD4kcjA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-19T19:53:34Z",
+                    "channelId": "UCrkmjltdgh6nj7HIbD4kcjA",
+                    "title": "Panhandle Paranormal Investigators",
+                    "description": "we are two local women of the small town of crestview Florida. growing up in such a small town, we both have had numerous ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzePdKvCzXPHOBq_d5k05r79fNoAs6fuWkrQg0JEwdZA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzePdKvCzXPHOBq_d5k05r79fNoAs6fuWkrQg0JEwdZA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzePdKvCzXPHOBq_d5k05r79fNoAs6fuWkrQg0JEwdZA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Panhandle Paranormal Investigators",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-19T19:53:34Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "2Jw7JvorALOPrEJ01OYE6HJMOWk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 71,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "f1o6iRAlajCl8aEHJhCTnSOjULk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHCRdbPp_CwUDrxA-UD6OVA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-15T15:58:37Z",
+                    "channelId": "UCHCRdbPp_CwUDrxA-UD6OVA",
+                    "title": "The Hub City Church",
+                    "description": "A Local Expression of the Church in Crestview, Florida, Making Disciples Who Believe the Gospel, Abide in Christ and Obey the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oZxVxyb0-sUCY7cSopJY3ENFysu3of2DWksoUdbM3RyLqzwchOAjiZAgIYxgPLs_SfM8reV5XA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Hub City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-15T15:58:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "QUPDeLIMp2928_66Vik-x1FymEs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqoE4OmkvoY5qqkFZv6HzXQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-01-04T12:35:45Z",
+                    "channelId": "UCqoE4OmkvoY5qqkFZv6HzXQ",
+                    "title": "Florida Action Committee - Abolish the Registry!",
+                    "description": "The Official Youtube Channel of the Florida Action Committee. Florida Action Committee (FAC) intends to inform the media, public, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MPwFuHZmAXhD2_pdAoFUtjxcLYv2oBva0wq38YtrZeEVsNAcOoSt23qNKigrnTBASP9N27Y4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MPwFuHZmAXhD2_pdAoFUtjxcLYv2oBva0wq38YtrZeEVsNAcOoSt23qNKigrnTBASP9N27Y4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MPwFuHZmAXhD2_pdAoFUtjxcLYv2oBva0wq38YtrZeEVsNAcOoSt23qNKigrnTBASP9N27Y4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Action Committee - Abolish the Registry!",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-01-04T12:35:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U1mOBxps01nIUEvsAJLfVpp8LV4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-11T16:23:00Z",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA",
+                    "title": "Destiny Worship Center",
+                    "description": "Welcome to the official Destiny Worship Center YouTube channel which features the latest sermons and preaching from our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destiny Worship Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-11T16:23:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WauFFQePOT13xKET6dbktKf_Iys",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHIQ3YwrThzthWwv1_H-NxQ"
+                },
+                "snippet": {
+                    "publishedAt": "2006-10-26T08:29:51Z",
+                    "channelId": "UCHIQ3YwrThzthWwv1_H-NxQ",
+                    "title": "CameronFrost",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsEb5QtzEgNZ82nOlYN9goctyqJEYeaekn81nYJkrHow=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsEb5QtzEgNZ82nOlYN9goctyqJEYeaekn81nYJkrHow=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsEb5QtzEgNZ82nOlYN9goctyqJEYeaekn81nYJkrHow=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CameronFrost",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-10-26T08:29:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lD9oM8L7DFQ7Vhq347TWhicdDRQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfnsWGN5thNUp_QKObM58bA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-14T17:27:47Z",
+                    "channelId": "UCfnsWGN5thNUp_QKObM58bA",
+                    "title": "WMBB News 13",
+                    "description": "WMBB News 13 News, Weather, Sports and more from across the Florida Panhandle. Located in Panama City, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/eW5OxrRYdZBsLpf0mSCRoKVEt42pgnrC2DwwoQ-zCtFqMw2OOMdoApBZ4F0o-jA9oxlDjew5=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/eW5OxrRYdZBsLpf0mSCRoKVEt42pgnrC2DwwoQ-zCtFqMw2OOMdoApBZ4F0o-jA9oxlDjew5=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/eW5OxrRYdZBsLpf0mSCRoKVEt42pgnrC2DwwoQ-zCtFqMw2OOMdoApBZ4F0o-jA9oxlDjew5=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WMBB News 13",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-14T17:27:47Z"
+                }
+            }
+        ]
+    }
+]

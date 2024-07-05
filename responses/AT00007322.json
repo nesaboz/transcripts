@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "-J55OJ5ie3nxeGqRIFv6CEmuM-A",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 51,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iVPbM6ng5HXEOBj3KRLAm-bOEZc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0dye9aWBgFCqRUHGa9LO99_EqSI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuMlQrlwP3lFERNuQGkwzhg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-31T14:41:42Z",
+                    "channelId": "UCuMlQrlwP3lFERNuQGkwzhg",
+                    "title": "The Local Church",
+                    "description": "The perfect place for imperfect people! You matter to God, and you matter to us. We'd love to connect with you at ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/cBLEdaISYOj6deepLLwVm9_wSTRu6R9adY_3oxB9QqoImFKH9Vu5cctUM3X64q6bnNSP5ZqGYA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/cBLEdaISYOj6deepLLwVm9_wSTRu6R9adY_3oxB9QqoImFKH9Vu5cctUM3X64q6bnNSP5ZqGYA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/cBLEdaISYOj6deepLLwVm9_wSTRu6R9adY_3oxB9QqoImFKH9Vu5cctUM3X64q6bnNSP5ZqGYA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Local Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-31T14:41:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YUzh7HRuLdsP7C0-awen0K3M998",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQuUujo4gIp8r6xqCOg3meg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-24T14:31:22Z",
+                    "channelId": "UCQuUujo4gIp8r6xqCOg3meg",
+                    "title": "The Davie Police Department",
+                    "description": "This is the official YouTube channel for the Davie Police Department. The Davie Police Department is located in Broward County ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Davie Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-24T14:31:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5MvfJvG3Pcm5B5D6C_2yqDBKseM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmBczuRev48cFM-TLjE11QA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-19T18:52:04Z",
+                    "channelId": "UCmBczuRev48cFM-TLjE11QA",
+                    "title": "Davie / Ft. Lauderdale KOA",
+                    "description": "Conveniently located near main highways; in the historic rural & western theme atmospheres of the Town of Davie, Florida, our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koFh8Yu7NYdDi747homZfpHKfY_AG_8ah0g5s1pts8IQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koFh8Yu7NYdDi747homZfpHKfY_AG_8ah0g5s1pts8IQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koFh8Yu7NYdDi747homZfpHKfY_AG_8ah0g5s1pts8IQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Davie / Ft. Lauderdale KOA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-01-19T18:52:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yr44N6AKHT-KKqT8zuYEAvTe4lM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5PrkGgI_cIaSStOyRmLAKA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-01-08T22:04:14Z",
+                    "channelId": "UC5PrkGgI_cIaSStOyRmLAKA",
+                    "title": "One Bite Pizza Reviews",
+                    "description": "Posted every Monday - Friday at 6pm ET. One bite everybody knows the rules. Barstool Founder Dave \"El Pres\" Portnoy reviews ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nn6KY38z3WeV_86TtFzKzuT7m98Q006RQPI49SeVTCJPE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nn6KY38z3WeV_86TtFzKzuT7m98Q006RQPI49SeVTCJPE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nn6KY38z3WeV_86TtFzKzuT7m98Q006RQPI49SeVTCJPE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "One Bite Pizza Reviews",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-01-08T22:04:14Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sUqCD_r0rypSYlYVVGUnXGtGI24",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 212,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pjiQlN-zLOViWJuLGK1Q_keJwPY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuFTUutriilnsXLfzKw9H5A"
+                },
+                "snippet": {
+                    "publishedAt": "2023-12-29T15:57:21Z",
+                    "channelId": "UCuFTUutriilnsXLfzKw9H5A",
+                    "title": "Living in Davie, FL",
+                    "description": "Jackie Bacaris, South Florida Realtor JustSoldWithJackie.com In today's competitive market, selecting the right realtor to work with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uDnFOk0EEB4KOkDH4w-UYsBM4F5Bw1kZcZBhm7Lu4xhAIvBn-W7M0Ji-9CqX-N8YJ_0D30qk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uDnFOk0EEB4KOkDH4w-UYsBM4F5Bw1kZcZBhm7Lu4xhAIvBn-W7M0Ji-9CqX-N8YJ_0D30qk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uDnFOk0EEB4KOkDH4w-UYsBM4F5Bw1kZcZBhm7Lu4xhAIvBn-W7M0Ji-9CqX-N8YJ_0D30qk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Davie, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-12-29T15:57:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YUzh7HRuLdsP7C0-awen0K3M998",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQuUujo4gIp8r6xqCOg3meg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-24T14:31:22Z",
+                    "channelId": "UCQuUujo4gIp8r6xqCOg3meg",
+                    "title": "The Davie Police Department",
+                    "description": "This is the official YouTube channel for the Davie Police Department. The Davie Police Department is located in Broward County ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nOhfPAWYeanStMMaT_GRXuBRObKU59_qEPdVmpM2ML0A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Davie Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-24T14:31:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E8j9y4mZXtTMVQBn-a0VaxJUclw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxwJmHbzxgB6BdCvh42cdFw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-25T17:32:48Z",
+                    "channelId": "UCxwJmHbzxgB6BdCvh42cdFw",
+                    "title": "CITI Pawn Shop in Davie, FL- Casa de Empe\u00f1o en Florida: (954) 452-0920",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksDLDvUjGLZ8Yl1UqKLLi93Zh9EL_sBSP-rPNzuH0chw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksDLDvUjGLZ8Yl1UqKLLi93Zh9EL_sBSP-rPNzuH0chw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksDLDvUjGLZ8Yl1UqKLLi93Zh9EL_sBSP-rPNzuH0chw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CITI Pawn Shop in Davie, FL- Casa de Empe\u00f1o en Florida: (954) 452-0920",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-25T17:32:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yKHEG6JT-J8Gvf8W2Kl5uMrtRf4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaUhnSHQLfPlsk7D2peIhIA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-09-17T00:33:29Z",
+                    "channelId": "UCaUhnSHQLfPlsk7D2peIhIA",
+                    "title": "Cooper City's Got Talent",
+                    "description": "Promoting local talent in Cooper City and Davie, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lcXPveXRFKLlUM2VxCkz2MuIR951qRbhkisBaUkrWmyA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lcXPveXRFKLlUM2VxCkz2MuIR951qRbhkisBaUkrWmyA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lcXPveXRFKLlUM2VxCkz2MuIR951qRbhkisBaUkrWmyA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Cooper City's Got Talent",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-09-17T00:33:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IurtmliHSUY0XtQq7if47Q--42Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBxVKKKDsPcLCRiWAfXflKQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-18T22:06:46Z",
+                    "channelId": "UCBxVKKKDsPcLCRiWAfXflKQ",
+                    "title": "Miracle Dental Center",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mvF1EZUtfTgdrqLBwWL3TfoTOQAYmY75m6pmwnpE1rOA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mvF1EZUtfTgdrqLBwWL3TfoTOQAYmY75m6pmwnpE1rOA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mvF1EZUtfTgdrqLBwWL3TfoTOQAYmY75m6pmwnpE1rOA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Miracle Dental Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-18T22:06:46Z"
+                }
+            }
+        ]
+    }
+]

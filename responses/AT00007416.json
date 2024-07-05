@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "b-7IB1RSCtvCV-msF2A8BA0_9wU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 436,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sE4nOq3Vnlw-HxIgOlJ9T6pBWE4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAIghHt1qiAFwL7q0NcSKLw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-03T17:35:01Z",
+                    "channelId": "UCAIghHt1qiAFwL7q0NcSKLw",
+                    "title": "Gateway - Panama City",
+                    "description": "We are a gateway where the lost find salvation, the broken find healing, and the prodigal finds a home - then take that hope to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Gateway - Panama City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-03T17:35:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fh4LiHOsYkVZfraYoIqJaBWB0m0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyI13-7a0Ajo1pIj9BkeAQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-29T12:19:52Z",
+                    "channelId": "UCyI13-7a0Ajo1pIj9BkeAQQ",
+                    "title": "Florida Gateway Business Directory",
+                    "description": "Florida Gateway Business Directory is a business directory for the residents of Lake City, Florida and nearby communities known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Gateway Business Directory",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-29T12:19:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mIw8n-2tTOaE4dU_BioOS9jkerc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUOPF_K_7YkzBijWevj19SA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-27T15:19:16Z",
+                    "channelId": "UCUOPF_K_7YkzBijWevj19SA",
+                    "title": "Florida Gateway College : FGCTV",
+                    "description": "Florida Gateway College provides affordable, high-quality postsecondary educational opportunities to the community members of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBvK0jxfG_fKYgin4mh1MRSvFwergBtZLMhUgp3Fm3hg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBvK0jxfG_fKYgin4mh1MRSvFwergBtZLMhUgp3Fm3hg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBvK0jxfG_fKYgin4mh1MRSvFwergBtZLMhUgp3Fm3hg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Gateway College : FGCTV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-27T15:19:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T-4i80m3VfhgeMB2AEMtJ9jIA4Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmORg6mJLyfNc2wpD6hk39A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-16T16:18:12Z",
+                    "channelId": "UCmORg6mJLyfNc2wpD6hk39A",
+                    "title": "The Village Guru Florida",
+                    "description": "Welcome to The Village Guru Florida, A channel dedicated to everything real estate related on the Gulf Coast of Florida and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/U3iJorHofgMdP4hn2Cp9_PUCRAc9qP-WPyFDAQ9A6z7wvR1EzWs5vV1RdUYbj0CX_nN7VZCnwQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/U3iJorHofgMdP4hn2Cp9_PUCRAc9qP-WPyFDAQ9A6z7wvR1EzWs5vV1RdUYbj0CX_nN7VZCnwQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/U3iJorHofgMdP4hn2Cp9_PUCRAc9qP-WPyFDAQ9A6z7wvR1EzWs5vV1RdUYbj0CX_nN7VZCnwQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Village Guru Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-16T16:18:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ap-oZtymtbusgHaQf1X86-t1jrI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvigBWfVN6Nel3Bk4oT69Gw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-26T19:25:40Z",
+                    "channelId": "UCvigBWfVN6Nel3Bk4oT69Gw",
+                    "title": "Gateway Orlando",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mzQ9nnZJLreGRSatzn4jLZ9t-0OPfvkKZsIWPYRHIdVFI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mzQ9nnZJLreGRSatzn4jLZ9t-0OPfvkKZsIWPYRHIdVFI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mzQ9nnZJLreGRSatzn4jLZ9t-0OPfvkKZsIWPYRHIdVFI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Gateway Orlando",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-26T19:25:40Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "bgYOHwLI2sNU6o1-lrneH5yLR-0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 262,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sE4nOq3Vnlw-HxIgOlJ9T6pBWE4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAIghHt1qiAFwL7q0NcSKLw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-03T17:35:01Z",
+                    "channelId": "UCAIghHt1qiAFwL7q0NcSKLw",
+                    "title": "Gateway - Panama City",
+                    "description": "We are a gateway where the lost find salvation, the broken find healing, and the prodigal finds a home - then take that hope to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Qwn5uLVa0ACeYOv318L6gyEE6w3BUBHMltaTyOPVhEYAHCcUts2EKSlFH-jnvpwSfywmxovrHw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Gateway - Panama City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-03T17:35:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VrwcTtXx5rItYhEBFUq2MGh3Rlo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKyLbJ_tSMmAnsjOnQ1iuRg"
+                },
+                "snippet": {
+                    "publishedAt": "2008-05-03T21:50:47Z",
+                    "channelId": "UCKyLbJ_tSMmAnsjOnQ1iuRg",
+                    "title": "GatewayClassicCars",
+                    "description": "Gateway Classic Cars is the world's largest classic and exotic automotive consignment and sales company. Starting with just one ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wRCTJMkQju2nkRIgd85zIf1rJsIIDuurwzhZlzc9-AaiMfewDO2ewzcwJZunt4DVntnlEfx_vgw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wRCTJMkQju2nkRIgd85zIf1rJsIIDuurwzhZlzc9-AaiMfewDO2ewzcwJZunt4DVntnlEfx_vgw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wRCTJMkQju2nkRIgd85zIf1rJsIIDuurwzhZlzc9-AaiMfewDO2ewzcwJZunt4DVntnlEfx_vgw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "GatewayClassicCars",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-05-03T21:50:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T3mtwSy-y9JJONqK7TBBO5BK-X8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqhOr2LsPCGXzyhzEPbqzuw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-12-27T16:37:54Z",
+                    "channelId": "UCqhOr2LsPCGXzyhzEPbqzuw",
+                    "title": "City of Midway, Florida",
+                    "description": "Midway, Florida is located at the heart of Gadsden County and serves as North Florida's Gateway City. The City's estimated 2019 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4V9LGosiSweIohshyH0JSn2yHbXOTgJLp1YUsofM3og=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4V9LGosiSweIohshyH0JSn2yHbXOTgJLp1YUsofM3og=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4V9LGosiSweIohshyH0JSn2yHbXOTgJLp1YUsofM3og=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Midway, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-12-27T16:37:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "C4pzt4cNdqIbDiGtbzj1YjzHZws",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7F24dkT2khMusOdor0vy0g"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-28T20:38:32Z",
+                    "channelId": "UC7F24dkT2khMusOdor0vy0g",
+                    "title": "City of Kissimmee",
+                    "description": "Welcome to the offical YouTube account for the City of Kissimmee, Florida. The City of Kissimmee, a municipality governed by five ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsGXTmjssdFawZ50qE0uET3ePsSFAGptRiCxskI0Tg8A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsGXTmjssdFawZ50qE0uET3ePsSFAGptRiCxskI0Tg8A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lsGXTmjssdFawZ50qE0uET3ePsSFAGptRiCxskI0Tg8A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Kissimmee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-28T20:38:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fh4LiHOsYkVZfraYoIqJaBWB0m0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyI13-7a0Ajo1pIj9BkeAQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-29T12:19:52Z",
+                    "channelId": "UCyI13-7a0Ajo1pIj9BkeAQQ",
+                    "title": "Florida Gateway Business Directory",
+                    "description": "Florida Gateway Business Directory is a business directory for the residents of Lake City, Florida and nearby communities known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lVHAvRHACm_DGc6-nINmGdNsf9QEqcvkgNwUnp8G10uw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Gateway Business Directory",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-29T12:19:52Z"
+                }
+            }
+        ]
+    }
+]

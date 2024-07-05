@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "VvTR-R-RCsc8sWruBO6tt9yFi-k",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 130,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "L8356R9neMRsoMkQIDOnh6EnvwM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeADaV2yxQxiAmYid9zue9A"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-03T23:25:30Z",
+                    "channelId": "UCeADaV2yxQxiAmYid9zue9A",
+                    "title": "Kuruma Imports JDM Dealer",
+                    "description": "South Florida's 1st JDM Dealer since 2014. Featuring the largest selection of Japanese Domestic Market (JDM) vehicles with fully ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SMDTeyF1c1whyMxmNzcC-XkyZY3txU3SrEVs2w-6R-EiSwamn2yP18F3z5K58MVP1KPteNWtZbU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SMDTeyF1c1whyMxmNzcC-XkyZY3txU3SrEVs2w-6R-EiSwamn2yP18F3z5K58MVP1KPteNWtZbU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SMDTeyF1c1whyMxmNzcC-XkyZY3txU3SrEVs2w-6R-EiSwamn2yP18F3z5K58MVP1KPteNWtZbU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kuruma Imports JDM Dealer",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-09-03T23:25:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AG4JrNsW9AhlM6-cUMAiTTHt-W8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmBmkpQIaENU0NqnPmsuHbg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-10-30T23:23:42Z",
+                    "channelId": "UCmBmkpQIaENU0NqnPmsuHbg",
+                    "title": "Huy\u1ec1n C\u1ea3nh Florida Family",
+                    "description": "\u0110\u1eddi s\u1ed1ng c\u1ee7a gia \u0111\u00ecnh Huy\u1ec1n C\u1ea3nh Florida \u1edf M\u1ef9. Cu\u1ed9c s\u1ed1ng kh\u00f4ng h\u1ec1 d\u1ec3 d\u00e0ng nh\u01b0ng m\u1ed7i ng\u00e0y m\u1ed7i c\u1ed1 g\u1eafng v\u00e0 ni\u1ec1m vui c\u0169ng ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zDsajQ2xvhs-7LEtfvW01uiGedXqXcys64BJ_lWW2D7Jl8HqKS8Fq7TyyE8DlO4ViDfw20mm=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zDsajQ2xvhs-7LEtfvW01uiGedXqXcys64BJ_lWW2D7Jl8HqKS8Fq7TyyE8DlO4ViDfw20mm=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zDsajQ2xvhs-7LEtfvW01uiGedXqXcys64BJ_lWW2D7Jl8HqKS8Fq7TyyE8DlO4ViDfw20mm=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Huy\u1ec1n C\u1ea3nh Florida Family",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-10-30T23:23:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FG9SV0_HXWioP4EW0Qdniejg_Q4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC17qX_n5mGdn8tTiReiU8GA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-09-19T17:31:14Z",
+                    "channelId": "UC17qX_n5mGdn8tTiReiU8GA",
+                    "title": "Living in Citrus County FL",
+                    "description": "Living in Citrus County FL. Never heard of Citrus County, Florida? It is definitely one Florida's hidden little gems. Up coming ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8WPbLRRxsjicL7zFhjk8kXlPSUK4knQXC7RAaQQU6ovfJo5HUAiiUXxqSYAHTYK9WPyU1B4oLSw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8WPbLRRxsjicL7zFhjk8kXlPSUK4knQXC7RAaQQU6ovfJo5HUAiiUXxqSYAHTYK9WPyU1B4oLSw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8WPbLRRxsjicL7zFhjk8kXlPSUK4knQXC7RAaQQU6ovfJo5HUAiiUXxqSYAHTYK9WPyU1B4oLSw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Citrus County FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-09-19T17:31:14Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VZ1o-IVlbVfUFqCichXKN4lUCoQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg3gzldyhCHJjY7AWWTNPPA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T01:49:15Z",
+                    "channelId": "UCg3gzldyhCHJjY7AWWTNPPA",
+                    "title": "Sam and Colby",
+                    "description": "What's up guys! On this channel we create haunted, exploration videos. Our most popular series include Stanley Hotel, Hell Week, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sam and Colby",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T01:49:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "80hANXXSvbWnS22A6CdgADDvxhk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6mg6VVU62bjjlE-mSaSDBg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-08-18T18:14:16Z",
+                    "channelId": "UC6mg6VVU62bjjlE-mSaSDBg",
+                    "title": "FAST TOWN TV",
+                    "description": "Fast Town Motor Clubs (FTMC) are an exclusive equity, members only, private country club model catering to the Ultra High Net ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/axy2zlRHF3teXtEThTLjqR8WyDX2M8yL35j3p4LViLZ_FIt1JaKqZ6ad2pRgixf4ftKdNU5vng=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/axy2zlRHF3teXtEThTLjqR8WyDX2M8yL35j3p4LViLZ_FIt1JaKqZ6ad2pRgixf4ftKdNU5vng=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/axy2zlRHF3teXtEThTLjqR8WyDX2M8yL35j3p4LViLZ_FIt1JaKqZ6ad2pRgixf4ftKdNU5vng=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FAST TOWN TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-08-18T18:14:16Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "q_wYLoQqd1ZxboMNBGhlO96ydJ4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 323,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GVgNNOBuV5-V7DLvzBP6AopFBEo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-28T17:36:18Z",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g",
+                    "title": "City of Sanford, FL",
+                    "description": "Official Youtube Channel of City of Sanford, Florida. There's Always Something Going On in Historic Sanford. As one of the oldest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sanford, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-28T17:36:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PeQKS7-NOhIlcdqXTUM1cWSQiqM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChl0K0RJCN0JeToG7T7RvsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-21T15:36:24Z",
+                    "channelId": "UChl0K0RJCN0JeToG7T7RvsQ",
+                    "title": "The Maxwell at Xentury City",
+                    "description": "Discover all that awaits at The Maxwell. Our brand-new luxury apartments in Kissimmee, FL are sure to have all that our residents ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HkXPaooz7mOt9KI9BCf8_XXREjsRYHiEMhgt3QBlFXKM-CaF-U0W5_r62uuCH6mTT2uS_J8Fflo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HkXPaooz7mOt9KI9BCf8_XXREjsRYHiEMhgt3QBlFXKM-CaF-U0W5_r62uuCH6mTT2uS_J8Fflo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HkXPaooz7mOt9KI9BCf8_XXREjsRYHiEMhgt3QBlFXKM-CaF-U0W5_r62uuCH6mTT2uS_J8Fflo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Maxwell at Xentury City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-21T15:36:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lZ2UAYgkQAItABF_4Fgkm7PW45A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw0sVJWt_azyiYoZvykGpwg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-05T20:22:34Z",
+                    "channelId": "UCw0sVJWt_azyiYoZvykGpwg",
+                    "title": "Chrissa Travels",
+                    "description": "Let me help you plan your most amazing Florida vacation! Discover the magic of the Sunshine State as we explore its theme parks ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Jpc0m6m198so8FnrogQ8wV-rBm1UNjovVYNnyv08ApbwQKnMVZlmUROytjeRZw0tkF98ryF9=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Jpc0m6m198so8FnrogQ8wV-rBm1UNjovVYNnyv08ApbwQKnMVZlmUROytjeRZw0tkF98ryF9=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Jpc0m6m198so8FnrogQ8wV-rBm1UNjovVYNnyv08ApbwQKnMVZlmUROytjeRZw0tkF98ryF9=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Chrissa Travels",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-07-05T20:22:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6BGNK0kdVUs83Y3KlwFmDtTjN3A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCY2Lsf5xrL2KXmAd0XXUXPA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-27T14:04:56Z",
+                    "channelId": "UCY2Lsf5xrL2KXmAd0XXUXPA",
+                    "title": "City of Oakland Park",
+                    "description": "Oakland Park is a City on the move! As a hometown choice for excellence in people and service, we are an inclusive community ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOyAc4fOWwpqk_Z5wPxZozXQ1U2vYfYr9JA9oZgSZvMw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOyAc4fOWwpqk_Z5wPxZozXQ1U2vYfYr9JA9oZgSZvMw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOyAc4fOWwpqk_Z5wPxZozXQ1U2vYfYr9JA9oZgSZvMw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Oakland Park",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-27T14:04:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wM8BRUFf3GwkYul5P4w_Ywe6kCY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAgUS4jpgqdIpfZSNcAR3hg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-21T21:41:32Z",
+                    "channelId": "UCAgUS4jpgqdIpfZSNcAR3hg",
+                    "title": "The Frugal Brit - Orlando",
+                    "description": "I aim to help those planning a vacation in Orlando with my hotel reviews, park reviews, top 10 lists and general Orlando vacation ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BIVQOE-ZWKExKIZqWqskctH1k9Ma1hOkgZ6waTwOv6hFSM5Ydqh7qkqR6vWWK5abYjjB_2hErg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BIVQOE-ZWKExKIZqWqskctH1k9Ma1hOkgZ6waTwOv6hFSM5Ydqh7qkqR6vWWK5abYjjB_2hErg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BIVQOE-ZWKExKIZqWqskctH1k9Ma1hOkgZ6waTwOv6hFSM5Ydqh7qkqR6vWWK5abYjjB_2hErg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Frugal Brit - Orlando",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-21T21:41:32Z"
+                }
+            }
+        ]
+    }
+]

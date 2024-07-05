@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "JHgnyz_9Q1eMil4R5gxjz8IgHek",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 113,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TOQ2ZkL-gLAIIulxcvBzguJvt1s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-04-23T15:12:46Z",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA",
+                    "title": "The Villages Florida",
+                    "description": "The Villages is an active retirement community located in sunny central Florida. Conceived over 50 years ago, our hometown has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-04-23T15:12:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F6sFtAHiC_IQ2grXF1eVgdjsSDc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCKmMICgZSvuYIYRiz_rofA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-10-26T20:07:53Z",
+                    "channelId": "UCCKmMICgZSvuYIYRiz_rofA",
+                    "title": "Dade City History",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dade City History",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-10-26T20:07:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yEZndW8gF-f5anoNcRhXUvoMgt0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-16T14:57:37Z",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg",
+                    "title": "LakeFront TV",
+                    "description": "Lake Front TV is the 24/7 television channel based in Lake County. . We provide quality community programming profiling the best ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LakeFront TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-16T14:57:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xi6toyNse241VucF_PZoewbdCtk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIveFvW-ARp_B_RckhweNJw"
+                },
+                "snippet": {
+                    "publishedAt": "2006-06-02T19:42:03Z",
+                    "channelId": "UCIveFvW-ARp_B_RckhweNJw",
+                    "title": "StevenCrowder",
+                    "description": "The NUMBER ONE Conservative Daily Comedy Show!! Want to watch the full show every day? Join #MugClub!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/575XPgfgPPbnxARk5y34zSQ22UoCThZEKLea5-FHTS52uW7sZY51idHj_Z33FPVMIAS44xtjywk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/575XPgfgPPbnxARk5y34zSQ22UoCThZEKLea5-FHTS52uW7sZY51idHj_Z33FPVMIAS44xtjywk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/575XPgfgPPbnxARk5y34zSQ22UoCThZEKLea5-FHTS52uW7sZY51idHj_Z33FPVMIAS44xtjywk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "StevenCrowder",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-06-02T19:42:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lLPEJf9ySUOshwAPzebXHPZGZI4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPNmUrlRJme7if5MNRyOybA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-12-26T23:27:16Z",
+                    "channelId": "UCPNmUrlRJme7if5MNRyOybA",
+                    "title": "Jim Coleman",
+                    "description": "Pop Pop to 14 grandbabies!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jim Coleman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-12-26T23:27:16Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "jrE_1mj1ow2wb7gh4DByeKbgw5I",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 88,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F6sFtAHiC_IQ2grXF1eVgdjsSDc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCKmMICgZSvuYIYRiz_rofA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-10-26T20:07:53Z",
+                    "channelId": "UCCKmMICgZSvuYIYRiz_rofA",
+                    "title": "Dade City History",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/RKfla-dRenGAHvkDnQPEn28_FmP-CH64LmjNeHqKwZpMu8URZNhCX6TnSayi2kx7D3qCLHe8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dade City History",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-10-26T20:07:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lLPEJf9ySUOshwAPzebXHPZGZI4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPNmUrlRJme7if5MNRyOybA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-12-26T23:27:16Z",
+                    "channelId": "UCPNmUrlRJme7if5MNRyOybA",
+                    "title": "Jim Coleman",
+                    "description": "Pop Pop to 14 grandbabies!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBYl8X0NUBe7RLOZdbeD3ytSWYu4SsZgTOZx2-EC27mLpn=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jim Coleman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-12-26T23:27:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "C5-j5CuV5Nb2FdrCPI1cNNp1oGY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCApo7E1uc8Ct4VRriLNegGw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-20T01:39:07Z",
+                    "channelId": "UCApo7E1uc8Ct4VRriLNegGw",
+                    "title": "King Coleman - Topic",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/KntkHSv8hW54LZszwY1US_sbdMmeQPoQpJ1aC_NtVDsMd52td_C72owg20hnne0p7bK8Ju1T4g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/KntkHSv8hW54LZszwY1US_sbdMmeQPoQpJ1aC_NtVDsMd52td_C72owg20hnne0p7bK8Ju1T4g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/KntkHSv8hW54LZszwY1US_sbdMmeQPoQpJ1aC_NtVDsMd52td_C72owg20hnne0p7bK8Ju1T4g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "King Coleman - Topic",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-10-20T01:39:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bu_rawlqOS6ZWgaJrlE8wtAt9so",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMidDirOM3aBSuZHacN_GoQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-27T00:47:53Z",
+                    "channelId": "UCMidDirOM3aBSuZHacN_GoQ",
+                    "title": "Aj Greene",
+                    "description": "Just wanna impact the next generation of athletes! Ahhhwiwiii Thursdays.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_ongj4OxjKbtwAZRVdzUUV6oewH-1fye7eCUuy8SanT_MQWfUJ0LAr9f8Z_g8a5MsogI82Bx_A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_ongj4OxjKbtwAZRVdzUUV6oewH-1fye7eCUuy8SanT_MQWfUJ0LAr9f8Z_g8a5MsogI82Bx_A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_ongj4OxjKbtwAZRVdzUUV6oewH-1fye7eCUuy8SanT_MQWfUJ0LAr9f8Z_g8a5MsogI82Bx_A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Aj Greene",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-12-27T00:47:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ElbS-Y10Jp7jEGxR3Q82oXBKjnc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsj7p8nyQ7AFmObN4RuKwNg"
+                },
+                "snippet": {
+                    "publishedAt": "2006-04-30T19:01:25Z",
+                    "channelId": "UCsj7p8nyQ7AFmObN4RuKwNg",
+                    "title": "Mark Coleman",
+                    "description": "Hobby photographer learning more about all things dealing with video.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYE-LvK_oV5x0lC488xU_pr3guV8d9pVLPkNJCWtT1wek=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYE-LvK_oV5x0lC488xU_pr3guV8d9pVLPkNJCWtT1wek=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYE-LvK_oV5x0lC488xU_pr3guV8d9pVLPkNJCWtT1wek=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Mark Coleman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-04-30T19:01:25Z"
+                }
+            }
+        ]
+    }
+]

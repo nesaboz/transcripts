@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "cDmzmhG1JFogsQURZFKWgpQbYOk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 32,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "v2gZAhTLomqbTyzsCGqkcyIkp-A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCksxw7pBAOeOByJjAhSl8jg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-17T18:02:20Z",
+                    "channelId": "UCksxw7pBAOeOByJjAhSl8jg",
+                    "title": "Compass Realty of North Florida",
+                    "description": "Compass Realty of North Florida specializes in marketing coastal homes, condominiums, and waterfront properties along ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Compass Realty of North Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-17T18:02:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YP7Qqh8X3-wdDUtgdITCxda2Mzo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCblKjOc1PUslDPTQhcU_wuA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-05-07T17:34:15Z",
+                    "channelId": "UCblKjOc1PUslDPTQhcU_wuA",
+                    "title": "Southern Leisure",
+                    "description": "Southern Leisure RV Resort is a top-rated adult ACTIVE 55 + RESORT, gated campground/resort community in the beautiful ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtD5fpcV61P7GWVc9mjl-a459ltwVtAx55Ee8ocObi9w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtD5fpcV61P7GWVc9mjl-a459ltwVtAx55Ee8ocObi9w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtD5fpcV61P7GWVc9mjl-a459ltwVtAx55Ee8ocObi9w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Southern Leisure",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-05-07T17:34:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_2s-SazN2n49NNkKQMy4C-Xq1KU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-15T18:15:10Z",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ",
+                    "title": "City of Newberry",
+                    "description": "Official YouTube channel for the City of Newberry. Includes commission meetings and other municipal government meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Newberry",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-15T18:15:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Kh87-k_mttew_11AYd2P-jfXynY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4fmgtBeOfpmNL4JhwL2IAw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-25T21:07:39Z",
+                    "channelId": "UC4fmgtBeOfpmNL4JhwL2IAw",
+                    "title": "Siemens Traffic Signals and Road Signals",
+                    "description": "Welcome to Traffic Light Of Siemens From Smartrip Guy 118 Productions YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Siemens Traffic Signals and Road Signals",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-25T21:07:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VPfyuCGZzoQnjYFDM0PFer1JeHg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxiAt6Nyi34Uhxk_Ww0SYsA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-15T04:37:30Z",
+                    "channelId": "UCxiAt6Nyi34Uhxk_Ww0SYsA",
+                    "title": "Kerry Brock LLC - Realtor",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nUQFgaujgGGUrRVIpRuZyGbOyku4epfBtkogXObkoO4VU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nUQFgaujgGGUrRVIpRuZyGbOyku4epfBtkogXObkoO4VU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nUQFgaujgGGUrRVIpRuZyGbOyku4epfBtkogXObkoO4VU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kerry Brock LLC - Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-15T04:37:30Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "GCPp4cFjpAF2KqP5_hm-pe2MvAg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 23,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "v2gZAhTLomqbTyzsCGqkcyIkp-A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCksxw7pBAOeOByJjAhSl8jg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-17T18:02:20Z",
+                    "channelId": "UCksxw7pBAOeOByJjAhSl8jg",
+                    "title": "Compass Realty of North Florida",
+                    "description": "Compass Realty of North Florida specializes in marketing coastal homes, condominiums, and waterfront properties along ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kyLiV7qnylBgY1W6PSYoWqzusoYzHpJs0EpDA4TAXNQks=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Compass Realty of North Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-17T18:02:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Qh9H3vWIz7yTskV5hXfihWdZg2s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyjAQEHRfA0G-bfZ00nafhQ"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-25T00:17:13Z",
+                    "channelId": "UCyjAQEHRfA0G-bfZ00nafhQ",
+                    "title": "The Orange and Blue City",
+                    "description": "Bronson (Florida) Eagles Middle/ Highschool sports video clips and photos.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSVsBjkDH6ynthuvDPrD5egrwrreAUjJYOGpZlHZsj6Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSVsBjkDH6ynthuvDPrD5egrwrreAUjJYOGpZlHZsj6Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSVsBjkDH6ynthuvDPrD5egrwrreAUjJYOGpZlHZsj6Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Orange and Blue City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-25T00:17:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Kh87-k_mttew_11AYd2P-jfXynY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4fmgtBeOfpmNL4JhwL2IAw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-25T21:07:39Z",
+                    "channelId": "UC4fmgtBeOfpmNL4JhwL2IAw",
+                    "title": "Siemens Traffic Signals and Road Signals",
+                    "description": "Welcome to Traffic Light Of Siemens From Smartrip Guy 118 Productions YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/P_xZZHKpaB13QYasqOVTTEeyRPgEVlXLC3-KGSCg3hV-RSXjB7cwN4076D8LvbuqhYIKN_hK=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Siemens Traffic Signals and Road Signals",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-25T21:07:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZEobuwL28AUrGVTX3THGFy5iYG0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCX4a3hGClnxlCxaiVsAjeQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-08T01:19:51Z",
+                    "channelId": "UCX4a3hGClnxlCxaiVsAjeQQ",
+                    "title": "Chris Clark",
+                    "description": "A collection of short clips revolving around fishing, snorkeling, rock climbing and how-to's.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k3SzENZ0ddwbD05NSNa-yE8TTnsZ0Dbt8e4vE87TJZvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k3SzENZ0ddwbD05NSNa-yE8TTnsZ0Dbt8e4vE87TJZvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k3SzENZ0ddwbD05NSNa-yE8TTnsZ0Dbt8e4vE87TJZvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Chris Clark",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-08T01:19:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sB84NGWxtcF8ZjEhBofyF4UqTH0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFEARR_9_MUmPih-N47AeEg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-08T14:19:11Z",
+                    "channelId": "UCFEARR_9_MUmPih-N47AeEg",
+                    "title": "ARTTHUGO",
+                    "description": "Welcome to Artthugo by Hugo Alvarado. In my Channel you can see things you never seen. My creations cover multiple subject in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZ0DkD6_QFevZX3jTmmFH_JNdb-Qp-LnRC0fqm8FksWw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZ0DkD6_QFevZX3jTmmFH_JNdb-Qp-LnRC0fqm8FksWw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZ0DkD6_QFevZX3jTmmFH_JNdb-Qp-LnRC0fqm8FksWw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "ARTTHUGO",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-08T14:19:11Z"
+                }
+            }
+        ]
+    }
+]

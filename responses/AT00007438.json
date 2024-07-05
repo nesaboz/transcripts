@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ZJFQeP3NxVrIrVhrU_effAB0Mw0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 37,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ccg6W4c0spI6SIKPzBx22uk20H4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJAvRA0UOsMwH3_fSEvrPTw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-17T19:09:30Z",
+                    "channelId": "UCJAvRA0UOsMwH3_fSEvrPTw",
+                    "title": "MOVING FLORIDA MEMORIES ",
+                    "description": "Films focusing on the development of Florida Entertainment and the Infrastructure of the state.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "MOVING FLORIDA MEMORIES ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-17T19:09:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E_T6xetK6-JVsQs457ZF76JsdlA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "76WXn-PUbGkR-vgKXAWOMqspOWc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Kwxtn-Vthdf7TH_m2C2hgfZ8pws",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvSwvH26bQD4SkLoQsRWg1A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-16T20:32:25Z",
+                    "channelId": "UCvSwvH26bQD4SkLoQsRWg1A",
+                    "title": "Rigoberto Nunez",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Rigoberto Nunez",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-16T20:32:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SUva1gX2ec40teoFmcjtN19vS_k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHxHJQCYf067_qYAmq9lKcw"
+                },
+                "snippet": {
+                    "publishedAt": "2008-12-23T20:26:43Z",
+                    "channelId": "UCHxHJQCYf067_qYAmq9lKcw",
+                    "title": "City of Boynton Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLRn53b9ZjbP10KhIcV1iNyBG-B6MUQ9izQDFhH0mIPQ0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLRn53b9ZjbP10KhIcV1iNyBG-B6MUQ9izQDFhH0mIPQ0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLRn53b9ZjbP10KhIcV1iNyBG-B6MUQ9izQDFhH0mIPQ0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Boynton Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-12-23T20:26:43Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "0E54b400Z7ogKDb_sUDuNt3FnFQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 23,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ccg6W4c0spI6SIKPzBx22uk20H4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJAvRA0UOsMwH3_fSEvrPTw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-17T19:09:30Z",
+                    "channelId": "UCJAvRA0UOsMwH3_fSEvrPTw",
+                    "title": "MOVING FLORIDA MEMORIES ",
+                    "description": "Films focusing on the development of Florida Entertainment and the Infrastructure of the state.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MqjmJQ-d8SWOQSoyaOTonLQWQ3jW2QmSVtiH5lEFYO69ZTXkWIP-O7WNuWeOqQgOyVmCBIXQ_Ow=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "MOVING FLORIDA MEMORIES ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-17T19:09:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8_-36sA12FOafpbnQGC8hDBbUY8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIH9MQIAX17ogTJNFBFtaJw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-09T14:20:19Z",
+                    "channelId": "UCIH9MQIAX17ogTJNFBFtaJw",
+                    "title": "Realestate samples",
+                    "description": "real estate and more!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mxohLroJjJxbH__EvQetw4TxANaPfFGSlukLN37EfDww=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mxohLroJjJxbH__EvQetw4TxANaPfFGSlukLN37EfDww=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mxohLroJjJxbH__EvQetw4TxANaPfFGSlukLN37EfDww=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Realestate samples",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-09T14:20:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8QgZIbv1eMxadtUZ_79d5tuF3rM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCds9ox_aTIGDCpB6rODmS7w"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-20T16:26:22Z",
+                    "channelId": "UCds9ox_aTIGDCpB6rODmS7w",
+                    "title": "Walk With Me Tim",
+                    "description": "Walk With Me around interesting locations, Hotels, Tourist Hot Spots, Cities, Holiday Parks, Attractions & Holiday Destinations I ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1-LwJXmmrvf4S08xjzVFJPHrAi3UrBVwAgyAhs4i9cw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1-LwJXmmrvf4S08xjzVFJPHrAi3UrBVwAgyAhs4i9cw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1-LwJXmmrvf4S08xjzVFJPHrAi3UrBVwAgyAhs4i9cw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Walk With Me Tim",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-20T16:26:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Kwxtn-Vthdf7TH_m2C2hgfZ8pws",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvSwvH26bQD4SkLoQsRWg1A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-16T20:32:25Z",
+                    "channelId": "UCvSwvH26bQD4SkLoQsRWg1A",
+                    "title": "Rigoberto Nunez",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lno0hr7bi3BkscDh063y1-__USehD1eD8COeN0g_rpCg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Rigoberto Nunez",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-16T20:32:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1OTExcOLbK7F4PNQgIsfAKd6eng",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHHoKtfQeff1ghJhlqLeZIw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-08T22:31:27Z",
+                    "channelId": "UCHHoKtfQeff1ghJhlqLeZIw",
+                    "title": "Clay & Kathie Kime",
+                    "description": "The Palm Beaches Team.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5cjgH6jSOLArpuI-kokTwHm5PcHbxzvRkPtWJkbJWaA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5cjgH6jSOLArpuI-kokTwHm5PcHbxzvRkPtWJkbJWaA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5cjgH6jSOLArpuI-kokTwHm5PcHbxzvRkPtWJkbJWaA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Clay & Kathie Kime",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-08T22:31:27Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "1Jzh9-2KtM5qKmm7OtpOUTSvUKU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 18,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xAcHHNLn0DwpIolsk5A-ajv02SQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqXkl1O0vQ_mAz_f3-BJ0Sg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-30T21:02:02Z",
+                    "channelId": "UCqXkl1O0vQ_mAz_f3-BJ0Sg",
+                    "title": "Town of Cutler Bay",
+                    "description": "Home to over 45000 residents, Cutler Bay is a coastal, family-friendly community. Since incorporating in 2005, the Town has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/7geaTYmGp5K1r5pcqjoFz6kie4gOeQYZJ2zv1CdqRBH7uXVitOMfoRs1sZroWuPwfkx9mSlyQw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/7geaTYmGp5K1r5pcqjoFz6kie4gOeQYZJ2zv1CdqRBH7uXVitOMfoRs1sZroWuPwfkx9mSlyQw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/7geaTYmGp5K1r5pcqjoFz6kie4gOeQYZJ2zv1CdqRBH7uXVitOMfoRs1sZroWuPwfkx9mSlyQw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Cutler Bay",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-30T21:02:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SoyhK-kEbjeTuStYAQmLIrTbsNM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTbIiwQXByFKI8tZwtUAOpA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-28T03:24:00Z",
+                    "channelId": "UCTbIiwQXByFKI8tZwtUAOpA",
+                    "title": "CBTV Cutler Bay, Florida",
+                    "description": "CBTV is sponsored in part by the Town of Cutler Bay. The Town Cutler Bay A great Place to Live, Work and Play. CBTV and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktV-_gCNL8Gtu3zDx0M5XK_m29XWgZJLtVqbMqSYUaBQM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktV-_gCNL8Gtu3zDx0M5XK_m29XWgZJLtVqbMqSYUaBQM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktV-_gCNL8Gtu3zDx0M5XK_m29XWgZJLtVqbMqSYUaBQM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CBTV Cutler Bay, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-01-28T03:24:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ADLdAP3x3hCpce7Apvoq5LW6YSI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjaL5jFrEGJGsmXwmzXGl2w"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-17T16:16:11Z",
+                    "channelId": "UCjaL5jFrEGJGsmXwmzXGl2w",
+                    "title": "Rubinstein Family Chiropractic",
+                    "description": "The husband and wife team of Drs. Melissa and Shimon Rubinstein of Rubinstein Family Chiropractic, have a family-based ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncdhbXD-3bW0bxQdpIIJAcb8a4K5AMeStdVx0MFglJbQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncdhbXD-3bW0bxQdpIIJAcb8a4K5AMeStdVx0MFglJbQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncdhbXD-3bW0bxQdpIIJAcb8a4K5AMeStdVx0MFglJbQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Rubinstein Family Chiropractic",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-09-17T16:16:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nWvamIjhcpB79Vqi0pVKhTQr8g8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXLnlbAoqsKoyPfbZ4P8gNQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-18T05:13:53Z",
+                    "channelId": "UCXLnlbAoqsKoyPfbZ4P8gNQ",
+                    "title": "mudslide42",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZyqrbg3F8eCvlYyoY7qfo9o0zEapKZ41lw3KnIFKedd4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZyqrbg3F8eCvlYyoY7qfo9o0zEapKZ41lw3KnIFKedd4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lZyqrbg3F8eCvlYyoY7qfo9o0zEapKZ41lw3KnIFKedd4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "mudslide42",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-18T05:13:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hDgQwRgV_j_CB1KYbyeak8ufiAQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQaCDVm1YUeBsvjjunIYxsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-05-11T00:09:43Z",
+                    "channelId": "UCQaCDVm1YUeBsvjjunIYxsQ",
+                    "title": "GG Properties USA",
+                    "description": "Brokers inmobiliarios de Miami y la Florida. Asociados a Fortune Christie's International Real Estate. CONT\u00c1CTANOS ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/PJILgmRiIMpDzojzb_A3Nzg279TcILEerTwhy4Dynt2lB9mMKK0XOtRsIOEo3ygzefNfCzlV=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/PJILgmRiIMpDzojzb_A3Nzg279TcILEerTwhy4Dynt2lB9mMKK0XOtRsIOEo3ygzefNfCzlV=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/PJILgmRiIMpDzojzb_A3Nzg279TcILEerTwhy4Dynt2lB9mMKK0XOtRsIOEo3ygzefNfCzlV=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "GG Properties USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-05-11T00:09:43Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "jAQegllYuorQ6lHYIvc1W_wDzGI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 85,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Dy90PeqbQQd0uD38OAQRwA4n1ec",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-14T23:11:19Z",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ",
+                    "title": "City of Miami Gov",
+                    "description": "The Official City of Miami YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Gov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-14T23:11:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rt9AzT8shBgzaxkBppVC66eeV_Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLyX98H-StvNUAVR3StdavA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-21T16:42:05Z",
+                    "channelId": "UCLyX98H-StvNUAVR3StdavA",
+                    "title": "Florida Realty Of Miami",
+                    "description": "www.FloridaRealtyOfMiami.com Miami is one of the top destinations in the world to live in. It is able to provide a homebuyer with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lAHGaxRQ4AV_biO25UK9pWIH7PnoIfqNiryugMPXiE7Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lAHGaxRQ4AV_biO25UK9pWIH7PnoIfqNiryugMPXiE7Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lAHGaxRQ4AV_biO25UK9pWIH7PnoIfqNiryugMPXiE7Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Realty Of Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-01-21T16:42:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z83r-wIOPD_5LGpvSneIOjaLxZI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-wT5sxWjGHCdNXzvbYBrZg"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-07T18:06:16Z",
+                    "channelId": "UC-wT5sxWjGHCdNXzvbYBrZg",
+                    "title": "Ximena Araya",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k6nrQbWeVR3OUCDF-FlkHGDKUn6U4bzb_J9GNWhbN_wsE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k6nrQbWeVR3OUCDF-FlkHGDKUn6U4bzb_J9GNWhbN_wsE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k6nrQbWeVR3OUCDF-FlkHGDKUn6U4bzb_J9GNWhbN_wsE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ximena Araya",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-07T18:06:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uB2e0fPAVhguZnaf_MurA_65SLA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCD5_-pGp2NnbjtB20u3hP6A"
+                },
+                "snippet": {
+                    "publishedAt": "2009-04-14T00:57:49Z",
+                    "channelId": "UCD5_-pGp2NnbjtB20u3hP6A",
+                    "title": "City of Coral Gables",
+                    "description": "This is a government access channel of the City of Coral Gables. It was created to provide information about government ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/l53VbELzRmjXZSL9w62ke4OxmVAKwXaX84T4a4ytPeP0NhBn3Jo5SwpW6qXnf3GH5MCaMcXHKQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/l53VbELzRmjXZSL9w62ke4OxmVAKwXaX84T4a4ytPeP0NhBn3Jo5SwpW6qXnf3GH5MCaMcXHKQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/l53VbELzRmjXZSL9w62ke4OxmVAKwXaX84T4a4ytPeP0NhBn3Jo5SwpW6qXnf3GH5MCaMcXHKQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Coral Gables",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-04-14T00:57:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zdc408R2YNc13vn2YRFtHFIpXQA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLADCbAFyeR_3yreJhzW9lw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-12T14:25:40Z",
+                    "channelId": "UCLADCbAFyeR_3yreJhzW9lw",
+                    "title": "Xavier Cortada",
+                    "description": "Xavier Cortada uses the power of art to engage the community in learning about and addressing important ecological concerns ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lOiGIFFFynYnI_eS-i5T80Mu8c-8o9EmIMAEL4BFNwgw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lOiGIFFFynYnI_eS-i5T80Mu8c-8o9EmIMAEL4BFNwgw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lOiGIFFFynYnI_eS-i5T80Mu8c-8o9EmIMAEL4BFNwgw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Xavier Cortada",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-07-12T14:25:40Z"
+                }
+            }
+        ]
+    }
+]

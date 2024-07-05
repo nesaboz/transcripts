@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "qJ2Rb6ZPUfT3fl31bDg9zyp-Zvw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 542,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3ICDLIxoG2UirlXHWHMW4iTRHU0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfcWpMmJR9oITdqja5_7n2w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-08-13T19:46:55Z",
+                    "channelId": "UCfcWpMmJR9oITdqja5_7n2w",
+                    "title": "Suwannee Country Club Golf Course",
+                    "description": "We invite you and your friends to come and golf at our historic Florida golf course in the northern Florida town of Live Oak.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n7XY4Zf1O3VrGPnCbZVr9k1HJuTfwx5lX28mdUVtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n7XY4Zf1O3VrGPnCbZVr9k1HJuTfwx5lX28mdUVtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n7XY4Zf1O3VrGPnCbZVr9k1HJuTfwx5lX28mdUVtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Suwannee Country Club Golf Course",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-08-13T19:46:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Z38zyujy9yPVH2y9CeZlJBA9ROE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIix6MklfJFywa_36iDj8Sw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-26T22:48:41Z",
+                    "channelId": "UCIix6MklfJFywa_36iDj8Sw",
+                    "title": "K\u0259nd H\u0259yat\u0131",
+                    "description": "As a Country Life Vlog, we love to share what we do at countryside, engage with nature and make the most out of village life.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/jLi8pW4QKgICzJ1PXM4MPP91b_M3UEt8VCs-qWOYoHYe3yXlLZUbwWY0sgaYQ6UcXObK1X7bB90=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/jLi8pW4QKgICzJ1PXM4MPP91b_M3UEt8VCs-qWOYoHYe3yXlLZUbwWY0sgaYQ6UcXObK1X7bB90=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/jLi8pW4QKgICzJ1PXM4MPP91b_M3UEt8VCs-qWOYoHYe3yXlLZUbwWY0sgaYQ6UcXObK1X7bB90=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "K\u0259nd H\u0259yat\u0131",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-26T22:48:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tx5x99jzJoAv_viEO87HhHzfXx8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbDfzm2PY6sSgg7LkaMjiwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-12-15T18:08:37Z",
+                    "channelId": "UCbDfzm2PY6sSgg7LkaMjiwQ",
+                    "title": "Westchester Country Club",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-90sylboYFAxgTRpGvp0dy3BW_e94GqnD0_IGcfveMA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-90sylboYFAxgTRpGvp0dy3BW_e94GqnD0_IGcfveMA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-90sylboYFAxgTRpGvp0dy3BW_e94GqnD0_IGcfveMA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Westchester Country Club",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-12-15T18:08:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZbZKhfg7x97kXGCNw86YVZ82LTk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4qTuBRLosUwjGPXhdqtfzg"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-23T16:55:49Z",
+                    "channelId": "UC4qTuBRLosUwjGPXhdqtfzg",
+                    "title": "Country Club of Coral Springs",
+                    "description": "Our mature, fully renovated 18-hole championship (par 71) course was designed by the noted architectural firm of Edmund Ault ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Country Club of Coral Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-23T16:55:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DJ_GXgLnrvbP7zOhf1hp2CGOpMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8u5cEorCWgxtBv5aBpVXkQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-28T22:41:32Z",
+                    "channelId": "UC8u5cEorCWgxtBv5aBpVXkQ",
+                    "title": "The Yacht and Country Club",
+                    "description": "The most welcoming waterfront golf and country club on the Treasure Coast! Welcome to The Yacht & Country Club, featuring its ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Yacht and Country Club",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-28T22:41:32Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "yQPvD-8mE1O0elKLxw4flm2krdI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 418,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "faW3g134wcA9I0hFbWbOx-_cdZk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiDEp1O2m9da_tA8i3xgcyw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-09-21T16:07:04Z",
+                    "channelId": "UCiDEp1O2m9da_tA8i3xgcyw",
+                    "title": "Scotland Yards Golf Course & Country Club",
+                    "description": "Great Golf - Great Food Experience The Highlands at Scotland Yards and enjoy the best deals in the area on golf and dining.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Z-Bvgy7dzpGthkFYtZyf6Cn3zRhlmpM9tE1uoJTnNfwNPLJw4yRirNgFop1CIS6yJW-s2sWz3Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Z-Bvgy7dzpGthkFYtZyf6Cn3zRhlmpM9tE1uoJTnNfwNPLJw4yRirNgFop1CIS6yJW-s2sWz3Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Z-Bvgy7dzpGthkFYtZyf6Cn3zRhlmpM9tE1uoJTnNfwNPLJw4yRirNgFop1CIS6yJW-s2sWz3Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Scotland Yards Golf Course & Country Club",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-09-21T16:07:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZbZKhfg7x97kXGCNw86YVZ82LTk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4qTuBRLosUwjGPXhdqtfzg"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-23T16:55:49Z",
+                    "channelId": "UC4qTuBRLosUwjGPXhdqtfzg",
+                    "title": "Country Club of Coral Springs",
+                    "description": "Our mature, fully renovated 18-hole championship (par 71) course was designed by the noted architectural firm of Edmund Ault ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n79OkSFJFMtJQ3RJ1RKWRX72NWfbSdrpmoD8u9T66XnQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Country Club of Coral Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-23T16:55:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tLAWrqRir8GUHXrQ1nlEer0hM8I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQfBD0CrtYopffLGE_fQJ8g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-01-26T18:00:23Z",
+                    "channelId": "UCQfBD0CrtYopffLGE_fQJ8g",
+                    "title": "Harbour Ridge",
+                    "description": "Harbour Ridge Yacht & Country Club is a private gated country club community offering golf, yachting and tennis located in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2EyozXIhgCMTAY930ZpcXGHu-JYqAaoOhMtS62CP3On0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2EyozXIhgCMTAY930ZpcXGHu-JYqAaoOhMtS62CP3On0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2EyozXIhgCMTAY930ZpcXGHu-JYqAaoOhMtS62CP3On0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Harbour Ridge",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-01-26T18:00:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DJ_GXgLnrvbP7zOhf1hp2CGOpMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8u5cEorCWgxtBv5aBpVXkQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-28T22:41:32Z",
+                    "channelId": "UC8u5cEorCWgxtBv5aBpVXkQ",
+                    "title": "The Yacht and Country Club",
+                    "description": "The most welcoming waterfront golf and country club on the Treasure Coast! Welcome to The Yacht & Country Club, featuring its ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6_wp8X4xI7_xvvL8IlfjBhug3a9oinNTEW1uKMc4VklCOC6BWV5kFwTJp_MyvtGfMGkwQ7KkFQM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Yacht and Country Club",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-28T22:41:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "V27kPFyqhL91bEPgRlce9H1EWDg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCj35vk6W05KFxK5udwLDBRA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-01-02T15:08:38Z",
+                    "channelId": "UCj35vk6W05KFxK5udwLDBRA",
+                    "title": "Piper's Landing Yacht & Country Club",
+                    "description": "Piper's Landing is a private, gated, golf community located in Palm City, Florida. With only 302 residences nestled among over ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfNTtOmG_mX-IHXxbyHxYXSRnWYGDMXnSIaj0fz927IKo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfNTtOmG_mX-IHXxbyHxYXSRnWYGDMXnSIaj0fz927IKo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfNTtOmG_mX-IHXxbyHxYXSRnWYGDMXnSIaj0fz927IKo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Piper's Landing Yacht & Country Club",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-01-02T15:08:38Z"
+                }
+            }
+        ]
+    }
+]

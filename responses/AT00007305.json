@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "nmWgeJclpXtNVXwJqJv9MH6xpKM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 15,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HCMsnOIBvpmpO8ue8L056L-xzv4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-21T13:47:57Z",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA",
+                    "title": "City of Crescent City, Florida",
+                    "description": "Crescent City, FL is located between Two bodies of water, Crescent Lake lies to the east of the town and Lake Stella lies to the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Crescent City, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-21T13:47:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BXXOHKcIQ7_Xai-v8TdliX8TrNk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg3gzldyhCHJjY7AWWTNPPA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T01:49:15Z",
+                    "channelId": "UCg3gzldyhCHJjY7AWWTNPPA",
+                    "title": "Sam and Colby",
+                    "description": "What's up guys! On this channel we create haunted, exploration videos. Our most popular series include Stanley Hotel, Hell Week, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qlTX57wuRVmv3D9NxIbjoCBcnEcGuf3hMv4dUpPKTUe3OSDV71SE335_X8-wqZrfjjYu27r_jQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sam and Colby",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T01:49:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KhKS3cUYWXxTx4U6KB3fKARNwGg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-11T02:35:32Z",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg",
+                    "title": "City of Palm Coast",
+                    "description": "Welcome to the official YouTube Channel of the City of Palm Coast - your all-in-one resource for everything Palm Coast. Here you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Palm Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-11T02:35:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5gcBiihF_3r191trUtD-AR8KkCs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2dozdZFUGvtDmHkFE8VIMA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-23T01:41:56Z",
+                    "channelId": "UC2dozdZFUGvtDmHkFE8VIMA",
+                    "title": "Boundless Travel and Life",
+                    "description": "Travel - Exploring Florida Cities, Historic Towns & Mainstreet, Small Towns, Parks, Beach, Hiking and Walking Trails.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8zy2QbCL5phEXwVYEXsOoomRaXvV-YRElTeddBg30RtPgOBnHOnnUXAuFcOV1BDtMXMcp4azIy4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8zy2QbCL5phEXwVYEXsOoomRaXvV-YRElTeddBg30RtPgOBnHOnnUXAuFcOV1BDtMXMcp4azIy4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8zy2QbCL5phEXwVYEXsOoomRaXvV-YRElTeddBg30RtPgOBnHOnnUXAuFcOV1BDtMXMcp4azIy4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Boundless Travel and Life",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-23T01:41:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7Pc93bWXl_fRtXt1RaRMr3rgcTY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHPjmpsgQZYY3TL5An9-neQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-05T15:14:45Z",
+                    "channelId": "UCHPjmpsgQZYY3TL5An9-neQ",
+                    "title": "Ceo Yungin",
+                    "description": "I\u00b4m Zephaniah Banks aka Lil ZZ better known as CEO Yangon I live in a small Town Called Crescent City which is in Florida by ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1JS4EAMRNok2JNS4R7_JDbUaU1nkY72MjdrApzkQqNg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1JS4EAMRNok2JNS4R7_JDbUaU1nkY72MjdrApzkQqNg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1JS4EAMRNok2JNS4R7_JDbUaU1nkY72MjdrApzkQqNg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ceo Yungin",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-05T15:14:45Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "SomNzUkKq_yVS5xa79-8cT6U5ws",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 233,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HCMsnOIBvpmpO8ue8L056L-xzv4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-21T13:47:57Z",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA",
+                    "title": "City of Crescent City, Florida",
+                    "description": "Crescent City, FL is located between Two bodies of water, Crescent Lake lies to the east of the town and Lake Stella lies to the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Crescent City, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-21T13:47:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K5Gt-ft6xgVmYGVVJKmlnYVKuVM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCT6AGd_v76q65z1Ojmuyn2Q"
+                },
+                "snippet": {
+                    "publishedAt": "2023-11-09T14:33:34Z",
+                    "channelId": "UCT6AGd_v76q65z1Ojmuyn2Q",
+                    "title": "TTW Crescent City Florida ",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EvcDQeMIeWGZ0aWTKfG-WlADX4dvgtOHqi07JukOJ8iCjJrv8XN-ACQrfvnOtyzpfgA-I-j8CQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EvcDQeMIeWGZ0aWTKfG-WlADX4dvgtOHqi07JukOJ8iCjJrv8XN-ACQrfvnOtyzpfgA-I-j8CQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EvcDQeMIeWGZ0aWTKfG-WlADX4dvgtOHqi07JukOJ8iCjJrv8XN-ACQrfvnOtyzpfgA-I-j8CQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TTW Crescent City Florida ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-11-09T14:33:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_o4VnolRBCLdF9kkocSHly43E8k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUNRdBhsAngqwcu1w6JLg1A"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-01T01:14:04Z",
+                    "channelId": "UCUNRdBhsAngqwcu1w6JLg1A",
+                    "title": "Crescent City Sports",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krRYi6s_LpG_9Ym9IPNNOaTrrK47xLIUNPlCVj5rmfyQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krRYi6s_LpG_9Ym9IPNNOaTrrK47xLIUNPlCVj5rmfyQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krRYi6s_LpG_9Ym9IPNNOaTrrK47xLIUNPlCVj5rmfyQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Crescent City Sports",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-01T01:14:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "dl5DnS-JU-EhM4sdTGqBYlx9n1s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCX-b2WeqN3GmeloHKRhGaxw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-06-22T19:13:46Z",
+                    "channelId": "UCX-b2WeqN3GmeloHKRhGaxw",
+                    "title": "Cesar Bueno",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/lZU8ivHy5XohqiknCdHACebTNb-8Y-PMikTc2PZlYFKcrxTG4QzbnBar2y3dylcZbMXvpQ6qzA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/lZU8ivHy5XohqiknCdHACebTNb-8Y-PMikTc2PZlYFKcrxTG4QzbnBar2y3dylcZbMXvpQ6qzA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/lZU8ivHy5XohqiknCdHACebTNb-8Y-PMikTc2PZlYFKcrxTG4QzbnBar2y3dylcZbMXvpQ6qzA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Cesar Bueno",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-06-22T19:13:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7CjNgXL1LqFqoFYVi1eXBPIsOUE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsAddHIgkYof1N4lNhYkb9Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-22T13:47:20Z",
+                    "channelId": "UCsAddHIgkYof1N4lNhYkb9Q",
+                    "title": "Tabernaculo de Vida",
+                    "description": "Tabernaculo de Vida Obispo Armando Renteria 743 Junction Rd, Crescent City, Florida Servicio de Domingo 12:00pm Servicio ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nT9qXtfZcgJc0fpRC0atwfFBmodReWw1PZ69PdR14RrA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nT9qXtfZcgJc0fpRC0atwfFBmodReWw1PZ69PdR14RrA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nT9qXtfZcgJc0fpRC0atwfFBmodReWw1PZ69PdR14RrA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tabernaculo de Vida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-22T13:47:20Z"
+                }
+            }
+        ]
+    }
+]

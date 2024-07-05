@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "8PAnpRQb1mCxoVTWnjmOHjMUTiU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 54,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GVgNNOBuV5-V7DLvzBP6AopFBEo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-28T17:36:18Z",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g",
+                    "title": "City of Sanford, FL",
+                    "description": "Official Youtube Channel of City of Sanford, Florida. There's Always Something Going On in Historic Sanford. As one of the oldest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sanford, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-28T17:36:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WiM3f3SesVmJyglWfQrSYZlUZbo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGHxkgcWYs3Ei6v-leDbqeA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-07-11T22:15:51Z",
+                    "channelId": "UCGHxkgcWYs3Ei6v-leDbqeA",
+                    "title": "Oviedo City Government",
+                    "description": "The official Youtube Channel for the City of Oviedo, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mC_LU1UwI5TTu1sVca6FzuN8lymMOmfntGkgI54NyscQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mC_LU1UwI5TTu1sVca6FzuN8lymMOmfntGkgI54NyscQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mC_LU1UwI5TTu1sVca6FzuN8lymMOmfntGkgI54NyscQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Oviedo City Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-07-11T22:15:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "L29AAMVz9Pp8kJfAKB_sBJ2HnFU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-14T01:32:06Z",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w",
+                    "title": "Edgewater Church",
+                    "description": "Edgewater Church is located in Port Charlotte, FL. Our mission statement is \"Helping people meet, know, and serve Jesus Christ.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Edgewater Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-14T01:32:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gI2pYPsBgxGEnLEjGhDlldzEQ_E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCb-BK5qGhA4O70B7tV7OINw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-01-03T14:38:58Z",
+                    "channelId": "UCb-BK5qGhA4O70B7tV7OINw",
+                    "title": "Orlando Police Department",
+                    "description": "This is the official YouTube page for the Orlando Police Department, where Central Florida's finest serve and protect the citizens of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nCSXvZQxl_FILfG1dBJ-fhIGyKzE9rkK711yy2SiQx-w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nCSXvZQxl_FILfG1dBJ-fhIGyKzE9rkK711yy2SiQx-w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nCSXvZQxl_FILfG1dBJ-fhIGyKzE9rkK711yy2SiQx-w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Orlando Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-01-03T14:38:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nNVbjE_mxo3sf0adGWEZ0S-9NEE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCou1E64_rB5ael1nEdE4kww"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-10T21:48:54Z",
+                    "channelId": "UCou1E64_rB5ael1nEdE4kww",
+                    "title": "Orlando Living With Dee",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Z_JqiRvWs6EdNgWxZCbiNtqHzTlBjYUrN1mxrilg_J7dNI0XzMPc3IpxKirlS8AUUDtUTLXMIr4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Z_JqiRvWs6EdNgWxZCbiNtqHzTlBjYUrN1mxrilg_J7dNI0XzMPc3IpxKirlS8AUUDtUTLXMIr4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Z_JqiRvWs6EdNgWxZCbiNtqHzTlBjYUrN1mxrilg_J7dNI0XzMPc3IpxKirlS8AUUDtUTLXMIr4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Orlando Living With Dee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-10T21:48:54Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "xWjF2J1GvUJfYV82mNlFtxQSRxc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 17,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "L29AAMVz9Pp8kJfAKB_sBJ2HnFU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-14T01:32:06Z",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w",
+                    "title": "Edgewater Church",
+                    "description": "Edgewater Church is located in Port Charlotte, FL. Our mission statement is \"Helping people meet, know, and serve Jesus Christ.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Edgewater Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-14T01:32:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "M-ZbqXWf5rSyiRgzN5varWK2wjg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFTOwIsS90i2BgkBYE-fi1Q"
+                },
+                "snippet": {
+                    "publishedAt": "2013-12-03T08:01:44Z",
+                    "channelId": "UCFTOwIsS90i2BgkBYE-fi1Q",
+                    "title": "vernon cooke",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/We52TvwhHvK0W6iHs-yY03t9h_JJYMZ40DuhQ2qdk18lRb9KFap2-v0GI6c1MBW9Wk587d7SGA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/We52TvwhHvK0W6iHs-yY03t9h_JJYMZ40DuhQ2qdk18lRb9KFap2-v0GI6c1MBW9Wk587d7SGA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/We52TvwhHvK0W6iHs-yY03t9h_JJYMZ40DuhQ2qdk18lRb9KFap2-v0GI6c1MBW9Wk587d7SGA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "vernon cooke",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-12-03T08:01:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sltl7CAhGsYhC1-iJEghCE97JTs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjNREJRwdElxbu-2BEeEY-Q"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-09T00:27:15Z",
+                    "channelId": "UCjNREJRwdElxbu-2BEeEY-Q",
+                    "title": "Orlando Pressure Washing Services",
+                    "description": "Central Florida Pressure Washing Services - 407-520-5275 Orlando Pressure Washing - Lake Mary Pressure Washing ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kv5Th84g3aZizKjGVXhLC9GtaZZtYmcvEUOuc7tdOSTg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kv5Th84g3aZizKjGVXhLC9GtaZZtYmcvEUOuc7tdOSTg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kv5Th84g3aZizKjGVXhLC9GtaZZtYmcvEUOuc7tdOSTg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Orlando Pressure Washing Services",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-09T00:27:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RUe3fN9J0IUGUQs_lL4bp-TxA4M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMAN8Dz1VnM2hN8ehPKKCNw"
+                },
+                "snippet": {
+                    "publishedAt": "2006-04-05T14:10:07Z",
+                    "channelId": "UCMAN8Dz1VnM2hN8ehPKKCNw",
+                    "title": "BtonMan75",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FKdxr4jSqptuop4-94vvL--lKRPhlkKab02bGJJrQr3bc6439ZwIVduY54C6KWaPgr9HhelERQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FKdxr4jSqptuop4-94vvL--lKRPhlkKab02bGJJrQr3bc6439ZwIVduY54C6KWaPgr9HhelERQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FKdxr4jSqptuop4-94vvL--lKRPhlkKab02bGJJrQr3bc6439ZwIVduY54C6KWaPgr9HhelERQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BtonMan75",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-04-05T14:10:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VKOsFdah0xK3ctKvdatVUr7lT3M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfHz8KBE8GWPptMWttBbUMw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-03-13T01:36:33Z",
+                    "channelId": "UCfHz8KBE8GWPptMWttBbUMw",
+                    "title": "Neumorin",
+                    "description": "Doing the things.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/WQao5ot54gsuD9sJl_GtcktY1ifd54DwvFyFJlfHpaD1n7Q36vEVMQZ6j5AyDG4Ri0p0Tlotjw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/WQao5ot54gsuD9sJl_GtcktY1ifd54DwvFyFJlfHpaD1n7Q36vEVMQZ6j5AyDG4Ri0p0Tlotjw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/WQao5ot54gsuD9sJl_GtcktY1ifd54DwvFyFJlfHpaD1n7Q36vEVMQZ6j5AyDG4Ri0p0Tlotjw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Neumorin",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-03-13T01:36:33Z"
+                }
+            }
+        ]
+    }
+]

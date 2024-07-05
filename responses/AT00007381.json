@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "HXosDQR9gn-z8pcK19iG7xMfXpo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 232,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sMYKpnJbxBRy8_pDqDZG2_Wnn8s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXMJJAvJs4FAbl3cYX627Nw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-15T14:33:13Z",
+                    "channelId": "UCXMJJAvJs4FAbl3cYX627Nw",
+                    "title": "Official City of Flagler Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Official City of Flagler Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-15T14:33:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uvhf95UO7zGypgCFpdvoQ1zMcBY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGOdD7rE2Doi_RGTiexfGtg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-01-10T18:13:00Z",
+                    "channelId": "UCGOdD7rE2Doi_RGTiexfGtg",
+                    "title": "Maria Boyle",
+                    "description": "Welcome to Maria's Corner at Better Homes and Gardens Real Estate! Your ultimate destination for all things real estate in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Maria Boyle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-01-10T18:13:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fI2j7rxyzTZ6P-0jLsZI-jkcJQU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-26T17:35:24Z",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw",
+                    "title": "Florida Living",
+                    "description": "Greetings! Are you wondering what it's like to live in north central Florida - specifically Flagler Beach, Palm Coast, St. Augustine, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-26T17:35:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kfr4l1_YajI5cbHrQM2deCNI80I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqv9WmQLV-bChcd4xSWihxg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-12T14:14:55Z",
+                    "channelId": "UCqv9WmQLV-bChcd4xSWihxg",
+                    "title": "Flagler Beach Homes For Sale",
+                    "description": "If you are thinking about making a change and a move to Flagler Beach Florida or just a trip down to check out the area give us a ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Flagler Beach Homes For Sale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-12T14:14:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rUNa0Y6z0c0jwttL2l6Z0FQwHpQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqmnJG9FfFokI1BIUsflS6w"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-18T18:48:34Z",
+                    "channelId": "UCqmnJG9FfFokI1BIUsflS6w",
+                    "title": "The Landmark Group",
+                    "description": "Welcome to The Landmark Group's YouTube channel! We're passionate about helping our clients find their dream homes in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Landmark Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-18T18:48:34Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "6elmv_qf7uDnd0BNfGK5gAQGYms",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 141,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sMYKpnJbxBRy8_pDqDZG2_Wnn8s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXMJJAvJs4FAbl3cYX627Nw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-15T14:33:13Z",
+                    "channelId": "UCXMJJAvJs4FAbl3cYX627Nw",
+                    "title": "Official City of Flagler Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mfOTBQZ5ou6JLT0zg2eaDFzLL2Zs_AJ9q5RPIuEv-7Tw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Official City of Flagler Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-15T14:33:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fI2j7rxyzTZ6P-0jLsZI-jkcJQU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-26T17:35:24Z",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw",
+                    "title": "Florida Living",
+                    "description": "Greetings! Are you wondering what it's like to live in north central Florida - specifically Flagler Beach, Palm Coast, St. Augustine, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-26T17:35:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uvhf95UO7zGypgCFpdvoQ1zMcBY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGOdD7rE2Doi_RGTiexfGtg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-01-10T18:13:00Z",
+                    "channelId": "UCGOdD7rE2Doi_RGTiexfGtg",
+                    "title": "Maria Boyle",
+                    "description": "Welcome to Maria's Corner at Better Homes and Gardens Real Estate! Your ultimate destination for all things real estate in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DOnvHbVIvWhzHIwx7RzKIEWToXhzd-BxyLxEgEKXDQ4yxzVCXfOyrtCGzEP8-eav6vik7xZkAQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Maria Boyle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-01-10T18:13:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "imEDbpYa5gxbjjs2LvQNHcsENLQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRc6Op0DUwbxTShcqvCQ8rQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-05-07T14:15:23Z",
+                    "channelId": "UCRc6Op0DUwbxTShcqvCQ8rQ",
+                    "title": "Florida Coastal Living",
+                    "description": "A look into anything and everything Palm Coast. Thinking about moving here to Florida's East Coast? We've got you covered!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/lgwAZr0sB4-O5-hri9Z5FxkRxUJPCn_npSK5xTb3QMLa28SOhpCSvHu1EIOy1V6zz9thDfEkCw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/lgwAZr0sB4-O5-hri9Z5FxkRxUJPCn_npSK5xTb3QMLa28SOhpCSvHu1EIOy1V6zz9thDfEkCw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/lgwAZr0sB4-O5-hri9Z5FxkRxUJPCn_npSK5xTb3QMLa28SOhpCSvHu1EIOy1V6zz9thDfEkCw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Coastal Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-05-07T14:15:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tuIxYOsKWxjfoIk15Sjlzte2NVw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAAkvQKLVWfbQG1djcjL69w"
+                },
+                "snippet": {
+                    "publishedAt": "2013-09-14T21:34:43Z",
+                    "channelId": "UCAAkvQKLVWfbQG1djcjL69w",
+                    "title": "Flagler County Boat Ramps",
+                    "description": "Saltwater boat ramps in Flagler County, Florida including the city of Palm Coast.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lf4HfhsZ0BuGefloZHq-7gU96Ppk7Qe23Exw6Fy2To7w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lf4HfhsZ0BuGefloZHq-7gU96Ppk7Qe23Exw6Fy2To7w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lf4HfhsZ0BuGefloZHq-7gU96Ppk7Qe23Exw6Fy2To7w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Flagler County Boat Ramps",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-09-14T21:34:43Z"
+                }
+            }
+        ]
+    }
+]

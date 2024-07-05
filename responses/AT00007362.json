@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "7jxY2zA1MUN1IBcjgB-C-S8__2A",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 113,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AU8n3ZYD-ptswhLcJVqQijUgZXU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXphpg1dn9tA5o5IcuNu_Zg"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-24T19:28:00Z",
+                    "channelId": "UCXphpg1dn9tA5o5IcuNu_Zg",
+                    "title": "Englewood Florida Chamber of Commerce",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/kxqsUa8Jg7c6GmYoOYp8mIAaEkB_XD_sUhZhsiYagLDNDs-qaiXBo9dYHF65tTTjantieiPntg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/kxqsUa8Jg7c6GmYoOYp8mIAaEkB_XD_sUhZhsiYagLDNDs-qaiXBo9dYHF65tTTjantieiPntg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/kxqsUa8Jg7c6GmYoOYp8mIAaEkB_XD_sUhZhsiYagLDNDs-qaiXBo9dYHF65tTTjantieiPntg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Englewood Florida Chamber of Commerce",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-24T19:28:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HAGXDWyZlNfm__Q_z39MhIUDs24",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAcM-GLf_Bq4YnAEpacr5_g"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-15T18:03:52Z",
+                    "channelId": "UCAcM-GLf_Bq4YnAEpacr5_g",
+                    "title": "englewoodfldentist",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ_rvhvwg2d9YnOwwV-C1G_GagMK75WFuKTy0dCX0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ_rvhvwg2d9YnOwwV-C1G_GagMK75WFuKTy0dCX0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ_rvhvwg2d9YnOwwV-C1G_GagMK75WFuKTy0dCX0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "englewoodfldentist",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-12-15T18:03:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rmycY1NcA3_jxoFDA2ecBiBD75I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbT5l6aKaUGJl7_rLPbiyBA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-18T20:27:45Z",
+                    "channelId": "UCbT5l6aKaUGJl7_rLPbiyBA",
+                    "title": "The Beach Guy",
+                    "description": "The Beach Guy is a trademarked character and a real person. The Beach Guy rents chairs .umbrellas and other beach stuff at ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Beach Guy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-18T20:27:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0fmKXqEIvxCUYxSNTV9ZFxP24bY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCk_DRVaj3WMFl2gWPns22SA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-02-03T19:03:25Z",
+                    "channelId": "UCk_DRVaj3WMFl2gWPns22SA",
+                    "title": "Life In Venice Florida",
+                    "description": "Living in Venice Florida is amazing. Moving to this small Florida beach town is one of the best decisions we've made. If you want ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_T3ycXr2tVJkiiwuEqgxDCeo7JNzaX5yA0BLhizAlmfB9kDp4yAWQyUF-_nlpoQkDXSKQ0um=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_T3ycXr2tVJkiiwuEqgxDCeo7JNzaX5yA0BLhizAlmfB9kDp4yAWQyUF-_nlpoQkDXSKQ0um=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_T3ycXr2tVJkiiwuEqgxDCeo7JNzaX5yA0BLhizAlmfB9kDp4yAWQyUF-_nlpoQkDXSKQ0um=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life In Venice Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-02-03T19:03:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-0e3DOWjGnN4nIHee6vBBaDFZDo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCz3wY-MEin9iSP5og-ukuxQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-11-25T20:13:58Z",
+                    "channelId": "UCz3wY-MEin9iSP5og-ukuxQ",
+                    "title": "Kendal Canonico",
+                    "description": "Kendal is from Toms River, New Jersey but grew up in Englewood, Florida. She attended Lemon Bay High School and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kis560cB85pArFN5TXC272Q8DBcJsac6GPFxRYSs6P9Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kis560cB85pArFN5TXC272Q8DBcJsac6GPFxRYSs6P9Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kis560cB85pArFN5TXC272Q8DBcJsac6GPFxRYSs6P9Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kendal Canonico",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-11-25T20:13:58Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "EDT6SKxN5AWizfNDp0RsNMLvbcY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 73,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rmycY1NcA3_jxoFDA2ecBiBD75I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbT5l6aKaUGJl7_rLPbiyBA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-18T20:27:45Z",
+                    "channelId": "UCbT5l6aKaUGJl7_rLPbiyBA",
+                    "title": "The Beach Guy",
+                    "description": "The Beach Guy is a trademarked character and a real person. The Beach Guy rents chairs .umbrellas and other beach stuff at ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_koVe3p1XQEtNepTpFya-vNF1iPNPfP8Vmkbt-VOKAIil0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Beach Guy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-18T20:27:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a8PzQKBT1j4ZyJKqu0daybHyFuc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgflihZFv7vg2WXgJfPhSXA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-11T13:02:37Z",
+                    "channelId": "UCgflihZFv7vg2WXgJfPhSXA",
+                    "title": "Real Coast to Coast ",
+                    "description": "Florida City Tours | Best Restaurants | Things to do | More...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Zf2s0Z7PPqFmjwcvnleb3BNxMNp8cHDj3e3LJsCNd7ApasOpYWsHBh9y9WIruE_21-9jHiUI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Zf2s0Z7PPqFmjwcvnleb3BNxMNp8cHDj3e3LJsCNd7ApasOpYWsHBh9y9WIruE_21-9jHiUI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Zf2s0Z7PPqFmjwcvnleb3BNxMNp8cHDj3e3LJsCNd7ApasOpYWsHBh9y9WIruE_21-9jHiUI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Real Coast to Coast ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-11T13:02:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0x9g94p8pc6xlTVd8QmtE4zeeWA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIowN72MPjqTQUpwiXQu86g"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-10T15:49:50Z",
+                    "channelId": "UCIowN72MPjqTQUpwiXQu86g",
+                    "title": "Cigar City Fishing And Outdoor Channel",
+                    "description": "Cigar City Fishing And Outdoor Channel. If you love fishing and the outdoors you came to the right place! Subscribe to see fishing ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkxhd3bZ2-O1-8S8r6vvvK-j4iFE4eQNJkRfZm8S491Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkxhd3bZ2-O1-8S8r6vvvK-j4iFE4eQNJkRfZm8S491Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkxhd3bZ2-O1-8S8r6vvvK-j4iFE4eQNJkRfZm8S491Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Cigar City Fishing And Outdoor Channel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-10T15:49:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Hqd2a5JmVFZktBJNpr1PXhAc3ZE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS1H79nREsHwBDEZkOPQjNw"
+                },
+                "snippet": {
+                    "publishedAt": "2009-04-02T12:13:54Z",
+                    "channelId": "UCS1H79nREsHwBDEZkOPQjNw",
+                    "title": "Sergey Baygulov",
+                    "description": "Go Through My Channel, I Might Just Have The Right Thing That You Are Looking For. Enjoy!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxkj9yEEmG8zVOT8aIwg3dlVzu8kZXAoDxL0KALBTfrYQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxkj9yEEmG8zVOT8aIwg3dlVzu8kZXAoDxL0KALBTfrYQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxkj9yEEmG8zVOT8aIwg3dlVzu8kZXAoDxL0KALBTfrYQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sergey Baygulov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-04-02T12:13:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TEK-2I4uA8B7z6l5L_fqE0IPp0c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCD_4QmlC0IgoL1-pagmMrmQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-05-15T02:17:59Z",
+                    "channelId": "UCD_4QmlC0IgoL1-pagmMrmQ",
+                    "title": "Where To Live in Sarasota, Florida ",
+                    "description": "Welcome to our channel, \"Where to Live in Sarasota, Florida\". https://www.fltrealty.com/perfecthome Fill out your free Perfect ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Where To Live in Sarasota, Florida ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-05-15T02:17:59Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "w71IihZuYTbOGjtH0ivEpaMl29s",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 223,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "27Nfi-VxXKbKHMn4EF3xRDQaFxM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgJLAD7hxbcHjDjYJhBaBVw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-04T02:08:06Z",
+                    "channelId": "UCgJLAD7hxbcHjDjYJhBaBVw",
+                    "title": "City Sanctuary Deland",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Sanctuary Deland",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-04T02:08:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NLlMGi0Vm3g_tUK3qAevsrhMBKk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzpykaWQ6en93m6UZ1-pbiw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-02-26T20:49:28Z",
+                    "channelId": "UCzpykaWQ6en93m6UZ1-pbiw",
+                    "title": "City of DeLand",
+                    "description": "This channel is the official channel for the City of DeLand government.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of DeLand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-02-26T20:49:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_e9YurQP1HtHrNBDCgACu8zcNvM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-21T17:10:49Z",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A",
+                    "title": "Journey Church",
+                    "description": "Everyone helping someone take steps to follow Christ. This is the vision of Journey Church, a church led by Pastor James Hilton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Journey Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-21T17:10:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6eTA7LjHs7HHxTgiC-aBq1T0eKk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9EmmSGn-Ar4fgXxLHT80bg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-23T04:35:17Z",
+                    "channelId": "UC9EmmSGn-Ar4fgXxLHT80bg",
+                    "title": "DeLand's Dan Friend",
+                    "description": "DeLand's Fantasia... our very own progressive rock pioneers! Hot City was formed in 1971 from area DeLand, Florida, boys and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mS_ijeLrd0qeXcy_jaTBEa98BncDYafS46GXWvC-_J9GI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mS_ijeLrd0qeXcy_jaTBEa98BncDYafS46GXWvC-_J9GI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mS_ijeLrd0qeXcy_jaTBEa98BncDYafS46GXWvC-_J9GI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "DeLand's Dan Friend",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-23T04:35:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ytbfh6wVwfQh6DIFD3kxGG_pL9k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXpVouloiwv_GNhn5ficvLQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-04-08T13:40:05Z",
+                    "channelId": "UCXpVouloiwv_GNhn5ficvLQ",
+                    "title": "First Christian Church of DeLand",
+                    "description": "Information on this channel include videos of worship services and other events concerning First Christian Church (Disciples of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Christian Church of DeLand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-04-08T13:40:05Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "XISjfPIQXCWHHRJ6DQflF4M8OxE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 188,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NLlMGi0Vm3g_tUK3qAevsrhMBKk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzpykaWQ6en93m6UZ1-pbiw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-02-26T20:49:28Z",
+                    "channelId": "UCzpykaWQ6en93m6UZ1-pbiw",
+                    "title": "City of DeLand",
+                    "description": "This channel is the official channel for the City of DeLand government.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfVUQDmZWb57xmc45JNO_5h--2tu1i82j95XdFdAi5jRg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of DeLand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-02-26T20:49:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "p4SzpkQO3RZvU6NS8mSYGusTODo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgJLAD7hxbcHjDjYJhBaBVw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-04T02:08:06Z",
+                    "channelId": "UCgJLAD7hxbcHjDjYJhBaBVw",
+                    "title": "City Sanctuary Deland",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9yKkE1BylPgsSk6wbfipDT3qjKmZFMykHbj1CcoIOBg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Sanctuary Deland",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-04T02:08:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_e9YurQP1HtHrNBDCgACu8zcNvM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-21T17:10:49Z",
+                    "channelId": "UC3Gpk6ue0fWS1hKx8xa4n7A",
+                    "title": "Journey Church",
+                    "description": "Everyone helping someone take steps to follow Christ. This is the vision of Journey Church, a church led by Pastor James Hilton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sP0wyrw-RZK2jIDRmg8spQhKUtkUDDkthwdYlUCu8ACOuCeuU6kDqSMVzWDj9h7YpqNYD1RbVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Journey Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-21T17:10:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ytbfh6wVwfQh6DIFD3kxGG_pL9k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXpVouloiwv_GNhn5ficvLQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-04-08T13:40:05Z",
+                    "channelId": "UCXpVouloiwv_GNhn5ficvLQ",
+                    "title": "First Christian Church of DeLand",
+                    "description": "Information on this channel include videos of worship services and other events concerning First Christian Church (Disciples of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miMsecr50ms3ZQ-HkJURAScIDB41HSvfo9VkjEKxmlVQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Christian Church of DeLand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-04-08T13:40:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7ozToATiWM9TvsUOhMmPYBq8gao",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2rW674jFLMYdXH230_ZkVA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-21T15:05:40Z",
+                    "channelId": "UC2rW674jFLMYdXH230_ZkVA",
+                    "title": "Pentecostals of DeLand",
+                    "description": "Media content from the Pentecostals of DeLand. A place for your faith, family & friends.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l1dw9qW2BIaYAU4zUxOwy5cFmP8Y9nnbmOXumIe7oi1w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l1dw9qW2BIaYAU4zUxOwy5cFmP8Y9nnbmOXumIe7oi1w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l1dw9qW2BIaYAU4zUxOwy5cFmP8Y9nnbmOXumIe7oi1w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pentecostals of DeLand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-21T15:05:40Z"
+                }
+            }
+        ]
+    }
+]

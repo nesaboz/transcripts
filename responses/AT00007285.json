@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "GkKaw6Jd6H2psKOJjIC8-u2010E",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 417,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jv6h_xowotbmKpYbwwzKd1uMmp4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T19:51:29Z",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA",
+                    "title": "City of Cocoa, Florida",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T19:51:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xPS9H1YuQeXyF0uOXbfTpQY-bWU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fZ6uWsBazVZ2KDMmjzasQG7-h8I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCd-A952Fxm72vgZC5KkRfpA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-01T16:17:20Z",
+                    "channelId": "UCd-A952Fxm72vgZC5KkRfpA",
+                    "title": "Real Church of Brevard Cocoa FL",
+                    "description": "We are not trying to be the best church in the community but the best church for the community! Committed To Caring For Our City.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Real Church of Brevard Cocoa FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-01T16:17:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E0vJ093PTAZbN7WsLglFdsIPeCQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnukjV-mZHhvzzq1h66SChw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-10-09T19:48:39Z",
+                    "channelId": "UCnukjV-mZHhvzzq1h66SChw",
+                    "title": "PUT ON 4 UR CITY",
+                    "description": "NEW YOUTUBE CHANNEL \u27a1\ufe0f https://youtube.com/channel/UCyDBEyaW4DoMi6rM9Yn7zmA FOLLOW ME ON ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "PUT ON 4 UR CITY",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-10-09T19:48:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lzpWTr3QeDqcYk0wKufwmr6MtpU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYl5XuLJb0PoMac3AE3UADw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-17T15:48:41Z",
+                    "channelId": "UCYl5XuLJb0PoMac3AE3UADw",
+                    "title": "Best of Cocoa Beach",
+                    "description": "Best of Cocoa Beach is about the best places to go, food to eat, and things to do in Cocoa Beach and beyond. What is Cocoa ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_TDArUBeoeOZiQO4i11-FBD6ICv0fdD4jgUL18oBgtQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_TDArUBeoeOZiQO4i11-FBD6ICv0fdD4jgUL18oBgtQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_TDArUBeoeOZiQO4i11-FBD6ICv0fdD4jgUL18oBgtQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Best of Cocoa Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-17T15:48:41Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "DLbW0-ym4z1NU5V_A6gdAjk6hUM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 324,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jv6h_xowotbmKpYbwwzKd1uMmp4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T19:51:29Z",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA",
+                    "title": "City of Cocoa, Florida",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T19:51:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xPS9H1YuQeXyF0uOXbfTpQY-bWU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fZ6uWsBazVZ2KDMmjzasQG7-h8I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCd-A952Fxm72vgZC5KkRfpA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-01T16:17:20Z",
+                    "channelId": "UCd-A952Fxm72vgZC5KkRfpA",
+                    "title": "Real Church of Brevard Cocoa FL",
+                    "description": "We are not trying to be the best church in the community but the best church for the community! Committed To Caring For Our City.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vtuFRMKN0rMzRVik53hXSOUkvpS54sbbir_au27As1Yt-ShjeeflGaEcWNd7Vqdyc6SNg4LE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Real Church of Brevard Cocoa FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-01T16:17:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DfzduB-K9CWzZ4Hb-VQ0h_vGLAw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOIkT9bq-1N2BvrsBjhNlag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-31T11:51:37Z",
+                    "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
+                    "title": "Virtual Railfan",
+                    "description": "Official channel of Virtual Railfan, Inc. Virtual Railfan is the premiere provider for live train cams all over the United States ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Virtual Railfan",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-31T11:51:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gDe4g_PxUQ6p-D1EaAw3-2COzNQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3CYRY-axZ4CjetaTfOAItg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-01-10T21:51:07Z",
+                    "channelId": "UC3CYRY-axZ4CjetaTfOAItg",
+                    "title": "Bethel SDA Church",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmDUOoK6M-SBAbq1kEqpVqF563TnjJ5tgIRMdzJSjDCug=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmDUOoK6M-SBAbq1kEqpVqF563TnjJ5tgIRMdzJSjDCug=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmDUOoK6M-SBAbq1kEqpVqF563TnjJ5tgIRMdzJSjDCug=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bethel SDA Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-01-10T21:51:07Z"
+                }
+            }
+        ]
+    }
+]

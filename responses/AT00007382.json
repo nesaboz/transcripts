@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "wwgpVGQWLlEVAoAv8quAIEAe2q8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 90,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eHGcz_ytUQndPFEsoNZKJF9bBP8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZ0u4ZHEwFnO1NOWMuLR-qg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-14T15:47:07Z",
+                    "channelId": "UCZ0u4ZHEwFnO1NOWMuLR-qg",
+                    "title": "PALM COAST FLORIDA LIVING",
+                    "description": "Moving to Palm Coast Florida? Let's chat!\u2b07\ufe0f   We are all about Palm Coast Florida living, moving to Palm Coast Florida, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ciC8t9MttYT3x3RxWu-b8QwOLi5pFgf4glSBMxJ8WbAxPCT0QiKdendBZgujIoynUaBoV-f_SQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ciC8t9MttYT3x3RxWu-b8QwOLi5pFgf4glSBMxJ8WbAxPCT0QiKdendBZgujIoynUaBoV-f_SQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ciC8t9MttYT3x3RxWu-b8QwOLi5pFgf4glSBMxJ8WbAxPCT0QiKdendBZgujIoynUaBoV-f_SQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "PALM COAST FLORIDA LIVING",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-14T15:47:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rUNa0Y6z0c0jwttL2l6Z0FQwHpQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqmnJG9FfFokI1BIUsflS6w"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-18T18:48:34Z",
+                    "channelId": "UCqmnJG9FfFokI1BIUsflS6w",
+                    "title": "The Landmark Group",
+                    "description": "Welcome to The Landmark Group's YouTube channel! We're passionate about helping our clients find their dream homes in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uGNh6olgNRg3gSk5fz_5BhMy8-ERonH1gcogdFREw39pJr_US79y6I-aCyM7V5YtK9xipx450vs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Landmark Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-18T18:48:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uqrnxqYSmMvf2Rh5KitO_fz0h-8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCddTwqYueXP9dJlTLQMdwmA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-17T22:20:41Z",
+                    "channelId": "UCddTwqYueXP9dJlTLQMdwmA",
+                    "title": "Flagler Village Group",
+                    "description": "Flagler Village Group at Sellstate 360 Realty is a full-service real estate brokerage located in Fort Lauderdale, FL. We're not just in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l6WofzBJDv8n2gBU1Kr-8XYlsrgj5SZTuCsU3Dq_zyvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l6WofzBJDv8n2gBU1Kr-8XYlsrgj5SZTuCsU3Dq_zyvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l6WofzBJDv8n2gBU1Kr-8XYlsrgj5SZTuCsU3Dq_zyvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Flagler Village Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-09-17T22:20:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KhKS3cUYWXxTx4U6KB3fKARNwGg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-11T02:35:32Z",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg",
+                    "title": "City of Palm Coast",
+                    "description": "Welcome to the official YouTube Channel of the City of Palm Coast - your all-in-one resource for everything Palm Coast. Here you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Palm Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-11T02:35:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kfr4l1_YajI5cbHrQM2deCNI80I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqv9WmQLV-bChcd4xSWihxg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-12T14:14:55Z",
+                    "channelId": "UCqv9WmQLV-bChcd4xSWihxg",
+                    "title": "Flagler Beach Homes For Sale",
+                    "description": "If you are thinking about making a change and a move to Flagler Beach Florida or just a trip down to check out the area give us a ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4qYD5hbCfICHMow9BnTGV3bWML7JKjxXPX15lg43LDw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Flagler Beach Homes For Sale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-12T14:14:55Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "OIa6Rf80eGDIA0TmVPGs0AaAVZQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 42,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KhKS3cUYWXxTx4U6KB3fKARNwGg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-11T02:35:32Z",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg",
+                    "title": "City of Palm Coast",
+                    "description": "Welcome to the official YouTube Channel of the City of Palm Coast - your all-in-one resource for everything Palm Coast. Here you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Palm Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-11T02:35:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qIotHDiPn7IaEC2-wxmHZTVNMIw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkvxoLrTJbL9QjzAoPVve2Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-14T14:35:10Z",
+                    "channelId": "UCkvxoLrTJbL9QjzAoPVve2Q",
+                    "title": "Living in Fort Lauderdale - Jason Taub Real Estate",
+                    "description": "As a native South Floridian and resident of Downtown Fort Lauderdale, I look forward to leveraging my local expertise to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JMcu3pwMIxnhbupYAT-ireK4Am0aGK8PXdVAgGZex_riZtPGIaSGdSi1L_Lswfr61oedyUFrvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JMcu3pwMIxnhbupYAT-ireK4Am0aGK8PXdVAgGZex_riZtPGIaSGdSi1L_Lswfr61oedyUFrvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JMcu3pwMIxnhbupYAT-ireK4Am0aGK8PXdVAgGZex_riZtPGIaSGdSi1L_Lswfr61oedyUFrvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Fort Lauderdale - Jason Taub Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-14T14:35:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "R4rnZS-tdaWRAN8JzawyTJ9p4iA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPFhcL3rtVQ-5W535W99tEw"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-12T05:11:34Z",
+                    "channelId": "UCPFhcL3rtVQ-5W535W99tEw",
+                    "title": "Eagle Vision Aerial Productions",
+                    "description": "Drone Worx is the parent company of Eagle Vision Aerial. Drone Worx specializes in custom UAS (drone) solutions.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Eagle Vision Aerial Productions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-12T05:11:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XouSx46RdcATkS6doV9QAvSiQdA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIXTx-5ZI42UtTO4t22HBXA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-03T21:42:20Z",
+                    "channelId": "UCIXTx-5ZI42UtTO4t22HBXA",
+                    "title": "Four Star Homes, Inc.",
+                    "description": "Four Star Homes is Florida's largest and most experienced mobile and manufactured home broker. Call us today or visit ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ntSZw1UmD5eVqh0Opk5FsGvYT9N5n2VJtM6QWSkfSWja8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ntSZw1UmD5eVqh0Opk5FsGvYT9N5n2VJtM6QWSkfSWja8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ntSZw1UmD5eVqh0Opk5FsGvYT9N5n2VJtM6QWSkfSWja8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Four Star Homes, Inc.",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-01-03T21:42:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kipM-4H_agvBUIaJr3eyoQLCJaQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeDYzk_r7z01JVGnDk2djLQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-03-19T11:56:44Z",
+                    "channelId": "UCeDYzk_r7z01JVGnDk2djLQ",
+                    "title": "Ancient City Baptist Church",
+                    "description": "Pursuing Life in Christ with Passion and Purpose! Join us for Sunday Worship - 11:00 to 12:00.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly9Xg5HsR0nyaYLQJ-8pIVuOR6-GY8ebkoZknqgifyYA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly9Xg5HsR0nyaYLQJ-8pIVuOR6-GY8ebkoZknqgifyYA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly9Xg5HsR0nyaYLQJ-8pIVuOR6-GY8ebkoZknqgifyYA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ancient City Baptist Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-03-19T11:56:44Z"
+                }
+            }
+        ]
+    }
+]

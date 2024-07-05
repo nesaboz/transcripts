@@ -13,6 +13,8 @@ from googleapiclient.errors import HttpError
 from openai import OpenAI
 from youtube_transcript_api import YouTubeTranscriptApi
 
+from pandas.errors import EmptyDataError
+
 STATUS_FILE = 'status.csv'
 RESPONSES_DIR = 'responses' 
 ANALYSIS_DIR = 'analysis'
@@ -45,9 +47,8 @@ def create_backup(csv_file):
         )
     try:
         shutil.copy(csv_file, backup_file)
-    except Exception as e:
-        print(f"Error creating backup: {e}")
-
+    except FileNotFoundError:
+        print(f"No file to back up.")
 
 
 class Crawler:
@@ -60,19 +61,21 @@ class Crawler:
     If it reaches limit, (i.e. API gives exception), then it stops crawling. 
     The status.csv file is then updated.
     """
-    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY1'))
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
 
     def __init__(self, csv_file=STATUS_FILE):
         self.csv_file = csv_file
-        self.df = self.load_csv()
+        self.df = self.load_status_file(self.csv_file)
         
         if not os.path.exists(RESPONSES_DIR):
             os.makedirs(RESPONSES_DIR)
     
-    def load_csv(self):
-        if os.path.exists(self.csv_file):
-            return pd.read_csv(self.csv_file)
-        else:
+    @staticmethod
+    def load_status_file(csv_file):
+        try:
+            return pd.read_csv(csv_file)
+        except FileNotFoundError:
+            print(f"File {csv_file} not found. Creating a new one.")
             df = pd.read_excel('assets/cities_to_collect.xlsx')
             df = df[['ObligorId', 'extracted_issuer']]
             df.rename(columns={'ObligorId': ID, 'extracted_issuer': CITY}, inplace=True)
@@ -149,13 +152,13 @@ class Analyzer:
     
     def __init__(self, csv_file=STATUS_FILE):
         self.csv_file = csv_file
-        self.df = pd.read_csv(self.csv_file)
+        self.status_df = pd.read_csv(self.csv_file)
         
         if not os.path.exists(ANALYSIS_DIR):
             os.makedirs(ANALYSIS_DIR)
 
-    def save_csv(self):
-        self.df.to_csv(self.csv_file, index=False)
+    def save_status(self):
+        self.status_df.to_csv(self.csv_file, index=False)
 
     def is_official(self, blurb):  
         
@@ -206,27 +209,31 @@ class Analyzer:
                     item.update({'is_official': is_official})
                     rows.append(item)
                     
-                    if is_official == YES:  # no need to analyze further
-                        break
+                    # do NOT do this, we need to analyze all responses, since some might be official but not from town:
+                    # if is_official == YES:  # no need to analyze further
+                    #     break
                 
             df = pd.DataFrame(rows)
                 
             # Save the analysis DataFrame to a CSV file named with the unique city id
             df.to_csv(os.path.join(ANALYSIS_DIR,f'{unique_id}.csv'), index=False)
             
-            return True
         except FileNotFoundError:
             print(f"File {RESPONSES_DIR}/{unique_id}.json not found.")
-            return False
 
     def start(self):
-        for index, row in tqdm(self.df.iterrows()):
-            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] not in {YES, SKIP}:
-                unique_id = row[ID]
-                if self.analyze(unique_id):
-                    self.df.at[index, WAS_ANALYZED] = YES
-                self.save_csv()
-        self.save_csv()
+        for index, row in tqdm(self.status_df.iterrows()):
+            if row[WAS_CRAWLED] == YES:  # and row[WAS_ANALYZED] not in {YES, SKIP}:
+                try:
+                    unique_id = row[ID]
+                    self.analyze(unique_id)
+                    self.status_df.at[index, WAS_ANALYZED] = YES
+                except Exception as e:
+                    print(e)
+                    self.status_df.at[index, WAS_ANALYZED] = e
+                self.save_status()
+                
+        self.save_status()
     
     def print_result(self, result):
         print(f"Channel ID: {result['channel_id']}")
@@ -236,26 +243,49 @@ class Analyzer:
         print("\n")
         
 
-def aggregate_analysis_files(output_file):
+def aggregate_analysis_files(crawler, output_file):
     dfs = []
 
     # Iterate over each CSV file in the analysis folder
     for filename in os.listdir(ANALYSIS_DIR):
         if filename.endswith('.csv'):
             file_path = os.path.join(ANALYSIS_DIR, filename)
-            df = pd.read_csv(file_path)
+            try:
+                df = pd.read_csv(file_path)
+            except EmptyDataError:
+                print(f"Error reading {file_path}. Skipping it.")
+                continue
+            df['city_id'] = filename.split('.')[0]
+            
+            # Filter rows where 'Status' column is 'yes'
+            df = df[df['is_official'] == 'yes']
             dfs.append(df)
 
-    # Concatenate all dataframes into one
+    # Concatenate all DataFrames into one
     if dfs:
         combined_df = pd.concat(dfs, ignore_index=True)
-        # Save the combined dataframe to a new CSV file
         
+        # add a city name by joining with the status file
+        combined_df = combined_df.merge(crawler.df, left_on='city_id', right_on='id', how='left')
+        
+        # Remove duplicated rows
+        combined_df = combined_df.drop_duplicates()
+        
+        # convert the channel_id to a URL
+        combined_df['url'] = 'https://www.youtube.com/channel/' + combined_df['channel_id']
+        
+        # Save the combined DataFrame to a new CSV file, and store only relevant columns
         combined_df['is_confirmed'] = ''
+        
+        combined_df = combined_df.sort_values(by='city_id')
+        
         create_backup(output_file)
-        combined_df.to_csv(output_file, index=False)
+        combined_df.to_csv(
+            output_file, 
+            index=False, 
+            columns=['city_id', 'city', 'channel_id', 'url', 'channel_title', 'channel_description', 'is_official', 'is_confirmed'])
     else:
-        print("No CSV files found in the folder.")
+        print("No CSV files found in the analysis folder.")
 
 
 class VideoInfo(object):
@@ -263,7 +293,7 @@ class VideoInfo(object):
     Important video info
     """
     
-    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY1'))
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
     
     def __init__(self, video_id):
         self.id = video_id

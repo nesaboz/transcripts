@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "YKeAvDRPDrfhoLnbyjqWkzohL0k",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 71,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z3wmQhGy886D8POBUSD8_irNcXA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Wrn069kRlFSJPyijFutidsCl8Ok",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmqGSxxx-dHNOR8YHvNvHEQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-14T19:55:32Z",
+                    "channelId": "UCmqGSxxx-dHNOR8YHvNvHEQ",
+                    "title": "TruMiami",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUEye9KY0Kbz6fa6dEje9P-K-NvRCsDyV317CSRVRCe-s=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUEye9KY0Kbz6fa6dEje9P-K-NvRCsDyV317CSRVRCe-s=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUEye9KY0Kbz6fa6dEje9P-K-NvRCsDyV317CSRVRCe-s=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TruMiami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-09-14T19:55:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iVPbM6ng5HXEOBj3KRLAm-bOEZc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "J27P4dLPyT0ti9uNB98z1NKjXbw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-8iSGdmwUM7iSYZy0RvPlg"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-24T15:44:39Z",
+                    "channelId": "UC-8iSGdmwUM7iSYZy0RvPlg",
+                    "title": "pbSCRIMMAGE",
+                    "description": "Hey Guys It's pbSCRIMMAGE! Im on YouTube now to share videos of paintball from all over the world starting with Hialeah, FL.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kynZcQvAmDOxltTh025IZBfIQW7HE34BkI_ln8jmseQg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kynZcQvAmDOxltTh025IZBfIQW7HE34BkI_ln8jmseQg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kynZcQvAmDOxltTh025IZBfIQW7HE34BkI_ln8jmseQg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "pbSCRIMMAGE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-24T15:44:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fkk0JFb5JDred3zjQiE5kgm_XIo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "eWOOgHxRt0kWru8oUGMEL6b6ltQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 183,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0I0MmTisYDL6ebQlZupxs_SbY2c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCI3p9c__3qlEFi4iaQTOQaw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-11-03T22:19:36Z",
+                    "channelId": "UCI3p9c__3qlEFi4iaQTOQaw",
+                    "title": "cityofhialeah",
+                    "description": "Official City of Hialeah youtube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUzqA7EiYaUS-6Hv4OF-CAzDq2cQorOA28RM4qE5Qze7w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUzqA7EiYaUS-6Hv4OF-CAzDq2cQorOA28RM4qE5Qze7w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUzqA7EiYaUS-6Hv4OF-CAzDq2cQorOA28RM4qE5Qze7w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "cityofhialeah",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-11-03T22:19:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ijX0K3Nw5pxTl5bnUi5Pco4T6v0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMps-CGbD3-A-gBdgx5csOw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-04T00:53:02Z",
+                    "channelId": "UCMps-CGbD3-A-gBdgx5csOw",
+                    "title": "Las Calles de Hialeah, The Streets of Hialeah",
+                    "description": "conoscamos la ciudad que progresa en sur de la florida de los estados unidos,Do we know the city that is progressing in South ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/QiM7txe4tfwCYqJ-T17DftRruXVaBs0MmkVvHjXCHxx6vVpCy3u7T9BJMRKWC7RW3wn8iF-Mzw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/QiM7txe4tfwCYqJ-T17DftRruXVaBs0MmkVvHjXCHxx6vVpCy3u7T9BJMRKWC7RW3wn8iF-Mzw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/QiM7txe4tfwCYqJ-T17DftRruXVaBs0MmkVvHjXCHxx6vVpCy3u7T9BJMRKWC7RW3wn8iF-Mzw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Las Calles de Hialeah, The Streets of Hialeah",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-12-04T00:53:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "v5jrO_lZsSw6mQTHLr7cFkoXb5c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgPkOhpXuGfm0lkqNTjLyBA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-04T01:24:32Z",
+                    "channelId": "UCgPkOhpXuGfm0lkqNTjLyBA",
+                    "title": "Hialeah City FC",
+                    "description": "Mas que un Club una familia!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDthQfhiiUDOygUe_pvZblxSo663GuM7eC3eD7bNJ1Cw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDthQfhiiUDOygUe_pvZblxSo663GuM7eC3eD7bNJ1Cw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDthQfhiiUDOygUe_pvZblxSo663GuM7eC3eD7bNJ1Cw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hialeah City FC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-04T01:24:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0PlJ-6zQg33zcoG_Rc15wpbWwJs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIhF_PKdCJCdLsumiL3ekEg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-26T16:42:20Z",
+                    "channelId": "UCIhF_PKdCJCdLsumiL3ekEg",
+                    "title": "Robert Slattery",
+                    "description": "My name is Robert Slattery and I am a Realtor\u00ae that was born & raised in Hialeah, Florida where I have been a lifetime resident to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kJ94ED0prtzueKMON_A4bFZtaNefZOFmpH5z-69vmgmOg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kJ94ED0prtzueKMON_A4bFZtaNefZOFmpH5z-69vmgmOg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kJ94ED0prtzueKMON_A4bFZtaNefZOFmpH5z-69vmgmOg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Robert Slattery",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-12-26T16:42:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eE4auTrmi0iUUKlN-TO1lhKOqVg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChJ3i7t9Jqzl9HiHGxOHWcQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-18T21:44:30Z",
+                    "channelId": "UChJ3i7t9Jqzl9HiHGxOHWcQ",
+                    "title": "St. Barbara Catholic Church - DN",
+                    "description": "Dedicated channel for the streaming broadcast of the mass and other events that take place at St. Barbara parish in the city of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/AG3kNerMOJP917aReNkd3FwYLq4Sr9e6Yf0a3QENUjtzxu9umUIWNg-1yAoMzf_fouBx433Qhg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/AG3kNerMOJP917aReNkd3FwYLq4Sr9e6Yf0a3QENUjtzxu9umUIWNg-1yAoMzf_fouBx433Qhg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/AG3kNerMOJP917aReNkd3FwYLq4Sr9e6Yf0a3QENUjtzxu9umUIWNg-1yAoMzf_fouBx433Qhg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Barbara Catholic Church - DN",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-18T21:44:30Z"
+                }
+            }
+        ]
+    }
+]

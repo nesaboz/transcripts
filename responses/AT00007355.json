@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "hl90o86ETViJ-H9Y5Kazu8z9T4o",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 32,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "R8Qa3RhPNYXL7QQMDJVfb1nU5uQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBlzlIHHUEU3wzXr5wcby9Q"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-28T19:55:27Z",
+                    "channelId": "UCBlzlIHHUEU3wzXr5wcby9Q",
+                    "title": "Steve Williams, Edgewater Home Team",
+                    "description": "Stephen B. Williams, a native of Jacksonville, FL, Steve has more than 40 years of experience in helping hundreds of his clients ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Mo3thka4Rt3TbnSs3TgZAITjiccVlcEjKvwa1DIjN26D9SRXJAyoBuOJUV9z1iLTCSGGUynqjQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Mo3thka4Rt3TbnSs3TgZAITjiccVlcEjKvwa1DIjN26D9SRXJAyoBuOJUV9z1iLTCSGGUynqjQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Mo3thka4Rt3TbnSs3TgZAITjiccVlcEjKvwa1DIjN26D9SRXJAyoBuOJUV9z1iLTCSGGUynqjQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Steve Williams, Edgewater Home Team",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-06-28T19:55:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4fY-Znjjk94hdz4J688EeRag59A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiSjLCXpa7BCa-ackNxu00A"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-14T23:35:22Z",
+                    "channelId": "UCiSjLCXpa7BCa-ackNxu00A",
+                    "title": "Your Homegirls Around Town",
+                    "description": "Hi, meet Your Homegirls Team! Local Real Estate Agents serving and living in Coastal Central Florida! Join us as we meet the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/jFGFoJNVMkYpKAfwP6d_Ek9KMg8zG2ruUNlihPYuNk3JqYH_3O8TCFxxQ0PRvYWIGFopzXMsIj0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/jFGFoJNVMkYpKAfwP6d_Ek9KMg8zG2ruUNlihPYuNk3JqYH_3O8TCFxxQ0PRvYWIGFopzXMsIj0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/jFGFoJNVMkYpKAfwP6d_Ek9KMg8zG2ruUNlihPYuNk3JqYH_3O8TCFxxQ0PRvYWIGFopzXMsIj0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Your Homegirls Around Town",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-14T23:35:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aMlzD2o6-Tox-GjwbgVbOGxFVoc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbj2OSG1hxUimBn-lAcOE_Q"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-19T00:53:54Z",
+                    "channelId": "UCbj2OSG1hxUimBn-lAcOE_Q",
+                    "title": "Don Hillyer",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mgrEZB-z9R2WNtoZHbtif0HcsxynVSFn7j4_O9U-IgJg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mgrEZB-z9R2WNtoZHbtif0HcsxynVSFn7j4_O9U-IgJg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mgrEZB-z9R2WNtoZHbtif0HcsxynVSFn7j4_O9U-IgJg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Don Hillyer",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-19T00:53:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9IZjYpbZTzQglLtpkMhqmjGRfRo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCWmZ1lAG6fQnkY3vwTIhRQ"
+                },
+                "snippet": {
+                    "publishedAt": "2012-01-13T23:58:19Z",
+                    "channelId": "UCCWmZ1lAG6fQnkY3vwTIhRQ",
+                    "title": "Shalimar Rodz",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/J_kh69yP-X7MnlJa6YX4XMT8zj6wluDvYwWJkxgIAkIMN12DnqlNSQNX7cs0Bh6xG95iRPkg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/J_kh69yP-X7MnlJa6YX4XMT8zj6wluDvYwWJkxgIAkIMN12DnqlNSQNX7cs0Bh6xG95iRPkg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/J_kh69yP-X7MnlJa6YX4XMT8zj6wluDvYwWJkxgIAkIMN12DnqlNSQNX7cs0Bh6xG95iRPkg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Shalimar Rodz",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-01-13T23:58:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "adkKy5zeicxfQW6C1axwam34pZ0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-22T14:36:03Z",
+                    "channelId": "UCtZT0FbMqI_caBY4QsgkHBQ",
+                    "title": "Deltona TV",
+                    "description": "Deltona TV is the Communication and Information Station for the City of Deltona and Southwest Volusia County. City commission ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aJTztkU8ERLvPxBkvvhZnGX-NxQ2REUKw9KzpQQyzj5mCmkrIFl9ITdtVStiYjtIH1R0HSiI6A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Deltona TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-22T14:36:03Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "gzrVp5vTkOz6MwGE0TD2fy4lSyA",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 142,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vfS8zW0L71-6y_mX2AUoVcZf3AY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCI_r0uHACBVupYf2slPWXkw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-25T22:33:27Z",
+                    "channelId": "UCI_r0uHACBVupYf2slPWXkw",
+                    "title": "City of Edgewater, FL",
+                    "description": "City of Edgewater has many wonderful events and an amazing culture.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldOEmKFQKI3keq5nmkSEIojz1EBMwIUj0kUgJtohuQEw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldOEmKFQKI3keq5nmkSEIojz1EBMwIUj0kUgJtohuQEw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldOEmKFQKI3keq5nmkSEIojz1EBMwIUj0kUgJtohuQEw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Edgewater, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-25T22:33:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VFIEleo9NIqnksJkKBYy2svOvz0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkFILv3kYZLUMbjJBBtLGww"
+                },
+                "snippet": {
+                    "publishedAt": "2021-06-06T16:26:29Z",
+                    "channelId": "UCkFILv3kYZLUMbjJBBtLGww",
+                    "title": "Edgewater Environment Alliance",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Dt6EDCgDEkn8DqOB3Tl2EQW07TFyvE3K9LhcmkvlxnVJmf70pAk1IIa3DuguBI8Nkd6W6egTCf4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Dt6EDCgDEkn8DqOB3Tl2EQW07TFyvE3K9LhcmkvlxnVJmf70pAk1IIa3DuguBI8Nkd6W6egTCf4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Dt6EDCgDEkn8DqOB3Tl2EQW07TFyvE3K9LhcmkvlxnVJmf70pAk1IIa3DuguBI8Nkd6W6egTCf4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Edgewater Environment Alliance",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-06-06T16:26:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "L29AAMVz9Pp8kJfAKB_sBJ2HnFU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-14T01:32:06Z",
+                    "channelId": "UCXNYGZS97xfuVePY812ps6w",
+                    "title": "Edgewater Church",
+                    "description": "Edgewater Church is located in Port Charlotte, FL. Our mission statement is \"Helping people meet, know, and serve Jesus Christ.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_noXmot0neP1FtxJb8XIXivNGxe3Fk9wXnK9wwLuuSS5tg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Edgewater Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-14T01:32:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ndnTYvfILgtCX2E5ebxlN6IICn8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCECtaH84nP285EbHcCXk5Mw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-24T02:42:23Z",
+                    "channelId": "UCECtaH84nP285EbHcCXk5Mw",
+                    "title": "Edgewater Gymnastics",
+                    "description": "Edgewater Gymnastics Panama City Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5HPa894LGLB0PwiYsuZPxbi_oSa6i0uO5S80QfUVptqU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5HPa894LGLB0PwiYsuZPxbi_oSa6i0uO5S80QfUVptqU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5HPa894LGLB0PwiYsuZPxbi_oSa6i0uO5S80QfUVptqU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Edgewater Gymnastics",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-24T02:42:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2HksWphrS9_rOLDoAk0isBbGj3g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-01T20:09:12Z",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ",
+                    "title": "Florida Life Real Estate Group",
+                    "description": "Welcome to Florida Life Real Estate's Youtube Channel. We hope you like our videos. We share clients homes that we have listed ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Life Real Estate Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-01T20:09:12Z"
+                }
+            }
+        ]
+    }
+]

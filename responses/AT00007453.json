@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "aWkcc4YPVmn7LqNHI0bpW_mFnJE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 40,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9TYNMku4uF0pztdw2cx5OcPbgy0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0Tgjh474pDdq76fqjt3rFA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-07T20:42:18Z",
+                    "channelId": "UC0Tgjh474pDdq76fqjt3rFA",
+                    "title": "Crossroads Village Center",
+                    "description": "Crossroads Village Center is designed to offer the best in urban living, with light, airy living spaces attracting various enterprises ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EHNzTrLf3jsOou4bDwGZA1_6A-PyriJGBxVJGM9mkIaj3ZFGHmOT8S6VMxksiSy0nmr_STsnAw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EHNzTrLf3jsOou4bDwGZA1_6A-PyriJGBxVJGM9mkIaj3ZFGHmOT8S6VMxksiSy0nmr_STsnAw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EHNzTrLf3jsOou4bDwGZA1_6A-PyriJGBxVJGM9mkIaj3ZFGHmOT8S6VMxksiSy0nmr_STsnAw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Crossroads Village Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-07T20:42:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uh0QFuAU7XFW4-J-eNTNyzQ0gsE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCW_uu-xANpNbitNi1c2E9kQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-19T17:19:57Z",
+                    "channelId": "UCW_uu-xANpNbitNi1c2E9kQ",
+                    "title": "St. Ann Catholic Church Haines City",
+                    "description": "We believe, as a community, that each one of us has a unique contribution to make in the form of our time, God-given talents, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lE2djL7wksnWZjGoDglfpJPUOsBQXYcMYdXIRLaO279A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lE2djL7wksnWZjGoDglfpJPUOsBQXYcMYdXIRLaO279A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lE2djL7wksnWZjGoDglfpJPUOsBQXYcMYdXIRLaO279A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Ann Catholic Church Haines City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-19T17:19:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6uxwNmYFhUEZbKqWgAUYsl8Q4CU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5onC7tUJ6HzU1_ORbIa-iA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-03-25T02:51:09Z",
+                    "channelId": "UC5onC7tUJ6HzU1_ORbIa-iA",
+                    "title": "tahuanting romero",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4uI-64ezSeap_OnMS28F8lPmnvXAV9lMyEfq4V7DkL0k=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4uI-64ezSeap_OnMS28F8lPmnvXAV9lMyEfq4V7DkL0k=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4uI-64ezSeap_OnMS28F8lPmnvXAV9lMyEfq4V7DkL0k=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "tahuanting romero",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-03-25T02:51:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RV9_Pp8_sNMjk6o0nGdk5o6eyAo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSw12u0SIvu5khLzkewwJPw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-02T07:47:42Z",
+                    "channelId": "UCSw12u0SIvu5khLzkewwJPw",
+                    "title": "Cove Communities",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mUpeeBDJIvEmQYrA4NyCE4jAjwH1n3UgbUXRNn8VtjwA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mUpeeBDJIvEmQYrA4NyCE4jAjwH1n3UgbUXRNn8VtjwA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mUpeeBDJIvEmQYrA4NyCE4jAjwH1n3UgbUXRNn8VtjwA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Cove Communities",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-11-02T07:47:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PefyUx-x8qJ91QVmnmq5qN9w89w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdzmPsG6-zJSpIxMK9yVdeQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-04-27T19:03:06Z",
+                    "channelId": "UCdzmPsG6-zJSpIxMK9yVdeQ",
+                    "title": "LIVING IN CENTRAL FLORIDA",
+                    "description": "Are you wondering what it's like living in Central Florida? Well, this is the channel you need! I totally love this town and my #1 goal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8YTMTVlzSdFz-Mn72hpE8g_MGgBYaeXmTjF2PSlz9Tg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8YTMTVlzSdFz-Mn72hpE8g_MGgBYaeXmTjF2PSlz9Tg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8YTMTVlzSdFz-Mn72hpE8g_MGgBYaeXmTjF2PSlz9Tg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN CENTRAL FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-04-27T19:03:06Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "W9cU_pD1DfESY71qFmzjyODv67M",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 636,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LlN3Z4uC1VfYX-chUEiQQ2_drLE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC89rQD66ctf4q7S8MObOtdA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-26T14:37:39Z",
+                    "channelId": "UC89rQD66ctf4q7S8MObOtdA",
+                    "title": "City of Haines City",
+                    "description": "The Official YouTube channel for Haines City, FL. Visit www.HainesCity.com.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/L3QwRRtSvwsWre2bUst25alLOdCFIulbWtwHiFJqpscVmKqLL8M0slVEMTNIMZNCiOQeFZAc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/L3QwRRtSvwsWre2bUst25alLOdCFIulbWtwHiFJqpscVmKqLL8M0slVEMTNIMZNCiOQeFZAc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/L3QwRRtSvwsWre2bUst25alLOdCFIulbWtwHiFJqpscVmKqLL8M0slVEMTNIMZNCiOQeFZAc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Haines City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-08-26T14:37:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "EfErpkvCPrR_nKfTenMQy6W_vyA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRpBNCVwEVvOV_EFYSfhrXg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-22T17:17:51Z",
+                    "channelId": "UCRpBNCVwEVvOV_EFYSfhrXg",
+                    "title": "First Presbyterian Church Haines City, FL",
+                    "description": "First Presbyterian Church of Haines City FL https://fpchainescity.org.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8a2rRTBcyegRWPnUMWQktVdzZW-F220YZ1xXH-Vzxdg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8a2rRTBcyegRWPnUMWQktVdzZW-F220YZ1xXH-Vzxdg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8a2rRTBcyegRWPnUMWQktVdzZW-F220YZ1xXH-Vzxdg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Presbyterian Church Haines City, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-22T17:17:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K3dcn6vNOu5hFHuqMyz1xlmdo48",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaWzKHsea9iqQ-PwAJAGw2A"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-10T22:10:46Z",
+                    "channelId": "UCaWzKHsea9iqQ-PwAJAGw2A",
+                    "title": "Lakeview SDAC Haines City Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/QKbmRfqtJE3e6IwrVwY7Lqb7IuK7ejbm8F6o4gB0bO0-T_E7IsGJ-ccGKQqhOvtE-frTHUZIDg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/QKbmRfqtJE3e6IwrVwY7Lqb7IuK7ejbm8F6o4gB0bO0-T_E7IsGJ-ccGKQqhOvtE-frTHUZIDg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/QKbmRfqtJE3e6IwrVwY7Lqb7IuK7ejbm8F6o4gB0bO0-T_E7IsGJ-ccGKQqhOvtE-frTHUZIDg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lakeview SDAC Haines City Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-10T22:10:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mDRj6VTZPuRFbeS3ZZNjO62zFVM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-Ha1sjLAZ-oI6TWZzVLiEg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-15T23:00:32Z",
+                    "channelId": "UC-Ha1sjLAZ-oI6TWZzVLiEg",
+                    "title": "Landmark Baptist Church",
+                    "description": "Welcome to the official YouTube channel of Landmark Baptist Church in Haines City, Florida. This channel is for livestreaming our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hgDPEUsreFkE2yUYc2JB3lJvzU9yZRWc_RDUcUxEsr3dtCQipPBx3y5o-tHkd4hx-2kw6Fvq=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hgDPEUsreFkE2yUYc2JB3lJvzU9yZRWc_RDUcUxEsr3dtCQipPBx3y5o-tHkd4hx-2kw6Fvq=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hgDPEUsreFkE2yUYc2JB3lJvzU9yZRWc_RDUcUxEsr3dtCQipPBx3y5o-tHkd4hx-2kw6Fvq=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Landmark Baptist Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-08-15T23:00:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lx8miKGy2Xy3uyM76INaU6Pihps",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCB8Shtl3x2Q0UTfWxgBCOWA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-18T13:00:15Z",
+                    "channelId": "UCB8Shtl3x2Q0UTfWxgBCOWA",
+                    "title": "Eastside Elementary Haines City, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lN-MEbdWq0xb9FKHeeFgX-Hd9ay9QeN7tOKMlCBaxuhQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lN-MEbdWq0xb9FKHeeFgX-Hd9ay9QeN7tOKMlCBaxuhQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lN-MEbdWq0xb9FKHeeFgX-Hd9ay9QeN7tOKMlCBaxuhQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Eastside Elementary Haines City, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-18T13:00:15Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "HoXupYJ2NDkjXQpN1bd9FgOVMTs",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 16698,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fkk0JFb5JDred3zjQiE5kgm_XIo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Lm4BLSaOaPol-HSvkZ6x4_IAZwA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU2uyfHx6HAvywVyPhNfiXw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-22T14:07:45Z",
+                    "channelId": "UCU2uyfHx6HAvywVyPhNfiXw",
+                    "title": "LAS OLAS CITY CENTRE FORT LAUDERDALE, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LAS OLAS CITY CENTRE FORT LAUDERDALE, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-02-22T14:07:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K-riqp1DpjD7g_d0UpJK1354rH8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsprMhyXP67xlrU0tHiAGaw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-22T03:48:19Z",
+                    "channelId": "UCsprMhyXP67xlrU0tHiAGaw",
+                    "title": "Pentecostal City Mission Church\u2014Fort Lauderdale",
+                    "description": "A bible believing body of believers, followers of Christ, whose main purpose is to lift up the name of Jesus, to sing His praises, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pentecostal City Mission Church\u2014Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-22T03:48:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Gh8tF4wWkSb2CedxuxUv28EgU1c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWzfy_7pMANNgLETQy08tow"
+                },
+                "snippet": {
+                    "publishedAt": "2022-11-23T20:58:13Z",
+                    "channelId": "UCWzfy_7pMANNgLETQy08tow",
+                    "title": "Living in Fort Lauderdale Florida",
+                    "description": "Are you wondering what it is like to live in Fort Lauderdale Florida? Well, this is the channel you need! We absolutely love this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/bnijFfGWGx-bqJfb9Jm5ob2hKoQzYL4oyKTMq2SIrtCV7stnUsnmJshqX4lm4SKuUNc7VCl4FQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/bnijFfGWGx-bqJfb9Jm5ob2hKoQzYL4oyKTMq2SIrtCV7stnUsnmJshqX4lm4SKuUNc7VCl4FQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/bnijFfGWGx-bqJfb9Jm5ob2hKoQzYL4oyKTMq2SIrtCV7stnUsnmJshqX4lm4SKuUNc7VCl4FQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Fort Lauderdale Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-11-23T20:58:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AmmQtpC8l53LfXoRgqF_pZeyHBE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrRm32cN_Npb-9Lxp3-70dA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-08T07:50:01Z",
+                    "channelId": "UCrRm32cN_Npb-9Lxp3-70dA",
+                    "title": "City Walk",
+                    "description": "Embark on an exciting adventure with @CityWalk. and discover the world's most fascinating travel destinations. From bustling ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ifD3YtmRFpycZqPe6ks1ZkUnFhciPBIHCOk9KolpQpubk8yih3EgA0XsCfRxjrieJTbgp7WptQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ifD3YtmRFpycZqPe6ks1ZkUnFhciPBIHCOk9KolpQpubk8yih3EgA0XsCfRxjrieJTbgp7WptQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ifD3YtmRFpycZqPe6ks1ZkUnFhciPBIHCOk9KolpQpubk8yih3EgA0XsCfRxjrieJTbgp7WptQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Walk",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-08T07:50:01Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ccnViD1SS7JSV6Rr2evyOZvRkwk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 12696,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fkk0JFb5JDred3zjQiE5kgm_XIo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K-riqp1DpjD7g_d0UpJK1354rH8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsprMhyXP67xlrU0tHiAGaw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-22T03:48:19Z",
+                    "channelId": "UCsprMhyXP67xlrU0tHiAGaw",
+                    "title": "Pentecostal City Mission Church\u2014Fort Lauderdale",
+                    "description": "A bible believing body of believers, followers of Christ, whose main purpose is to lift up the name of Jesus, to sing His praises, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8I3EsPLQ9fHxqCLZMegYb_jRX00ivVtG1uVAF3sIkacKTGeSaiVf3qlvaO-bD3Q7dTjNzAG4b58=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pentecostal City Mission Church\u2014Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-22T03:48:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TctNt2EzJDv6Q4k2XrZpyhj2Hc4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn7YBmTy2fKvinLiZPZYcIQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-14T13:58:58Z",
+                    "channelId": "UCn7YBmTy2fKvinLiZPZYcIQ",
+                    "title": "CFLCA Florida",
+                    "description": "The Council of Fort Lauderdale Civic Associations\u201d was formed in 1980. According to our Bylaws, the purpose of the Council is to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkTWgXeB-nD5yPV3NPEJSjLynMMO4HsDj-XvB6TVF81g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkTWgXeB-nD5yPV3NPEJSjLynMMO4HsDj-XvB6TVF81g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkTWgXeB-nD5yPV3NPEJSjLynMMO4HsDj-XvB6TVF81g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CFLCA Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-04-14T13:58:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Lm4BLSaOaPol-HSvkZ6x4_IAZwA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU2uyfHx6HAvywVyPhNfiXw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-22T14:07:45Z",
+                    "channelId": "UCU2uyfHx6HAvywVyPhNfiXw",
+                    "title": "LAS OLAS CITY CENTRE FORT LAUDERDALE, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k8T36cDrW_couaxWKTP-XFbDr2vRWX3rMOEoKz49E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LAS OLAS CITY CENTRE FORT LAUDERDALE, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-02-22T14:07:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "raoSIbi--QaiBC0wsKJBsgBYHhw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T17:22:58Z",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
+                    "title": "City of Hollywood",
+                    "description": "The City of Hollywood, Florida's YouTube Channel contains videos produced by the Office of Communications, Marketing and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Hollywood",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-31T17:22:58Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "hCwToVdwgT7-Uc9DIdQRsf3_7vE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 14,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8uUFsV1KSPXJMi32SJzCO7PlVtI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-08T07:37:23Z",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ",
+                    "title": "Long Island Audit",
+                    "description": "Constitutional Activist Investigative Journalist Exercising Constitutional Rights in a respectful manner. We The People will NOT ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Long Island Audit",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-08T07:37:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1lOzhZw7h3E_WRa2uW9yTcWOyio",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-13T19:12:44Z",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ",
+                    "title": "Life on the Emerald Coast",
+                    "description": "We are dedicated to showcasing Life on the Emerald Coast. Are you wondering what it is like to live in Destin Florida, Fort Walton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life on the Emerald Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-13T19:12:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WyoBzdCls6KV7q3KEJiAqffiX-k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCttHrB0G_94A5hPnztF3W2Q"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-17T21:34:47Z",
+                    "channelId": "UCttHrB0G_94A5hPnztF3W2Q",
+                    "title": "LIVING IN DESTIN FLORIDA",
+                    "description": "Are you wondering what it is like to live in Destin Florida? Well, this is the channel you need! We absolutely love this town and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/cC4zLW7_1LcmQEut9n3dWd_VeOzf98mzk2F3bxahIDVyS3F_Fb4lM7XiKqROr09w0gxvRldg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/cC4zLW7_1LcmQEut9n3dWd_VeOzf98mzk2F3bxahIDVyS3F_Fb4lM7XiKqROr09w0gxvRldg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/cC4zLW7_1LcmQEut9n3dWd_VeOzf98mzk2F3bxahIDVyS3F_Fb4lM7XiKqROr09w0gxvRldg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN DESTIN FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-17T21:34:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SLcI1Od9udQ0MAn2g3SoYqK273E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNb3RgYRa-fAFEqYLrcOaGg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-18T19:15:55Z",
+                    "channelId": "UCNb3RgYRa-fAFEqYLrcOaGg",
+                    "title": "Jordan Dennis - Leading You Home",
+                    "description": "This is your page for real estate information and listing videos on Florida's Emerald Coast, particularly the communities around ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/znj4C-YW8mlEpeSPIGFbI3lr46uhEk0HhfWIfvPtX3Oc_MkXhh-PpA2cuRpmgm09DuLLPNa_cA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/znj4C-YW8mlEpeSPIGFbI3lr46uhEk0HhfWIfvPtX3Oc_MkXhh-PpA2cuRpmgm09DuLLPNa_cA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/znj4C-YW8mlEpeSPIGFbI3lr46uhEk0HhfWIfvPtX3Oc_MkXhh-PpA2cuRpmgm09DuLLPNa_cA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jordan Dennis - Leading You Home",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-18T19:15:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JJ7jey5eQepx56tcZKw51t7vPxI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsfOBYjll95yo7jS3uhZEKw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-22T04:49:26Z",
+                    "channelId": "UCsfOBYjll95yo7jS3uhZEKw",
+                    "title": "Riri",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/cEgAQ0jVoy0M6J7qod81B7Uxp2hUuIsbngFtCE7HTLH2L0vJ4sP7fN1tK1FECj1wmN8mm1GP6w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/cEgAQ0jVoy0M6J7qod81B7Uxp2hUuIsbngFtCE7HTLH2L0vJ4sP7fN1tK1FECj1wmN8mm1GP6w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/cEgAQ0jVoy0M6J7qod81B7Uxp2hUuIsbngFtCE7HTLH2L0vJ4sP7fN1tK1FECj1wmN8mm1GP6w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riri",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-22T04:49:26Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "cyYjN17t-ykifg9PGtb4fFhoRVI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 90,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YNTvkdytEhxM1UJ833AkfZxqBM0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLom2uqVK0rQ_QpyO6m9uxg"
+                },
+                "snippet": {
+                    "publishedAt": "2021-10-25T17:30:09Z",
+                    "channelId": "UCLom2uqVK0rQ_QpyO6m9uxg",
+                    "title": "City of Freeport",
+                    "description": "This site is not monitored at all times, do not use this forum to report emergency situations and/or time-sensitive issues. City Hall ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rNHvSzEFrKsSG4a1keDUyMXM4Uyey6UeU7dkFPPurmBXVIPLEXyul-1d6sN0sysxGO3exYfy=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rNHvSzEFrKsSG4a1keDUyMXM4Uyey6UeU7dkFPPurmBXVIPLEXyul-1d6sN0sysxGO3exYfy=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rNHvSzEFrKsSG4a1keDUyMXM4Uyey6UeU7dkFPPurmBXVIPLEXyul-1d6sN0sysxGO3exYfy=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Freeport",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-10-25T17:30:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "METaeV530A9N-ZScDDAyiS-OIC0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJDpXoxytnjXELA6S8sx__Q"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-23T16:01:59Z",
+                    "channelId": "UCJDpXoxytnjXELA6S8sx__Q",
+                    "title": "StudentEscape",
+                    "description": "StudentEscape provides an unforgettable experience for college students across the US during Spring Break. If looking for more ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxTuj7N1tTpQlP-iYu__TSSK-3Sde_E5_ZrIHURurFqQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxTuj7N1tTpQlP-iYu__TSSK-3Sde_E5_ZrIHURurFqQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nxTuj7N1tTpQlP-iYu__TSSK-3Sde_E5_ZrIHURurFqQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "StudentEscape",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-23T16:01:59Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U1mOBxps01nIUEvsAJLfVpp8LV4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-11T16:23:00Z",
+                    "channelId": "UCULwAoCDC-aHRtofvReacUA",
+                    "title": "Destiny Worship Center",
+                    "description": "Welcome to the official Destiny Worship Center YouTube channel which features the latest sermons and preaching from our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kl865JG-jgo6ibEIbLf4PLMsA3uMl6DgZNmMllLeVOvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Destiny Worship Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-11T16:23:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "q73TCNNDzMnBMSDk8qfO_qes2FY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOvB4zACEKYhTHmtzznl10Q"
+                },
+                "snippet": {
+                    "publishedAt": "2024-01-03T19:12:28Z",
+                    "channelId": "UCOvB4zACEKYhTHmtzznl10Q",
+                    "title": "Living on the Emerald Coast, Florida | DESTIN-PCB",
+                    "description": "Are you wondering what life is like living on the Emerald Coast? Well, this is the channel you need! Moving to Northwest Florida is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6Y1FSyPslbrg_gIHQNb7zBTEndsDytIJyoFoxFdFCvRpMMqBNn89cJ6We7F8JXN05EMvRMvOSw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6Y1FSyPslbrg_gIHQNb7zBTEndsDytIJyoFoxFdFCvRpMMqBNn89cJ6We7F8JXN05EMvRMvOSw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6Y1FSyPslbrg_gIHQNb7zBTEndsDytIJyoFoxFdFCvRpMMqBNn89cJ6We7F8JXN05EMvRMvOSw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living on the Emerald Coast, Florida | DESTIN-PCB",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-01-03T19:12:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JS79HulKfX4Djl0CCbjBpr78ceQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoAoQiBgnKONNOwuHnhC7yQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-05-10T22:35:16Z",
+                    "channelId": "UCoAoQiBgnKONNOwuHnhC7yQ",
+                    "title": "Jeff Phillips - Your Trusted Destin & 30A Realtor",
+                    "description": "Real estate agent serving Destin, 30A, Panama City Beach, Freeport, and Santa Rosa Beach Florida. Having grown up in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qaQVOOCuf2-SXwjObGE7kxk5Em3K-HE8mq3Crr3oTvIv64KqM8AjEE50V88jeDSWxzX-CK8Q-A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qaQVOOCuf2-SXwjObGE7kxk5Em3K-HE8mq3Crr3oTvIv64KqM8AjEE50V88jeDSWxzX-CK8Q-A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qaQVOOCuf2-SXwjObGE7kxk5Em3K-HE8mq3Crr3oTvIv64KqM8AjEE50V88jeDSWxzX-CK8Q-A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jeff Phillips - Your Trusted Destin & 30A Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-05-10T22:35:16Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "rRoc3ldrKuRDoCnbNvxJdNCnWR8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 62,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6TdgRZZ8He-ZornC2-i2et6wAoU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqAtMzvK306flC7dEPhAJjQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-05-06T20:17:58Z",
+                    "channelId": "UCqAtMzvK306flC7dEPhAJjQ",
+                    "title": "Columbia County Florida",
+                    "description": "This channel is to live stream and archive public Board of County Commissioner Meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGXjwpO5JpkxGLDAVya5cXS7yykeHjpD4ShhnicXN4Ow=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGXjwpO5JpkxGLDAVya5cXS7yykeHjpD4ShhnicXN4Ow=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mGXjwpO5JpkxGLDAVya5cXS7yykeHjpD4ShhnicXN4Ow=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Columbia County Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-05-06T20:17:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lim0l3gC1jJpfvPQxjhgNkD2mpQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-30T00:21:13Z",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g",
+                    "title": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "description": "Michelle Thomas is a top-producing Realtor in the Naples and Marco Island, Florida area. Specializing in luxury residential real ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-05-30T00:21:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "n9EAoowFHksAHUiexJq2KfoO4tM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHIjbw0_2A_B2jNwhKeRapw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-22T21:09:41Z",
+                    "channelId": "UCHIjbw0_2A_B2jNwhKeRapw",
+                    "title": "White-Wilson Medical Center",
+                    "description": "White-Wilson Medical Center occupies a unique position on Florida's Emerald Coast as one of the largest, multi-specialty, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n1L02FrcTgv6BtWTJEvpT6SwLhR5qy8sWZSsSAioabnrI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n1L02FrcTgv6BtWTJEvpT6SwLhR5qy8sWZSsSAioabnrI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n1L02FrcTgv6BtWTJEvpT6SwLhR5qy8sWZSsSAioabnrI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "White-Wilson Medical Center",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-22T21:09:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XdKB8RZf5yormtZpke4WLtH1IEQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCakIVH4t7k4vZe1AWPpewgA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-09-10T20:12:54Z",
+                    "channelId": "UCakIVH4t7k4vZe1AWPpewgA",
+                    "title": "Tommy G",
+                    "description": "I make the craziest documentaries on YouTube.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/adI386kbDXkzSyY-2MhhxY6SOaZfjjzlvAW8RPTaS-JUx-MWiyM82Sf0m5uVstEqLSCNqU53q-M=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/adI386kbDXkzSyY-2MhhxY6SOaZfjjzlvAW8RPTaS-JUx-MWiyM82Sf0m5uVstEqLSCNqU53q-M=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/adI386kbDXkzSyY-2MhhxY6SOaZfjjzlvAW8RPTaS-JUx-MWiyM82Sf0m5uVstEqLSCNqU53q-M=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tommy G",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-09-10T20:12:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MRTh7sluMStnxotow__cbeHpEZc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKygRpISlqs5TufcT3JtRng"
+                },
+                "snippet": {
+                    "publishedAt": "2007-01-02T19:40:57Z",
+                    "channelId": "UCKygRpISlqs5TufcT3JtRng",
+                    "title": "Dale Philip",
+                    "description": "My travel experiences.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/7c1rPub45-lySlWXWffuMPUUpJPvhFjzxpr4Ymba-bVmSzRGCnCXGO-FTO6_xyoMT4HeZzE5Pw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/7c1rPub45-lySlWXWffuMPUUpJPvhFjzxpr4Ymba-bVmSzRGCnCXGO-FTO6_xyoMT4HeZzE5Pw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/7c1rPub45-lySlWXWffuMPUUpJPvhFjzxpr4Ymba-bVmSzRGCnCXGO-FTO6_xyoMT4HeZzE5Pw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dale Philip",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-01-02T19:40:57Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "qgFzY24IwzloPd7t6SYGlooRatU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 153,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_2s-SazN2n49NNkKQMy4C-Xq1KU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-15T18:15:10Z",
+                    "channelId": "UC9MNwMuigm3PeKHacwz2xQQ",
+                    "title": "City of Newberry",
+                    "description": "Official YouTube channel for the City of Newberry. Includes commission meetings and other municipal government meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kWmBUzpY0g47080q09wr2LMtXrWF5nvrXZX7i2B7jwVB8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Newberry",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-15T18:15:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cf58jgSYnr8c5x0qPHtNEkZofJk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwmkVV1il8iFFZzphSKyjeA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-13T06:49:04Z",
+                    "channelId": "UCwmkVV1il8iFFZzphSKyjeA",
+                    "title": "Matthew Rende",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmBnnL5d7Tj0ikI2cKp7P7MyC5OlQAXNm3TDce2K1NCh0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmBnnL5d7Tj0ikI2cKp7P7MyC5OlQAXNm3TDce2K1NCh0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mmBnnL5d7Tj0ikI2cKp7P7MyC5OlQAXNm3TDce2K1NCh0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Matthew Rende",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-13T06:49:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9fcz4XHhyRoLihsk2Fjn-O-WHOs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbSVilC_zBzrUbd7rqPzm6g"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-18T00:57:38Z",
+                    "channelId": "UCbSVilC_zBzrUbd7rqPzm6g",
+                    "title": "WhiteSands Treatment",
+                    "description": "WhiteSands Treatment is a leader in the #addiction treatment field for #drugs #alcohol and #prescription treatment. We are a multi ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWOHbZ19EeL9BchjBAUBSEfuspwWmg16gVHSr0oXDwLw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWOHbZ19EeL9BchjBAUBSEfuspwWmg16gVHSr0oXDwLw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWOHbZ19EeL9BchjBAUBSEfuspwWmg16gVHSr0oXDwLw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WhiteSands Treatment",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-18T00:57:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "oCBQLuM-GOuLLftZWuwwT46RzS8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiOdJ4o1H7V4bYZTcXbA3CA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-07T05:10:37Z",
+                    "channelId": "UCiOdJ4o1H7V4bYZTcXbA3CA",
+                    "title": "Poudii",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Poudii",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-07T05:10:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RdKmO55m1TYW3z6Dt7fp-c_OTH4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCv_1pD19YIxXbQYz6TQ9Cmg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-20T02:51:06Z",
+                    "channelId": "UCv_1pD19YIxXbQYz6TQ9Cmg",
+                    "title": "Temanian",
+                    "description": "Temanian.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/5ObZRM0Hc2mob1oYxv8qsxHVDkBwqj7KCKg0nv7ZB2hMmL9Hk4cONGozIJ2fMAysKMnR5tk0Zg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/5ObZRM0Hc2mob1oYxv8qsxHVDkBwqj7KCKg0nv7ZB2hMmL9Hk4cONGozIJ2fMAysKMnR5tk0Zg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/5ObZRM0Hc2mob1oYxv8qsxHVDkBwqj7KCKg0nv7ZB2hMmL9Hk4cONGozIJ2fMAysKMnR5tk0Zg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Temanian",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-20T02:51:06Z"
+                }
+            }
+        ]
+    }
+]

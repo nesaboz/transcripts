@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "s7OhblQ_L0XFxy4-0Yyw74LOZ2Q",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 72,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3A8QYw-2EJxpZPTfhhdBzD0Ozmo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCy9RpLRNl9smN4zqjiA6YwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-12T18:41:47Z",
+                    "channelId": "UCy9RpLRNl9smN4zqjiA6YwQ",
+                    "title": "Living in Orlando Florida",
+                    "description": "Moving to/from/around Orlando Florida? Let's Chat! \u2b07\ufe0f We are all about living in and around Orlando Florida, moving to Orlando ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/nnWmmXap0F-P1YdXAGJFdUCz3gSlG3V7m-h9_-13PzzW1n2_rj8uDBPPf8YtbxhRgUkpzJ9z=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/nnWmmXap0F-P1YdXAGJFdUCz3gSlG3V7m-h9_-13PzzW1n2_rj8uDBPPf8YtbxhRgUkpzJ9z=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/nnWmmXap0F-P1YdXAGJFdUCz3gSlG3V7m-h9_-13PzzW1n2_rj8uDBPPf8YtbxhRgUkpzJ9z=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Orlando Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-12T18:41:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vBda8avfB6vTbD2WL6wzbg520nU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTFKXUOVf-51YFQ2hEYiB-w"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-26T02:57:37Z",
+                    "channelId": "UCTFKXUOVf-51YFQ2hEYiB-w",
+                    "title": "Your Friends From Florida",
+                    "description": "Hello everyone. We are a retired couple who moved to Florida 11 years ago to enjoy the Magic of Disney, all the theme parks, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hdPB3fdeHySb-draZJcLfbfBZmrokKYGoeUl3PmwVzrWoL3WipnvVW-KlR6a5AUemYm5Yx1YB3s=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hdPB3fdeHySb-draZJcLfbfBZmrokKYGoeUl3PmwVzrWoL3WipnvVW-KlR6a5AUemYm5Yx1YB3s=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hdPB3fdeHySb-draZJcLfbfBZmrokKYGoeUl3PmwVzrWoL3WipnvVW-KlR6a5AUemYm5Yx1YB3s=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Your Friends From Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-26T02:57:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IAZkTWfDZIEvyYBs-4ocwD3BV1U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrQ1C-fAM6-apA5ie02maJg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-17T01:18:42Z",
+                    "channelId": "UCrQ1C-fAM6-apA5ie02maJg",
+                    "title": "Central Florida\u2019s BEST",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nsMTt92BgxCZYksgIugtkAw-LL3OXQO1Kt4a-dxkHDVA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nsMTt92BgxCZYksgIugtkAw-LL3OXQO1Kt4a-dxkHDVA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nsMTt92BgxCZYksgIugtkAw-LL3OXQO1Kt4a-dxkHDVA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Central Florida\u2019s BEST",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-17T01:18:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7K1H3Vo_aHV_hJjE1rBjjSKD17s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBu-mXEEKKH6kLJ-wZ79vHw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-06-25T18:12:44Z",
+                    "channelId": "UCBu-mXEEKKH6kLJ-wZ79vHw",
+                    "title": "Wandering Florida 4K",
+                    "description": "Welcome to Wandering Florida 4K. Here I bring different places visited in Florida, USA with relaxing rides straight to you in 4K.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HQmfuUYCpjpZaHjf-QfJPldhlxwXdCR66i5Ux6vyiwMauERAXhSqZS-uBd89r9kxVhENZu8WdQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HQmfuUYCpjpZaHjf-QfJPldhlxwXdCR66i5Ux6vyiwMauERAXhSqZS-uBd89r9kxVhENZu8WdQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HQmfuUYCpjpZaHjf-QfJPldhlxwXdCR66i5Ux6vyiwMauERAXhSqZS-uBd89r9kxVhENZu8WdQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Wandering Florida 4K",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-06-25T18:12:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "q6y_B-YLNBG4VUBdVdG887ajgpk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGQ3Ob8J8QT0S5yubkHLm6A"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-09T18:17:11Z",
+                    "channelId": "UCGQ3Ob8J8QT0S5yubkHLm6A",
+                    "title": "Mahland Official",
+                    "description": "This is Mahland, A Christian band that was originally started in the small town of Clermont Florida. A group of close friends with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kp2So7ER6zBWFIexPyQ39RpZhjPSq69QTBLv82mVjerco=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kp2So7ER6zBWFIexPyQ39RpZhjPSq69QTBLv82mVjerco=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kp2So7ER6zBWFIexPyQ39RpZhjPSq69QTBLv82mVjerco=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Mahland Official",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-09T18:17:11Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "YXLL8l-yUsxYbQ7UBr3VI8u00Vs",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 203,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "J4-Od9T64PUPLhbgIIUJpvC6XjY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoRJ3ToTTjZw4AxMoMfX-og"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-23T06:58:27Z",
+                    "channelId": "UCoRJ3ToTTjZw4AxMoMfX-og",
+                    "title": "City of Clermont Government",
+                    "description": "Official YouTube channel for the city of Clermont, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mHi3PfOgLtiWR-lJsE3JQUraJ4Abi6iZn4KEJoeOprfA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mHi3PfOgLtiWR-lJsE3JQUraJ4Abi6iZn4KEJoeOprfA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mHi3PfOgLtiWR-lJsE3JQUraJ4Abi6iZn4KEJoeOprfA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Clermont Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-23T06:58:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eUmFMTd7lyKODu8S5a16jtc371g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC83omkDSs0CZxnEfYCUF4vA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-10T23:43:30Z",
+                    "channelId": "UC83omkDSs0CZxnEfYCUF4vA",
+                    "title": "Vote Rick Van Wagner for City of Clermont Mayor",
+                    "description": "Paid Political Advertisement Paid for and Approved by Rick Van Wagner \u2013 Candidate for Clermont City Council - Mayor Seat 3.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nVogW6QZnS-l90hG_ozUTTjJezwo91SORPqta-mOpTeg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nVogW6QZnS-l90hG_ozUTTjJezwo91SORPqta-mOpTeg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nVogW6QZnS-l90hG_ozUTTjJezwo91SORPqta-mOpTeg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Vote Rick Van Wagner for City of Clermont Mayor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-09-10T23:43:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "x71oBkWkGghtTdoNaMbzIfpQNOg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR5Ski6KPUDBCqx03Tp6s9w"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-25T15:51:24Z",
+                    "channelId": "UCR5Ski6KPUDBCqx03Tp6s9w",
+                    "title": "Family Christian Center Church",
+                    "description": "We believe that every person, Christian and non-Christian alike, is valuable to God and to His Kingdom. Because people are ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ONdoMsw6TqCLoIiWPWOMLvHFNbyYA5ooAKh2IqHsx8XZcPB7Oe9PTQq0cNXsDroC129D-A1q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ONdoMsw6TqCLoIiWPWOMLvHFNbyYA5ooAKh2IqHsx8XZcPB7Oe9PTQq0cNXsDroC129D-A1q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ONdoMsw6TqCLoIiWPWOMLvHFNbyYA5ooAKh2IqHsx8XZcPB7Oe9PTQq0cNXsDroC129D-A1q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Family Christian Center Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-25T15:51:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aaoJDZvV0wN47keA208skWSFCok",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWaK8r50rGMbf_zJ5bXlSOg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-13T13:02:21Z",
+                    "channelId": "UCWaK8r50rGMbf_zJ5bXlSOg",
+                    "title": "Clermont CityGuide",
+                    "description": "Clermont Florida's Resource Directory of Events, Community, Business, and Lifestyle of our Gem of the Hill. \"'The Best in Our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/w_NBHDfp72iVskx2jwf3rPJQSou44Xji7NH1lIbDDIWZn4OTSe7x6Et1k2gDTdpY4KX-jUaz=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/w_NBHDfp72iVskx2jwf3rPJQSou44Xji7NH1lIbDDIWZn4OTSe7x6Et1k2gDTdpY4KX-jUaz=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/w_NBHDfp72iVskx2jwf3rPJQSou44Xji7NH1lIbDDIWZn4OTSe7x6Et1k2gDTdpY4KX-jUaz=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Clermont CityGuide",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-13T13:02:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2Rjp4AXa1JGlTiEtAJSwu_X2hNs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-31T18:34:17Z",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ",
+                    "title": "The Florida Agents",
+                    "description": "Hey there. We are Tom and Shirley Guercio\u2014 an award-winning husband and wife real estate team in the Clermont / Winter ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Florida Agents",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-31T18:34:17Z"
+                }
+            }
+        ]
+    }
+]
