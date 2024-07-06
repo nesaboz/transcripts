@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "YCo0V8vOjJCUUC72YnMy2YWCIrE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 45,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hjR8A_cmo2h0O1rZyAxhMijM2Xo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7LnJbQ5-hRxKLdpXiNFvuA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-11T18:03:01Z",
+                    "channelId": "UC7LnJbQ5-hRxKLdpXiNFvuA",
+                    "title": "LaBelle Downtown Revitalization Corporation",
+                    "description": "Old Florida is not gone, it is rooted in the heart of Southwest Florida in beautiful LaBelle. Explore our Downtown LaBelle nestled ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LaBelle Downtown Revitalization Corporation",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-11T18:03:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5SJFM2UW_gxtV373TF41fEuHZr4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkT_OrXhYOTbsoYxitdHhCA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-03-20T19:01:38Z",
+                    "channelId": "UCkT_OrXhYOTbsoYxitdHhCA",
+                    "title": "Palm Harbor",
+                    "description": "Palm Harbor Homes builds and sells one of the nation's best selling brands of manufactured homes and modular homes.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Palm Harbor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-03-20T19:01:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TOENuh2sxopP4pq7h6Pyw0pzp18",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4cOAa8IaKPLkfniYAR_yzQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-18T20:19:10Z",
+                    "channelId": "UC4cOAa8IaKPLkfniYAR_yzQ",
+                    "title": "Royal Roofing of Florida",
+                    "description": "Hello, we are Royal Roofing of Florida! We are Experienced Roofers (12+ Years) that work on Re-Roofs, Roof Replacements and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Royal Roofing of Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-18T20:19:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ld4uZKnidTtnq9oSewDjyRhVSv0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU46FpCi1VYG-elmFuSxrRQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-19T19:27:46Z",
+                    "channelId": "UCU46FpCi1VYG-elmFuSxrRQ",
+                    "title": "Go Pokey Go",
+                    "description": "Sometime we go fast and sometimes we go slow.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Go Pokey Go",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-19T19:27:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vSCCTvXFgPT42Pl3BiZ_X0kVelE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCghv0xD2CZOHocrR7klh6hw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-16T22:55:18Z",
+                    "channelId": "UCghv0xD2CZOHocrR7klh6hw",
+                    "title": "Casper From Labelle",
+                    "description": "This channel is for educational and entertainment purposes. And for medical marijuana patients in Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_iLpXj_tiF4wqMUEPIvj8ExPIjRHEKqih2_lBUijH8uBubvR6M2RuGpi1gRcjdFt1OBu25NX=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_iLpXj_tiF4wqMUEPIvj8ExPIjRHEKqih2_lBUijH8uBubvR6M2RuGpi1gRcjdFt1OBu25NX=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_iLpXj_tiF4wqMUEPIvj8ExPIjRHEKqih2_lBUijH8uBubvR6M2RuGpi1gRcjdFt1OBu25NX=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Casper From Labelle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-16T22:55:18Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "rJhUMlfBhCslIDwSFLvhpE0Kyx0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 41,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hjR8A_cmo2h0O1rZyAxhMijM2Xo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7LnJbQ5-hRxKLdpXiNFvuA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-11T18:03:01Z",
+                    "channelId": "UC7LnJbQ5-hRxKLdpXiNFvuA",
+                    "title": "LaBelle Downtown Revitalization Corporation",
+                    "description": "Old Florida is not gone, it is rooted in the heart of Southwest Florida in beautiful LaBelle. Explore our Downtown LaBelle nestled ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ni1-RoaOkKsmrS7rkYbpnE16lrfXvqYGbyuYsk9jiWNCY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LaBelle Downtown Revitalization Corporation",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-11T18:03:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ShCeoXufhLKn9uje2hbP1L9c4yc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkT_OrXhYOTbsoYxitdHhCA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-03-20T19:01:38Z",
+                    "channelId": "UCkT_OrXhYOTbsoYxitdHhCA",
+                    "title": "Palm Harbor",
+                    "description": "Palm Harbor Homes builds and sells one of the nation's best selling brands of manufactured homes and modular homes.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe3XSo6WCMl7mJXygLcXIKcwwIB1b6coCZ73GehB9dS8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Palm Harbor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-03-20T19:01:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TOENuh2sxopP4pq7h6Pyw0pzp18",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4cOAa8IaKPLkfniYAR_yzQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-18T20:19:10Z",
+                    "channelId": "UC4cOAa8IaKPLkfniYAR_yzQ",
+                    "title": "Royal Roofing of Florida",
+                    "description": "Hello, we are Royal Roofing of Florida! We are Experienced Roofers (12+ Years) that work on Re-Roofs, Roof Replacements and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zOeDYi3u8Z5i9uYgtCaXq8aJvSYPCcSG6jRqM6HtuXntEzt2zlgW93LyyhdLMn9_wwkOdsQ2bA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Royal Roofing of Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-18T20:19:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ld4uZKnidTtnq9oSewDjyRhVSv0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU46FpCi1VYG-elmFuSxrRQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-19T19:27:46Z",
+                    "channelId": "UCU46FpCi1VYG-elmFuSxrRQ",
+                    "title": "Go Pokey Go",
+                    "description": "Sometime we go fast and sometimes we go slow.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/xDvyCS_NlLNV6T5gugh88mv8M_ATwAcfl8oREPnKfw_ZQ-PNf-LwuKsiSwSDukRuRAldOf0R=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Go Pokey Go",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-19T19:27:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KXwCOK_NGLSp0aPtjWp-6TJRHPA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyJrvAz1ur8ZsQhLht7-17A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-11-15T04:32:26Z",
+                    "channelId": "UCyJrvAz1ur8ZsQhLht7-17A",
+                    "title": "Eco.Misa77",
+                    "description": "South Florida just for fun.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ZxZ1hVqfiTau_w64wY2mDe1HTRNPE_ePKUqWcbU3QzM-zC2Z0Iyi9OHurt5TxJktQRjWAN_uBA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ZxZ1hVqfiTau_w64wY2mDe1HTRNPE_ePKUqWcbU3QzM-zC2Z0Iyi9OHurt5TxJktQRjWAN_uBA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ZxZ1hVqfiTau_w64wY2mDe1HTRNPE_ePKUqWcbU3QzM-zC2Z0Iyi9OHurt5TxJktQRjWAN_uBA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Eco.Misa77",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-11-15T04:32:26Z"
+                }
+            }
+        ]
+    }
+]

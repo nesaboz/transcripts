@@ -20,7 +20,7 @@ AT00007125,bal harbour village,yes,yes
 AT00007131,bartow,yes,yes
 AT00007133,bascom,yes,yes
 AT00007135,bay harbor islands,yes,yes
-AT00007138,bay lake,yes,skip
+AT00007138,bay lake,yes,"Expecting ',' delimiter: line 146 column 21 (char 7947)"
 AT00007150,bell,yes,yes
 AT00007152,belleair,yes,yes
 AT00007157,belle glade,yes,yes
@@ -151,106 +151,106 @@ AT00007465,hawthorne,yes,yes
 AT00007470,hialeah,yes,yes
 AT00007472,highland beach,yes,yes
 AT00007474,highland park village,yes,yes
-AT00007476,high springs,,
-AT00007477,hillcrest heights,,
-AT00007478,hilliard,,
-AT00007480,hillsboro beach,,
-AT00007486,holly hill,,
-AT00007487,hollywood,,
-AT00007488,holmes beach,,
-AT00007489,homeland,,
-AT00007490,homestead,,
-AT00007492,homosassa,,
-AT00007493,homosassa springs,,
-AT00007495,horseshoe beach,,
-AT00007497,howey-in-the-hills,,
-AT00007501,hypoluxo,,
-AT00007503,indialantic,,
-AT00007504,indian creek village,,
-AT00007505,indian harbour beach,,
-AT00007507,indian river shores,,
-AT00007508,indian rocks beach,,
-AT00007509,indian shores,,
-AT00007510,indiantown,,
-AT00007511,inglis,,
-AT00007512,interlachen,,
-AT00007513,inverness,,
-AT00007517,iona,,
-AT00007518,"islamorada, village of islands village",,
-AT00007523,jacksonville,,
-AT00007524,jacksonville beach,,
-AT00007525,jacob,,
-AT00007528,jasper,,
-AT00007529,jay,,
-AT00007530,jennings,,
-AT00007531,jensen beach,,
-AT00007533,juno beach,,
-AT00007535,jupiter,,
-AT00007543,kenneth,,
-AT00007546,key biscayne village,,
-AT00007547,key colony beach,,
-AT00007549,keystone,,
-AT00007552,key west,,
-AT00007554,kissimmee,,
-AT00007555,labelle,,
-AT00007558,lady lake,,
-AT00007560,lake alfred,,
-AT00007562,lake buena vista,,
-AT00007564,lake butler,,
-AT00007565,lake city,,
-AT00007566,lake clarke shores,,
-AT00007567,lake hamilton,,
-AT00007570,lake helen,,
-AT00007572,lakeland,,
-AT00007578,lake mary,,
-AT00007582,lake park,,
-AT00007583,lake placid,,
-AT00007586,lake wales,,
-AT00007589,lake worth beach,,
-AT00007591,land o' lakes,,
-AT00007592,lantana,,
-AT00007593,largo,,
-AT00007594,lauderdale-by-the-sea,,
-AT00007595,lauderdale lakes,,
-AT00007596,lauderhill,,
-AT00007597,laurel,,
-AT00007599,lawtey,,
-AT00007600,layton,,
-AT00007601,lazy lake village,,
-AT00007603,lecanto,,
-AT00007604,lee,,
-AT00007605,leesburg,,
-AT00007606,lehigh acres,,
-AT00007608,lely,,
-AT00007611,lighthouse point,,
-AT00007615,live oak,,
-AT00007619,longboat key,,
-AT00007620,longwood,,
-AT00007624,loxahatchee groves,,
-AT00007626,lynn haven,,
-AT00007627,macclenny,,
-AT00007628,mcgregor,,
-AT00007629,mcintosh,,
-AT00007630,madeira beach,,
-AT00007631,madison,,
-AT00007632,maitland,,
-AT00007633,malabar,,
-AT00007634,malone,,
-AT00007635,manalapan,,
-AT00007638,mango,,
-AT00007639,mangonia park,,
-AT00007640,marathon,,
-AT00007641,marco island,,
-AT00007642,margate,,
-AT00007643,marianna,,
-AT00007644,marineland,,
-AT00007645,mary esther,,
-AT00007647,mascotte,,
-AT00007650,mayo,,
-AT00007653,medley,,
-AT00007655,melbourne,,
-AT00007659,merritt island,,
-AT00007660,mexico beach,,
+AT00007476,high springs,yes,yes
+AT00007477,hillcrest heights,yes,yes
+AT00007478,hilliard,yes,yes
+AT00007480,hillsboro beach,yes,yes
+AT00007486,holly hill,yes,yes
+AT00007487,hollywood,yes,yes
+AT00007488,holmes beach,yes,yes
+AT00007489,homeland,yes,yes
+AT00007490,homestead,yes,yes
+AT00007492,homosassa,yes,yes
+AT00007493,homosassa springs,yes,yes
+AT00007495,horseshoe beach,yes,yes
+AT00007497,howey-in-the-hills,yes,yes
+AT00007501,hypoluxo,yes,yes
+AT00007503,indialantic,yes,yes
+AT00007504,indian creek village,yes,yes
+AT00007505,indian harbour beach,yes,yes
+AT00007507,indian river shores,yes,yes
+AT00007508,indian rocks beach,yes,yes
+AT00007509,indian shores,yes,yes
+AT00007510,indiantown,yes,yes
+AT00007511,inglis,yes,yes
+AT00007512,interlachen,yes,yes
+AT00007513,inverness,yes,yes
+AT00007517,iona,yes,yes
+AT00007518,"islamorada, village of islands village",yes,yes
+AT00007523,jacksonville,yes,yes
+AT00007524,jacksonville beach,yes,yes
+AT00007525,jacob,yes,yes
+AT00007528,jasper,yes,yes
+AT00007529,jay,yes,yes
+AT00007530,jennings,yes,yes
+AT00007531,jensen beach,yes,yes
+AT00007533,juno beach,yes,yes
+AT00007535,jupiter,yes,yes
+AT00007543,kenneth,yes,yes
+AT00007546,key biscayne village,yes,yes
+AT00007547,key colony beach,yes,yes
+AT00007549,keystone,yes,yes
+AT00007552,key west,yes,yes
+AT00007554,kissimmee,yes,yes
+AT00007555,labelle,yes,yes
+AT00007558,lady lake,yes,yes
+AT00007560,lake alfred,yes,yes
+AT00007562,lake buena vista,yes,yes
+AT00007564,lake butler,yes,yes
+AT00007565,lake city,yes,yes
+AT00007566,lake clarke shores,yes,yes
+AT00007567,lake hamilton,yes,yes
+AT00007570,lake helen,yes,yes
+AT00007572,lakeland,yes,yes
+AT00007578,lake mary,yes,yes
+AT00007582,lake park,yes,yes
+AT00007583,lake placid,yes,yes
+AT00007586,lake wales,yes,yes
+AT00007589,lake worth beach,yes,yes
+AT00007591,land o' lakes,yes,yes
+AT00007592,lantana,yes,yes
+AT00007593,largo,yes,yes
+AT00007594,lauderdale-by-the-sea,yes,yes
+AT00007595,lauderdale lakes,yes,yes
+AT00007596,lauderhill,yes,yes
+AT00007597,laurel,yes,yes
+AT00007599,lawtey,yes,yes
+AT00007600,layton,yes,yes
+AT00007601,lazy lake village,yes,yes
+AT00007603,lecanto,yes,yes
+AT00007604,lee,yes,yes
+AT00007605,leesburg,yes,yes
+AT00007606,lehigh acres,yes,yes
+AT00007608,lely,yes,yes
+AT00007611,lighthouse point,yes,yes
+AT00007615,live oak,yes,yes
+AT00007619,longboat key,yes,yes
+AT00007620,longwood,yes,yes
+AT00007624,loxahatchee groves,yes,yes
+AT00007626,lynn haven,yes,yes
+AT00007627,macclenny,yes,yes
+AT00007628,mcgregor,yes,yes
+AT00007629,mcintosh,yes,yes
+AT00007630,madeira beach,yes,yes
+AT00007631,madison,yes,yes
+AT00007632,maitland,yes,yes
+AT00007633,malabar,yes,yes
+AT00007634,malone,yes,yes
+AT00007635,manalapan,yes,yes
+AT00007638,mango,yes,yes
+AT00007639,mangonia park,yes,yes
+AT00007640,marathon,yes,yes
+AT00007641,marco island,yes,yes
+AT00007642,margate,yes,yes
+AT00007643,marianna,yes,yes
+AT00007644,marineland,yes,yes
+AT00007645,mary esther,yes,yes
+AT00007647,mascotte,yes,yes
+AT00007650,mayo,yes,yes
+AT00007653,medley,yes,yes
+AT00007655,melbourne,yes,yes
+AT00007659,merritt island,yes,yes
+AT00007660,mexico beach,yes,yes
 AT00007661,miami,,
 AT00007665,miami shores village,,
 AT00007667,micanopy,,

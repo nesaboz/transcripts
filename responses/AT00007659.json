@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "8_UzjoJukC3LEHHFACTyCJJMpzg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 17,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6OT3vpc0AonY8DKXGBWyylyQOYE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQShHdBtLuKhNIZubS_LX6Q"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-02T20:59:48Z",
+                    "channelId": "UCQShHdBtLuKhNIZubS_LX6Q",
+                    "title": "Merritt Island Cocoa Beach Homes",
+                    "description": "Real Estate for the Florida Space Coast.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBFzMS8EIxzVirUgAfx429vDXzo7fZAEM9gt6040FQyAE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBFzMS8EIxzVirUgAfx429vDXzo7fZAEM9gt6040FQyAE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBFzMS8EIxzVirUgAfx429vDXzo7fZAEM9gt6040FQyAE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Merritt Island Cocoa Beach Homes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-02T20:59:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fzbPSxkM1HgqrDJpTbwuH9CS-SM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6Dsro8EKE5ivMCSODoYh9w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-04-01T21:36:07Z",
+                    "channelId": "UC6Dsro8EKE5ivMCSODoYh9w",
+                    "title": "Albert Ring",
+                    "description": "A Rising Real Estate Professional in Brevard County, Florida. Videos promoting real estate in Brevard County, Florida, and Sales.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhum_p1WdJgz8hSQPLZKbqMvwlKF_NcozpLYSDla5dvQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhum_p1WdJgz8hSQPLZKbqMvwlKF_NcozpLYSDla5dvQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhum_p1WdJgz8hSQPLZKbqMvwlKF_NcozpLYSDla5dvQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Albert Ring",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-04-01T21:36:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wp4z9yCDdj1xFHLrY8aNzLkpAO4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCowbRrjNbzoUxbAL2WBMYUA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-16T06:15:41Z",
+                    "channelId": "UCowbRrjNbzoUxbAL2WBMYUA",
+                    "title": "OnLostStars",
+                    "description": "Hey people of YouTube my name is Alec :P I live in a town...city...area.. place thingy named Merritt Island, Florida. This channel is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mrOrOnySPDADLHWcKGS4ehiaMzCupmw362TLOQg0I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mrOrOnySPDADLHWcKGS4ehiaMzCupmw362TLOQg0I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mrOrOnySPDADLHWcKGS4ehiaMzCupmw362TLOQg0I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "OnLostStars",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-16T06:15:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4_TlV8gqt8U1VUzd9ydkt87Dt5w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_3bYaTNTowZU9jnHEoepzw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-30T00:14:26Z",
+                    "channelId": "UC_3bYaTNTowZU9jnHEoepzw",
+                    "title": "TitusvilleRealEstate",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4F_QOaE8Qvt8Alo2FeoakyyiuzPRLOkGaT5CM6Ww=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4F_QOaE8Qvt8Alo2FeoakyyiuzPRLOkGaT5CM6Ww=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4F_QOaE8Qvt8Alo2FeoakyyiuzPRLOkGaT5CM6Ww=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TitusvilleRealEstate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-30T00:14:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XMPlpmgdoSC_g3KMyU83WfefVSQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChQtoWHA7rrqjUPhx_jpfqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-17T14:29:18Z",
+                    "channelId": "UChQtoWHA7rrqjUPhx_jpfqQ",
+                    "title": "Brevard Drone",
+                    "description": "We are Brevard Drone. Home to epic and honest aerial visuals. If a picture is worth a thousand words, then video is worth a million ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mpORjrznqsZChgigM79a5XUZ6ez3_ppP9JOQ9xsopsBA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mpORjrznqsZChgigM79a5XUZ6ez3_ppP9JOQ9xsopsBA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mpORjrznqsZChgigM79a5XUZ6ez3_ppP9JOQ9xsopsBA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Brevard Drone",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-17T14:29:18Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "KhgM1Wp_5jkETzQMuD14yaGr8FQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 63,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ApErNgveKhJtYww2P0ONJ84Bu7s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvQPDngBunvcPZsioiJuQ_g"
+                },
+                "snippet": {
+                    "publishedAt": "2010-04-14T14:41:04Z",
+                    "channelId": "UCvQPDngBunvcPZsioiJuQ_g",
+                    "title": "CityOfTitusville",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldf2V37VpKuN9EMqDZ1AIL5AYIp4bDgrOXHsz1w8J2inA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldf2V37VpKuN9EMqDZ1AIL5AYIp4bDgrOXHsz1w8J2inA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ldf2V37VpKuN9EMqDZ1AIL5AYIp4bDgrOXHsz1w8J2inA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityOfTitusville",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-04-14T14:41:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S3b2tnqb8G6YS3sKPpP98jocqx0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC11hy4SA6eV1QW5qTSopFAw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-15T18:17:53Z",
+                    "channelId": "UC11hy4SA6eV1QW5qTSopFAw",
+                    "title": "TitusvilleFloridaUSA",
+                    "description": "All about the city of Titusville, Florida, gateway to nature and space. Titusville is a city in Brevard County, Florida in the United ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k7R8wfPqwfVCWa1mkToDHeT38JSepp4miPGYcT5DhyrA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k7R8wfPqwfVCWa1mkToDHeT38JSepp4miPGYcT5DhyrA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k7R8wfPqwfVCWa1mkToDHeT38JSepp4miPGYcT5DhyrA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TitusvilleFloridaUSA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-06-15T18:17:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pK-E2Vn181lSeOIK5eThauq6Zi8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4gWlMz3JNETkYlZ2lcfc9w"
+                },
+                "snippet": {
+                    "publishedAt": "2012-02-21T00:17:48Z",
+                    "channelId": "UC4gWlMz3JNETkYlZ2lcfc9w",
+                    "title": "floridaplanerides",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBLeAHyY6J5vaU0xorhbvSj84lb0-iGEAXYbaY9Hc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBLeAHyY6J5vaU0xorhbvSj84lb0-iGEAXYbaY9Hc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBLeAHyY6J5vaU0xorhbvSj84lb0-iGEAXYbaY9Hc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "floridaplanerides",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-02-21T00:17:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1FEUHPEDBUBa6Cwq2UrN55sMWhI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T19:51:29Z",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA",
+                    "title": "City of Cocoa, Florida",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T19:51:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "r_2EWNsgWhoJHSyDiCCAlq5LoBM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            }
+        ]
+    }
+]

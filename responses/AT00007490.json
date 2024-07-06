@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "vAI0pJqJU3XLxmGuXWRJE5QKA78",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 622,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F6F6UbDKZ81tScCpGnGqJz-ArG8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgtCgXFiFEzGd845Hyzye5g"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-01T19:14:31Z",
+                    "channelId": "UCgtCgXFiFEzGd845Hyzye5g",
+                    "title": "TheCityofHomestead",
+                    "description": "City of Homestead Meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TheCityofHomestead",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-04-01T19:14:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8CE-qxmneu2nIz3saWWuXE-zqF8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC13x2MqDtKg3V9wOzerGjGA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-13T00:00:27Z",
+                    "channelId": "UC13x2MqDtKg3V9wOzerGjGA",
+                    "title": "The Urban Harvest - Homegrown Education",
+                    "description": "Elise Pickett of The Urban Harvest teaches sustainable & organic Florida based vegetable gardening tips, tricks, and tutorials as ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmLwCfe3wP5wpXjocRbHU6h90CWPVh5Dhuo_lt2JI69hs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmLwCfe3wP5wpXjocRbHU6h90CWPVh5Dhuo_lt2JI69hs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmLwCfe3wP5wpXjocRbHU6h90CWPVh5Dhuo_lt2JI69hs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Urban Harvest - Homegrown Education",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-01-13T00:00:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KrjT6ncIHTbbie8qkWM8sdG4nOk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxT1AraCLhYstB4UBOjgz_A"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-09T14:18:47Z",
+                    "channelId": "UCxT1AraCLhYstB4UBOjgz_A",
+                    "title": "CityofHomestead",
+                    "description": "Located just north of the laid-back Florida Keys and South of bustling Miami, Homestead offers the perfect blend of both worlds.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityofHomestead",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-09T14:18:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pisJC6VT-74wy38C63ePK5cmots",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNByLLuuM-rQYT7HOyK77KA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-03T21:37:48Z",
+                    "channelId": "UCNByLLuuM-rQYT7HOyK77KA",
+                    "title": "Bethel Sda Florida City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bethel Sda Florida City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-03T21:37:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jTxDLXuDsFYVhJpYwaAunqna4Jk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-JnLxUGvbftVx8vII_Vkgg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-06T14:14:08Z",
+                    "channelId": "UC-JnLxUGvbftVx8vII_Vkgg",
+                    "title": "Relay For Life of Homestead & Florida City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Relay For Life of Homestead & Florida City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-06T14:14:08Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "Mu-hK0XbuX0c-4zrawAWn3ywEZU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 392,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F6F6UbDKZ81tScCpGnGqJz-ArG8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgtCgXFiFEzGd845Hyzye5g"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-01T19:14:31Z",
+                    "channelId": "UCgtCgXFiFEzGd845Hyzye5g",
+                    "title": "TheCityofHomestead",
+                    "description": "City of Homestead Meetings.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mOWlS408uGAz5Cp4WHPh55cgrzerMOQvNhww5XZ6M6eQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TheCityofHomestead",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-04-01T19:14:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KrjT6ncIHTbbie8qkWM8sdG4nOk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxT1AraCLhYstB4UBOjgz_A"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-09T14:18:47Z",
+                    "channelId": "UCxT1AraCLhYstB4UBOjgz_A",
+                    "title": "CityofHomestead",
+                    "description": "Located just north of the laid-back Florida Keys and South of bustling Miami, Homestead offers the perfect blend of both worlds.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_naGcDfLMw6Qp4m4Nio-QupvBzrUcQhwMqBm2ozfWYOeg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityofHomestead",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-09T14:18:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jTxDLXuDsFYVhJpYwaAunqna4Jk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-JnLxUGvbftVx8vII_Vkgg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-06T14:14:08Z",
+                    "channelId": "UC-JnLxUGvbftVx8vII_Vkgg",
+                    "title": "Relay For Life of Homestead & Florida City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_npERCI59XSTvxyw1n10AHz12lVYqOV2J_HZswkMvc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Relay For Life of Homestead & Florida City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-06T14:14:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DVvHXy_QgEz2oQ925yFxhJ7XGIk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjMr7-4TifCkEYwts7hxIeg"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-26T15:58:09Z",
+                    "channelId": "UCjMr7-4TifCkEYwts7hxIeg",
+                    "title": "Quality Inn Florida City - Homestead",
+                    "description": "We offer a convenient location to: South Beach (30 miles), Key Largo, Everglades and Biscayne National Parks, golf courses, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lS0n-FySintcxMyY4t94MjoQcNnO0LTaocvEjNyalBxeA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lS0n-FySintcxMyY4t94MjoQcNnO0LTaocvEjNyalBxeA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lS0n-FySintcxMyY4t94MjoQcNnO0LTaocvEjNyalBxeA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Quality Inn Florida City - Homestead",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-26T15:58:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pisJC6VT-74wy38C63ePK5cmots",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNByLLuuM-rQYT7HOyK77KA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-03T21:37:48Z",
+                    "channelId": "UCNByLLuuM-rQYT7HOyK77KA",
+                    "title": "Bethel Sda Florida City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/u2Owl2QeI7Nb3fVXCYFfX29XS8WR61_ui0SwbXX8_rJjEbOsWjtoETiKaYVNcywaCto8Xld0iw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bethel Sda Florida City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-03T21:37:48Z"
+                }
+            }
+        ]
+    }
+]

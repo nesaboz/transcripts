@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "RzjGtxeMpOfhYsd1EXpGKILeC3s",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 277,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZhmxRC3mRiT8nwu3cCwpTwWvTEY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCncwxP4Mx5GFK_AktC8WdwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-27T15:25:18Z",
+                    "channelId": "UCncwxP4Mx5GFK_AktC8WdwQ",
+                    "title": "City of Lake Worth Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lake Worth Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-10-27T15:25:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9DOZTghFH7zz-scxpO987HfBVfw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAEozhrsyw38iJBo7mmFdog"
+                },
+                "snippet": {
+                    "publishedAt": "2007-07-15T02:07:45Z",
+                    "channelId": "UCAEozhrsyw38iJBo7mmFdog",
+                    "title": "Wes Blackman",
+                    "description": "Wes Blackman is a certified urban planner, specializing in historic preservation, assisting clients by guiding them through the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Wes Blackman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-07-15T02:07:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "A_fqQYbtVwbBj4_MsgRFwmEBYeg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-19T22:54:17Z",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ",
+                    "title": "LIVING IN PALM BEACH FLORIDA",
+                    "description": "Originally from New York, I relocated my family to South Florida 18 years ago. Knowing that we wanted to live in Florida but not ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN PALM BEACH FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-19T22:54:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E_T6xetK6-JVsQs457ZF76JsdlA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ghRDeFOWS0r_-DgJM25OOq8oFks",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "nOpp6y2OXU65ODYmBFBOMPmydEg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 203,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZhmxRC3mRiT8nwu3cCwpTwWvTEY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCncwxP4Mx5GFK_AktC8WdwQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-27T15:25:18Z",
+                    "channelId": "UCncwxP4Mx5GFK_AktC8WdwQ",
+                    "title": "City of Lake Worth Beach",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltjx6ONJvOzxJoplqSED1O50JBJE-scFMGDwGuKyjTVg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lake Worth Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-10-27T15:25:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9DOZTghFH7zz-scxpO987HfBVfw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAEozhrsyw38iJBo7mmFdog"
+                },
+                "snippet": {
+                    "publishedAt": "2007-07-15T02:07:45Z",
+                    "channelId": "UCAEozhrsyw38iJBo7mmFdog",
+                    "title": "Wes Blackman",
+                    "description": "Wes Blackman is a certified urban planner, specializing in historic preservation, assisting clients by guiding them through the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nNHgJI-JWfkwFEmJyhj8nRxb0zMaD88oaKhrIQWV0qGk6d=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Wes Blackman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-07-15T02:07:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "15oDosVCqtr1OJeow_UgEWGHFgY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-19T22:54:17Z",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ",
+                    "title": "LIVING IN PALM BEACH FLORIDA",
+                    "description": "Originally from New York, I relocated my family to South Florida 18 years ago. Knowing that we wanted to live in Florida but not ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN PALM BEACH FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-19T22:54:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xW7BzRrUI9lEQgbJGrIOtJlJVZ4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5tn79skqwXHLCHo3u5aLndz0420",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeD5NwvPbEZKcu02_v8tUZQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-05-02T18:54:32Z",
+                    "channelId": "UCeD5NwvPbEZKcu02_v8tUZQ",
+                    "title": "WPBF 25 News",
+                    "description": "Welcome to WPBF 25's YouTube channel, where you'll find videos of Live, Local, Late Breaking news and weather coverage from ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBl8_sXFoVzjMUCG03Sgv0D4IWr_7khW8XcAiVBaKv5w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBl8_sXFoVzjMUCG03Sgv0D4IWr_7khW8XcAiVBaKv5w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lBl8_sXFoVzjMUCG03Sgv0D4IWr_7khW8XcAiVBaKv5w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPBF 25 News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-05-02T18:54:32Z"
+                }
+            }
+        ]
+    }
+]

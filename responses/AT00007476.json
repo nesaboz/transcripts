@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sRYjMoaAc-RW-FzkP21xa78IYFw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 291,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "OLiG2lAgQkt_zo6XV-7YjiXR4aE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChkWExc3neubSbmx5f2DIPw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-20T20:50:35Z",
+                    "channelId": "UChkWExc3neubSbmx5f2DIPw",
+                    "title": "City of High Springs",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of High Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-05-20T20:50:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4CrYD0PyMIHaKwu2PvdfJq2hR0E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpJTI3iON45k4Lzx3c66u_w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-01-04T18:52:35Z",
+                    "channelId": "UCpJTI3iON45k4Lzx3c66u_w",
+                    "title": "Coral Springs",
+                    "description": "Founded on July 10, 1963, Coral Springs has grown from a \"City in the Country\" to a vibrant, family-friendly City that has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Coral Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-01-04T18:52:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "V_yOhm9KFUKWXLKjDvLekkCTHKU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9AMMYAwqjk0zuDqx_GgYfA"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-22T23:38:05Z",
+                    "channelId": "UC9AMMYAwqjk0zuDqx_GgYfA",
+                    "title": "DigiMeta-Hikes",
+                    "description": "Hello Explorers! Welcome to our virtual channel. We invite you to take a look at the world through our eyes. This gives you the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ApMj7iOvQOgiKIXf1xgWs_UoadrBpCJ57cTWrGz_aXSJBCJ7en_Jlx5zUEIKOb2_HeBKxFwRJA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ApMj7iOvQOgiKIXf1xgWs_UoadrBpCJ57cTWrGz_aXSJBCJ7en_Jlx5zUEIKOb2_HeBKxFwRJA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ApMj7iOvQOgiKIXf1xgWs_UoadrBpCJ57cTWrGz_aXSJBCJ7en_Jlx5zUEIKOb2_HeBKxFwRJA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "DigiMeta-Hikes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-22T23:38:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9S34IvWmHsuDcOsYNZIfNspPObU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPRBTIJPBe60dKAtgCHYwpQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-04-22T16:15:30Z",
+                    "channelId": "UCPRBTIJPBe60dKAtgCHYwpQ",
+                    "title": "City of Gainesville, Florida",
+                    "description": "The latest videos from the City of Gainesville's Communications Office.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kh5WK86PcIs6a6exScOxQWPPzV5qjQ56rmSbwYMO-zZoo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Gainesville, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-04-22T16:15:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VxvIV2qp7GhQ4Kd8Gn_cq4oFBQI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCU9xLHsLRbJVstjY4mmUouQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-04T17:18:13Z",
+                    "channelId": "UCU9xLHsLRbJVstjY4mmUouQ",
+                    "title": "Traveling Man Adam",
+                    "description": "Looking at America big & small thru my camera lens.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sd9Dha6hkMKtCfgAdUFGCeB3U8bvUE-RbISty1mxYtqEBSjgWd0BeqqxOFptHdKwmovd_WSLgg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sd9Dha6hkMKtCfgAdUFGCeB3U8bvUE-RbISty1mxYtqEBSjgWd0BeqqxOFptHdKwmovd_WSLgg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sd9Dha6hkMKtCfgAdUFGCeB3U8bvUE-RbISty1mxYtqEBSjgWd0BeqqxOFptHdKwmovd_WSLgg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Traveling Man Adam",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-04T17:18:13Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "vrnQx23mi3lT1ioLTWfKWVWVsH0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 256,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "OLiG2lAgQkt_zo6XV-7YjiXR4aE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChkWExc3neubSbmx5f2DIPw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-20T20:50:35Z",
+                    "channelId": "UChkWExc3neubSbmx5f2DIPw",
+                    "title": "City of High Springs",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n36G4A9GaYKHoo4glFZFZfaSrsPIaAwvNLabDVs4vqNQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of High Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-05-20T20:50:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "50DyWSniwQPNxiBU9VNZKVtXaeU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpJTI3iON45k4Lzx3c66u_w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-01-04T18:52:35Z",
+                    "channelId": "UCpJTI3iON45k4Lzx3c66u_w",
+                    "title": "Coral Springs",
+                    "description": "Founded on July 10, 1963, Coral Springs has grown from a \"City in the Country\" to a vibrant, family-friendly City that has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lrGOG616u1VZbd-l1zHEue8RtZXgaEFkLe-ajL0tpCNDw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Coral Springs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-01-04T18:52:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bf6Wzh1oRJKQBFhnQhQu2Ysz4co",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyK25DqJTCBQKx7wy9OO7eQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-02-02T14:18:20Z",
+                    "channelId": "UCyK25DqJTCBQKx7wy9OO7eQ",
+                    "title": "Jack Patton",
+                    "description": "The Gainesville Homes For Sale Channel provides the latest in homes and property for sale in the Gainesville and North Florida ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdlz9sqsEI3FQlX0gEyfQl6uEj1ySrrVZH-8oD30-qQQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdlz9sqsEI3FQlX0gEyfQl6uEj1ySrrVZH-8oD30-qQQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdlz9sqsEI3FQlX0gEyfQl6uEj1ySrrVZH-8oD30-qQQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jack Patton",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-02-02T14:18:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JuYwrA-Y_XVVLG75NSx2NrxzHs0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUGH_HdaKhoekGlM4H9f8jw"
+                },
+                "snippet": {
+                    "publishedAt": "2009-03-12T17:08:53Z",
+                    "channelId": "UCUGH_HdaKhoekGlM4H9f8jw",
+                    "title": "Chrissy Severance",
+                    "description": "Real Estate Focused on you. Understanding the needs and the WHY behind your sale or purchase. All property has a story and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQSKwsINgsyZF63pZm_OelEz9QqXEW6PeZFxvFV1pGRBA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQSKwsINgsyZF63pZm_OelEz9QqXEW6PeZFxvFV1pGRBA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQSKwsINgsyZF63pZm_OelEz9QqXEW6PeZFxvFV1pGRBA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Chrissy Severance",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-03-12T17:08:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rT46dd1kFJF3STQPQlvOwBRyroQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjEDxBh2cy53CoJrStlJQvA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-11-29T00:11:23Z",
+                    "channelId": "UCjEDxBh2cy53CoJrStlJQvA",
+                    "title": "High School Basketball 26",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "High School Basketball 26",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-11-29T00:11:23Z"
+                }
+            }
+        ]
+    }
+]

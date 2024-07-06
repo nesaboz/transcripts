@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ZrLvjTLDRk513caxOb8xxWMXNs8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 426,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2BO3yeBpalAkLDXUQMp3b9tZi3M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTRzl9X2f5Tkx1-emrUXuSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-12-03T19:58:58Z",
+                    "channelId": "UCTRzl9X2f5Tkx1-emrUXuSQ",
+                    "title": "the altem life",
+                    "description": "Hello! Thanks for checking us out. Welcome to the altem life. On this channel, we show you all things to do in Florida! We do all ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mVQM7xMOHnNdR9wBRRHr37w00Zf2JU0NoWKDprgfOJjtg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mVQM7xMOHnNdR9wBRRHr37w00Zf2JU0NoWKDprgfOJjtg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mVQM7xMOHnNdR9wBRRHr37w00Zf2JU0NoWKDprgfOJjtg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "the altem life",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-12-03T19:58:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Vq9Dy3DyU_x3TkisDMeFm6V-RkQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpn_ODet9knMmEj5DB0_KnQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-06T18:17:10Z",
+                    "channelId": "UCpn_ODet9knMmEj5DB0_KnQ",
+                    "title": "Kanel Joseph",
+                    "description": "Praise to the Most High.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VO8gaPmEGk0YBGuaWIZYGTiZOL1aEGJbTFNYiXoxS5zwlpZqEvhddUEBZ1dMaYD-ogqGc6HHrg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VO8gaPmEGk0YBGuaWIZYGTiZOL1aEGJbTFNYiXoxS5zwlpZqEvhddUEBZ1dMaYD-ogqGc6HHrg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VO8gaPmEGk0YBGuaWIZYGTiZOL1aEGJbTFNYiXoxS5zwlpZqEvhddUEBZ1dMaYD-ogqGc6HHrg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kanel Joseph",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-06T18:17:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rndUW0HBmNCHqkeyo-HRf_z-t2w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJWKjrrUh2KL1d3zXQW79cQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-17T03:53:15Z",
+                    "channelId": "UCJWKjrrUh2KL1d3zXQW79cQ",
+                    "title": "EXPLORE WITH US",
+                    "description": "What is up, EWU Crew! EXPLORE WITH US is a channel dedicated to all things mystery, including unsolved cold cases, true ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kx3rXsKzLdt3MloxOD1vCXBg6uhAchBSneNQsC_n67eYQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kx3rXsKzLdt3MloxOD1vCXBg6uhAchBSneNQsC_n67eYQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kx3rXsKzLdt3MloxOD1vCXBg6uhAchBSneNQsC_n67eYQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "EXPLORE WITH US",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-08-17T03:53:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SqunPckF60ZmEKJp88Sc-u1V64I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxH0MkY6v0sjZzmMgW9TSRQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-31T03:22:22Z",
+                    "channelId": "UCxH0MkY6v0sjZzmMgW9TSRQ",
+                    "title": "Elisa True Crime",
+                    "description": "Racconto storie di true crime che mi hanno particolarmente scioccata per denunciare, diffondere consapevolezza ma soprattutto ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ctnl1SWuOpSBlREaLL9l9R51e5Gw64nYZXbwQzvP4Ffk8ZOMioUt6ZY_5FVY4aYntRc_BBuRqQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ctnl1SWuOpSBlREaLL9l9R51e5Gw64nYZXbwQzvP4Ffk8ZOMioUt6ZY_5FVY4aYntRc_BBuRqQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ctnl1SWuOpSBlREaLL9l9R51e5Gw64nYZXbwQzvP4Ffk8ZOMioUt6ZY_5FVY4aYntRc_BBuRqQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Elisa True Crime",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-31T03:22:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iYY7BNGR2fqe112OT5uFYOlb3uw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnH8al10BzxCg-N-69Syqjg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-12T21:26:54Z",
+                    "channelId": "UCnH8al10BzxCg-N-69Syqjg",
+                    "title": "Trap Lore Ross",
+                    "description": "Hip Hop Historian.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-IVC1JkrV2lmSOy9ZR6p02Lsb-mszCZYelrRPcrfB6UOuO5BL-49TnCd8oQJSMt5aOkEWTf6kUU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-IVC1JkrV2lmSOy9ZR6p02Lsb-mszCZYelrRPcrfB6UOuO5BL-49TnCd8oQJSMt5aOkEWTf6kUU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-IVC1JkrV2lmSOy9ZR6p02Lsb-mszCZYelrRPcrfB6UOuO5BL-49TnCd8oQJSMt5aOkEWTf6kUU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Trap Lore Ross",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-12T21:26:54Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "pMxNoaHVBywDVbTHSRPwvl0ZUhM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 2054,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SoJ0LWTgxi3Bu6EimQcnaepCteE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKr9me5QJuC173tnPh_4k9g"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-25T17:15:40Z",
+                    "channelId": "UCKr9me5QJuC173tnPh_4k9g",
+                    "title": "City of Clearwater",
+                    "description": "Thank you for visiting the YouTube channel for the bright and beautiful city of Clearwater, Florida. Learn more at ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kfzDkgP8m6kbS67INX2dF3MCOu0vsZ41JYP4zQrKtMtg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kfzDkgP8m6kbS67INX2dF3MCOu0vsZ41JYP4zQrKtMtg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kfzDkgP8m6kbS67INX2dF3MCOu0vsZ41JYP4zQrKtMtg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Clearwater",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-01-25T17:15:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XWV1dtOpTyuKO9a6tfLtNQ1K5Nk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChydfnv--Pgbb5vrkVh71Vw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-30T20:36:12Z",
+                    "channelId": "UChydfnv--Pgbb5vrkVh71Vw",
+                    "title": "South Florida Living with Gina Lee",
+                    "description": "Welcome to South Florida Living! This channel is all about what life is like in the beautiful SUNSHINE STATE! Whether you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida Living with Gina Lee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-30T20:36:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cMt_RD4kaJD-vs7QSbFzghG2sTU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKOI55uFU4M-ZqeNXzwKxGQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-08-22T23:55:32Z",
+                    "channelId": "UCKOI55uFU4M-ZqeNXzwKxGQ",
+                    "title": "Lee County Walkers",
+                    "description": "Downtown walks, visits to interesting places such as restaurants, unique stores and Malls, river and ocean rides, beach walks ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uianbEvbB8PVZ60ZtPd5TNr3ZG9jWwy_hR8xpn-NRoLRU70bHgwuGLw9R4iGisEkClPAJxGj=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lee County Walkers",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-08-22T23:55:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uziUY2ZPzbo4HWv3VTXD6j2knro",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaMuRZI33oeBtMNIyKiyc_w"
+                },
+                "snippet": {
+                    "publishedAt": "2024-05-03T17:05:36Z",
+                    "channelId": "UCaMuRZI33oeBtMNIyKiyc_w",
+                    "title": "BSC Videography",
+                    "description": "Photography, Videography, Cinematography. FAA Licensed Commercial Drone Pilot Located In Cape Coral Florida. For Business ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/eSQ-qZSsq87IGJFjopil6q-zYsEY9xQDmHRnYfYpFPAyWqoCAhby5iwiJpvfvGgc_E_A39Zk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BSC Videography",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-05-03T17:05:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "475Za9b0nyfliwByKLlkKnrFmfU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCp-fskEHcp2qrvEsFYzuxZw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-27T05:18:50Z",
+                    "channelId": "UCp-fskEHcp2qrvEsFYzuxZw",
+                    "title": "MayLee Hmong Inspiring Channel",
+                    "description": "Hello Viewers, my name is May Lee Sayaxang. I'm the founder of this channel. I am here to Interview, promote, recognized ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_nTw1XPDwxY4a6d7x3UfqTWsgDXFBPnRpe0uxuMOStwavuoHVSwLnRRe__0Yuu6ufl2ud2h6=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_nTw1XPDwxY4a6d7x3UfqTWsgDXFBPnRpe0uxuMOStwavuoHVSwLnRRe__0Yuu6ufl2ud2h6=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_nTw1XPDwxY4a6d7x3UfqTWsgDXFBPnRpe0uxuMOStwavuoHVSwLnRRe__0Yuu6ufl2ud2h6=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "MayLee Hmong Inspiring Channel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-11-27T05:18:50Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "WD0D09SqDxm14X_pm5TToKYMnB8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 31,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iY_R6ikmpEgzr2ClirAHZz3z1gM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx2bGNY3hdcZ7LxlnbDZotw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-13T18:32:57Z",
+                    "channelId": "UCx2bGNY3hdcZ7LxlnbDZotw",
+                    "title": "LIVING IN JACKSONVILLE FLORIDA",
+                    "description": "This channel is all about living in Jacksonville, Florida, moving to Jacksonville Florida, and relocating to Jacksonville Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN JACKSONVILLE FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-13T18:32:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "i8W5KrPG0bBbE8cBAEBmsJVtf3I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_FPDNWyiuWE6ilImqeTj3w"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-03T22:27:12Z",
+                    "channelId": "UC_FPDNWyiuWE6ilImqeTj3w",
+                    "title": "JTAFLA",
+                    "description": "This is the official YouTube page for the Jacksonville Transportation Authority (JTA). For more information about JTA services, visit ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n0lWuloMrDw-YAqIoyvY7Az-RLotmLxyVopIczPAeUMhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n0lWuloMrDw-YAqIoyvY7Az-RLotmLxyVopIczPAeUMhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n0lWuloMrDw-YAqIoyvY7Az-RLotmLxyVopIczPAeUMhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "JTAFLA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-03-03T22:27:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TpLcxu_E0LPRckhV0lWkzL8FcNg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVGBv0P99Uvs-1b6jh6Rrfw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-13T00:27:57Z",
+                    "channelId": "UCVGBv0P99Uvs-1b6jh6Rrfw",
+                    "title": "Jacksonville Florida Living",
+                    "description": "I'm Justin Agustin, a local realtor with REAL Broker since 2018 and your ultimate guide to the vibrant city of Jacksonville, Florida!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jacksonville Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-13T00:27:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "k50n3SQ3bzGhmYp4T0WCyZgPE2w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwUNYEHsH11ipk-QC4GEnUg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-05T17:12:56Z",
+                    "channelId": "UCwUNYEHsH11ipk-QC4GEnUg",
+                    "title": "River City Science",
+                    "description": "River City Science Academy is a tuition-free public charter school in Jacksonville, Florida focused on STEM education. We believe ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mMfwtgIXdUJcfueJITg_3Hx6g2tERFvyy7B62bGP84kso=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mMfwtgIXdUJcfueJITg_3Hx6g2tERFvyy7B62bGP84kso=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mMfwtgIXdUJcfueJITg_3Hx6g2tERFvyy7B62bGP84kso=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "River City Science",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-12-05T17:12:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GO2QdySaskbeHE4YH-CD8u1V2MQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw9glazwl5MpP9pDTsi3zVg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-14T18:41:34Z",
+                    "channelId": "UCw9glazwl5MpP9pDTsi3zVg",
+                    "title": "murdahmike904",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "murdahmike904",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-14T18:41:34Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "8A_u-DkywgsDrbGXOKAPoxWc5pg",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 3,
+            "resultsPerPage": 3
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GO2QdySaskbeHE4YH-CD8u1V2MQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw9glazwl5MpP9pDTsi3zVg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-14T18:41:34Z",
+                    "channelId": "UCw9glazwl5MpP9pDTsi3zVg",
+                    "title": "murdahmike904",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbe7M5iUMWcv313v9UcfbNnZyi48ffoBaroAqk2zU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "murdahmike904",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-14T18:41:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vOy-5eXd5iJLVY0gfkbvJ2l9jcM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCM8vTnB6LZySQoizfzs875A"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-28T00:10:54Z",
+                    "channelId": "UCM8vTnB6LZySQoizfzs875A",
+                    "title": "Signal Man",
+                    "description": "The Channel is a mix of different videos, rail fanning, model building, auto mechanics, Scouts and traffic signals. I don't claim to be ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qmjyt0ckcjlNDf6cg3mg5EGrJ7d0iiGsKt6bLjPmEbyXXH4gRBB63_CMipzjfzh5Yym0wBSLuA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qmjyt0ckcjlNDf6cg3mg5EGrJ7d0iiGsKt6bLjPmEbyXXH4gRBB63_CMipzjfzh5Yym0wBSLuA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qmjyt0ckcjlNDf6cg3mg5EGrJ7d0iiGsKt6bLjPmEbyXXH4gRBB63_CMipzjfzh5Yym0wBSLuA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Signal Man",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-03-28T00:10:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vJhjGBCQbTDSX9zrxLBAi_5uSD4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCX3R7hJOw_kip7dj9KvZwSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-28T03:26:05Z",
+                    "channelId": "UCX3R7hJOw_kip7dj9KvZwSQ",
+                    "title": "DixieRail Productions",
+                    "description": "Railfan from North Florida. I record all over Florida and starting to record all over the South. If you know of any good spots, let me ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iNnFYRGQ-NYRhNjcqdE0Hzk5i34MzfAIz2d3JbawqTc_OXVcfSyUccw2Mx9WJIlmHYRfMnWi3A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iNnFYRGQ-NYRhNjcqdE0Hzk5i34MzfAIz2d3JbawqTc_OXVcfSyUccw2Mx9WJIlmHYRfMnWi3A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iNnFYRGQ-NYRhNjcqdE0Hzk5i34MzfAIz2d3JbawqTc_OXVcfSyUccw2Mx9WJIlmHYRfMnWi3A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "DixieRail Productions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-28T03:26:05Z"
+                }
+            }
+        ]
+    }
+]

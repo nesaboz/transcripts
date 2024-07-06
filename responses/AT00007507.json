@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "GhypwuBH6NhH_bv0jGaFEIHq85c",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 45,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2rXLV_BirpzD1RYbUXJSlnkcnF4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqGu2U57LVpBbZzL62z7qjQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-29T11:25:29Z",
+                    "channelId": "UCqGu2U57LVpBbZzL62z7qjQ",
+                    "title": "Town of Indian River Shores, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Indian River Shores, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-29T11:25:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wHr7Z7FG8cXGOOTqVFFSBWxpvUc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMFJSRaERpUoNhcAqsUAaYA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-09-10T13:59:40Z",
+                    "channelId": "UCMFJSRaERpUoNhcAqsUAaYA",
+                    "title": "IRCHS YouTube",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbV9rB3eJbHozKl3C4HlVWnkVEY34Cd1AXsHLHFisWOA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbV9rB3eJbHozKl3C4HlVWnkVEY34Cd1AXsHLHFisWOA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nbV9rB3eJbHozKl3C4HlVWnkVEY34Cd1AXsHLHFisWOA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "IRCHS YouTube",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-09-10T13:59:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RatYmgKZGwiSOHdYYrseIZrotns",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9pgrufBNqIcpTa39-6lHJlnMfg0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYR0LFd1_XrZLOK8S5-_A8A"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-22T16:03:47Z",
+                    "channelId": "UCYR0LFd1_XrZLOK8S5-_A8A",
+                    "title": "Windsor Properties",
+                    "description": "Windsor is a private residential community spanning 425 acres of lush barrier island between the Indian River and the Atlantic ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nGGfbvOA9S4KTfgweYT9JD1YJzMaB2AJaUuOKjjURYVw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nGGfbvOA9S4KTfgweYT9JD1YJzMaB2AJaUuOKjjURYVw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nGGfbvOA9S4KTfgweYT9JD1YJzMaB2AJaUuOKjjURYVw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Windsor Properties",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-22T16:03:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fDtfnYqiEc1M1tHY6ZIRyY-IzE8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwJggJmmIolNe13N18T2iLA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-03T18:00:31Z",
+                    "channelId": "UCwJggJmmIolNe13N18T2iLA",
+                    "title": "Pathway Church Vero Beach",
+                    "description": "Pathway Church | Vero Beach, FL Welcome to Pathway Church! We are located in the sleepy beach town of Vero Beach, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sBRruktOu1PGmHEl1HVndTKZy-cEtxYA9YI9ja_zwNuj7WLwWh3uayuxMGNW84cym1KUgPqK=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sBRruktOu1PGmHEl1HVndTKZy-cEtxYA9YI9ja_zwNuj7WLwWh3uayuxMGNW84cym1KUgPqK=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sBRruktOu1PGmHEl1HVndTKZy-cEtxYA9YI9ja_zwNuj7WLwWh3uayuxMGNW84cym1KUgPqK=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pathway Church Vero Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-03T18:00:31Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "l7orh1HKPdKrLNf7mVUzQMg-qbo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 101,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "A6th3eSMcPGyk6NYZoAF7nwPbIc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7LbA5MToi51HwNokh1TEqw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-22T18:38:21Z",
+                    "channelId": "UC7LbA5MToi51HwNokh1TEqw",
+                    "title": "Indian River Hauntings",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mElGCNuZ5u18C70ieaQzCF1pLQAbkNBzVPtXeQRro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mElGCNuZ5u18C70ieaQzCF1pLQAbkNBzVPtXeQRro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mElGCNuZ5u18C70ieaQzCF1pLQAbkNBzVPtXeQRro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Indian River Hauntings",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-11-22T18:38:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LF_Fl0RlYNqZJY56IZ6qRSU5IkM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPAZgHKw2IfPy0ESjpK35EA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-15T15:26:58Z",
+                    "channelId": "UCPAZgHKw2IfPy0ESjpK35EA",
+                    "title": "Vero Beach Florida",
+                    "description": "Vero Beach Florida | Vero Beach is a beachside city in Indian River County on the Treasure Coast on the East Coast of Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mdWZc8Ai4DyUFkksgFNv4wnUTNFJMCZJqhLopNlhBNzw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mdWZc8Ai4DyUFkksgFNv4wnUTNFJMCZJqhLopNlhBNzw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mdWZc8Ai4DyUFkksgFNv4wnUTNFJMCZJqhLopNlhBNzw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Vero Beach Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-15T15:26:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RBMSZnOxxBL4dulCaPVHXD-UX40",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9mKoRTEmObg43mqDDlhCdg"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-07T04:18:52Z",
+                    "channelId": "UC9mKoRTEmObg43mqDDlhCdg",
+                    "title": "AC4PR",
+                    "description": "For those who are educated on the subject of Seven 50---control of seven Florida counties within 50 years, you know that our City ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k37NKqn18HQVAUfFqxFr2ZkmQATbh51u5cRrTmPXYyiQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k37NKqn18HQVAUfFqxFr2ZkmQATbh51u5cRrTmPXYyiQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k37NKqn18HQVAUfFqxFr2ZkmQATbh51u5cRrTmPXYyiQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "AC4PR",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-06-07T04:18:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4AHRPBKK5n0rngy0jp4_Vd2acqQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAWhvMzVqCu_N8O7kYL9jzg"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-25T15:18:03Z",
+                    "channelId": "UCAWhvMzVqCu_N8O7kYL9jzg",
+                    "title": "TC Palm",
+                    "description": "TCPalm.com is your number one source for news and information on the Treasure Coast of Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mA5CmkXII_qHEK-osHU0uk8svJ_31O_WKzmIjsGQRJn_o=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mA5CmkXII_qHEK-osHU0uk8svJ_31O_WKzmIjsGQRJn_o=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mA5CmkXII_qHEK-osHU0uk8svJ_31O_WKzmIjsGQRJn_o=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TC Palm",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-25T15:18:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a6Z3F9ZE6ehP7gTvlgL0QEr7HhE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGf0z44OJn_sis1Xsb3SDbg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-26T02:50:37Z",
+                    "channelId": "UCGf0z44OJn_sis1Xsb3SDbg",
+                    "title": "The Urban Team- Treasure Coast, FL Real Estate",
+                    "description": "The Urban Team is here to help you with all of your real estate needs on the Treasure Coast of sunny south Florida. We cover ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ePvrVPj4fCrhmDhks-pNmQNrH-BnSg5ZSq6RJ3wmamR3KYkH80LLlB0mtPOABWCK2QUY9FWeQw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ePvrVPj4fCrhmDhks-pNmQNrH-BnSg5ZSq6RJ3wmamR3KYkH80LLlB0mtPOABWCK2QUY9FWeQw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ePvrVPj4fCrhmDhks-pNmQNrH-BnSg5ZSq6RJ3wmamR3KYkH80LLlB0mtPOABWCK2QUY9FWeQw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Urban Team- Treasure Coast, FL Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-26T02:50:37Z"
+                }
+            }
+        ]
+    }
+]

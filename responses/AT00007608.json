@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "PnQFqVGOr2MNh0YCWlcjSL3iCQI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 23,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Uk-76nUoD2Z1_7yQ0YIrfMs2hZw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2agzh0jvBYzdm_viEIDBFg"
+                },
+                "snippet": {
+                    "publishedAt": "2008-05-05T19:19:08Z",
+                    "channelId": "UC2agzh0jvBYzdm_viEIDBFg",
+                    "title": "Autohaus of Naples",
+                    "description": "Autohaus of Naples is located in the resort town of Naples, Florida. We specialize in high-end, hard to find, luxury European ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Autohaus of Naples",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-05-05T19:19:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gV48P5L0wYnqkNlWJKVjWdMLlEY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5exKNRY6k8HmgfY2O7Tnjw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-02T14:35:32Z",
+                    "channelId": "UC5exKNRY6k8HmgfY2O7Tnjw",
+                    "title": "Jess Powell - Naples Real Estate Agent",
+                    "description": "Hi! My name is Jess Powell -- I'm so glad you found my channel. I am a wife, Mom and a real estate agent. I moved my family [with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jess Powell - Naples Real Estate Agent",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-02T14:35:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "oyOd-zMxm1fs2AvA080VlOu5Mrk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClk50GFUb5BTmsScU6zBSjg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-17T13:20:05Z",
+                    "channelId": "UClk50GFUb5BTmsScU6zBSjg",
+                    "title": "Alison Goser",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/jw-C_Efpvvi1QT2lfzANn4AM0Ezuhw__tUFEG6YFcrBb6P4V2tb2Xubsijf-Phb21I0UjODW=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/jw-C_Efpvvi1QT2lfzANn4AM0Ezuhw__tUFEG6YFcrBb6P4V2tb2Xubsijf-Phb21I0UjODW=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/jw-C_Efpvvi1QT2lfzANn4AM0Ezuhw__tUFEG6YFcrBb6P4V2tb2Xubsijf-Phb21I0UjODW=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Alison Goser",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-17T13:20:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pnXKkA1PJNCmG8hcBO1o99f8YfE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-30T00:21:13Z",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g",
+                    "title": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "description": "Michelle Thomas is a top-producing Realtor in the Naples and Marco Island, Florida area. Specializing in luxury residential real ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-05-30T00:21:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "n_n4p5qgz7JhYkwUFGgNZwOI1dU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGRryxFxjXbVAtBPE9EbyMg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-01T21:13:50Z",
+                    "channelId": "UCGRryxFxjXbVAtBPE9EbyMg",
+                    "title": "Joe Bartolozzi",
+                    "description": "I post stuff Twitch: Joe_Bartolozzi Insta: joe.bartolozzi Tik Tok: joe.bartolozzi.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Joe Bartolozzi",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-01T21:13:50Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "jXv-JY1bRZ8FvQWoP7PgvJipV-I",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 14,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "A7w2ZS-dhNONb_pt1iG2UPRva-o",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkmRDORva_V4p1LjNox3PJA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-28T23:15:40Z",
+                    "channelId": "UCkmRDORva_V4p1LjNox3PJA",
+                    "title": "Zero Racing Co.",
+                    "description": "Subscribe for the following footage: Car Content/Car Memes/Car Shows Thank you all so much! We are almost to 300 subs!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/b1qe3P0j7IdGaPm7wLDm7o2UaSxfMpnEUwzSx9KaUsn3-vuAcsK2UU9rkEjsVtoLrxEKg5bibA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/b1qe3P0j7IdGaPm7wLDm7o2UaSxfMpnEUwzSx9KaUsn3-vuAcsK2UU9rkEjsVtoLrxEKg5bibA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/b1qe3P0j7IdGaPm7wLDm7o2UaSxfMpnEUwzSx9KaUsn3-vuAcsK2UU9rkEjsVtoLrxEKg5bibA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Zero Racing Co.",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-28T23:15:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "n_n4p5qgz7JhYkwUFGgNZwOI1dU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGRryxFxjXbVAtBPE9EbyMg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-01T21:13:50Z",
+                    "channelId": "UCGRryxFxjXbVAtBPE9EbyMg",
+                    "title": "Joe Bartolozzi",
+                    "description": "I post stuff Twitch: Joe_Bartolozzi Insta: joe.bartolozzi Tik Tok: joe.bartolozzi.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MbrQnkNF6nHK8xDmMvJ0AckDshGXT1OSQnuAWYsOIWBczy_5Fy5w4yVWdL1YBTe5AmxDpmPY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Joe Bartolozzi",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-01T21:13:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fizKmUr6mYCLaW17yCltEsYOeDg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpJSyWi4oVD32vBkMzBnueQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-08-27T19:36:58Z",
+                    "channelId": "UCpJSyWi4oVD32vBkMzBnueQ",
+                    "title": "Living in Naples - Felipe Miranda",
+                    "description": "If you are considering moving to Naples / Southwest Florida, PLEASE SUBSCRIBE! Weekly, honest, direct and unadulterated ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/XYXA2B8hHhkuZZGXLw9mfA7JRKEri7FubAiSMwyhknq8QkOkxt79bm74t8iLeU5XgsuBrsB3=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/XYXA2B8hHhkuZZGXLw9mfA7JRKEri7FubAiSMwyhknq8QkOkxt79bm74t8iLeU5XgsuBrsB3=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/XYXA2B8hHhkuZZGXLw9mfA7JRKEri7FubAiSMwyhknq8QkOkxt79bm74t8iLeU5XgsuBrsB3=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Naples - Felipe Miranda",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-08-27T19:36:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pnXKkA1PJNCmG8hcBO1o99f8YfE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-30T00:21:13Z",
+                    "channelId": "UCRkbBisoT_YonQAuRa4Wj8g",
+                    "title": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "description": "Michelle Thomas is a top-producing Realtor in the Naples and Marco Island, Florida area. Specializing in luxury residential real ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zThWvP5klIJxzWuGitwPz6qO3oNFR1lKwtkslimNJ5rYR_YJNPgU3b2WA6qxf-4LNp8K4HcqPDI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michelle Thomas Team | SWFL Luxury Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-05-30T00:21:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Sd-QGcZoK6QwNAdK3MBGpmCGi7E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtJHkuhCqb-qY9pd979upqg"
+                },
+                "snippet": {
+                    "publishedAt": "2009-08-29T11:46:40Z",
+                    "channelId": "UCtJHkuhCqb-qY9pd979upqg",
+                    "title": "ibrmarco",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kM2ySfiZateBrF-lbiRTAEeAN6bPlcdVfv5LgK4QTsIQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kM2ySfiZateBrF-lbiRTAEeAN6bPlcdVfv5LgK4QTsIQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kM2ySfiZateBrF-lbiRTAEeAN6bPlcdVfv5LgK4QTsIQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "ibrmarco",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-08-29T11:46:40Z"
+                }
+            }
+        ]
+    }
+]

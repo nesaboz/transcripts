@@ -224,7 +224,7 @@ class Analyzer:
 
     def start(self):
         for index, row in tqdm(self.status_df.iterrows()):
-            if row[WAS_CRAWLED] == YES:  # and row[WAS_ANALYZED] not in {YES, SKIP}:
+            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] == '':
                 try:
                     unique_id = row[ID]
                     self.analyze(unique_id)
@@ -245,48 +245,67 @@ class Analyzer:
         
 
 def aggregate_analysis_files(crawler, output_file):
+    """
+    For each city, takes analyzed CSV responses, looks only for the ones ChatGPT marked as yes, and combines them into one row.
+    Creates a new csv: aggregated_analysis.csv.
+    
+    Args:
+        crawler (_type_): _description_
+        output_file (_type_): _description_
+    """
+    
     dfs = []
 
-    # Iterate over each CSV file in the analysis folder
     for filename in os.listdir(ANALYSIS_DIR):
         if filename.endswith('.csv'):
+            
+            city_id = filename.split('.')[0]
             file_path = os.path.join(ANALYSIS_DIR, filename)
-            try:
+                    
+            try:  
                 df = pd.read_csv(file_path)
+                
+                # first remove all but `yes` responses
+                df = df[df['is_official'] == 'yes']
+                
+                # then remove the duplicates
+                df = df.drop_duplicates()
+                
+                # then remove the `is_official` column
+                df = df.drop(columns=['is_official'])
+                
+                # then replace the channel_id with the URL of the channel
+                df['URL'] = df['channel_id'].apply(lambda x: f"https://www.youtube.com/channel/{x}")
+                
+                # drop the channel_id column
+                df = df.drop(columns=['channel_id'])
+                
+                # finally, flatten the DataFrame into a single row
+                new_df = pd.DataFrame(df.values.flatten()).T
+                
+                # rename the columns
+                new_df.columns = [f"{col}_{i+1}" for i in range(len(df)) for col in df.columns]
+                
+                # then add a column with the city_id
+                new_df['city_id'] = city_id
+                
+                # Move 'city_id' to the first column
+                new_df.insert(0, 'city_id', new_df.pop('city_id'))
+                
             except EmptyDataError:
                 print(f"Error reading {file_path}. Skipping it.")
                 continue
-            df['city_id'] = filename.split('.')[0]
-            
-            # Filter rows where 'Status' column is 'yes'
-            df = df[df['is_official'] == 'yes']
-            dfs.append(df)
 
-    # Concatenate all DataFrames into one
-    if dfs:
-        combined_df = pd.concat(dfs, ignore_index=True)
-        
-        # add a city name by joining with the status file
-        combined_df = combined_df.merge(crawler.df, left_on='city_id', right_on='id', how='left')
-        
-        # Remove duplicated rows
-        combined_df = combined_df.drop_duplicates()
-        
-        # convert the channel_id to a URL
-        combined_df['url'] = 'https://www.youtube.com/channel/' + combined_df['channel_id']
-        
-        # Save the combined DataFrame to a new CSV file, and store only relevant columns
-        combined_df['is_confirmed'] = ''
-        
-        combined_df = combined_df.sort_values(by='city_id')
-        
-        create_backup(output_file)
-        combined_df.to_csv(
-            output_file, 
-            index=False, 
-            columns=['city_id', 'city', 'channel_id', 'url', 'channel_title', 'channel_description', 'is_official', 'is_confirmed'])
-    else:
-        print("No CSV files found in the analysis folder.")
+            dfs.append(new_df)
+            
+    combined_df = pd.concat(dfs, ignore_index=True)
+
+    # add a city name by joining with the status file
+    combined_df = crawler.df.merge(combined_df, left_on='id', right_on='city_id', how='left')
+
+    combined_df.drop('city_id', axis=1, inplace=True)
+
+    combined_df.to_csv(output_file, index=False)
 
 
 class VideoInfo(object):

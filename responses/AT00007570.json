@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "gE2WjLUDdEvb8cqJ_mhLMbSePgM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 77,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "daqjVPJr9Qvd4jHZmONuScl7Nog",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRXw7W1WYEe-5WfScvqLmiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-06-10T17:37:37Z",
+                    "channelId": "UCRXw7W1WYEe-5WfScvqLmiQ",
+                    "title": "City of Lake Helen",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lake Helen",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-06-10T17:37:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U_qt3esmd7rh4nze3nlGBbSZxAo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCI2Fjdr8iVX1YBaquC-MQHw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-10T15:14:24Z",
+                    "channelId": "UCI2Fjdr8iVX1YBaquC-MQHw",
+                    "title": "Full Auto Repair LLC",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hZfNOylU8v_aHWMfjGSPNmh5fL5ScBAAHKwYcuT0StsT2CZJSEVFjcNtV9LZJQzAObhFg4Y5OQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hZfNOylU8v_aHWMfjGSPNmh5fL5ScBAAHKwYcuT0StsT2CZJSEVFjcNtV9LZJQzAObhFg4Y5OQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hZfNOylU8v_aHWMfjGSPNmh5fL5ScBAAHKwYcuT0StsT2CZJSEVFjcNtV9LZJQzAObhFg4Y5OQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Full Auto Repair LLC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-10T15:14:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a14I2tFPTbSiUJL7CqWeKMoF_d4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl0clCwvjuRZcHrdBigCG1Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-17T15:35:46Z",
+                    "channelId": "UCl0clCwvjuRZcHrdBigCG1Q",
+                    "title": "A First Class Aluminum",
+                    "description": "Local aluminum company serving West Volusia since 1998. A First Class Aluminum Co, Inc. 597 Pleasant St Lake Helen, FL ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "A First Class Aluminum",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-17T15:35:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BRKLPKC0k4JnnqooTzjEuZG5XUM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCamPPKYFtZf9GMhJSD6zR4g"
+                },
+                "snippet": {
+                    "publishedAt": "2008-07-28T19:57:42Z",
+                    "channelId": "UCamPPKYFtZf9GMhJSD6zR4g",
+                    "title": "Total Realty Corp.",
+                    "description": "Total Realty Corp. is a state-of-the-art real estate company that offers the \"Total\" package for your real estate needs. We offer our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Total Realty Corp.",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-07-28T19:57:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Waup9afzxQsoQpDRRQZkOsqkas8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoheslfhc4aVIs_6xALOASQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-18T03:19:53Z",
+                    "channelId": "UCoheslfhc4aVIs_6xALOASQ",
+                    "title": "Fast Buy and Sell FL",
+                    "description": "Tom Buys Houses in the West Volusia area including DeLand, Orange City, Debary, Lake Helen and Deltona.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1XsiGvtzI3yOk1aL852_iirFKmXgSeDMjmldqqIzInA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1XsiGvtzI3yOk1aL852_iirFKmXgSeDMjmldqqIzInA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1XsiGvtzI3yOk1aL852_iirFKmXgSeDMjmldqqIzInA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Fast Buy and Sell FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-18T03:19:53Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "NAipgYcSZ8zyqjh7Eao5wuF1ZNk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 63,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "daqjVPJr9Qvd4jHZmONuScl7Nog",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRXw7W1WYEe-5WfScvqLmiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-06-10T17:37:37Z",
+                    "channelId": "UCRXw7W1WYEe-5WfScvqLmiQ",
+                    "title": "City of Lake Helen",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/0B19V-xApQw5hCSOP8rlq3-4ew953kGFjbeSHP3v-juwVsDZyJhWZ_tzhbnp_7XRAVC6j9-L_Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lake Helen",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-06-10T17:37:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GVgNNOBuV5-V7DLvzBP6AopFBEo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-28T17:36:18Z",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g",
+                    "title": "City of Sanford, FL",
+                    "description": "Official Youtube Channel of City of Sanford, Florida. There's Always Something Going On in Historic Sanford. As one of the oldest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sanford, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-28T17:36:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BRKLPKC0k4JnnqooTzjEuZG5XUM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCamPPKYFtZf9GMhJSD6zR4g"
+                },
+                "snippet": {
+                    "publishedAt": "2008-07-28T19:57:42Z",
+                    "channelId": "UCamPPKYFtZf9GMhJSD6zR4g",
+                    "title": "Total Realty Corp.",
+                    "description": "Total Realty Corp. is a state-of-the-art real estate company that offers the \"Total\" package for your real estate needs. We offer our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzPVduh6SMklrnJW2qMnUIbAu2_2sIHpzG_z74VQUrbg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Total Realty Corp.",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-07-28T19:57:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AaNAk_vL8195bfa_43al_U9jKHM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmTpLEs3Sk8hxbasbm612_Q"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-30T00:19:16Z",
+                    "channelId": "UCmTpLEs3Sk8hxbasbm612_Q",
+                    "title": "Bass fishing Productions",
+                    "description": "Welcome to the BFP NATION! My name is Bobby and I specialize in catching the coolest and rarest fish possible here in south ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYvyaPqsVDgnq5ORZVXMlrBf4zcpdPwJxFz-giUG64-Z0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYvyaPqsVDgnq5ORZVXMlrBf4zcpdPwJxFz-giUG64-Z0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lYvyaPqsVDgnq5ORZVXMlrBf4zcpdPwJxFz-giUG64-Z0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bass fishing Productions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-30T00:19:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a14I2tFPTbSiUJL7CqWeKMoF_d4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl0clCwvjuRZcHrdBigCG1Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-17T15:35:46Z",
+                    "channelId": "UCl0clCwvjuRZcHrdBigCG1Q",
+                    "title": "A First Class Aluminum",
+                    "description": "Local aluminum company serving West Volusia since 1998. A First Class Aluminum Co, Inc. 597 Pleasant St Lake Helen, FL ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mTpOUsiFscDMhzp9uFDlW0Gw8Sp73MI7yOdZ60KtWivw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "A First Class Aluminum",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-17T15:35:46Z"
+                }
+            }
+        ]
+    }
+]

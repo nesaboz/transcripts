@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "JHSUHZdk6j38q7BMmCiA5JIUcnI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 367,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FseLi9BreKmdraCCMi_k4Sk7FAQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-21T13:47:57Z",
+                    "channelId": "UCak1_v7UFM8nqIviX53nzaA",
+                    "title": "City of Crescent City, Florida",
+                    "description": "Crescent City, FL is located between Two bodies of water, Crescent Lake lies to the east of the town and Lake Stella lies to the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2NIoHYpn_PRWTnUmr9cOMnjhy1coVrwaF2o_B3iOfQAk7G9RrLa5fVbBjwjKPtKng4z2PgEYtQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Crescent City, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-21T13:47:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PfTJ2j2oMQjjY7gJ1fKQ1yyQgBk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpL3ZhUV5ZuZi7X86nWQwRQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-04T04:42:20Z",
+                    "channelId": "UCpL3ZhUV5ZuZi7X86nWQwRQ",
+                    "title": "Regal Inn",
+                    "description": "Welcome to Regal Inn, the affordable hotel in Lake City, Florida that's just right for business and pleasure travelers. We offer ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/e-pvRau7TVrmPxTkC0-YbwJbuGKysg93AhvF8b74SVvOe4IOXSAXWd498POvAVgsrMplrFsVuw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/e-pvRau7TVrmPxTkC0-YbwJbuGKysg93AhvF8b74SVvOe4IOXSAXWd498POvAVgsrMplrFsVuw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/e-pvRau7TVrmPxTkC0-YbwJbuGKysg93AhvF8b74SVvOe4IOXSAXWd498POvAVgsrMplrFsVuw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Regal Inn",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-08-04T04:42:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Qt_snNYHhmg3izSGIMrB1PwZjYo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1PRNytGmhHhwydJ0ECcf0Q"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-25T03:14:53Z",
+                    "channelId": "UC1PRNytGmhHhwydJ0ECcf0Q",
+                    "title": "Life with me",
+                    "description": "Trapped in Tallahassee Florida I moved here after someone I helped reach here got a successful business going and spoke ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/1IrvxG62aZi_Z6JdIjmp9yOK4jVWQHxSmV7XUfTt2n0frWhIxpMgRxHBNZ9ta_atou39QrN1=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/1IrvxG62aZi_Z6JdIjmp9yOK4jVWQHxSmV7XUfTt2n0frWhIxpMgRxHBNZ9ta_atou39QrN1=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/1IrvxG62aZi_Z6JdIjmp9yOK4jVWQHxSmV7XUfTt2n0frWhIxpMgRxHBNZ9ta_atou39QrN1=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life with me",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-25T03:14:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-ByV0Jz6Uxy5MzGkVmLErt9ocUw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCC04XeCZR9x2JC-3m9GAA9Q"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-17T14:24:09Z",
+                    "channelId": "UCC04XeCZR9x2JC-3m9GAA9Q",
+                    "title": "GoUSA TV",
+                    "description": "Introducing GoUSA TV. The premier travel entertainment channel, available at your fingertips with no subscription, no fees and no ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcsyyCy2MkLjyr-vaJVwTYax_CDNa8TRDlDcuQTf9u1bQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcsyyCy2MkLjyr-vaJVwTYax_CDNa8TRDlDcuQTf9u1bQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcsyyCy2MkLjyr-vaJVwTYax_CDNa8TRDlDcuQTf9u1bQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "GoUSA TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-17T14:24:09Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Y-lxwsOMip4pN2uFs-DY-WmSogg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-01-20T06:48:13Z",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA",
+                    "title": "Peter Santenello",
+                    "description": "I make videos showing you a world that the media fails to capture. No BS polarization or political angle\u2014just pure authentic ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Peter Santenello",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-01-20T06:48:13Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "KBwOzlx2u8e1n1GLtXGYk6nLthY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 18490,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KK5WxbigpcvhR7kX1KA-ATbdiug",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC28Eyfa2Uogc-8VTWqafG3w"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-28T15:29:30Z",
+                    "channelId": "UC28Eyfa2Uogc-8VTWqafG3w",
+                    "title": "City of Lake City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqq5-bqGI3iVMT4ldqE2OqklVWLaI6bvsKveMO6aZbTQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqq5-bqGI3iVMT4ldqE2OqklVWLaI6bvsKveMO6aZbTQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqq5-bqGI3iVMT4ldqE2OqklVWLaI6bvsKveMO6aZbTQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lake City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-28T15:29:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aWjXZYj44HXaGd5PemRCrjaNNw8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCapaMTHOsNkakw8IrRNqGww"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-17T17:48:41Z",
+                    "channelId": "UCapaMTHOsNkakw8IrRNqGww",
+                    "title": "Lake City Florida - Seventh-day Adventist Church",
+                    "description": "The Seventh-day Adventist Church in Lake City, Florida, welcomes you to our channel. We hope that you find the content uplifting ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/OWqrE1T_81wIoZCr8uDCbcqsS-XHdj4IHuQp2Db7RTaoWQ-PrxLtglg9LyVLOyPnGSUZigxB=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/OWqrE1T_81wIoZCr8uDCbcqsS-XHdj4IHuQp2Db7RTaoWQ-PrxLtglg9LyVLOyPnGSUZigxB=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/OWqrE1T_81wIoZCr8uDCbcqsS-XHdj4IHuQp2Db7RTaoWQ-PrxLtglg9LyVLOyPnGSUZigxB=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lake City Florida - Seventh-day Adventist Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-17T17:48:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "048s4-xl1L5nOcbUJn0_pf00XIg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-HkMPsdskJ5L1b2VfSazsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-01-02T19:23:00Z",
+                    "channelId": "UC-HkMPsdskJ5L1b2VfSazsQ",
+                    "title": "New Life Lake City",
+                    "description": "WELCOME to New Life Christian Fellowship of Lake City! We're so happy that you've decided to take the time to find out what God ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l33ui4Kvphzbp10GuusgcG1-NwlfTKWJ9YNc-2kUN7vQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l33ui4Kvphzbp10GuusgcG1-NwlfTKWJ9YNc-2kUN7vQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l33ui4Kvphzbp10GuusgcG1-NwlfTKWJ9YNc-2kUN7vQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "New Life Lake City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-01-02T19:23:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XigOXFM_FqzkIncQAyepA6-8pP4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHbcWwqPWW1ZMbBRIg4f87Q"
+                },
+                "snippet": {
+                    "publishedAt": "2023-06-14T21:01:07Z",
+                    "channelId": "UCHbcWwqPWW1ZMbBRIg4f87Q",
+                    "title": "Police Videos Lake City Florida",
+                    "description": "Videos featuring the lessons learned and good work of the Lake City Florida Police and the Columbia County Florida Sherriff.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/OLIr6tetR4Bv8j-GO9VmYpYyU1coj6vJQ0wb4n5AxWQEKz26j42BYQe6C_yzuPaJx8URkCJs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/OLIr6tetR4Bv8j-GO9VmYpYyU1coj6vJQ0wb4n5AxWQEKz26j42BYQe6C_yzuPaJx8URkCJs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/OLIr6tetR4Bv8j-GO9VmYpYyU1coj6vJQ0wb4n5AxWQEKz26j42BYQe6C_yzuPaJx8URkCJs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Police Videos Lake City Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-06-14T21:01:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zm6esJ-DRKcPacjHTYwocPXWlNE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUNR4YxEtHhoKY7QoQn-y5Q"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-18T16:00:09Z",
+                    "channelId": "UCUNR4YxEtHhoKY7QoQn-y5Q",
+                    "title": "First Presbyterian Church of Lake City, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Mn_jw2qmc85Pd1_ow9BJ2DjAzlyiX3l9K_b_WBHNl9HJRTFXaC7gTzn0ZPlFAEeFNHzTQwjl=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Mn_jw2qmc85Pd1_ow9BJ2DjAzlyiX3l9K_b_WBHNl9HJRTFXaC7gTzn0ZPlFAEeFNHzTQwjl=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Mn_jw2qmc85Pd1_ow9BJ2DjAzlyiX3l9K_b_WBHNl9HJRTFXaC7gTzn0ZPlFAEeFNHzTQwjl=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Presbyterian Church of Lake City, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-02-18T16:00:09Z"
+                }
+            }
+        ]
+    }
+]

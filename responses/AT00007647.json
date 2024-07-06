@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "iIxbEp-PG5hgHaR15I0OeXG2jW8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 18,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yE9ZPjsZlBvgoTUkMidPY5pkdsE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-31T18:34:17Z",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ",
+                    "title": "The Florida Agents",
+                    "description": "Hey there. We are Tom and Shirley Guercio\u2014 an award-winning husband and wife real estate team in the Clermont / Winter ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Florida Agents",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-31T18:34:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xXi2yL1tH4w-b1tJV1jtxroy3-U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClDjVYEiNicqiNpgw5HLAnw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-17T00:05:23Z",
+                    "channelId": "UClDjVYEiNicqiNpgw5HLAnw",
+                    "title": "David Bires",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "David Bires",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-01-17T00:05:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yEZndW8gF-f5anoNcRhXUvoMgt0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-16T14:57:37Z",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg",
+                    "title": "LakeFront TV",
+                    "description": "Lake Front TV is the 24/7 television channel based in Lake County. . We provide quality community programming profiling the best ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LakeFront TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-16T14:57:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Mv7wJx6rvxtNC467Z9DNfxl0Lqc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdcETMVT8ajd0mrxEMCF5ug"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-22T08:04:41Z",
+                    "channelId": "UCdcETMVT8ajd0mrxEMCF5ug",
+                    "title": "Independent Farmer Banks ",
+                    "description": "Independent Farmer Banks Helfrich Join Independent Farmer BANKS explore civility, sustainability, dancing and even humor as ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Independent Farmer Banks ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-22T08:04:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AwDBFVescH47mfAV9jcvDHIjGBY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdLDPq-jctirxeJo7cfx-rQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-18T19:21:09Z",
+                    "channelId": "UCdLDPq-jctirxeJo7cfx-rQ",
+                    "title": "Ryker Services FL Land Clearing",
+                    "description": "Services that we offer to our Florida Customers include: Pond Building,Lazed Grading, Lawn Mowing, Land Clearing, Heavy ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkOljtSbNB1yfyCEGkXNxjNxaStIv6gqC4HZR27EzN_A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkOljtSbNB1yfyCEGkXNxjNxaStIv6gqC4HZR27EzN_A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kkOljtSbNB1yfyCEGkXNxjNxaStIv6gqC4HZR27EzN_A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ryker Services FL Land Clearing",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-18T19:21:09Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "w-2A8M5iQBo-Q-LqwHfa_a5IbTE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 15,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yE9ZPjsZlBvgoTUkMidPY5pkdsE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-31T18:34:17Z",
+                    "channelId": "UCMWyaByhnJ1XZCCZxzjRkiQ",
+                    "title": "The Florida Agents",
+                    "description": "Hey there. We are Tom and Shirley Guercio\u2014 an award-winning husband and wife real estate team in the Clermont / Winter ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kQrrhc31JG20gh6aSE3DZ38ReCiWfq7Pz2N5T6Bki7Vdc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Florida Agents",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-31T18:34:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xXi2yL1tH4w-b1tJV1jtxroy3-U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClDjVYEiNicqiNpgw5HLAnw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-17T00:05:23Z",
+                    "channelId": "UClDjVYEiNicqiNpgw5HLAnw",
+                    "title": "David Bires",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mR4t8i3g3C1j4USe7fO620CorO5D9Lv5l-dO5MDnE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "David Bires",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-01-17T00:05:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Mv7wJx6rvxtNC467Z9DNfxl0Lqc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdcETMVT8ajd0mrxEMCF5ug"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-22T08:04:41Z",
+                    "channelId": "UCdcETMVT8ajd0mrxEMCF5ug",
+                    "title": "Independent Farmer Banks ",
+                    "description": "Independent Farmer Banks Helfrich Join Independent Farmer BANKS explore civility, sustainability, dancing and even humor as ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HYNRRizi6_TawniaNtgY-dJJiLJx4l74kcWLu7rS1ee6xzPZpU6vAwV8oegDvA4BDaU8IsGuwg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Independent Farmer Banks ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-22T08:04:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yEZndW8gF-f5anoNcRhXUvoMgt0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-16T14:57:37Z",
+                    "channelId": "UCxoj144x33hmdvwm2Upiyhg",
+                    "title": "LakeFront TV",
+                    "description": "Lake Front TV is the 24/7 television channel based in Lake County. . We provide quality community programming profiling the best ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/L_YeazuYWw6K3Ri-zZF7d-xjfn9nIZPpiIXU_gLkKSRQ40MdwwnFjQenWbnWH41hSyqJgDfyvMg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LakeFront TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-16T14:57:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0CFKvOjdQHt2ilVYkYEg0di5hzE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl4QXOTOBQ_YKFBjORLjrYA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-09T01:20:14Z",
+                    "channelId": "UCl4QXOTOBQ_YKFBjORLjrYA",
+                    "title": "Sandra Jefferson",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nQIWHytM8wGUz1vvwmLoUcaIMhuKI-mwful7Ih1qo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nQIWHytM8wGUz1vvwmLoUcaIMhuKI-mwful7Ih1qo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nQIWHytM8wGUz1vvwmLoUcaIMhuKI-mwful7Ih1qo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sandra Jefferson",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-09T01:20:14Z"
+                }
+            }
+        ]
+    }
+]

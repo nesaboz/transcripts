@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "RGdudnc6EpwZHQuSu065KXOvdWU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 9,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JxyQJbXJ3RqzntZQywukyZ1Ai28",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIQF6ORilTNOq43451WT0YA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-27T13:26:32Z",
+                    "channelId": "UCIQF6ORilTNOq43451WT0YA",
+                    "title": "City of Lynn Haven Florida",
+                    "description": "Lynn Haven City Commission meetings are normally held on the second and fourth Tuesdays of the month in the Chambers ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lynn Haven Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-03-27T13:26:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wAXaeN_gA_DQ3601VmPSsjlMw7s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjB0IhgT4tf0jpYEjdV1PrQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-15T03:52:12Z",
+                    "channelId": "UCjB0IhgT4tf0jpYEjdV1PrQ",
+                    "title": "Paula Collins",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sUY2tKu_Oewo5573PEJXWdfWMml9_ww9Umt8UGN8aTYLWELFOjdaV5rhXTko4F1jDwO9guhdiw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sUY2tKu_Oewo5573PEJXWdfWMml9_ww9Umt8UGN8aTYLWELFOjdaV5rhXTko4F1jDwO9guhdiw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sUY2tKu_Oewo5573PEJXWdfWMml9_ww9Umt8UGN8aTYLWELFOjdaV5rhXTko4F1jDwO9guhdiw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Paula Collins",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-15T03:52:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "CAL_Oo6zwVOSTU93x24KP6G-77E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxzUlZ81Vfn29vax7ewuefQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-07-05T22:21:51Z",
+                    "channelId": "UCxzUlZ81Vfn29vax7ewuefQ",
+                    "title": "First Baptist Panama City",
+                    "description": "First Baptist Church Panama City, Fl. 640 Grace Ave. Panama City, FL. 32401 (850) 785-6146 Service times: Sunday Morning ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2ujCBOAcYWcquaiNy5llWz_99D5KSHmaWklUVt3ImSzQz=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2ujCBOAcYWcquaiNy5llWz_99D5KSHmaWklUVt3ImSzQz=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l2ujCBOAcYWcquaiNy5llWz_99D5KSHmaWklUVt3ImSzQz=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Baptist Panama City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-07-05T22:21:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2gxG5YMQpuZZiHuIG9mEVvEVoUE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnYgBbm8T6tKOMMad61bsNA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-11-07T15:14:32Z",
+                    "channelId": "UCnYgBbm8T6tKOMMad61bsNA",
+                    "title": "Joshua Hoey",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/kdfAKP9qBav6OyHsd5pwC9CgUoZOiP6CTfdbSQx83JjrtLVbAyIe1xTGL5rdc-1DO355DMikUaI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/kdfAKP9qBav6OyHsd5pwC9CgUoZOiP6CTfdbSQx83JjrtLVbAyIe1xTGL5rdc-1DO355DMikUaI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/kdfAKP9qBav6OyHsd5pwC9CgUoZOiP6CTfdbSQx83JjrtLVbAyIe1xTGL5rdc-1DO355DMikUaI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Joshua Hoey",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-11-07T15:14:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6g9ITyW1D61tPZIZeQnfY_elmdQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx7Lkg97ld8XRMHLxRwuY6w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-03-10T17:46:31Z",
+                    "channelId": "UCx7Lkg97ld8XRMHLxRwuY6w",
+                    "title": "Jennifer Mackay",
+                    "description": "Panama City Florida residential and commercial real estate - Information and services for buyers, sellers and investors.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67kyLa9g27z7MKwFuM6ZzWXVEIcf7gAjaNRMFKt2PLHk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67kyLa9g27z7MKwFuM6ZzWXVEIcf7gAjaNRMFKt2PLHk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l67kyLa9g27z7MKwFuM6ZzWXVEIcf7gAjaNRMFKt2PLHk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jennifer Mackay",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-03-10T17:46:31Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "qZYp07Rf_RKzrHxvKibaJih9gEA",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 119,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JxyQJbXJ3RqzntZQywukyZ1Ai28",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIQF6ORilTNOq43451WT0YA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-27T13:26:32Z",
+                    "channelId": "UCIQF6ORilTNOq43451WT0YA",
+                    "title": "City of Lynn Haven Florida",
+                    "description": "Lynn Haven City Commission meetings are normally held on the second and fourth Tuesdays of the month in the Chambers ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBoe10KX9z88Nb2voFFwgI5mzkbBhZKIxPUByryXMjhzo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Lynn Haven Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-03-27T13:26:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "b65xJSNuTVOTLeRURuE-_LmFMVc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrvOsobpbAz8u1zqRjpbbbA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-19T21:09:23Z",
+                    "channelId": "UCrvOsobpbAz8u1zqRjpbbbA",
+                    "title": "Lynn Haven FBC",
+                    "description": "FBCLH Services & Events.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EsamjxlAq6tA2WBqVdGqOM1e6DZPGVh1HZ2ebvdojFgTo9y7lMil4kVb0SW_P2dpB1s-qNwy=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EsamjxlAq6tA2WBqVdGqOM1e6DZPGVh1HZ2ebvdojFgTo9y7lMil4kVb0SW_P2dpB1s-qNwy=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EsamjxlAq6tA2WBqVdGqOM1e6DZPGVh1HZ2ebvdojFgTo9y7lMil4kVb0SW_P2dpB1s-qNwy=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lynn Haven FBC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-19T21:09:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ij56i_ToCcaXLnamdxETit8NEqY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_fv76e-azht11m4LwbUQ9Q"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-13T14:36:36Z",
+                    "channelId": "UC_fv76e-azht11m4LwbUQ9Q",
+                    "title": "Hiland Park Baptist Church of Panama City, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncAio6RSeIADR8sieK3Mifwnnln6o0gmbpnmmcdl37YG0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncAio6RSeIADR8sieK3Mifwnnln6o0gmbpnmmcdl37YG0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ncAio6RSeIADR8sieK3Mifwnnln6o0gmbpnmmcdl37YG0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hiland Park Baptist Church of Panama City, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-13T14:36:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2AgDZ0yBDI97XU15PmFcNGtX39s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiMhJgTG0XsRwQAnZcbIX1g"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-18T20:43:11Z",
+                    "channelId": "UCiMhJgTG0XsRwQAnZcbIX1g",
+                    "title": "Lighthouse Church",
+                    "description": "Lighthouse Church Panama City 4049 West 23d Street Panama City, FL 32405 850-230-9030.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/zaRi5JoqqrpjG2UyIUhwMtZuaOCv9SKyzOCHF-1-NyUx5G_G7OfVNz206u4Ha8XgdyGjeKk-uQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/zaRi5JoqqrpjG2UyIUhwMtZuaOCv9SKyzOCHF-1-NyUx5G_G7OfVNz206u4Ha8XgdyGjeKk-uQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/zaRi5JoqqrpjG2UyIUhwMtZuaOCv9SKyzOCHF-1-NyUx5G_G7OfVNz206u4Ha8XgdyGjeKk-uQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lighthouse Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-18T20:43:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UqPyep0_eTaqxcbcXsCqdMM_baw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2aP2lCVHNFZvOVBG_pKFmg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-31T20:56:24Z",
+                    "channelId": "UC2aP2lCVHNFZvOVBG_pKFmg",
+                    "title": "Bayside Church - Panama City",
+                    "description": "Bayside Church is a non-denominational, independent church located in the downtown corridor of Panama City, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/S76yc_A_b9aI0cZSdn6gufQRvC5uVlIrKAf7uu-G5hvhuYkjwJ_0qAwBydkSeEPfy5xt8XTx5A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/S76yc_A_b9aI0cZSdn6gufQRvC5uVlIrKAf7uu-G5hvhuYkjwJ_0qAwBydkSeEPfy5xt8XTx5A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/S76yc_A_b9aI0cZSdn6gufQRvC5uVlIrKAf7uu-G5hvhuYkjwJ_0qAwBydkSeEPfy5xt8XTx5A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bayside Church - Panama City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-31T20:56:24Z"
+                }
+            }
+        ]
+    }
+]

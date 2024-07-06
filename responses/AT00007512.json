@@ -1,0 +1,249 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ZxnF8dH6xoNegZI9AtqxtzEFldE",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 3,
+            "resultsPerPage": 3
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PsHsq2Z1UlfG3eXfXRnYds5cgeU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-MU3FKsR9fhkL7qhz7Z7aw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-18T16:35:53Z",
+                    "channelId": "UC-MU3FKsR9fhkL7qhz7Z7aw",
+                    "title": "Aureous Minerals",
+                    "description": "Aureous Minerals is dedicated to the collection and preservation of fine mineral specimens. It is operated by former geology and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4DkSxjgtZ5-4dBvfeNYaOH_FsjkQVrpEiUh4WRQYHsaYDs-E32kbt1rUVPReOg52dnxDScHwA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4DkSxjgtZ5-4dBvfeNYaOH_FsjkQVrpEiUh4WRQYHsaYDs-E32kbt1rUVPReOg52dnxDScHwA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4DkSxjgtZ5-4dBvfeNYaOH_FsjkQVrpEiUh4WRQYHsaYDs-E32kbt1rUVPReOg52dnxDScHwA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Aureous Minerals",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-18T16:35:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UnQts3K4nNaoZ30Asr9bLMfMA-8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9Fjo83quvBysloDf8_r38Q"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-24T00:06:55Z",
+                    "channelId": "UC9Fjo83quvBysloDf8_r38Q",
+                    "title": "Life's An Adventure",
+                    "description": "Two lifelong friends just enjoying life and the adventures it brings for us.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIDE7YAZPNngeL0l3brpPhFjAZW9kSQw1Ab7yezKR9xA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIDE7YAZPNngeL0l3brpPhFjAZW9kSQw1Ab7yezKR9xA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIDE7YAZPNngeL0l3brpPhFjAZW9kSQw1Ab7yezKR9xA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life's An Adventure",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-24T00:06:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KCC8iISVOE-6vrRQsl1T0g4S00o",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCftc-agupvFlfWhuWhYSI5Q"
+                },
+                "snippet": {
+                    "publishedAt": "2007-01-16T04:17:42Z",
+                    "channelId": "UCftc-agupvFlfWhuWhYSI5Q",
+                    "title": "Dytch",
+                    "description": "We are a four man band out of North Central Florida in a small town called Palatka. Thank you for checking out our channel. Also ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mBZitoNJgKIJLIhhVVb9YcXxtJdDLGH0JP3_skQSUioQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mBZitoNJgKIJLIhhVVb9YcXxtJdDLGH0JP3_skQSUioQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mBZitoNJgKIJLIhhVVb9YcXxtJdDLGH0JP3_skQSUioQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dytch",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-01-16T04:17:42Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "vOqr0WDRLw0SLkwQJoZH8thEgBY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 17,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_hhnJmHtRV6hUDxS5UXRKmXgXsk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHvULMudZ0DWf5Qf15ZuSqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-10-16T17:55:34Z",
+                    "channelId": "UCHvULMudZ0DWf5Qf15ZuSqQ",
+                    "title": "Drone Over Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/pd795n4lhe7cD9aeR8jjbYIHW3gkH3w9cSZ1otpVpXf9rqcgTdf4CpKSno8p0GkxVT099wmPAw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/pd795n4lhe7cD9aeR8jjbYIHW3gkH3w9cSZ1otpVpXf9rqcgTdf4CpKSno8p0GkxVT099wmPAw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/pd795n4lhe7cD9aeR8jjbYIHW3gkH3w9cSZ1otpVpXf9rqcgTdf4CpKSno8p0GkxVT099wmPAw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Drone Over Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-10-16T17:55:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LmRDbmoVEoqSeBJdXkzjjZtLoRI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbp5OIuDhhUVOdpWxUT_0OQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-06-28T23:24:56Z",
+                    "channelId": "UCbp5OIuDhhUVOdpWxUT_0OQ",
+                    "title": "Carolina Mendez Real Estate Agent in Florida",
+                    "description": "I am Carolina Mendez, Your Real Estate Agent in Florida. I sell homes in Broward County in South East Florida: Weston, Davie, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uKxUVSfA8mFIjnm8W36tv9QxXAXpedgBbPdtkCYJRBAOn2DYQHumCZNQgzVSJNaP-UgasO4_a2I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uKxUVSfA8mFIjnm8W36tv9QxXAXpedgBbPdtkCYJRBAOn2DYQHumCZNQgzVSJNaP-UgasO4_a2I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uKxUVSfA8mFIjnm8W36tv9QxXAXpedgBbPdtkCYJRBAOn2DYQHumCZNQgzVSJNaP-UgasO4_a2I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Carolina Mendez Real Estate Agent in Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-06-28T23:24:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wmION9GvCjy9cdb40bOdor6ROBc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2nvAiUrC7PjvcEuMSeo2WA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-28T18:20:44Z",
+                    "channelId": "UC2nvAiUrC7PjvcEuMSeo2WA",
+                    "title": "Florida Global International Realty, LLC",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_njjRrgZcmcTcuXay1WdNp9dRLFch9xZRAkEZkgFf6PJFE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_njjRrgZcmcTcuXay1WdNp9dRLFch9xZRAkEZkgFf6PJFE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_njjRrgZcmcTcuXay1WdNp9dRLFch9xZRAkEZkgFf6PJFE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Global International Realty, LLC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-28T18:20:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8WSQhc1ufEKxwaz0eVYt5xukq1c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyrdYl-jZHh-v44C9ynkTOA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-05T12:47:14Z",
+                    "channelId": "UCyrdYl-jZHh-v44C9ynkTOA",
+                    "title": "Storm Chaser - Follow the Storm",
+                    "description": "Lets @followthestorm together. Based in Florida and travelling beyond during larger storm events we will cover large ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/PPwNQbPEvMyE5Rbq4KYlfyx-zUSqNQc0g5KZqZcD2R0OidO6QOWktWHJSUlM-dYdguNfkcw1euc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/PPwNQbPEvMyE5Rbq4KYlfyx-zUSqNQc0g5KZqZcD2R0OidO6QOWktWHJSUlM-dYdguNfkcw1euc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/PPwNQbPEvMyE5Rbq4KYlfyx-zUSqNQc0g5KZqZcD2R0OidO6QOWktWHJSUlM-dYdguNfkcw1euc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Storm Chaser - Follow the Storm",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-05T12:47:14Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JXALOddx4bl1FQ6hbA8yZZGDj6c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-O5nsJXFwoasxf_6tmclDw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-11-05T19:48:50Z",
+                    "channelId": "UC-O5nsJXFwoasxf_6tmclDw",
+                    "title": "Weichert Realtors Michael Skovron PA",
+                    "description": "This Real Estate Agent is a British Realtor\u00ae. Born in London, England & moved to Florida in 2001. He also has an Accounting ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tepVmDL33b0YREQCtgmWTPeIi2AEYouDd1c2MU9DQOEK2YM_JB23NTW7asII8u77Os-se1WeDA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tepVmDL33b0YREQCtgmWTPeIi2AEYouDd1c2MU9DQOEK2YM_JB23NTW7asII8u77Os-se1WeDA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tepVmDL33b0YREQCtgmWTPeIi2AEYouDd1c2MU9DQOEK2YM_JB23NTW7asII8u77Os-se1WeDA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Weichert Realtors Michael Skovron PA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-11-05T19:48:50Z"
+                }
+            }
+        ]
+    }
+]

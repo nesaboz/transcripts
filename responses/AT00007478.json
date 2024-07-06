@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "40HDQ5hPuJwWQry4nsO94vlsM5Q",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 6,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vbkjPfSsMqZfJkSzSlZ01SGC0HE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEb8N8HqycJj2uxYPeSWq4A"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-06T20:16:47Z",
+                    "channelId": "UCEb8N8HqycJj2uxYPeSWq4A",
+                    "title": "Town of Hilliard, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lUNSSjsvVTPn_VAMSzjCNcKO9wisTZEei51857h-o=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lUNSSjsvVTPn_VAMSzjCNcKO9wisTZEei51857h-o=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lUNSSjsvVTPn_VAMSzjCNcKO9wisTZEei51857h-o=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Hilliard, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-06T20:16:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LykXoBhgwEirmNBojiK8ZLjC6-Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5idtpJ6qdr7-RaBMJ3py_A"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-19T18:11:37Z",
+                    "channelId": "UC5idtpJ6qdr7-RaBMJ3py_A",
+                    "title": "Brandi Hilliard",
+                    "description": "Mom, Wife, Realtor and More. This channel is here for my Real Estate business and to have some fun with the family. When life ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khly5rGd87tAswZppAcZRzFRN3YroMvzRJ06FlZINLQJyH=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khly5rGd87tAswZppAcZRzFRN3YroMvzRJ06FlZINLQJyH=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khly5rGd87tAswZppAcZRzFRN3YroMvzRJ06FlZINLQJyH=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Brandi Hilliard",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-19T18:11:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uy0EViRDYSKAMZkGHgZE7CRlSNU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPcL9uy37-oy_iX1ka_fW8Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-26T20:40:04Z",
+                    "channelId": "UCPcL9uy37-oy_iX1ka_fW8Q",
+                    "title": "Nassau County",
+                    "description": "Official Nassau County Florida YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIHxUc05MmyLGvXq8-9KDsLGHwT5kSk8R-3MoA7ww=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIHxUc05MmyLGvXq8-9KDsLGHwT5kSk8R-3MoA7ww=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIHxUc05MmyLGvXq8-9KDsLGHwT5kSk8R-3MoA7ww=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Nassau County",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-26T20:40:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "umg2A76fKpTzMgBLVNNqgSPxJsQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCf4vhAAjuiLsKA9IErNIt8A"
+                },
+                "snippet": {
+                    "publishedAt": "2014-07-13T05:55:10Z",
+                    "channelId": "UCf4vhAAjuiLsKA9IErNIt8A",
+                    "title": "Bobby Tighe: Your Florida Real Estate Agent",
+                    "description": "Hi everyone, I'm Bobby Tighe, and this is my YouTube channel where I share real estate videos and podcasts. I focus on buying, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/5i_JQGjt6FcVF1S8EnvfI2sMxiDJWXmrLIfemp0RaPqVsru4RAl3SKWidXO0jAzjsTjW2dMiqA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/5i_JQGjt6FcVF1S8EnvfI2sMxiDJWXmrLIfemp0RaPqVsru4RAl3SKWidXO0jAzjsTjW2dMiqA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/5i_JQGjt6FcVF1S8EnvfI2sMxiDJWXmrLIfemp0RaPqVsru4RAl3SKWidXO0jAzjsTjW2dMiqA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bobby Tighe: Your Florida Real Estate Agent",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-07-13T05:55:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TKlRCa-5rP2KqB8ZvBL1fnamx6A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmlelS5UQVygg4mLuJSf6pw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-14T22:09:37Z",
+                    "channelId": "UCmlelS5UQVygg4mLuJSf6pw",
+                    "title": "John Mellencamp - Topic",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Dy25mRBT2zbg6jJwnBmvI9s3UDHH_mf8pOJy2HV8sxiCr78Eyj8JwGAVRa5yFm9gdeLm_wN-=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Dy25mRBT2zbg6jJwnBmvI9s3UDHH_mf8pOJy2HV8sxiCr78Eyj8JwGAVRa5yFm9gdeLm_wN-=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Dy25mRBT2zbg6jJwnBmvI9s3UDHH_mf8pOJy2HV8sxiCr78Eyj8JwGAVRa5yFm9gdeLm_wN-=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "John Mellencamp - Topic",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-06-14T22:09:37Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "wjjw0ikN5pDkEETwbPYnyMX7vXA",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 19,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NpHPRKXu-GyS5Hi9mAWZlHw7i8A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCK-lk0HtzG7wmVQiA9vu-ow"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-19T08:10:10Z",
+                    "channelId": "UCK-lk0HtzG7wmVQiA9vu-ow",
+                    "title": "Central Church of Christ Haines City, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lifrEvYGdJ9217PQURmdsW5ykETnY1SLSKBg6Qy2m2N4Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lifrEvYGdJ9217PQURmdsW5ykETnY1SLSKBg6Qy2m2N4Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lifrEvYGdJ9217PQURmdsW5ykETnY1SLSKBg6Qy2m2N4Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Central Church of Christ Haines City, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-19T08:10:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gZ-JGO9UXxAlmrMUAt8qPJocuuM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9fA33ExZH-1E11DT82qobw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-31T17:37:40Z",
+                    "channelId": "UC9fA33ExZH-1E11DT82qobw",
+                    "title": "Cliff Hilliard",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIY2asIFi1R5n0unJpEZFlacQF2HlvKVeReSRkxEU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIY2asIFi1R5n0unJpEZFlacQF2HlvKVeReSRkxEU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mIY2asIFi1R5n0unJpEZFlacQF2HlvKVeReSRkxEU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Cliff Hilliard",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-05-31T17:37:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "A3TVBOFg0OQ2mAuQiBIlki0amjA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFwWNbpnOCfPuMUmixmqULg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-30T14:50:01Z",
+                    "channelId": "UCFwWNbpnOCfPuMUmixmqULg",
+                    "title": "Florida-Georgia Railfan",
+                    "description": "Thank you for visiting my YouTube Channel. Florida-Georgia Railfan is mostly about trains, but may occasionally feature other ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/b7RNFh0cHJpTZWf1HoPyT66n9iSBkTteiQ7n5VGy5v1TimkbzEgqM6n6q13X21QB-1vbmrMe-Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/b7RNFh0cHJpTZWf1HoPyT66n9iSBkTteiQ7n5VGy5v1TimkbzEgqM6n6q13X21QB-1vbmrMe-Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/b7RNFh0cHJpTZWf1HoPyT66n9iSBkTteiQ7n5VGy5v1TimkbzEgqM6n6q13X21QB-1vbmrMe-Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida-Georgia Railfan",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-06-30T14:50:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "EOco1PwcfQhLlVwodlyi_e1yy0M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR6DVUhOR4HtHZKPCcG6fnw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-26T17:36:58Z",
+                    "channelId": "UCR6DVUhOR4HtHZKPCcG6fnw",
+                    "title": "Dave Ramsey Financial Investment Advisor in Florida FL",
+                    "description": "A Local Team Dave Ramsey ENDORSED Financial Investment Advisors & Professionals serving Jacksonville FL, Jacksonville ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dave Ramsey Financial Investment Advisor in Florida FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-26T17:36:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6tgNbhb5Fnvi_FWXr_IV5268u3Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCE6UFLy2JicKKU2bn7VF9dg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-31T14:31:21Z",
+                    "channelId": "UCE6UFLy2JicKKU2bn7VF9dg",
+                    "title": "Come To Find Out with Sarah Thress, Realtor",
+                    "description": "Sarah Thress is a hard-working, professional full-time Realtor in the Florida and Central Ohio area that is known for her ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/giFiacfQ_9DIdNQgijnHzlQihqZKjrhnzhVZvOH0SQMyad0Xtz_aC-3f_g5zEKCSQy4EYFGXOA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/giFiacfQ_9DIdNQgijnHzlQihqZKjrhnzhVZvOH0SQMyad0Xtz_aC-3f_g5zEKCSQy4EYFGXOA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/giFiacfQ_9DIdNQgijnHzlQihqZKjrhnzhVZvOH0SQMyad0Xtz_aC-3f_g5zEKCSQy4EYFGXOA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Come To Find Out with Sarah Thress, Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-31T14:31:21Z"
+                }
+            }
+        ]
+    }
+]

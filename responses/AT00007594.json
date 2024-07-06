@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "2n1TmPzOfJE0azcwRTWl-WB_Dfk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 173,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cQaGgJhfMcj4RDfhiB4a2hp16WQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Acqb-9lzbR8q-e7aoV6DiwmhJlQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1YirWj2BNqlQ0cOvyka0ng"
+                },
+                "snippet": {
+                    "publishedAt": "2020-01-26T17:38:50Z",
+                    "channelId": "UC1YirWj2BNqlQ0cOvyka0ng",
+                    "title": "Lauderdale Native",
+                    "description": "Videos from Fort Lauderdale and abroad. Encompassing the South Florida Lifestyle.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lauderdale Native",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-01-26T17:38:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "umuyYox53zVqOWk7XTdtAVkd1c0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCorvGbBYveV0J6mkQHIPbZA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-28T15:18:53Z",
+                    "channelId": "UCorvGbBYveV0J6mkQHIPbZA",
+                    "title": "Beachside Buzz",
+                    "description": "Step into the vibrant tapestry of South Florida living with \"The Beachside Buzz\" \u2013 your guide to the local experiences in paradise!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Beachside Buzz",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-28T15:18:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BZyqGSFq3Q7MTBZgwfskShAUzhU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3EQJ3BW3TqDaCyUUfEaE7g"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-06T21:42:42Z",
+                    "channelId": "UC3EQJ3BW3TqDaCyUUfEaE7g",
+                    "title": "Robert Z Zeoli - Fort Lauderdale",
+                    "description": "Robert Z Zeoli & Homes By Z at United Realty GroupRealty brings a mission to protect and cultivate our client's financial and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hd12AMgzMMnfJnYbGS5JXdji23IOT8nhNjI4ixdMtDxhlGnTVGJ7FepgAMyr3yXkOzPs9AFqvA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hd12AMgzMMnfJnYbGS5JXdji23IOT8nhNjI4ixdMtDxhlGnTVGJ7FepgAMyr3yXkOzPs9AFqvA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hd12AMgzMMnfJnYbGS5JXdji23IOT8nhNjI4ixdMtDxhlGnTVGJ7FepgAMyr3yXkOzPs9AFqvA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Robert Z Zeoli - Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-06T21:42:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5UzKZ55CWfcLwfmjFhMqSIVehak",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2INgqg2RY1HbvpXgrnRFdg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-06T22:58:51Z",
+                    "channelId": "UC2INgqg2RY1HbvpXgrnRFdg",
+                    "title": "Living in Fort Lauderdale Beach Florida",
+                    "description": "Welcome, Guten Tag and sunny greetings from Living in Fort Lauderdale Beach Florida! Annett T. Block here and we are all about ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Fort Lauderdale Beach Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-06T22:58:51Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "hHIuK1JG7Lr4HRILE1_IIStOMQE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 142,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fkk0JFb5JDred3zjQiE5kgm_XIo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Acqb-9lzbR8q-e7aoV6DiwmhJlQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1YirWj2BNqlQ0cOvyka0ng"
+                },
+                "snippet": {
+                    "publishedAt": "2020-01-26T17:38:50Z",
+                    "channelId": "UC1YirWj2BNqlQ0cOvyka0ng",
+                    "title": "Lauderdale Native",
+                    "description": "Videos from Fort Lauderdale and abroad. Encompassing the South Florida Lifestyle.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0F-5o3CU4V37ABuM0HBXRgcZC4PiguT0h5XsmOTgstA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lauderdale Native",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-01-26T17:38:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T69GYuOwYFGwGcAvD6fNHFusMc4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGOxU-8iNOeoG3a337shXoA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-13T17:53:28Z",
+                    "channelId": "UCGOxU-8iNOeoG3a337shXoA",
+                    "title": "City of Deerfield Beach",
+                    "description": "This is the official video channel of the City of Deerfield Beach, Florida, government. The mission of the Office of Public Affairs and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Deerfield Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-13T17:53:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "umuyYox53zVqOWk7XTdtAVkd1c0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCorvGbBYveV0J6mkQHIPbZA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-28T15:18:53Z",
+                    "channelId": "UCorvGbBYveV0J6mkQHIPbZA",
+                    "title": "Beachside Buzz",
+                    "description": "Step into the vibrant tapestry of South Florida living with \"The Beachside Buzz\" \u2013 your guide to the local experiences in paradise!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/i5g8-03MVqfX457dHRWGs6VuojZWYpIt9SRyaQkY8s4_ye2OiF-oJbn3yTNjn0fxnyq74VwIcw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Beachside Buzz",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-28T15:18:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5UzKZ55CWfcLwfmjFhMqSIVehak",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2INgqg2RY1HbvpXgrnRFdg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-06T22:58:51Z",
+                    "channelId": "UC2INgqg2RY1HbvpXgrnRFdg",
+                    "title": "Living in Fort Lauderdale Beach Florida",
+                    "description": "Welcome, Guten Tag and sunny greetings from Living in Fort Lauderdale Beach Florida! Annett T. Block here and we are all about ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/o-RYMNH2Cgy6kbwTc5pHdo1oVvXqOI-2jbcziJQmJUaDWNuA7dR02-5ZdUcg0rdxi32_JdiHVG8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Fort Lauderdale Beach Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-06T22:58:51Z"
+                }
+            }
+        ]
+    }
+]
