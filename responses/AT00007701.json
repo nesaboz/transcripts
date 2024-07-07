@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sjTCoI54ZyI0Gp90DpRmLhMwbD0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 236,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "o6E0gSX-xLgA-Vl8ApP00LsB_3c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCDDZxCRoWh5rMmQuF8oS9ag"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-13T16:00:30Z",
+                    "channelId": "UCDDZxCRoWh5rMmQuF8oS9ag",
+                    "title": "City of New Port Richey, Florida",
+                    "description": "The City of New Port Richey, Florida, is proud to announce its newest channel titled, \"In the City.\" This channel will highlight City ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of New Port Richey, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-13T16:00:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "toMuDUBX8baMfVr9ZFL5cL9bUO0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHuYQOv-m-w3w9Ag5Aa_BjQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-02-03T16:59:27Z",
+                    "channelId": "UCHuYQOv-m-w3w9Ag5Aa_BjQ",
+                    "title": "New Port Richey, Florida",
+                    "description": "New Port Richey is a city in Pasco County, Florida, United States. It is a suburban city included in the Tampa-St.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "New Port Richey, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-02-03T16:59:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AELJgsO0WoWvmKb1XLr12BujGHk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiFHiXnOZzzF-gbtAbd2m6Q"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-04T22:38:47Z",
+                    "channelId": "UCiFHiXnOZzzF-gbtAbd2m6Q",
+                    "title": "City of Port Richey",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Port Richey",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-04T22:38:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aseDUiZEVc5x-qmNWuBFLHGiauo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdiMCzy-Z9NAE5xYWz7RGkg"
+                },
+                "snippet": {
+                    "publishedAt": "2007-03-09T20:35:33Z",
+                    "channelId": "UCdiMCzy-Z9NAE5xYWz7RGkg",
+                    "title": "Bill Zeltman - New Port Richey Guru",
+                    "description": "The official YouTube page of New Port Richey's Official Town Guru Bill Zeltman. Contact Bill for all of your real estate needs in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/yCXEyRlMGDdmMImQQ6SfLlOxHvfJdSQeaOWvCi-fY1uiBVIsxePMYdg5ksVYuR7WJxffO60L3Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/yCXEyRlMGDdmMImQQ6SfLlOxHvfJdSQeaOWvCi-fY1uiBVIsxePMYdg5ksVYuR7WJxffO60L3Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/yCXEyRlMGDdmMImQQ6SfLlOxHvfJdSQeaOWvCi-fY1uiBVIsxePMYdg5ksVYuR7WJxffO60L3Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bill Zeltman - New Port Richey Guru",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-03-09T20:35:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "x9EFpwKtW9u8MgaIIa2QwmFtlUc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCANQLBu7Ae6oxxjxerUq8mA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-12-01T19:51:16Z",
+                    "channelId": "UCANQLBu7Ae6oxxjxerUq8mA",
+                    "title": "About The Town With Di",
+                    "description": "I'm Dianne Lareau. I share video montages about the towns and places that I visit. As a realtor and long time resident of west ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/1AzOdfXhkEj3XTloDNi5jH11zwqmaEb100fqnxg6ltJXGZcEOUENM7jiBZTKnKttncmEfVkvrhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/1AzOdfXhkEj3XTloDNi5jH11zwqmaEb100fqnxg6ltJXGZcEOUENM7jiBZTKnKttncmEfVkvrhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/1AzOdfXhkEj3XTloDNi5jH11zwqmaEb100fqnxg6ltJXGZcEOUENM7jiBZTKnKttncmEfVkvrhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "About The Town With Di",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-12-01T19:51:16Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "I4Ec4igmh9IAuCt1pigNL0_f0Rs",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 194,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "o6E0gSX-xLgA-Vl8ApP00LsB_3c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCDDZxCRoWh5rMmQuF8oS9ag"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-13T16:00:30Z",
+                    "channelId": "UCDDZxCRoWh5rMmQuF8oS9ag",
+                    "title": "City of New Port Richey, Florida",
+                    "description": "The City of New Port Richey, Florida, is proud to announce its newest channel titled, \"In the City.\" This channel will highlight City ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lLtG2fN9fcXEqbO0vKOciDjo2QtGc-JwNVD02F92P3rg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of New Port Richey, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-05-13T16:00:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AELJgsO0WoWvmKb1XLr12BujGHk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiFHiXnOZzzF-gbtAbd2m6Q"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-04T22:38:47Z",
+                    "channelId": "UCiFHiXnOZzzF-gbtAbd2m6Q",
+                    "title": "City of Port Richey",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_msZd5lJ6SHWhj7rw9ba6BKvDVBcFi2jMar-f4D0BLjoJo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Port Richey",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-04T22:38:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "toMuDUBX8baMfVr9ZFL5cL9bUO0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHuYQOv-m-w3w9Ag5Aa_BjQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-02-03T16:59:27Z",
+                    "channelId": "UCHuYQOv-m-w3w9Ag5Aa_BjQ",
+                    "title": "New Port Richey, Florida",
+                    "description": "New Port Richey is a city in Pasco County, Florida, United States. It is a suburban city included in the Tampa-St.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JXMISwB9CgNTWtPApU4TyzGBLZbvtbrGUqERnw7jxQlIqMhlzEiNm1dGa3IGEay2lxst8CIq=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "New Port Richey, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-02-03T16:59:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "w699nzZqYzU3YmlP1Pq_NnG3MsY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkFSkUONyJproc24XYv10Tg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-09-23T17:40:28Z",
+                    "channelId": "UCkFSkUONyJproc24XYv10Tg",
+                    "title": "Mosaic NPR",
+                    "description": "We are a multi-generation church in New Port Richey, FL seeking to reach our city and the world with Gospel of Jesus Christ.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/E2g8s5Uk9nBGtWaESYk7_E5BeDun6RSZhWP8kc_E--Ww5YVZ-f58Fskcn-Dbv_ImGGivr4-_=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/E2g8s5Uk9nBGtWaESYk7_E5BeDun6RSZhWP8kc_E--Ww5YVZ-f58Fskcn-Dbv_ImGGivr4-_=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/E2g8s5Uk9nBGtWaESYk7_E5BeDun6RSZhWP8kc_E--Ww5YVZ-f58Fskcn-Dbv_ImGGivr4-_=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Mosaic NPR",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-09-23T17:40:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cfOrBjb7O53_rXFiFlMx2hnSaLM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuzO323iMaemsxyL4psdHvw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-22T16:15:33Z",
+                    "channelId": "UCuzO323iMaemsxyL4psdHvw",
+                    "title": "Angel's Port Richey",
+                    "description": "Native to Florida, Port Richey is my current landing place. I made it far from New Port Richey across the river. We have grown up ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJq5EmR09pbDJiYGa6Lzhz2taLZ_fmqdkK-d3dYxdomw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJq5EmR09pbDJiYGa6Lzhz2taLZ_fmqdkK-d3dYxdomw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJq5EmR09pbDJiYGa6Lzhz2taLZ_fmqdkK-d3dYxdomw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Angel's Port Richey",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-22T16:15:33Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "oWf1UXk8jvEw3kZkiUKHMFOlf2A",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 160,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "q9hahuGrXJQnFCUI9-2XBs5lP_M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC62SprpD85AqvtjJk2bP4-A"
+                },
+                "snippet": {
+                    "publishedAt": "2009-05-22T05:38:10Z",
+                    "channelId": "UC62SprpD85AqvtjJk2bP4-A",
+                    "title": "OCOEE TV",
+                    "description": "Ocoee TV, is a 24-hour government access channel programmed and operated by the City of Ocoee, Florida. Ocoee TV, Channel ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "OCOEE TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-05-22T05:38:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "m7LRIyMXFnPrib-YvZulTK64Zt8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCavnfNE6WpgmFrJ47eUjavw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-29T16:04:18Z",
+                    "channelId": "UCavnfNE6WpgmFrJ47eUjavw",
+                    "title": "Florida Drone Tours",
+                    "description": "Discover a higher perspective with Florida Drone Tours, your premier partner for exceptional drone footage. We specialize in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Drone Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-29T16:04:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jYQ9dx_6PJDlZXyeGM99Aid_2jU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTgCM3p-pasznzCgEcNPhKg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-10T17:00:51Z",
+                    "channelId": "UCTgCM3p-pasznzCgEcNPhKg",
+                    "title": "Ocoee Police",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocoee Police",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-05-10T17:00:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s4lnVpyO_Qb3Udmpgnx6qYpS7KA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTPTOWkTcT2WspJiDQJslBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-11T00:30:49Z",
+                    "channelId": "UCTPTOWkTcT2WspJiDQJslBQ",
+                    "title": "Michelle Bergstein- Fontanez",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michelle Bergstein- Fontanez",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-11T00:30:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vsSwWR5Wtaviol7hK6mhoiSUoqU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6VP-6pEoabGenArjA8DPLA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-05-12T15:31:30Z",
+                    "channelId": "UC6VP-6pEoabGenArjA8DPLA",
+                    "title": "Chris Adkins",
+                    "description": "Ocoee Mayor Leadership Environment First Responders Accountability Downtown Ocoee.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Chris Adkins",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-05-12T15:31:30Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ey0moCJousxfXCrcNguPgVhRKLk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 94,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "H9pYRSSBA4BgEJWpYboFgOMhJZ8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC62SprpD85AqvtjJk2bP4-A"
+                },
+                "snippet": {
+                    "publishedAt": "2009-05-22T05:38:10Z",
+                    "channelId": "UC62SprpD85AqvtjJk2bP4-A",
+                    "title": "OCOEE TV",
+                    "description": "Ocoee TV, is a 24-hour government access channel programmed and operated by the City of Ocoee, Florida. Ocoee TV, Channel ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fOiaweglVHGdC1csYrE7Nhi4gNToHX27d-3eMsIRtPc3cFnNNNxyhatyImaHoVEnK1sruQp2_g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "OCOEE TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-05-22T05:38:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jYQ9dx_6PJDlZXyeGM99Aid_2jU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTgCM3p-pasznzCgEcNPhKg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-10T17:00:51Z",
+                    "channelId": "UCTgCM3p-pasznzCgEcNPhKg",
+                    "title": "Ocoee Police",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aANeQ4lIQGsPaJqlcAhuH3hKaW4pvpeyOCXxzCcPTe59h4j6uN8VdSUUGbxwoNk3ksRGN5MrztQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocoee Police",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-05-10T17:00:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "m7LRIyMXFnPrib-YvZulTK64Zt8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCavnfNE6WpgmFrJ47eUjavw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-29T16:04:18Z",
+                    "channelId": "UCavnfNE6WpgmFrJ47eUjavw",
+                    "title": "Florida Drone Tours",
+                    "description": "Discover a higher perspective with Florida Drone Tours, your premier partner for exceptional drone footage. We specialize in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/axxxvzkmxpwaoHIqOpXZY8MBEiwqEe2heKk9hVXya8MmvI1dwWWgQnrjBl0Hd4k7chNkpDAMdA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Drone Tours",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-29T16:04:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vsSwWR5Wtaviol7hK6mhoiSUoqU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6VP-6pEoabGenArjA8DPLA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-05-12T15:31:30Z",
+                    "channelId": "UC6VP-6pEoabGenArjA8DPLA",
+                    "title": "Chris Adkins",
+                    "description": "Ocoee Mayor Leadership Environment First Responders Accountability Downtown Ocoee.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Bdf7eoBugsyYtife0CikgS2Y_ibRKf-PZlwoyaM5i6EKfWcZp5pV2U6_rxOGGqpi3MLBDX6S=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Chris Adkins",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-05-12T15:31:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s4lnVpyO_Qb3Udmpgnx6qYpS7KA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTPTOWkTcT2WspJiDQJslBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-11T00:30:49Z",
+                    "channelId": "UCTPTOWkTcT2WspJiDQJslBQ",
+                    "title": "Michelle Bergstein- Fontanez",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4o6gha19alzbwHpaJFkAxfq2TAzpleh5rijgTCpl-OQ0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michelle Bergstein- Fontanez",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-11T00:30:49Z"
+                }
+            }
+        ]
+    }
+]

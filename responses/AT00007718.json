@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "TilSd6L1uQ9PvNoYBRIPFSUjwT0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 436,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "u69kySvXkrHtTK0L7-zGHMOqHzI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg95gl9JdhVA3Zda0O2yhSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-10-18T18:35:49Z",
+                    "channelId": "UCg95gl9JdhVA3Zda0O2yhSQ",
+                    "title": "Palm Beach North Podcast",
+                    "description": "From the shores of Florida's Prosperity Coast comes the Palm Beach North Podcast produced by the Palm Beach North Chamber ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/1q9D5a41xS1tbcXbuQ-PP7i2rmNTl8KVPS9sSYWeaLMUNX6SIJ8zD82Gj52soQcolbOGEcE31n0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/1q9D5a41xS1tbcXbuQ-PP7i2rmNTl8KVPS9sSYWeaLMUNX6SIJ8zD82Gj52soQcolbOGEcE31n0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/1q9D5a41xS1tbcXbuQ-PP7i2rmNTl8KVPS9sSYWeaLMUNX6SIJ8zD82Gj52soQcolbOGEcE31n0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Palm Beach North Podcast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-10-18T18:35:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1RcYGkp14z4KCQI2Ed8M7yXeVOg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw"
+                },
+                "snippet": {
+                    "publishedAt": "2008-09-11T18:12:48Z",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw",
+                    "title": "WPB-TV",
+                    "description": "Welcome to the City of West Palm Beach's official YouTube channel. We broadcast live and prerecorded city meetings and videos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPB-TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-09-11T18:12:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3Hn5MniW5BM_kpmWwkcgq240Ydk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwG62CLxzPcfb0_Hu4ivx1w"
+                },
+                "snippet": {
+                    "publishedAt": "2008-02-13T19:18:32Z",
+                    "channelId": "UCwG62CLxzPcfb0_Hu4ivx1w",
+                    "title": "adoptaunit",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhsj2GI8XRfHw0LamsgTsGjOYPoej5cXEMJzhY47vePw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhsj2GI8XRfHw0LamsgTsGjOYPoej5cXEMJzhY47vePw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhsj2GI8XRfHw0LamsgTsGjOYPoej5cXEMJzhY47vePw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "adoptaunit",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-02-13T19:18:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DAlZq84lXQsOMc-X3Ha3TbIKfi0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-19T22:54:17Z",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ",
+                    "title": "LIVING IN PALM BEACH FLORIDA",
+                    "description": "Originally from New York, I relocated my family to South Florida 18 years ago. Knowing that we wanted to live in Florida but not ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN PALM BEACH FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-19T22:54:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4FfXBDnoz-z6rDt_Qpb8U_gqs0s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-17T15:33:48Z",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ",
+                    "title": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "description": "Whether you're a listing a home for sale or buying a house in Palm Beach Gardens, Jupiter or the greater West Palm Beach area, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-09-17T15:33:48Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "gA9_V7AgtuJDz61iVmMoa1o0apE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 238,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4FfXBDnoz-z6rDt_Qpb8U_gqs0s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-17T15:33:48Z",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ",
+                    "title": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "description": "Whether you're a listing a home for sale or buying a house in Palm Beach Gardens, Jupiter or the greater West Palm Beach area, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-09-17T15:33:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fI2j7rxyzTZ6P-0jLsZI-jkcJQU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-26T17:35:24Z",
+                    "channelId": "UCsA5KJGb1PS0DR9aWD0f7Uw",
+                    "title": "Florida Living",
+                    "description": "Greetings! Are you wondering what it's like to live in north central Florida - specifically Flagler Beach, Palm Coast, St. Augustine, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tkYXyFF7QT-AtIK3Cbxyb9jrHkeBSn5ybIhU4Ew_EYeIGpVbHD8jKUDYqDItAkiQ2XnZnbi3bQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-26T17:35:24Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xuHwfWi4ToJu55zvMoVjWw6eMf8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLEBSfoZqOpTUWzfDoJZ8_w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-24T02:12:28Z",
+                    "channelId": "UCLEBSfoZqOpTUWzfDoJZ8_w",
+                    "title": "Palm Beach Impressions",
+                    "description": "Local news on West Palm Beach biggest expansion plan since 2002.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/QEu1IB0VjgA9awv4TtoP4yLHuYr0Fk1ktL_VN6BFUmscsUpeapb0_D6fUVZgAJlGiKDkGBT6ig=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/QEu1IB0VjgA9awv4TtoP4yLHuYr0Fk1ktL_VN6BFUmscsUpeapb0_D6fUVZgAJlGiKDkGBT6ig=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/QEu1IB0VjgA9awv4TtoP4yLHuYr0Fk1ktL_VN6BFUmscsUpeapb0_D6fUVZgAJlGiKDkGBT6ig=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Palm Beach Impressions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-24T02:12:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "r-U3S__fo4iHzx6HZ-_PWcgOZAs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOidqED9yGv4dYml52IXCYA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-10T15:32:57Z",
+                    "channelId": "UCOidqED9yGv4dYml52IXCYA",
+                    "title": "South Florida Real Estate - Cuomo Team",
+                    "description": "Welcome to the Cuomo Team's South Florida Real Estate channel! Our local team has been providing top-notch real estate ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Reh_L2An2ilqUbkIlrBQls763dJqKneotHt4calfDNyTt_jxVXQRoED02o1ZRd3Lux8S0tah=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Reh_L2An2ilqUbkIlrBQls763dJqKneotHt4calfDNyTt_jxVXQRoED02o1ZRd3Lux8S0tah=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Reh_L2An2ilqUbkIlrBQls763dJqKneotHt4calfDNyTt_jxVXQRoED02o1ZRd3Lux8S0tah=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida Real Estate - Cuomo Team",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-10T15:32:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "12i8F_o7Sw0nmamWLDAqkavel8w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5zAWsPWetfJXOMDb1-ogEA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-08-26T21:11:10Z",
+                    "channelId": "UC5zAWsPWetfJXOMDb1-ogEA",
+                    "title": "thepalmbeachgroup",
+                    "description": "The Palm Beach Group is a team of real estate professionals serving South Florida sellers and buyers.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lHRPNWpNOGzpWNVbgQa4gp9R-q443H5moRowxImRU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lHRPNWpNOGzpWNVbgQa4gp9R-q443H5moRowxImRU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lHRPNWpNOGzpWNVbgQa4gp9R-q443H5moRowxImRU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "thepalmbeachgroup",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-08-26T21:11:10Z"
+                }
+            }
+        ]
+    }
+]

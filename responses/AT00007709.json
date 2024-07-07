@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "SU3ycQxoeGMJZ06hbxRx-g4QPgM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 151,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s34j2l_Wwf8o8GnnxVcpZ8ZVqYs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEOmmEM5qF17RTkDypv9y7Q"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-07T20:05:42Z",
+                    "channelId": "UCEOmmEM5qF17RTkDypv9y7Q",
+                    "title": "5K CityVideos",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "5K CityVideos",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-07T20:05:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "81GZD4_Kw4HQbxOL1TH7v4ReTOI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJx1j7EwQ265XsmKlWiTlow"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-27T22:24:42Z",
+                    "channelId": "UCJx1j7EwQ265XsmKlWiTlow",
+                    "title": "Bazzons Travel Channel",
+                    "description": "Exploring the new and old.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nd13Bi15OIr14lwo7qdKxB8Uvc5PUm6mWTWJlqmjI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nd13Bi15OIr14lwo7qdKxB8Uvc5PUm6mWTWJlqmjI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nd13Bi15OIr14lwo7qdKxB8Uvc5PUm6mWTWJlqmjI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bazzons Travel Channel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-27T22:24:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LKxgJxQZTr0mJRqLfWfbRnjNg0g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "25kSvv_RQukaS0rJ4RBOz5M4WMg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr4YjZDmmKRHSZXJSy7pi8g"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-22T17:47:07Z",
+                    "channelId": "UCr4YjZDmmKRHSZXJSy7pi8g",
+                    "title": "Priscilla Doliveira",
+                    "description": "Priscilla is a Real Estate Investor for the past 10 years and has turned her passion into her business. Priscilla founded ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Priscilla Doliveira",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-22T17:47:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z3wmQhGy886D8POBUSD8_irNcXA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "D9yAiviFV2m-2D5fKuQG8qsfllI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 134,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s34j2l_Wwf8o8GnnxVcpZ8ZVqYs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEOmmEM5qF17RTkDypv9y7Q"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-07T20:05:42Z",
+                    "channelId": "UCEOmmEM5qF17RTkDypv9y7Q",
+                    "title": "5K CityVideos",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4dgp-tLWKi5-6RVpfuyvSKgMGI38Ukz0Le60DEFFsW4c=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "5K CityVideos",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-07T20:05:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LKxgJxQZTr0mJRqLfWfbRnjNg0g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "25kSvv_RQukaS0rJ4RBOz5M4WMg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr4YjZDmmKRHSZXJSy7pi8g"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-22T17:47:07Z",
+                    "channelId": "UCr4YjZDmmKRHSZXJSy7pi8g",
+                    "title": "Priscilla Doliveira",
+                    "description": "Priscilla is a Real Estate Investor for the past 10 years and has turned her passion into her business. Priscilla founded ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l7XtEImn_SE2rNktiTpHf5d9axhdNWpCYxjzqPcC0tZko=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Priscilla Doliveira",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-22T17:47:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Zs9TDKOG3hRjcmtvRlvGoqGq4KA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-14T23:11:19Z",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ",
+                    "title": "City of Miami Gov",
+                    "description": "The Official City of Miami YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Gov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-14T23:11:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8yOJt2JWGYfuvTcND34Rnl83ZyQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            }
+        ]
+    }
+]

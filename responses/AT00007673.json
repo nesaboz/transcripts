@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "DBZflec8hJtxl2JF6nAV9AKSmTA",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 35,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "cKf4bSqOjnjDV-mcBH-8UrwQiw4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqH3UCcvoO19s6ZsqrYNrLg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-11T13:33:26Z",
+                    "channelId": "UCqH3UCcvoO19s6ZsqrYNrLg",
+                    "title": "Living in North West Florida ",
+                    "description": "Living In North West Florida is an amazing experience that brings new adventures everyday! Are you looking to find out the Good, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-CfBJUhM4HDCv14QZ99CC26jkhuWMku-PfrqNuUXMLZBS0HXiuvGuD1ScIvAHTAR4tCNn6rM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-CfBJUhM4HDCv14QZ99CC26jkhuWMku-PfrqNuUXMLZBS0HXiuvGuD1ScIvAHTAR4tCNn6rM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-CfBJUhM4HDCv14QZ99CC26jkhuWMku-PfrqNuUXMLZBS0HXiuvGuD1ScIvAHTAR4tCNn6rM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in North West Florida ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-11T13:33:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9npQNl0qD8IcD2qCVYl6OMt6XWY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC92jMvf67dWDSg-MgWIZXug"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-26T19:29:11Z",
+                    "channelId": "UC92jMvf67dWDSg-MgWIZXug",
+                    "title": "Jerry Beasley-Mingling in Milton",
+                    "description": "Jerry Beasley is a resident of Milton, Florida with a stong desire to promote area attractions and businesses. Besides being a ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wdSJR0N4elBeHqE3UNfuvgyZNodxfRNLWXisv0472RteBfvYwaxrBcSh0-WDeK0nnl9dq6h2Rw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wdSJR0N4elBeHqE3UNfuvgyZNodxfRNLWXisv0472RteBfvYwaxrBcSh0-WDeK0nnl9dq6h2Rw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wdSJR0N4elBeHqE3UNfuvgyZNodxfRNLWXisv0472RteBfvYwaxrBcSh0-WDeK0nnl9dq6h2Rw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jerry Beasley-Mingling in Milton",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-26T19:29:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a28jX3Mf7hXbyCpXqJhqhS1ZMdk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCa-HoeAd-FC6vRWVeyBbDhA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-06T02:14:34Z",
+                    "channelId": "UCa-HoeAd-FC6vRWVeyBbDhA",
+                    "title": "Sierra Kressler",
+                    "description": "16-year old Milton,Florida girl who's trynna make it in a small town.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Kec4qWmxUnw1NT9SZMhIDzJJ7p3H2ToB6dxAQyFRcYkUcRvD26lmLm90vaMbsYzdF4Rwbuet=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Kec4qWmxUnw1NT9SZMhIDzJJ7p3H2ToB6dxAQyFRcYkUcRvD26lmLm90vaMbsYzdF4Rwbuet=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Kec4qWmxUnw1NT9SZMhIDzJJ7p3H2ToB6dxAQyFRcYkUcRvD26lmLm90vaMbsYzdF4Rwbuet=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sierra Kressler",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-06T02:14:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O44q-qVhWDmSJVynxF6oMchayvc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR5koogJK8-E882B68RdFyA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-21T22:32:38Z",
+                    "channelId": "UCR5koogJK8-E882B68RdFyA",
+                    "title": "Roxie Platt",
+                    "description": "From the creator of Creeptown USA, now showing, one of a kind original animatronic Characters found only in the artist's ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lySOpuxv00iaVVN3b4kBnBmjFNQqDBCHxcAdKsVe-udQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lySOpuxv00iaVVN3b4kBnBmjFNQqDBCHxcAdKsVe-udQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lySOpuxv00iaVVN3b4kBnBmjFNQqDBCHxcAdKsVe-udQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Roxie Platt",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-11-21T22:32:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "QJrQwo6D_vLsab1gZ460P63gUVc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHivLClmGfy45FeK5N8E1Xg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-13T19:44:59Z",
+                    "channelId": "UCHivLClmGfy45FeK5N8E1Xg",
+                    "title": "WEAR Channel 3 News",
+                    "description": "First. Live. Local. WEAR ABC Channel 3 News covering Northwest Florida in Pensacola, Fort Walton Beach and Destin.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/RBpqWpE3t1kvrvsLwCry2Uawch_rn_1TbX7fxj6WKGjzsSDlMoRINeLhQVtg0sMdOejDcSZF-Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/RBpqWpE3t1kvrvsLwCry2Uawch_rn_1TbX7fxj6WKGjzsSDlMoRINeLhQVtg0sMdOejDcSZF-Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/RBpqWpE3t1kvrvsLwCry2Uawch_rn_1TbX7fxj6WKGjzsSDlMoRINeLhQVtg0sMdOejDcSZF-Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WEAR Channel 3 News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-13T19:44:59Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "rKJ-If94FFYkoddKUCSUwC8laqI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 131,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IrAhh6560o3R_AfA_bCxhjz1Uaw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC74DntI7Q-9bi_o7gO_02eg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-02T21:20:23Z",
+                    "channelId": "UC74DntI7Q-9bi_o7gO_02eg",
+                    "title": "City of Milton, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbLuBERLoOZXaN_JryHxLSrzSv6Mcu7LspP86u2fs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbLuBERLoOZXaN_JryHxLSrzSv6Mcu7LspP86u2fs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbLuBERLoOZXaN_JryHxLSrzSv6Mcu7LspP86u2fs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Milton, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-02T21:20:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vTBTP91keV9tpbgCzJwd5IJHfbE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCslWEPwz3QQ-HhOfVzKj1cg"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-15T18:58:39Z",
+                    "channelId": "UCslWEPwz3QQ-HhOfVzKj1cg",
+                    "title": "City of Milton, Florida",
+                    "description": "Official YouTube channel for the City of Milton, Florida. This is not an actively maintained account. We currently only use YouTube ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JP7CCV_xoZByPCCU8ZU3O8j4Cd2gyxgcce2BeSaz2ehudmvZw54i-MAT2cj0cXiwWAW9J3STCQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JP7CCV_xoZByPCCU8ZU3O8j4Cd2gyxgcce2BeSaz2ehudmvZw54i-MAT2cj0cXiwWAW9J3STCQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JP7CCV_xoZByPCCU8ZU3O8j4Cd2gyxgcce2BeSaz2ehudmvZw54i-MAT2cj0cXiwWAW9J3STCQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Milton, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-15T18:58:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sTM1E-QQwj_F8nbXLHfVqQwV7T4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeWxDlr5ZK_W1q0Z8EuOctw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-09-24T15:16:38Z",
+                    "channelId": "UCeWxDlr5ZK_W1q0Z8EuOctw",
+                    "title": "Milton Stream",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7an2CtgNhzq2ZE19WL8Wv9OeBznDpV9yMWuVizvI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7an2CtgNhzq2ZE19WL8Wv9OeBznDpV9yMWuVizvI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m7an2CtgNhzq2ZE19WL8Wv9OeBznDpV9yMWuVizvI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Milton Stream",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-09-24T15:16:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jaDF3_dS8n_Yfqm8Fxy81FjLuMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFxb5wNVufRcN0xl1UvmQsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-25T19:39:16Z",
+                    "channelId": "UCFxb5wNVufRcN0xl1UvmQsQ",
+                    "title": "Living on the Emerald Coast Florida",
+                    "description": "Discover the perfect coastal paradise for your next chapter in life! We are your ultimate guide to living on, investing and relocating ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ReBs1iY1nm-6EOZF31_19L6q8skrDq45t_m3_OM1JsQBFQ-RAVAkml6x4-I3uiz1_7KNHOXbKfA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ReBs1iY1nm-6EOZF31_19L6q8skrDq45t_m3_OM1JsQBFQ-RAVAkml6x4-I3uiz1_7KNHOXbKfA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ReBs1iY1nm-6EOZF31_19L6q8skrDq45t_m3_OM1JsQBFQ-RAVAkml6x4-I3uiz1_7KNHOXbKfA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living on the Emerald Coast Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-06-25T19:39:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "c2E_WACdXNsl2-mcA560TL4BGiU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR-AVVXX-SHm3ju4kyRmVpQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-14T21:30:20Z",
+                    "channelId": "UCR-AVVXX-SHm3ju4kyRmVpQ",
+                    "title": "Small City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/At9jS6CHb-oxmAWlufcG3biI4xCFDp7vE5nbOguMfglHB82ErtT_AY-7QFM7qhwENsHlP4zpgAU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/At9jS6CHb-oxmAWlufcG3biI4xCFDp7vE5nbOguMfglHB82ErtT_AY-7QFM7qhwENsHlP4zpgAU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/At9jS6CHb-oxmAWlufcG3biI4xCFDp7vE5nbOguMfglHB82ErtT_AY-7QFM7qhwENsHlP4zpgAU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Small City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-14T21:30:20Z"
+                }
+            }
+        ]
+    }
+]

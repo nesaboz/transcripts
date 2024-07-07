@@ -224,7 +224,7 @@ class ChannelAnalyzer:
 
     def start(self):
         for index, row in tqdm(self.status_df.iterrows()):
-            if row[WAS_CRAWLED] == YES and row[WAS_ANALYZED] == '':
+            if row[WAS_CRAWLED] == YES and pd.isna(row[WAS_ANALYZED]):
                 try:
                     unique_id = row[ID]
                     self.analyze(unique_id)
@@ -308,60 +308,76 @@ def aggregate_analysis_files(crawler, output_file):
     combined_df.to_csv(output_file, index=False)
 
 
-def get_channel_id(channel_username):
+class Channel(object):
     
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
     
-    request = youtube.channels().list(
-        part="id",
-        forUsername=channel_username
-    )
-    response = request.execute()
-    return response['items'][0]['id'] if response['items'] else None
+    def __init__(self, channel_id):
+        self.channel_id = channel_id
+        self.url = f'https://www.youtube.com/channel/{self.channel_id}'
+        self.videos = []
 
+    def get_channel_username(self):
+        # TODO 
+        pass
+        
+    def get_videos(self):
+        
+        videos = []
+        next_page_token = None
 
-def get_live_streams_from_channel(channel_id):
-    
-    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
-    
-    videos = []
-    next_page_token = None
+        while True:
+            request = self.youtube.search().list(
+                part="snippet",
+                channelId=self.channel_id,
+                maxResults=50,
+                pageToken=next_page_token,
+                order="date",
+                type="video",
+                # eventType="live"  # This filters for live streams only, doesn't work
+            )
+            response = request.execute()
 
-    while True:
-        request = youtube.search().list(
-            part="snippet",
-            channelId=channel_id,
-            maxResults=50,
-            pageToken=next_page_token,
-            order="date",
-            type="video",
-            eventType="live"  # This filters for live streams only
-        )
-        response = request.execute()
+            for item in response.get('items', []):
+                video_info = {
+                    "video_id": item['id']['videoId'],
+                    "title": item['snippet']['title'],
+                    "description": item['snippet']['description'],
+                    "published_at": item['snippet']['publishedAt']
+                }
+                videos.append(video_info)
 
-        for item in response['items']:
-            video_info = {
-                "video_id": item['id']['videoId'],
-                "title": item['snippet']['title'],
-                "description": item['snippet']['description'],
-                "published_at": item['snippet']['publishedAt']
-            }
-            videos.append(video_info)
+            next_page_token = response.get('nextPageToken')
+            if not next_page_token:
+                break
 
-        next_page_token = response.get('nextPageToken')
-        if not next_page_token:
-            break
+        self.videos = videos
+        
+        self.export_video_list()
 
-    return videos
+    def export_video_list(self):
+        filepath = os.path.join('channels', self.channel_id, 'videos.json')
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        
+        # Export to JSON file
+        with open(filepath, 'w') as json_file:
+            json.dump(self.videos, json_file, indent=4)
 
-
-
+    def extract_all(self):
+        # TODO need to add a status file here so I can keep track of what was done
+        # and in case there is an issue, like quota exceeded, I can pick up where I left off
+        for video in self.videos:
+            video_id = video['video_id']
+            video_info = VideoInfo(video_id)
+            video_info.get_all_video_info()
 
 class VideoInfo(object):
     """
-    Important video info
-    """
+    All relevant video info and transcript.
     
+    YouTube video_id is what comes after 'v=' in URL: https://www.youtube.com/watch?v=5AIBek1jhfE
+    so in this case, the ID is 5AIBek1jhfE.
+    """
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
     
     def __init__(self, video_id):
@@ -374,7 +390,7 @@ class VideoInfo(object):
         parsed_duration = isodate.parse_duration(duration)
         return parsed_duration.total_seconds() / 60
 
-    def get_video_info(self):
+    def get_only_video_info(self):
         # Get video details
         request = self.youtube.videos().list(
             part="snippet,contentDetails,statistics",
@@ -397,29 +413,8 @@ class VideoInfo(object):
         self.channel_id = video["snippet"]["channelId"]
         self.channel_title = video["snippet"]["channelTitle"]
         
-    def export(self, filename):
-        # Extract relevant details
-        video_info = {
-            "id": self.id,
-            "title": self.title,
-            "description": self.description,
-            "upload_date": self.upload_date,
-            "duration": self.duration,
-            "views": self.views,
-            "likes": self.likes,
-            "channel_id": self.channel_id,
-            "channel_title": self.channel_title,
-            "url": self.url
-        }
-
-        # Write the dictionary to a JSON file
-        with open(filename, 'w') as json_file:
-            json.dump(video_info, json_file, indent=4)
-
-        print(f"Dictionary saved to {filename}")
-        
     # Function to get transcript
-    def get_transcript(self):
+    def get_only_transcript(self):
         
         try:
             # Fetch the transcript
@@ -430,15 +425,56 @@ class VideoInfo(object):
             
             self.transcript = transcript_text
             
-            filename = f'transcript_{self.id}.csv'
+            filepath = os.path.join('channels', self.channel_id, 'transcripts', f'transcript_{self.id}.csv')
+            
+            os.makedirs(os.path.dirname(filepath), exist_ok=True)
+            
             # Write the string to the CSV file
-            with open(f'transcripts/{filename}', mode='w', newline='') as file:
+            with open(filepath, mode='w', newline='') as file:
                 writer = csv.writer(file)
                 
                 # Write the string as a single row
                 writer.writerow([transcript])
 
-            print(f"String saved to {filename}")
+            # print(f"String saved to {filepath}")
+            return True, None
         
         except Exception as e:
-            return str(e)
+            print('Could not get transcript for video: ', self.id)
+            self.transcript = None
+            print(e)
+            return False, e
+            
+
+    def export(self):
+        # Extract relevant details
+        video_info_and_transcript = {
+            "id": self.id,
+            "title": self.title,
+            "description": self.description,
+            "upload_date": self.upload_date,
+            "duration": self.duration,
+            "views": self.views,
+            "likes": self.likes,
+            "channel_id": self.channel_id,
+            "channel_title": self.channel_title,
+            "url": self.url,
+            "transcript_success": self.transcript_success,
+            "transcript_error": self.transcript_error,
+            'transcript': self.transcript
+        }
+        
+        filepath = os.path.join('channels', self.channel_id, 'videos', f'{self.id}.json')
+        
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+            
+        # Write the dictionary to a JSON file
+        with open(filepath, 'w') as json_file:
+            json.dump(video_info_and_transcript, json_file, indent=4)
+
+        # print(f"Dictionary saved to {filepath}")
+
+    def get_all_video_info(self):
+        self.get_only_video_info()
+        self.transcript_success, self.transcript_error = self.get_only_transcript()
+        self.export()

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "y03dVa2XDMUa3wDiZ-SjlKGgRH0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 220,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "p3ZDH_rampprKRxAFrVsVvSMpps",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2agzh0jvBYzdm_viEIDBFg"
+                },
+                "snippet": {
+                    "publishedAt": "2008-05-05T19:19:08Z",
+                    "channelId": "UC2agzh0jvBYzdm_viEIDBFg",
+                    "title": "Autohaus of Naples",
+                    "description": "Autohaus of Naples is located in the resort town of Naples, Florida. We specialize in high-end, hard to find, luxury European ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/CaS1MPx6UlLIzQACLWmeECW6BEaaNvaxs-v6HEFGVhHD83_TeMRjt4g8biTO-Tv5aquI5_p1u4I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Autohaus of Naples",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-05-05T19:19:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZQVrlATG7F8rpP7oNLmBtJrrAw4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzUiyqvPZ9PvtKJdl64F04A"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-12T22:10:52Z",
+                    "channelId": "UCzUiyqvPZ9PvtKJdl64F04A",
+                    "title": "The Wrong Side Of Naples Florida",
+                    "description": "There's something seriously wrong with this town.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lK87F-DeBElwPsfYYR6Sha_9EzXxwmFaGsbZg3klw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lK87F-DeBElwPsfYYR6Sha_9EzXxwmFaGsbZg3klw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lK87F-DeBElwPsfYYR6Sha_9EzXxwmFaGsbZg3klw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Wrong Side Of Naples Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-11-12T22:10:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ttDuc7vWIFq494oIIHXXYvZB-3o",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeaax6MKVZ_Fn8HnB0_QANQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-07-27T14:35:53Z",
+                    "channelId": "UCeaax6MKVZ_Fn8HnB0_QANQ",
+                    "title": "Naples Best",
+                    "description": "Showcasing the BEST of Naples, Florida. Situated on the Southwest coast of sunny Florida is Naples- a vibrant and fun beach-city ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/gJGf0JfLTsO9frRnsTEm8aZQDiL4kMYm9j1NyLMCtTvV04ovy0oPgd9c0Zx7dhTDkkEcN0MlIA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/gJGf0JfLTsO9frRnsTEm8aZQDiL4kMYm9j1NyLMCtTvV04ovy0oPgd9c0Zx7dhTDkkEcN0MlIA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/gJGf0JfLTsO9frRnsTEm8aZQDiL4kMYm9j1NyLMCtTvV04ovy0oPgd9c0Zx7dhTDkkEcN0MlIA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Naples Best",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-07-27T14:35:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qhewjEkTMt8b1OY0Mq1CJPPOkmI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfWa1nxOshcxJdR1VWA_XIA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-05T14:00:16Z",
+                    "channelId": "UCfWa1nxOshcxJdR1VWA_XIA",
+                    "title": "Team Towers Naples",
+                    "description": "Welcome to Team Towers video channel page. Anne and Bill (and sometimes Jake) will show you around town in Naples, FL ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kER2bE2kiQ1LZOXkbelKdiMwmEudsSrU_Ns6nVDuYmQA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kER2bE2kiQ1LZOXkbelKdiMwmEudsSrU_Ns6nVDuYmQA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kER2bE2kiQ1LZOXkbelKdiMwmEudsSrU_Ns6nVDuYmQA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Team Towers Naples",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-05T14:00:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "gV48P5L0wYnqkNlWJKVjWdMLlEY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5exKNRY6k8HmgfY2O7Tnjw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-02T14:35:32Z",
+                    "channelId": "UC5exKNRY6k8HmgfY2O7Tnjw",
+                    "title": "Jess Powell - Naples Real Estate Agent",
+                    "description": "Hi! My name is Jess Powell -- I'm so glad you found my channel. I am a wife, Mom and a real estate agent. I moved my family [with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/4nYOZvI1dvyIuitukdJdS0WPpMozKWm-YoESFO1wBLvuYgRymIT2WxC4uM38iNo3TkuAHBTy=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jess Powell - Naples Real Estate Agent",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-02T14:35:32Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "3wvUTd3nSMM0kk-erYUaZHpjqAE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 1018,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "D5QcIUqSu2H2jTj1GhWmrNPumGk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXXF25nRHei2TYa-PNO3JcQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-25T14:58:57Z",
+                    "channelId": "UCXXF25nRHei2TYa-PNO3JcQ",
+                    "title": "Naples Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksnY6ajd5bqDLB1Dy-t427RJA3pAWtH8RwYSvteokoZQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksnY6ajd5bqDLB1Dy-t427RJA3pAWtH8RwYSvteokoZQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ksnY6ajd5bqDLB1Dy-t427RJA3pAWtH8RwYSvteokoZQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Naples Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-25T14:58:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HkJC85JnXMVDoNmRWdGX9I8s_B0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-fMlkr4JJFOD_uTiUqTd0Q"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-01T23:45:14Z",
+                    "channelId": "UC-fMlkr4JJFOD_uTiUqTd0Q",
+                    "title": "Hope City Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/awjSb7_YbQFK_y1jmuco-mb8zs2cONMARayHYpJS2ccY156DtPBqcZtxVxIglWBTKkejA7dJLSA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/awjSb7_YbQFK_y1jmuco-mb8zs2cONMARayHYpJS2ccY156DtPBqcZtxVxIglWBTKkejA7dJLSA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/awjSb7_YbQFK_y1jmuco-mb8zs2cONMARayHYpJS2ccY156DtPBqcZtxVxIglWBTKkejA7dJLSA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hope City Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-01T23:45:14Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WWHv8HbRWD8lON0AmhwodeCO_0E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRH0U8SA2k1XbXtB6fPfQYQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-13T19:16:40Z",
+                    "channelId": "UCRH0U8SA2k1XbXtB6fPfQYQ",
+                    "title": "Living in Naples Florida!",
+                    "description": "Moving to Naples, Florida? Let's Chat! \u2600\ufe0f Welcome to my YouTube channel dedicated to everything you need to know about ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/xFPx4eDJdkoHYpqsibDt6JfZ8nRaPRmTGGiGkE6xBHRsQRjVYQS37DnBCeqVATos5QgySis1=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/xFPx4eDJdkoHYpqsibDt6JfZ8nRaPRmTGGiGkE6xBHRsQRjVYQS37DnBCeqVATos5QgySis1=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/xFPx4eDJdkoHYpqsibDt6JfZ8nRaPRmTGGiGkE6xBHRsQRjVYQS37DnBCeqVATos5QgySis1=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Naples Florida!",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-13T19:16:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AZ3m6bCJu4uuGkgWwgpNrDa4sIA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkCyI5SYfCNto2S1w8To0Mw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-07-25T00:00:45Z",
+                    "channelId": "UCkCyI5SYfCNto2S1w8To0Mw",
+                    "title": "InsideNaplesFlorida",
+                    "description": "Your Look Into Naples, Florida from a Local's Perspective.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJfh73wLphanWhWgyPf9qlGnZ8iJiJgEd_owRmk2RNPQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJfh73wLphanWhWgyPf9qlGnZ8iJiJgEd_owRmk2RNPQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nJfh73wLphanWhWgyPf9qlGnZ8iJiJgEd_owRmk2RNPQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "InsideNaplesFlorida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-07-25T00:00:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-hPai1fygSooAgIkLytGffmGuZM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC98v_KMiqBrfL852pOznYAQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-21T20:19:57Z",
+                    "channelId": "UC98v_KMiqBrfL852pOznYAQ",
+                    "title": "St. Katherine Greek Orthodox Church - Naples, FL",
+                    "description": "Mission To energize, cultivate and inspire the faithful by proclaiming the Faith and Gospel of Christ as preserved in the Orthodox ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/E-ea77UduY8TcMQXINizuY0RQTJCD0osL-6KGpjRGh5RUKR8laRT_TkXAAeMi_WrWa2KxpJZ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/E-ea77UduY8TcMQXINizuY0RQTJCD0osL-6KGpjRGh5RUKR8laRT_TkXAAeMi_WrWa2KxpJZ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/E-ea77UduY8TcMQXINizuY0RQTJCD0osL-6KGpjRGh5RUKR8laRT_TkXAAeMi_WrWa2KxpJZ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Katherine Greek Orthodox Church - Naples, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-01-21T20:19:57Z"
+                }
+            }
+        ]
+    }
+]

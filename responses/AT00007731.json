@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "5Z_qM2ErYVTVvmHmm5VesfOHxOk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 196,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "felPBfroiB979SjooYia8hteqww",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCketCWflVRWm3AEzbno9-_w"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-31T02:57:46Z",
+                    "channelId": "UCketCWflVRWm3AEzbno9-_w",
+                    "title": "Brandon Buckingham",
+                    "description": "Home of The Buckingham Show.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kFrhk_NBdTOfb5uk2OkQKWsW-WvTb3M2reRKG_QQSJts0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kFrhk_NBdTOfb5uk2OkQKWsW-WvTb3M2reRKG_QQSJts0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kFrhk_NBdTOfb5uk2OkQKWsW-WvTb3M2reRKG_QQSJts0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Brandon Buckingham",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-12-31T02:57:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3d3UhPHy2xVKIW2MZdl4DHiPIiM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_-Hn6zNdweAFOUrwXXemPA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-17T02:12:00Z",
+                    "channelId": "UC_-Hn6zNdweAFOUrwXXemPA",
+                    "title": "Home Videos",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krwLAxCwELYCOu6xKOIWZVvwm7GZpiH5UY2RMCtDA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krwLAxCwELYCOu6xKOIWZVvwm7GZpiH5UY2RMCtDA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_krwLAxCwELYCOu6xKOIWZVvwm7GZpiH5UY2RMCtDA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Home Videos",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-17T02:12:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kkRXgxHW5Nl8rP-cWU2CYncftJA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIn2KNbbwCbmDkGSJ_lO1Hg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-21T05:09:33Z",
+                    "channelId": "UCIn2KNbbwCbmDkGSJ_lO1Hg",
+                    "title": "two dollars twenty",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCasN03RQzHdITWumcF17bURlRtQCAkyEIbia4utDzt4E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCasN03RQzHdITWumcF17bURlRtQCAkyEIbia4utDzt4E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lCasN03RQzHdITWumcF17bURlRtQCAkyEIbia4utDzt4E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "two dollars twenty",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-12-21T05:09:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "babYQwmCBFz5fad0U5Ii3zwBBa4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiOdJ4o1H7V4bYZTcXbA3CA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-07T05:10:37Z",
+                    "channelId": "UCiOdJ4o1H7V4bYZTcXbA3CA",
+                    "title": "Poudii",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/1ELGqhMbjyfBKKIphm6XuOmsAyvjApjnQMwUyaF6h2641M8LqUpsA-Y8GhQeonIItUnz0ly-jaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Poudii",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-07T05:10:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uvTIepVXV18iF0P-jSyGjAMbrx4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-13T19:16:44Z",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w",
+                    "title": "City of St. Augustine Beach",
+                    "description": "This channel is setup for the City of St. Augustine Beach Florida, our residents, and visitors. http://www.staugbch.com/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of St. Augustine Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-13T19:16:44Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "jX6ZHL2kjAUTuqTWW3rbflwQock",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 16960,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hNHdJQdk7zxF89FsPIc3aMZ0WaQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCadO8AyvOLRFBSjAXy4C3rw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-06T19:37:27Z",
+                    "channelId": "UCadO8AyvOLRFBSjAXy4C3rw",
+                    "title": "Ocean City Church",
+                    "description": "Ocean City Church | Jacksonville Beach, FL | Our mission is simple. We exist to invite anyone and everyone into the unending ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGAkTGr1ChqNc3Xhd0-52HcfEhMIBjpC62S1pnQpnx53A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGAkTGr1ChqNc3Xhd0-52HcfEhMIBjpC62S1pnQpnx53A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGAkTGr1ChqNc3Xhd0-52HcfEhMIBjpC62S1pnQpnx53A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocean City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-06T19:37:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lI0NWaxOAPqbvwrGyJit4hcFYlY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-21T16:22:31Z",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw",
+                    "title": "City of Pompano Beach",
+                    "description": "Official YouTube Channel of the City of Pompano Beach. Take a moment to unwind and enjoy Florida's Warmest Welcome!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Pompano Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-21T16:22:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "CtavZzfoYfEodn6HQHyk8t4GhsE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGOxU-8iNOeoG3a337shXoA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-13T17:53:28Z",
+                    "channelId": "UCGOxU-8iNOeoG3a337shXoA",
+                    "title": "City of Deerfield Beach",
+                    "description": "This is the official video channel of the City of Deerfield Beach, Florida, government. The mission of the Office of Public Affairs and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mx-DjxQ-BVijPyaZ9O9uwvoyuqVlmtWOwgWx1UEwgD1S8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Deerfield Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-13T17:53:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bi_QYip3ApAUY9M9cD8-VO3j2MA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeNkqf4i4Vuhx27dXYPoLog"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-07T11:41:51Z",
+                    "channelId": "UCeNkqf4i4Vuhx27dXYPoLog",
+                    "title": "Race World Offshore",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miAx_OFCdtarW-_DZosQs8tk2dBlnMA-PRKmKb3NbKrA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miAx_OFCdtarW-_DZosQs8tk2dBlnMA-PRKmKb3NbKrA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_miAx_OFCdtarW-_DZosQs8tk2dBlnMA-PRKmKb3NbKrA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Race World Offshore",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-07T11:41:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "i6H7TzBlPKcHGlr2imtcr76YHms",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4LkJWZQ0ha9RIOAVqOEfNA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-15T20:54:21Z",
+                    "channelId": "UC4LkJWZQ0ha9RIOAVqOEfNA",
+                    "title": "SurfESA",
+                    "description": "Since 1967, the Eastern Surfing Association has been responsible for launching some of the most legendary surfing careers in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNr78OtBpwOYeMSR6OjaXDy6vty4xgWOegIlzeSWejC4k=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNr78OtBpwOYeMSR6OjaXDy6vty4xgWOegIlzeSWejC4k=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kNr78OtBpwOYeMSR6OjaXDy6vty4xgWOegIlzeSWejC4k=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "SurfESA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-05-15T20:54:21Z"
+                }
+            }
+        ]
+    }
+]

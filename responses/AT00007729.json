@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "O_Tp65UnyBptlnn8UuJlS2JLML4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 628,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K_uQbuso1ZWs_o0bU3rueAd7n1M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClQ5YA-_rKtTlz5GSm__fTA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-10-24T16:34:01Z",
+                    "channelId": "UClQ5YA-_rKtTlz5GSm__fTA",
+                    "title": "Ocala Horse Properties",
+                    "description": "The leading equestrian & luxury property real estate company in Ocala, Florida. The team has led the Ocala farm sales market ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocala Horse Properties",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-10-24T16:34:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aPBzPR9LpyebtxZjqztzXX2xxBE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbGNYzmf5BUX6MXgNDre0dA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-08T16:38:22Z",
+                    "channelId": "UCbGNYzmf5BUX6MXgNDre0dA",
+                    "title": "City Light Church",
+                    "description": "City Light Church is an inter-denominational church in Ocala, FL led by Pastor Ken Brown. We are a church where life change ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Light Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-11-08T16:38:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "coH1Xkrnz5wcPLqXBjmGeDVJ6x0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCABkTke04RnH5SCqooNSuQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-02-26T19:32:13Z",
+                    "channelId": "UCABkTke04RnH5SCqooNSuQQ",
+                    "title": "Living in Ocala Florida",
+                    "description": "Are you wondering what it is like to live in Ocala Florida? Well, this is the channel you need! I absolutely love this town and our #1 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/5_p24enN8xVXQr0YbeDc9MmHHtb5xW64cyNepgtSzOqHxc5h-3-kjDHrYCinrD2ke2dfW9z7Dw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/5_p24enN8xVXQr0YbeDc9MmHHtb5xW64cyNepgtSzOqHxc5h-3-kjDHrYCinrD2ke2dfW9z7Dw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/5_p24enN8xVXQr0YbeDc9MmHHtb5xW64cyNepgtSzOqHxc5h-3-kjDHrYCinrD2ke2dfW9z7Dw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Ocala Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-02-26T19:32:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mhZgwxhA0Wbam1JjHKaGvQH565Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg3XZCPLHDxb7AQYOoKEaLQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-23T22:01:17Z",
+                    "channelId": "UCg3XZCPLHDxb7AQYOoKEaLQ",
+                    "title": "Living In Ocala Florida",
+                    "description": "Welcome to Ocala! An artistic and historic city located in Central Florida with so much to do! Ocala has so much to offer and we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living In Ocala Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-23T22:01:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9EpmumALHdPP1DcrlJ5m8f5BqMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvP7mphCSXflbidh4MwvRoA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-17T17:43:58Z",
+                    "channelId": "UCvP7mphCSXflbidh4MwvRoA",
+                    "title": "Ocala Town and Country Real Estate LLC",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4pQUJwHN6uXjdsELgpqb0u_jjfCcSk_K0Ezp4oPm5pBU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4pQUJwHN6uXjdsELgpqb0u_jjfCcSk_K0Ezp4oPm5pBU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l4pQUJwHN6uXjdsELgpqb0u_jjfCcSk_K0Ezp4oPm5pBU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocala Town and Country Real Estate LLC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-17T17:43:58Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "u6rG8MXaXpZTZVqth3_T84bkc_Q",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 414,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aPBzPR9LpyebtxZjqztzXX2xxBE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbGNYzmf5BUX6MXgNDre0dA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-08T16:38:22Z",
+                    "channelId": "UCbGNYzmf5BUX6MXgNDre0dA",
+                    "title": "City Light Church",
+                    "description": "City Light Church is an inter-denominational church in Ocala, FL led by Pastor Ken Brown. We are a church where life change ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/pDukzdmT54azpVogjnaFK_iKV_G6WO5hD_9wcJ_qoGH2HeFgDAlz_OXKHlnnDfXfDoMip-UXG3s=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Light Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-11-08T16:38:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "UNDdpf0c1Is0p6BZDOnhW15qaQk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCa_fTTxovckDtibNzPggZnA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-12-27T10:16:43Z",
+                    "channelId": "UCa_fTTxovckDtibNzPggZnA",
+                    "title": "Around Ocala",
+                    "description": "Welcome to Aroundocala! We are now living in Ocala and loving it! The plan is to show you around the city, rural areas and some ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/28LOWn09JAnCMCUMxdh2mrqQx2D08EeLaUeZ0vLYUD_pp-d7TfPQuL716Ufmfr5ObiGG6J8poA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/28LOWn09JAnCMCUMxdh2mrqQx2D08EeLaUeZ0vLYUD_pp-d7TfPQuL716Ufmfr5ObiGG6J8poA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/28LOWn09JAnCMCUMxdh2mrqQx2D08EeLaUeZ0vLYUD_pp-d7TfPQuL716Ufmfr5ObiGG6J8poA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Around Ocala",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-12-27T10:16:43Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mhZgwxhA0Wbam1JjHKaGvQH565Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg3XZCPLHDxb7AQYOoKEaLQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-23T22:01:17Z",
+                    "channelId": "UCg3XZCPLHDxb7AQYOoKEaLQ",
+                    "title": "Living In Ocala Florida",
+                    "description": "Welcome to Ocala! An artistic and historic city located in Central Florida with so much to do! Ocala has so much to offer and we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKY5AXvi0C9s-TmpNO35npCgu0UTyFfNxq5bEA56uz1w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living In Ocala Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-23T22:01:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "K_uQbuso1ZWs_o0bU3rueAd7n1M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClQ5YA-_rKtTlz5GSm__fTA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-10-24T16:34:01Z",
+                    "channelId": "UClQ5YA-_rKtTlz5GSm__fTA",
+                    "title": "Ocala Horse Properties",
+                    "description": "The leading equestrian & luxury property real estate company in Ocala, Florida. The team has led the Ocala farm sales market ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-SsczSFpNmy_pCn5SONlbsCjmjQmBVmAr23pzNUtYmRJCuY0T23rwmOY2qJRfECB5XT-EgRcVA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocala Horse Properties",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-10-24T16:34:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yufXVdRAremU4OoTfep_JZk3uUI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChXxehrCGFzlEa2bxPvDICg"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-31T05:25:57Z",
+                    "channelId": "UChXxehrCGFzlEa2bxPvDICg",
+                    "title": "Zach Day | Ocala Realtor",
+                    "description": "Are you wondering what it's like to live in Ocala, Florida? Well, this is the channel you need! I absolutely love this city, and my #1 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wELPbpXLipqQ-2NyeuWsmWn1AmgMevhdvqMsHGU2jBxfzh1EioSDj_kfXxfHSZ4MZRv99P0xvy0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wELPbpXLipqQ-2NyeuWsmWn1AmgMevhdvqMsHGU2jBxfzh1EioSDj_kfXxfHSZ4MZRv99P0xvy0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wELPbpXLipqQ-2NyeuWsmWn1AmgMevhdvqMsHGU2jBxfzh1EioSDj_kfXxfHSZ4MZRv99P0xvy0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Zach Day | Ocala Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-31T05:25:57Z"
+                }
+            }
+        ]
+    }
+]

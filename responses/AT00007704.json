@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "RAyR4XUbdsCdV1AQum3DqtM1KcM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 96,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bKELgo5CB5Bwq9IkU3pRTP_eaBA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC37u7TSbW8mnbSOWdjo7A1A"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-07T21:09:46Z",
+                    "channelId": "UC37u7TSbW8mnbSOWdjo7A1A",
+                    "title": "City of Niceville ",
+                    "description": "Official YouTube channel for the City of Niceville, FL.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Niceville ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-07T21:09:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SdkjfRYisa1DGhH6jnGyou08ZhQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRLUt_WYLgB3aUMNUaZUwbg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-22T16:18:48Z",
+                    "channelId": "UCRLUt_WYLgB3aUMNUaZUwbg",
+                    "title": "GenUChurch",
+                    "description": "We are a family oriented community of faith where anyone at any stage of life can experience the dynamic Presence of God.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "GenUChurch",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-01-22T16:18:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zzvi1aV9z9jqNyVXtzlppmjpE5U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyZoJXqYEHdo3TPLqiY77hw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-14T13:42:36Z",
+                    "channelId": "UCyZoJXqYEHdo3TPLqiY77hw",
+                    "title": "City of Niceville Youth Advisory Council",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Niceville Youth Advisory Council",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-14T13:42:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kMmZJcKPdbuAOkqn0BN8vcoEWyk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHBzRkPz_zZtTHRacEhbRDA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-01-26T16:28:05Z",
+                    "channelId": "UCHBzRkPz_zZtTHRacEhbRDA",
+                    "title": "Mickey Mason",
+                    "description": "My name is Mickey I'm from a small town Niceville Florida. It's in northwest Florida about 12 miles north of the Gulf of Mexico.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDgaY1HIN9d98kWAlpI5FhJzh-8t2dhwT2ZCtH8hem=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDgaY1HIN9d98kWAlpI5FhJzh-8t2dhwT2ZCtH8hem=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nDgaY1HIN9d98kWAlpI5FhJzh-8t2dhwT2ZCtH8hem=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Mickey Mason",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-01-26T16:28:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FNlsx3Ox-8Y_npjCRyxxGFYF9qI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-13T19:12:44Z",
+                    "channelId": "UCcR7AhgBUPez7jqNySk02HQ",
+                    "title": "Life on the Emerald Coast",
+                    "description": "We are dedicated to showcasing Life on the Emerald Coast. Are you wondering what it is like to live in Destin Florida, Fort Walton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nRgjgewyxmp5bdmU_r3GB6zI-pen6w1xkggMxXQhWYdg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Life on the Emerald Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-13T19:12:44Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "HpYyya1TRm-4vyc8HwIi6MVlC5Y",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 74,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bKELgo5CB5Bwq9IkU3pRTP_eaBA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC37u7TSbW8mnbSOWdjo7A1A"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-07T21:09:46Z",
+                    "channelId": "UC37u7TSbW8mnbSOWdjo7A1A",
+                    "title": "City of Niceville ",
+                    "description": "Official YouTube channel for the City of Niceville, FL.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/V6238iLhVT_UQB9TUPXoSkMem9HRkhCihWmrrvIcm_cA6ah-4CzY5Sult2LQPD4mry1jgu6rCU0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Niceville ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-07T21:09:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zzvi1aV9z9jqNyVXtzlppmjpE5U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyZoJXqYEHdo3TPLqiY77hw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-14T13:42:36Z",
+                    "channelId": "UCyZoJXqYEHdo3TPLqiY77hw",
+                    "title": "City of Niceville Youth Advisory Council",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/T8-Axv0HKKBYIatX5SqN3so1k4bkDhVGPXKsFD70ffcLgvhzmFTwgzYlOoHYqbHIZ3UY5p3lcA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Niceville Youth Advisory Council",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-14T13:42:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SdkjfRYisa1DGhH6jnGyou08ZhQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRLUt_WYLgB3aUMNUaZUwbg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-22T16:18:48Z",
+                    "channelId": "UCRLUt_WYLgB3aUMNUaZUwbg",
+                    "title": "GenUChurch",
+                    "description": "We are a family oriented community of faith where anyone at any stage of life can experience the dynamic Presence of God.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/mu9Gk94ijIWwoPbyvvNzNaMSD-FkLeZ7LI0IXR9cTkZ2ZFDQFtTGbtc7aKjceWPNqRUr8EzR5lE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "GenUChurch",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-01-22T16:18:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "H6DEKpmDfX7TIr8QI5M3kInzdCQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBqPi_8ANzGyCLd7_3vIyOA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-05-14T22:22:59Z",
+                    "channelId": "UCBqPi_8ANzGyCLd7_3vIyOA",
+                    "title": "FirstCommandChannel",
+                    "description": "Welcome to First Command's channel! We coach military families in their pursuit of financial security. Our financial advisors shape ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFJ3httlWrMV8Xlqd0ApwjH6Z-13Fa5k-02wZuOILo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFJ3httlWrMV8Xlqd0ApwjH6Z-13Fa5k-02wZuOILo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFJ3httlWrMV8Xlqd0ApwjH6Z-13Fa5k-02wZuOILo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FirstCommandChannel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-05-14T22:22:59Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XI0TZazUFOPTshyxTRs2oHEYzQ8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNTAnM1o8267lsdxEpx-UCw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-05-30T02:52:13Z",
+                    "channelId": "UCNTAnM1o8267lsdxEpx-UCw",
+                    "title": "Emerald Coast Life and Beaches",
+                    "description": "Explore the beaches and lifestyles on the Emerald Coast in Florida's Panhandle. We explore restaurants, events, and things to do ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/aO2RnPOUdBuwRQp3sMgw0ALJdP5xleZXSvOu7x9AWjJVIdx4W6HjBZGSth1-_dvLKMishDXnyi8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/aO2RnPOUdBuwRQp3sMgw0ALJdP5xleZXSvOu7x9AWjJVIdx4W6HjBZGSth1-_dvLKMishDXnyi8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/aO2RnPOUdBuwRQp3sMgw0ALJdP5xleZXSvOu7x9AWjJVIdx4W6HjBZGSth1-_dvLKMishDXnyi8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Emerald Coast Life and Beaches",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-05-30T02:52:13Z"
+                }
+            }
+        ]
+    }
+]

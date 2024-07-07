@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "M8hq2Ml4oPgKvPRLtoQ-O1q_pPo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 8599,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "waZYfUyqAkwvfGyKK3xhxrOjjMc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJQEgz91L5FWvzfDHqIf7fw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-04-15T16:52:58Z",
+                    "channelId": "UCJQEgz91L5FWvzfDHqIf7fw",
+                    "title": "North Miami FL",
+                    "description": "Official City of North Miami YouTube channel. Stay tuned for access to Council Meetings and other videos produced for the City of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "North Miami FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-04-15T16:52:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8yOJt2JWGYfuvTcND34Rnl83ZyQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XIimlQ9PB6uNdx0SyDNMAojPc3Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQhpCn1mZPMlAtOEl4JfYGQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-11T14:04:18Z",
+                    "channelId": "UCQhpCn1mZPMlAtOEl4JfYGQ",
+                    "title": "Living in North Miami Beach",
+                    "description": "Are you wondering what it is like to live in North Miami Beach Florida? Well, this is the channel you need! We absolutely love this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-2K3Mrh2AfdayeHPfOTQPeWGThQWsAk3S6-cfQJRsm43NaxvU0BKRGelrk6QbY9hWauC33N0Xdc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-2K3Mrh2AfdayeHPfOTQPeWGThQWsAk3S6-cfQJRsm43NaxvU0BKRGelrk6QbY9hWauC33N0Xdc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-2K3Mrh2AfdayeHPfOTQPeWGThQWsAk3S6-cfQJRsm43NaxvU0BKRGelrk6QbY9hWauC33N0Xdc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in North Miami Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-11T14:04:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z3wmQhGy886D8POBUSD8_irNcXA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LZQ-svrWbmKSgHWgdsMFVmf2b9M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-14T23:11:19Z",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ",
+                    "title": "City of Miami Gov",
+                    "description": "The Official City of Miami YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Gov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-14T23:11:19Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ouXiiK7hfCmKECPtBCYgdP67VTU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "IT",
+        "pageInfo": {
+            "totalResults": 7598,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "o_9ACrAxiid0VZDngkAle_4xypM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJQEgz91L5FWvzfDHqIf7fw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-04-15T16:52:58Z",
+                    "channelId": "UCJQEgz91L5FWvzfDHqIf7fw",
+                    "title": "North Miami FL",
+                    "description": "Official City of North Miami YouTube channel. Stay tuned for access to Council Meetings and other videos produced for the City of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nfIJgprUDy3NhgsoB8F9Fnech0qx32xW-Nk_p-KuNryA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "North Miami FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-04-15T16:52:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wpoLwo8kaqE3CU-3N_tu7fmYxEM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr741acctc0tgk_PIadhM3g"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-22T19:02:46Z",
+                    "channelId": "UCr741acctc0tgk_PIadhM3g",
+                    "title": "New Birth Baptist Church Miami",
+                    "description": "Under the leadership of Bishop Victor T. Curry, this is the Official YouTube Channel of New Birth Baptist Church, \"The City of Faith\" ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9Tx5HrZ6Jpku2dZmRSqWUGVrNvejsQXOnIlnjEzmfwQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9Tx5HrZ6Jpku2dZmRSqWUGVrNvejsQXOnIlnjEzmfwQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9Tx5HrZ6Jpku2dZmRSqWUGVrNvejsQXOnIlnjEzmfwQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "New Birth Baptist Church Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-22T19:02:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DaOZZlFBr7Y7KXGV1C3BBYmLQFY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-06T15:12:07Z",
+                    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
+                    "title": "WPLG Local 10",
+                    "description": "South Florida News, Weather, Entertainment, Sports and more from WPLG Local 10. An ABC affiliate, Local 10 is the No. 1 news ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPLG Local 10",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-09-06T15:12:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "c1seDAm2dNxklLl-H4M8Ful70QE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcUOpm1nKRw1cFgeVKXMWAQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-07-31T19:03:39Z",
+                    "channelId": "UCcUOpm1nKRw1cFgeVKXMWAQ",
+                    "title": "FC Miami City",
+                    "description": "About the FC Miami City Based in Miami, FL, Home-field is Central Broward Regional Park Visit our website www.fcmiamicity.com ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loH9FvaoqimNLT_m-EOpeKG0ENKwLEP3ktxGEJhsXBJjw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loH9FvaoqimNLT_m-EOpeKG0ENKwLEP3ktxGEJhsXBJjw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loH9FvaoqimNLT_m-EOpeKG0ENKwLEP3ktxGEJhsXBJjw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FC Miami City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-07-31T19:03:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hyrPCYhvUynrMfEGt70L-hanSxA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyaEftsFTby_r3ncRHDZiSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-22T16:19:49Z",
+                    "channelId": "UCyaEftsFTby_r3ncRHDZiSQ",
+                    "title": "Museum of Contemporary Art North Miami",
+                    "description": "The Museum of Contemporary Art (MOCA) is dedicated to making contemporary art accessible to diverse audiences \u2013 especially ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lx78xDHGX-U6A5jol8TIypVz5AYJZ7ugaIYnYLQSllIRI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lx78xDHGX-U6A5jol8TIypVz5AYJZ7ugaIYnYLQSllIRI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lx78xDHGX-U6A5jol8TIypVz5AYJZ7ugaIYnYLQSllIRI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Museum of Contemporary Art North Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-04-22T16:19:49Z"
+                }
+            }
+        ]
+    }
+]
