@@ -51,7 +51,7 @@ def create_backup(csv_file):
         print(f"No file to back up.")
 
 
-class Crawler:
+class ChannelCrawler:
     
     """Runs YouTube APIs on a daily basis as much as quota allows. 
     Status is stored in status.csv file with columns: 'id', 'city' `was_crawled`, 'was_analyzed'. 
@@ -134,7 +134,7 @@ class Crawler:
         self.save_csv()
         
         
-class Analyzer:
+class ChannelAnalyzer:
     
     """
     Loads status.csv file and then analyzes the newly crawled cities 
@@ -306,6 +306,55 @@ def aggregate_analysis_files(crawler, output_file):
     combined_df.drop('city_id', axis=1, inplace=True)
 
     combined_df.to_csv(output_file, index=False)
+
+
+def get_channel_id(channel_username):
+    
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
+    
+    request = youtube.channels().list(
+        part="id",
+        forUsername=channel_username
+    )
+    response = request.execute()
+    return response['items'][0]['id'] if response['items'] else None
+
+
+def get_live_streams_from_channel(channel_id):
+    
+    youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
+    
+    videos = []
+    next_page_token = None
+
+    while True:
+        request = youtube.search().list(
+            part="snippet",
+            channelId=channel_id,
+            maxResults=50,
+            pageToken=next_page_token,
+            order="date",
+            type="video",
+            eventType="live"  # This filters for live streams only
+        )
+        response = request.execute()
+
+        for item in response['items']:
+            video_info = {
+                "video_id": item['id']['videoId'],
+                "title": item['snippet']['title'],
+                "description": item['snippet']['description'],
+                "published_at": item['snippet']['publishedAt']
+            }
+            videos.append(video_info)
+
+        next_page_token = response.get('nextPageToken')
+        if not next_page_token:
+            break
+
+    return videos
+
+
 
 
 class VideoInfo(object):
