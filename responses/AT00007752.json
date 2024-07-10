@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "GyWvFygfa2tEp-ImOS9T8--DkeE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 27,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "38FgojukdjywndQgLZNG0t--K60",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRGQ_adEgUemOv9ZmZapsQA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-09T23:10:44Z",
+                    "channelId": "UCRGQ_adEgUemOv9ZmZapsQA",
+                    "title": "Waterman Village",
+                    "description": "As Florida's TOTAL Retirement Community Destination (independent living, assisted living, and health care facilties and services ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4L6APZajQpT7z7dA9l3kzGHbJEMZplmvk023qJYDA9XU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4L6APZajQpT7z7dA9l3kzGHbJEMZplmvk023qJYDA9XU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n4L6APZajQpT7z7dA9l3kzGHbJEMZplmvk023qJYDA9XU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Waterman Village",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-09T23:10:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MeOkiAjfouCCfISDhBu6V6ytswo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcFJzhJzdC5Ag4O01L0tZ9g"
+                },
+                "snippet": {
+                    "publishedAt": "2006-10-11T01:35:50Z",
+                    "channelId": "UCcFJzhJzdC5Ag4O01L0tZ9g",
+                    "title": "Louis Wery",
+                    "description": "Sarasota & Her Islands on Florida's west coast boast big-city amenities in a small-town setting. Aptly called Florida's Cultural ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nXuvGfiZe05y5fR_Vx71pIOpEaX-7I7y67lAHBiHW9gA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nXuvGfiZe05y5fR_Vx71pIOpEaX-7I7y67lAHBiHW9gA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nXuvGfiZe05y5fR_Vx71pIOpEaX-7I7y67lAHBiHW9gA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Louis Wery",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-10-11T01:35:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GMlAxOrUTI7qiQks4Tni7eve6LM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0pTVcMVburZIF1ncgpP5Yg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-01-05T03:30:48Z",
+                    "channelId": "UC0pTVcMVburZIF1ncgpP5Yg",
+                    "title": "Real Estate With Terrica",
+                    "description": "Looking to purchase your dream home in Northeast Florida? Let's go find it! Come with me on tours of some of the most beautiful ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8HUSJ_A_shyj5ZEP7h6v-lkGqQL1DWzWWB1TxP18ezDniWAt0SHcyJlEGsdzJCK66JIvpR51aOA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8HUSJ_A_shyj5ZEP7h6v-lkGqQL1DWzWWB1TxP18ezDniWAt0SHcyJlEGsdzJCK66JIvpR51aOA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8HUSJ_A_shyj5ZEP7h6v-lkGqQL1DWzWWB1TxP18ezDniWAt0SHcyJlEGsdzJCK66JIvpR51aOA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Real Estate With Terrica",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-01-05T03:30:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GTrB3hHsdQVfyLKhsBX9xDDFG-E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGTUbwceCMibvpbd2NaIP7A"
+                },
+                "snippet": {
+                    "publishedAt": "2006-09-18T23:48:34Z",
+                    "channelId": "UCGTUbwceCMibvpbd2NaIP7A",
+                    "title": "The Weather Channel",
+                    "description": "Welcome to The Weather Channel's official YouTube page. Featuring weather stories and expert insights from the most trusted ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mn_VieJAGkcvyHgioegjeJAbsAy8flNyHFVL6Nd6Xco3sR=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mn_VieJAGkcvyHgioegjeJAbsAy8flNyHFVL6Nd6Xco3sR=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mn_VieJAGkcvyHgioegjeJAbsAy8flNyHFVL6Nd6Xco3sR=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Weather Channel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-09-18T23:48:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aJe1OcabkujaCFPansu7M5zYcf4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyFPZIOlZP3u4ulL31F_AYQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-26T23:02:54Z",
+                    "channelId": "UCyFPZIOlZP3u4ulL31F_AYQ",
+                    "title": "Susan Swanson Shows Houses",
+                    "description": "How Much House for the Money. Hi. I'm Susan Swanson. For years as a RE Agent I Listed, Showed and Sold Houses. Big, Small ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/jvrZ1KA14fI-Mr22D5qTXGVJ-DbboaTAM_yb_UBY0NPgt4DrGJlXSidRMZ5ThSj5VlIkDUk7Yw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/jvrZ1KA14fI-Mr22D5qTXGVJ-DbboaTAM_yb_UBY0NPgt4DrGJlXSidRMZ5ThSj5VlIkDUk7Yw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/jvrZ1KA14fI-Mr22D5qTXGVJ-DbboaTAM_yb_UBY0NPgt4DrGJlXSidRMZ5ThSj5VlIkDUk7Yw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Susan Swanson Shows Houses",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-04-26T23:02:54Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "UXmypOMrk5vmHBlHtLWx_7YAtBU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 64,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "y3yKjg8y9lTwZh388ogvfJPOkmo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFfnO6ce5KLPJrT5IrvdeYQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-27T06:50:34Z",
+                    "channelId": "UCFfnO6ce5KLPJrT5IrvdeYQ",
+                    "title": "Osprey Point Homes",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VOb1lMFSshvkmH5p1ausQ3sv-emOFkL_xyi50T7Aw2diebBj70gcPQ0gubdxQ24ownDrY4A6=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VOb1lMFSshvkmH5p1ausQ3sv-emOFkL_xyi50T7Aw2diebBj70gcPQ0gubdxQ24ownDrY4A6=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VOb1lMFSshvkmH5p1ausQ3sv-emOFkL_xyi50T7Aw2diebBj70gcPQ0gubdxQ24ownDrY4A6=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Osprey Point Homes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-27T06:50:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NV4fJ5QsDRp9sCdJEZZC9ttHzrg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQZsTReKdXOzocI-MWcvMxw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-02T12:44:53Z",
+                    "channelId": "UCQZsTReKdXOzocI-MWcvMxw",
+                    "title": "SRQ360",
+                    "description": "We are a team of creative experts bringing full service photography, cinematography, digital marketing, web design and more to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpvapHbLZZ97jL3gyMks3Bm1ZBM47oOph6qIqyeM7_Xcgf=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpvapHbLZZ97jL3gyMks3Bm1ZBM47oOph6qIqyeM7_Xcgf=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpvapHbLZZ97jL3gyMks3Bm1ZBM47oOph6qIqyeM7_Xcgf=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "SRQ360",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-11-02T12:44:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z5JABGBxiQlN28h69_Z7Giuos3U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6Wg-_yDfVZqMC_ALY4Urow"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-04T17:35:13Z",
+                    "channelId": "UC6Wg-_yDfVZqMC_ALY4Urow",
+                    "title": "Patrick DeFeo II",
+                    "description": "Sarasota and Manatee County Florida Real Estate Source. We serve Lakewood Ranch, Bradenton, Myakka City, Ellenton, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kj3fbFEMvlBnzV1-jW5ifCj6IOtRqG1pczSYWXvBzdWXo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kj3fbFEMvlBnzV1-jW5ifCj6IOtRqG1pczSYWXvBzdWXo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kj3fbFEMvlBnzV1-jW5ifCj6IOtRqG1pczSYWXvBzdWXo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Patrick DeFeo II",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-04T17:35:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xtofzdqIYd8oAsztC-lwHsKRfts",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCumCBz6oLdgJM3R_hYKMRew"
+                },
+                "snippet": {
+                    "publishedAt": "2009-09-17T22:43:07Z",
+                    "channelId": "UCumCBz6oLdgJM3R_hYKMRew",
+                    "title": "North Florida Ospreys",
+                    "description": "Welcome to the Official YouTube page of North Florida Athletics and the Osprey Sports Network! The North Florida Ospreys have ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nBo2Q3jHI90kjztHtmDEWCnM_oCWumDAJrSY2UbZ96McI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nBo2Q3jHI90kjztHtmDEWCnM_oCWumDAJrSY2UbZ96McI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nBo2Q3jHI90kjztHtmDEWCnM_oCWumDAJrSY2UbZ96McI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "North Florida Ospreys",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-09-17T22:43:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zNYRPU0cg_HSN-Zrp3NyEzxIsno",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWBrQYfBiqwp-wrrGgpAnPQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-20T18:00:33Z",
+                    "channelId": "UCWBrQYfBiqwp-wrrGgpAnPQ",
+                    "title": "Living in Orlando Florida",
+                    "description": "This channel is dedicated to providing valuable information on moving to Orlando Florida and living in Orlando Florida. From this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/kiRZbQCGzPiiLrCc0rOuhxAxnTcruuueC-u6uZYBd08vAaCE8DWGFCKkX1H_RwJ2Z0Wsb8TdAQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/kiRZbQCGzPiiLrCc0rOuhxAxnTcruuueC-u6uZYBd08vAaCE8DWGFCKkX1H_RwJ2Z0Wsb8TdAQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/kiRZbQCGzPiiLrCc0rOuhxAxnTcruuueC-u6uZYBd08vAaCE8DWGFCKkX1H_RwJ2Z0Wsb8TdAQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Orlando Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-20T18:00:33Z"
+                }
+            }
+        ]
+    }
+]

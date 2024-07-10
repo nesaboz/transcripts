@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "b1lXAvDYPZqT2QGoO9TwYZSt0_E",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 16,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uCQWYk5MpbrmKDZx6Cda7-qoodc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9XZHUEv_Miz7gbO9u4351A"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-23T00:45:39Z",
+                    "channelId": "UC9XZHUEv_Miz7gbO9u4351A",
+                    "title": "Artworks Florida Classic Fresnel Lenses, LLC",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Artworks Florida Classic Fresnel Lenses, LLC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-23T00:45:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mdv4izZpKyrqgun_5OaCBjzfFso",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC69VEyQJuLHxK4aex4h6EKA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-21T19:48:31Z",
+                    "channelId": "UC69VEyQJuLHxK4aex4h6EKA",
+                    "title": "Citizens4PonceInlet",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mZEaapw-65-ASRRmzhtN82SRb2mMC_qfz6vW0u_d_BUA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mZEaapw-65-ASRRmzhtN82SRb2mMC_qfz6vW0u_d_BUA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mZEaapw-65-ASRRmzhtN82SRb2mMC_qfz6vW0u_d_BUA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Citizens4PonceInlet",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-21T19:48:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "R4rnZS-tdaWRAN8JzawyTJ9p4iA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPFhcL3rtVQ-5W535W99tEw"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-12T05:11:34Z",
+                    "channelId": "UCPFhcL3rtVQ-5W535W99tEw",
+                    "title": "Eagle Vision Aerial Productions",
+                    "description": "Drone Worx is the parent company of Eagle Vision Aerial. Drone Worx specializes in custom UAS (drone) solutions.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nc17ALXliRI5xnRChEt1uWLue76ZTenS4pwmXrjHf8xcIg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Eagle Vision Aerial Productions",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-12T05:11:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "o4NXfqQflUxbqZ0Sl2hA08rOk2A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWJOOVIJokNxlCeBNbVbcHg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-07T04:20:41Z",
+                    "channelId": "UCWJOOVIJokNxlCeBNbVbcHg",
+                    "title": "ReelTimeBoys",
+                    "description": "Teenage fisherman in Florida just trynna live the life. Help us by Subscribing and liking our fishing vids. Thanks!!!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nHAaf_lVg1yGz1-c3TlW8vCgba3GGn-9rdVmwrWVAiZw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nHAaf_lVg1yGz1-c3TlW8vCgba3GGn-9rdVmwrWVAiZw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nHAaf_lVg1yGz1-c3TlW8vCgba3GGn-9rdVmwrWVAiZw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "ReelTimeBoys",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-07T04:20:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MxB6GhwDqYgQ_rckOYHROGDolDE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChMby6phzjisndkzenrTZvw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-11-19T10:14:28Z",
+                    "channelId": "UChMby6phzjisndkzenrTZvw",
+                    "title": "Michael\u2019s Life Cycle",
+                    "description": "Just traveling around this rock we call earth.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oThXSALF6oBo7YOoM9jLe5i1AuohW0lkpVZEi6wMbrclgr15UflTp8crI_7GZKcCT04jAzyS=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oThXSALF6oBo7YOoM9jLe5i1AuohW0lkpVZEi6wMbrclgr15UflTp8crI_7GZKcCT04jAzyS=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oThXSALF6oBo7YOoM9jLe5i1AuohW0lkpVZEi6wMbrclgr15UflTp8crI_7GZKcCT04jAzyS=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Michael\u2019s Life Cycle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-11-19T10:14:28Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "rQnMwwYL-fvDChfAz68oCppZGaw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 50,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FJ9B5NfyuDn8o5VtqS-I7AMqc1c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFSteVSt4XBamSS54LVmu7g"
+                },
+                "snippet": {
+                    "publishedAt": "2020-05-28T02:31:30Z",
+                    "channelId": "UCFSteVSt4XBamSS54LVmu7g",
+                    "title": "Roselyn Sogo-an",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljmamj9TrSdOUHKwJRREivIROGci0uW-kZteZdp-s=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljmamj9TrSdOUHKwJRREivIROGci0uW-kZteZdp-s=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljmamj9TrSdOUHKwJRREivIROGci0uW-kZteZdp-s=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Roselyn Sogo-an",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-05-28T02:31:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "licgbs4QklhGdHLVuM2lQyP-VGE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRUN1UYpXAmUCf-uuruOscQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-29T16:20:44Z",
+                    "channelId": "UCRUN1UYpXAmUCf-uuruOscQ",
+                    "title": "John Taylor - Florida Realty Investments",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/V1zFAU6pEmR4bRLZNxH7IF_QS8SxJBqsO5ToIDyjJ2b59REvt5LqODlUuPYzfKiJvyiM_sHcPDI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/V1zFAU6pEmR4bRLZNxH7IF_QS8SxJBqsO5ToIDyjJ2b59REvt5LqODlUuPYzfKiJvyiM_sHcPDI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/V1zFAU6pEmR4bRLZNxH7IF_QS8SxJBqsO5ToIDyjJ2b59REvt5LqODlUuPYzfKiJvyiM_sHcPDI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "John Taylor - Florida Realty Investments",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-29T16:20:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ySOsgyYz53jDQQaAS-7qwFCeq_0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-11T02:35:32Z",
+                    "channelId": "UCutMtNq3Rm4NzsRYtNMHSAg",
+                    "title": "City of Palm Coast",
+                    "description": "Welcome to the official YouTube Channel of the City of Palm Coast - your all-in-one resource for everything Palm Coast. Here you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYuqb0PXWk24FqWQki9_THbc7Hrr4mKkQ3a1N2wxC2ph8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Palm Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-11T02:35:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0vy6RW1BiiM1iixsYC3RLt0K7lY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCp_XtQQc4RIf0VM5YifXTPw"
+                },
+                "snippet": {
+                    "publishedAt": "2022-10-11T23:17:37Z",
+                    "channelId": "UCp_XtQQc4RIf0VM5YifXTPw",
+                    "title": "Robotic imaging service and evaluation",
+                    "description": "Aerial photos and video from drones.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8uBMeyfixiwyXNa8Yf882QksF1HtwLruRPmD8fk4oAuRC0PeDYIArVC3m-sF11XpABLmfbI4Lw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8uBMeyfixiwyXNa8Yf882QksF1HtwLruRPmD8fk4oAuRC0PeDYIArVC3m-sF11XpABLmfbI4Lw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8uBMeyfixiwyXNa8Yf882QksF1HtwLruRPmD8fk4oAuRC0PeDYIArVC3m-sF11XpABLmfbI4Lw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Robotic imaging service and evaluation",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-10-11T23:17:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TAWJ_rX-ACvXdInt7oKeRX7rOwk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZtWmGRT_NthJCAdNHU853A"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-18T00:13:56Z",
+                    "channelId": "UCZtWmGRT_NthJCAdNHU853A",
+                    "title": "Florida Vacation Every Day",
+                    "description": "We want to share with you our adventures here in Florida it's a fun and beautiful place to live and grow with your family. We just ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9oQ-Pd8lezr9q7cDCje6m6_CodTHzxUhYP2e_zFn6=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9oQ-Pd8lezr9q7cDCje6m6_CodTHzxUhYP2e_zFn6=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l9oQ-Pd8lezr9q7cDCje6m6_CodTHzxUhYP2e_zFn6=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Vacation Every Day",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-07-18T00:13:56Z"
+                }
+            }
+        ]
+    }
+]

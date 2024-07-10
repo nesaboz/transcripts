@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "B_gSXDijgug7QIm358KBY9ewULg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 104,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "toh7rrRk4HBuTEh5FhQZ5wQbKn8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbHElF3ISszCaL2FkMHPaXQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-10-17T12:58:19Z",
+                    "channelId": "UCbHElF3ISszCaL2FkMHPaXQ",
+                    "title": "Living in Jacksonville Florida",
+                    "description": "Are you wondering what it is like to live in Jacksonville, Florida? Well, this is the channel you need! I absolutely love this town and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktKvx-ym1yYffaDuA_cPKg8gVGnkU6_CEibuhG6Ozq2WQQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktKvx-ym1yYffaDuA_cPKg8gVGnkU6_CEibuhG6Ozq2WQQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ktKvx-ym1yYffaDuA_cPKg8gVGnkU6_CEibuhG6Ozq2WQQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Jacksonville Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-10-17T12:58:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qvmP065LaS0iVqDyRwiaRkZi_5g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjo2Fam8KbkC9jwh9OzGzWQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-07-02T22:41:53Z",
+                    "channelId": "UCjo2Fam8KbkC9jwh9OzGzWQ",
+                    "title": "TheDocTravels",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/nQbiv4j_a7VxpH094NP3s4k-gr6HvlSB6h7nRlCtFB8s6bNkMYd9ZANciUx0fmnfa-330HI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/nQbiv4j_a7VxpH094NP3s4k-gr6HvlSB6h7nRlCtFB8s6bNkMYd9ZANciUx0fmnfa-330HI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/nQbiv4j_a7VxpH094NP3s4k-gr6HvlSB6h7nRlCtFB8s6bNkMYd9ZANciUx0fmnfa-330HI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TheDocTravels",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-07-02T22:41:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ltcVDMmHKwCJxiHIYkLx0_6fiQY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCff6MZzeWNpXg6TCU3jdxbA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-17T17:59:45Z",
+                    "channelId": "UCff6MZzeWNpXg6TCU3jdxbA",
+                    "title": "Orange TV",
+                    "description": "Orange TV (Channel 488 on Bright House, Channel 9 on Comcast, Channel 99 AT&T U-Verse and 29-2 Digital Over the Air) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kX23_Kbi7h4VTvaplatfxdMUh4H2lkxErLf95yhO7ba7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kX23_Kbi7h4VTvaplatfxdMUh4H2lkxErLf95yhO7ba7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kX23_Kbi7h4VTvaplatfxdMUh4H2lkxErLf95yhO7ba7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Orange TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-17T17:59:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S4tuj9XvbadXhaHcetlCc9t9Bdw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNA7uIiExendVR7AZLoc2MA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-12-12T19:56:07Z",
+                    "channelId": "UCNA7uIiExendVR7AZLoc2MA",
+                    "title": "Jax Home Offer",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcIFqkKU-0IOU8dcom_eWMQbhNKpTZmH-_Nw5OHSHZPkI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcIFqkKU-0IOU8dcom_eWMQbhNKpTZmH-_Nw5OHSHZPkI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mcIFqkKU-0IOU8dcom_eWMQbhNKpTZmH-_Nw5OHSHZPkI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jax Home Offer",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-12-12T19:56:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "swNLw9Ik6k1R6n0-A4rDW-lV4ec",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUwDaOlY0S5sKlIeo30H5Bg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-22T14:07:09Z",
+                    "channelId": "UCUwDaOlY0S5sKlIeo30H5Bg",
+                    "title": "Living in Jacksonville Florida",
+                    "description": "This channel is all about living in Jacksonville Florida, moving to Jacksonville Florida, and relocating to Jacksonville Florida, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VyU9c2I2RDl5r11ADefrNLQxycqdEi007wh3PD1iLMPQQ5wGT-ZEqVM1AhefpSFuLobNRvrvYA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VyU9c2I2RDl5r11ADefrNLQxycqdEi007wh3PD1iLMPQQ5wGT-ZEqVM1AhefpSFuLobNRvrvYA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VyU9c2I2RDl5r11ADefrNLQxycqdEi007wh3PD1iLMPQQ5wGT-ZEqVM1AhefpSFuLobNRvrvYA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Jacksonville Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-11-22T14:07:09Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "SNtZiiC5GsHV-nn2VnOZhoSQx5Q",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 431,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "t07hI9gBlRd8xIHXnWIWqvn4wcI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC16MAR-J5IWTWBoVxxCRZWg"
+                },
+                "snippet": {
+                    "publishedAt": "2009-12-30T16:15:41Z",
+                    "channelId": "UC16MAR-J5IWTWBoVxxCRZWg",
+                    "title": "Living in Jacksonville Florida",
+                    "description": "Moving to Jacksonville Florida is quite popular. The State of Florida sees appx 845 people per day moving to Florida. The top ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/64N-sDVHfmI4kEjvmxIlJf-jESl2zqH75iZsY2mghOXOJEIRt3v5aH6K-rn2IWawVvg4HiRh3Ao=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/64N-sDVHfmI4kEjvmxIlJf-jESl2zqH75iZsY2mghOXOJEIRt3v5aH6K-rn2IWawVvg4HiRh3Ao=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/64N-sDVHfmI4kEjvmxIlJf-jESl2zqH75iZsY2mghOXOJEIRt3v5aH6K-rn2IWawVvg4HiRh3Ao=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Jacksonville Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-12-30T16:15:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "31-ANNu-cFEw07Q3ExAelJ4gps4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVcGxmpEY7TNUeXCYpEu0PQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-05-26T20:08:13Z",
+                    "channelId": "UCVcGxmpEY7TNUeXCYpEu0PQ",
+                    "title": "Scenic Jax",
+                    "description": "Relaxing virtual driving videos that explore the beautiful city of Jacksonville Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/9dOEpHMkbXfi0v3ys3e9kGVF3d4KO22taucPxo_T89dh22cWUYLgmFAriFpz-aXDEp7WutiGXKI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/9dOEpHMkbXfi0v3ys3e9kGVF3d4KO22taucPxo_T89dh22cWUYLgmFAriFpz-aXDEp7WutiGXKI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/9dOEpHMkbXfi0v3ys3e9kGVF3d4KO22taucPxo_T89dh22cWUYLgmFAriFpz-aXDEp7WutiGXKI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Scenic Jax",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-05-26T20:08:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "TBKZwxgRBioVpc2W6GCgLFPdKao",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVGBv0P99Uvs-1b6jh6Rrfw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-13T00:27:57Z",
+                    "channelId": "UCVGBv0P99Uvs-1b6jh6Rrfw",
+                    "title": "Jacksonville Florida Living",
+                    "description": "I'm Justin Agustin, a local realtor with REAL Broker since 2018 and your ultimate guide to the vibrant city of Jacksonville, Florida!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SU4jkRsTe-u8-VlQJo3MkkXHMnAB_QKow0IvSMchKs-GDMIZ5QvvZPYIu67HiVID79INIQKEwwI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jacksonville Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-13T00:27:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XfFz7u1seOxu_2AB4G2xr6EhFco",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrzLisqTqkKu-ThZo8ERR3w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-17T21:16:00Z",
+                    "channelId": "UCrzLisqTqkKu-ThZo8ERR3w",
+                    "title": "River City Roofing",
+                    "description": "We have over 37 years of roofing experience, both commercial and residential. All roofs receive 10 YEAR WARRANTY! A+ rated ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJVC1oOXS8kOxCq89S8BxhzHK-TyFFw3l9m6dNGRlNuA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJVC1oOXS8kOxCq89S8BxhzHK-TyFFw3l9m6dNGRlNuA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJVC1oOXS8kOxCq89S8BxhzHK-TyFFw3l9m6dNGRlNuA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "River City Roofing",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-09-17T21:16:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "od1SdsqNsX_CaxdV8nZUg4_6lJY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCv3mh2P-q3UCtR9-2q8B-ZA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-12-03T04:52:30Z",
+                    "channelId": "UCv3mh2P-q3UCtR9-2q8B-ZA",
+                    "title": "The Urban Rescue Ranch",
+                    "description": "I bought a crackhouse and dump and turned it into a Certified wildlife rehabilitation facility and farm sanctuary for exotic (hunted) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EjQqWihI9-49mjhDiLd3OJ1ixeyaqEPdKXhDaCncg5R-0Ym1-mKw92MEeFO2QTsVgH2pYnfPGw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EjQqWihI9-49mjhDiLd3OJ1ixeyaqEPdKXhDaCncg5R-0Ym1-mKw92MEeFO2QTsVgH2pYnfPGw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EjQqWihI9-49mjhDiLd3OJ1ixeyaqEPdKXhDaCncg5R-0Ym1-mKw92MEeFO2QTsVgH2pYnfPGw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Urban Rescue Ranch",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-12-03T04:52:30Z"
+                }
+            }
+        ]
+    }
+]

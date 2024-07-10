@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "mEk-BBnFqja5W3Ok0p4BJ08LOI8",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 186,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hnyXOaKuqWIFj8u7ab63zOZ_Bzs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-PJC58-FAYgQULlvSIKJeg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-14T21:35:45Z",
+                    "channelId": "UC-PJC58-FAYgQULlvSIKJeg",
+                    "title": "Riviera Beach TV",
+                    "description": "Welcome to the official Youtube channel for the City of Riviera Beach, Florida. Watch city meetings and keep up with the latest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riviera Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-11-14T21:35:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vOg6Wt_uA7jQ2y2LcjLPKg9XK3A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw"
+                },
+                "snippet": {
+                    "publishedAt": "2008-09-11T18:12:48Z",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw",
+                    "title": "WPB-TV",
+                    "description": "Welcome to the City of West Palm Beach's official YouTube channel. We broadcast live and prerecorded city meetings and videos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPB-TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-09-11T18:12:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BbZ4jPFpiDkIptEynj8c9lVYz9U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Z44NNsZDijRS1cSdsxEptLUKtXo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUnf6TJ5kiFqM6AmeBHu1ww"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-12T18:50:30Z",
+                    "channelId": "UCUnf6TJ5kiFqM6AmeBHu1ww",
+                    "title": "Riviera Beach CRA",
+                    "description": "The Agency's main mission is to guide the city's redevelopment efforts. This includes making investments of public funds in key ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riviera Beach CRA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-12T18:50:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "No84tlAfRLTwJSMEA8BzKxqP7i4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCufqh9mfiNoD9xKIYMKbUqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-23T22:17:49Z",
+                    "channelId": "UCufqh9mfiNoD9xKIYMKbUqQ",
+                    "title": "Victory City Church",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Victory City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-12-23T22:17:49Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "V0ZBz9UkmudGpEkVSjT7XWjioUM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 157,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hnyXOaKuqWIFj8u7ab63zOZ_Bzs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-PJC58-FAYgQULlvSIKJeg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-14T21:35:45Z",
+                    "channelId": "UC-PJC58-FAYgQULlvSIKJeg",
+                    "title": "Riviera Beach TV",
+                    "description": "Welcome to the official Youtube channel for the City of Riviera Beach, Florida. Watch city meetings and keep up with the latest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l52SvxlY398CA-SvhNe9-Pu4tddq6zbcowdYpKFLzpoA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riviera Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-11-14T21:35:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Z44NNsZDijRS1cSdsxEptLUKtXo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUnf6TJ5kiFqM6AmeBHu1ww"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-12T18:50:30Z",
+                    "channelId": "UCUnf6TJ5kiFqM6AmeBHu1ww",
+                    "title": "Riviera Beach CRA",
+                    "description": "The Agency's main mission is to guide the city's redevelopment efforts. This includes making investments of public funds in key ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ltXH9YV-yyu0-a7j2Isaqnp4ARmz4_iB2MJaww2XdU-w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riviera Beach CRA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-04-12T18:50:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JobJWgtL-ylEnf0WZB3DOrIytoE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPdkvcDXmcDH5705yVoNDzA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-10-03T14:55:53Z",
+                    "channelId": "UCPdkvcDXmcDH5705yVoNDzA",
+                    "title": "Riviera Beach Police Department",
+                    "description": "The Police Department is comprised of 120 sworn officers and 79 non-sworn employees who handle approximately 80000 calls ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/lNxFxaUK2-akP9sY0S6_nAce-_43S_6AL6mJI0R2bm-mLrniLpznH8ktSlFd2DcOL2L61q73Cg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/lNxFxaUK2-akP9sY0S6_nAce-_43S_6AL6mJI0R2bm-mLrniLpznH8ktSlFd2DcOL2L61q73Cg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/lNxFxaUK2-akP9sY0S6_nAce-_43S_6AL6mJI0R2bm-mLrniLpznH8ktSlFd2DcOL2L61q73Cg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Riviera Beach Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-10-03T14:55:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iDTE97UYObt71qCUYRhv1v77pKY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "No84tlAfRLTwJSMEA8BzKxqP7i4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCufqh9mfiNoD9xKIYMKbUqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-23T22:17:49Z",
+                    "channelId": "UCufqh9mfiNoD9xKIYMKbUqQ",
+                    "title": "Victory City Church",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyzx0eh7oWq8H2oWeAGUjK3gGM8rfAL2bKXjqcMdwwj3E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Victory City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-12-23T22:17:49Z"
+                }
+            }
+        ]
+    }
+]

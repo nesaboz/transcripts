@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "h86TUrZX73DF_j-KXeXrjL7rDN4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 200,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bDfdpDXK4Az_ainrFr0DMLzE-Zk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_cs0XDVn9HDaDAR1Xym2lQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-22T01:37:11Z",
+                    "channelId": "UC_cs0XDVn9HDaDAR1Xym2lQ",
+                    "title": "cityoformondbeach",
+                    "description": "Follow your local government via YouTube! The City of Ormond Beach and the Performing Arts Center now offer residents the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "cityoformondbeach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-22T01:37:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T6vuuJnpNSl8X2ES0rGc7Hlsbug",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCq9-c0m_c5ID8crsdY9XSrQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-28T15:41:38Z",
+                    "channelId": "UCq9-c0m_c5ID8crsdY9XSrQ",
+                    "title": "Citizens for Ormond Beach",
+                    "description": "Citizens for Ormond Beach (CFOB) is a long-established civic group that has been an important voice of the people of our city ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Citizens for Ormond Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-28T15:41:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "r9wp9mHHbwaCz7WBf7OSjBY18zc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5FxCgbyBkXFpHN-RBFC3dA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-27T20:38:00Z",
+                    "channelId": "UC5FxCgbyBkXFpHN-RBFC3dA",
+                    "title": "Beach City Realty Group  Florida East Coast",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Beach City Realty Group  Florida East Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-27T20:38:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rcURe4T7oxxns4sBYWcbwfjo1Ys",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5734Yq5ZqERlxQshNLuRiw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-01-13T16:25:07Z",
+                    "channelId": "UC5734Yq5ZqERlxQshNLuRiw",
+                    "title": "Real Estate in Central Florida",
+                    "description": "Welcome to NextHome at the Beach, your premier destination for discovering your dream home along the Florida coast!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/cdVYvGEj5tJU1crd6ONNMp0CTfuwUrI_Sp6SkF7eNN8kLrcfCvkvlYQUubFWR19rQkM36ladAw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/cdVYvGEj5tJU1crd6ONNMp0CTfuwUrI_Sp6SkF7eNN8kLrcfCvkvlYQUubFWR19rQkM36ladAw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/cdVYvGEj5tJU1crd6ONNMp0CTfuwUrI_Sp6SkF7eNN8kLrcfCvkvlYQUubFWR19rQkM36ladAw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Real Estate in Central Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-01-13T16:25:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LMZAFb0frO88zVCHtnTe9P8icik",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBHAkpAJF8AB-WtAXMd1CUA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-06-04T14:37:00Z",
+                    "channelId": "UCBHAkpAJF8AB-WtAXMd1CUA",
+                    "title": "Signature HealthCARE of Ormond",
+                    "description": "Signature HealthCARE of Ormond is a quaint 60-bed skilled nursing facility nestled in a quiet setting within the city of Ormond ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Signature HealthCARE of Ormond",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-06-04T14:37:00Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "zcrfPY31GaVHJDBxe3BjGgz0bdI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 159,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bDfdpDXK4Az_ainrFr0DMLzE-Zk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_cs0XDVn9HDaDAR1Xym2lQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-22T01:37:11Z",
+                    "channelId": "UC_cs0XDVn9HDaDAR1Xym2lQ",
+                    "title": "cityoformondbeach",
+                    "description": "Follow your local government via YouTube! The City of Ormond Beach and the Performing Arts Center now offer residents the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kdSJa6JRCXh4j-GTzWONZuI0ViqTo6ig2qTxphcgqiGQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "cityoformondbeach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-22T01:37:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "r9wp9mHHbwaCz7WBf7OSjBY18zc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5FxCgbyBkXFpHN-RBFC3dA"
+                },
+                "snippet": {
+                    "publishedAt": "2022-12-27T20:38:00Z",
+                    "channelId": "UC5FxCgbyBkXFpHN-RBFC3dA",
+                    "title": "Beach City Realty Group  Florida East Coast",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/0Zxt_fRgAz4p4mGygOkbidyzaL2ADU-mT_qlt2gKtNRZyTySzoEpini2kvjEfatMGIe2dWs7eQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Beach City Realty Group  Florida East Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-12-27T20:38:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "T6vuuJnpNSl8X2ES0rGc7Hlsbug",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCq9-c0m_c5ID8crsdY9XSrQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-28T15:41:38Z",
+                    "channelId": "UCq9-c0m_c5ID8crsdY9XSrQ",
+                    "title": "Citizens for Ormond Beach",
+                    "description": "Citizens for Ormond Beach (CFOB) is a long-established civic group that has been an important voice of the people of our city ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l5lAiziHQJpOplW6Qz4VnugM-aL4mKgO8MEfw2g9Tf8g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Citizens for Ormond Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-28T15:41:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LMZAFb0frO88zVCHtnTe9P8icik",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBHAkpAJF8AB-WtAXMd1CUA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-06-04T14:37:00Z",
+                    "channelId": "UCBHAkpAJF8AB-WtAXMd1CUA",
+                    "title": "Signature HealthCARE of Ormond",
+                    "description": "Signature HealthCARE of Ormond is a quaint 60-bed skilled nursing facility nestled in a quiet setting within the city of Ormond ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mWFV6AVcD9-8kGjUnSoE_u5tnASGMSdHWxu9uGd30alq0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Signature HealthCARE of Ormond",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-06-04T14:37:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xSK_8bo7TPOEQnLfYBMdKx5riYU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPDPB6iDcz0aI3YWHyK2tsg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-05-09T02:59:08Z",
+                    "channelId": "UCPDPB6iDcz0aI3YWHyK2tsg",
+                    "title": "Florida Streets",
+                    "description": "\"Florida Streets is the perfect channel for those who want to experience the beautiful state of Florida from the comfort of their home ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/GcYpmwI5DZ81UHG0F2sAX9ITMLTFy1Iu2K54EJ06ZaDYJvjt8WN6ygIwCgYgwqISl0ogjfBr=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/GcYpmwI5DZ81UHG0F2sAX9ITMLTFy1Iu2K54EJ06ZaDYJvjt8WN6ygIwCgYgwqISl0ogjfBr=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/GcYpmwI5DZ81UHG0F2sAX9ITMLTFy1Iu2K54EJ06ZaDYJvjt8WN6ygIwCgYgwqISl0ogjfBr=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Streets",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-05-09T02:59:08Z"
+                }
+            }
+        ]
+    }
+]

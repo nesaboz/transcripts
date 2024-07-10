@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "6TKoHFGbEh3Pprx_tOD4pEZ_9dY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 563,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FccruLiqwOWVbN8-idpNxwxeBks",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-21T16:22:31Z",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw",
+                    "title": "City of Pompano Beach",
+                    "description": "Official YouTube Channel of the City of Pompano Beach. Take a moment to unwind and enjoy Florida's Warmest Welcome!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Pompano Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-21T16:22:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VWYRAYFH6lIY_Evben7VhWGwKSE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC26Blt3eao1QhvvWZ2db1AA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-02T15:02:10Z",
+                    "channelId": "UC26Blt3eao1QhvvWZ2db1AA",
+                    "title": "Maranatha of Pompano Beach, Florida USA",
+                    "description": "Nosso Endere\u00e7o \u00e9: 2195 N Andrews Ave Suite #9, Pompano Beach, FL 33069 USA Como chegar vindo da i95 North: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Maranatha of Pompano Beach, Florida USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-12-02T15:02:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8GPnk-NJ7ooXL254Uh-LK3VVjhQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiOJnBIPnuajr379EN2EgJw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-04-16T14:11:19Z",
+                    "channelId": "UCiOJnBIPnuajr379EN2EgJw",
+                    "title": "Around Town in Pompano Beach",
+                    "description": "Thank you for joining me \"Around Town\" where we explore all the great spots and reasons why we love this community. I am a ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/En2fekXm0JB26690jdxeBEmJGgNWZm2th7_tlkANhNQJLwhcI_Kxw7JtWMNiWKF-imFkQUwPUzw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/En2fekXm0JB26690jdxeBEmJGgNWZm2th7_tlkANhNQJLwhcI_Kxw7JtWMNiWKF-imFkQUwPUzw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/En2fekXm0JB26690jdxeBEmJGgNWZm2th7_tlkANhNQJLwhcI_Kxw7JtWMNiWKF-imFkQUwPUzw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Around Town in Pompano Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-04-16T14:11:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fV7pIcWvX0FBnYFpjmkUye_RxiU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCf0-sNJj4CD4tM0febaexhw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-06-05T17:16:34Z",
+                    "channelId": "UCf0-sNJj4CD4tM0febaexhw",
+                    "title": "Living in Pompano Beach, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Pompano Beach, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-06-05T17:16:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Gy9oHyhEg6WkLLlbl_dRtSgPH9Q",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWVJIZRoJzOWxsF6zTe68Dg"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-10T03:34:41Z",
+                    "channelId": "UCWVJIZRoJzOWxsF6zTe68Dg",
+                    "title": "Hopewell MBC Pompano",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFMk4iONB-dgHJEoEUrpQRuZgffDaLXz4F7UN6tBK-6Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFMk4iONB-dgHJEoEUrpQRuZgffDaLXz4F7UN6tBK-6Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mkFMk4iONB-dgHJEoEUrpQRuZgffDaLXz4F7UN6tBK-6Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hopewell MBC Pompano",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-01-10T03:34:41Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "V809cH8iQCfE0j1rwenIE6mqRmI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 384,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1nxCQJYb0JzmWVVwjxQSIHFnHlU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-21T16:22:31Z",
+                    "channelId": "UCRRccDqr0n4AwW1BJANi4jw",
+                    "title": "City of Pompano Beach",
+                    "description": "Official YouTube Channel of the City of Pompano Beach. Take a moment to unwind and enjoy Florida's Warmest Welcome!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ae7qn3haebp6XFVH_vZvLzbTL_M-l5q6c2lwqNjODbR4SOg43je26ciSE6vonSDXEnBELnAqlg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Pompano Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-21T16:22:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VWYRAYFH6lIY_Evben7VhWGwKSE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC26Blt3eao1QhvvWZ2db1AA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-02T15:02:10Z",
+                    "channelId": "UC26Blt3eao1QhvvWZ2db1AA",
+                    "title": "Maranatha of Pompano Beach, Florida USA",
+                    "description": "Nosso Endere\u00e7o \u00e9: 2195 N Andrews Ave Suite #9, Pompano Beach, FL 33069 USA Como chegar vindo da i95 North: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/4htm22ceyKb3I_Xy1rsnWhoIP5dsRtnGBFzk_eIcja-HCz7L9w-Y3sSgiaJ2oBBaw89EGhRLbg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Maranatha of Pompano Beach, Florida USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-12-02T15:02:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fV7pIcWvX0FBnYFpjmkUye_RxiU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCf0-sNJj4CD4tM0febaexhw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-06-05T17:16:34Z",
+                    "channelId": "UCf0-sNJj4CD4tM0febaexhw",
+                    "title": "Living in Pompano Beach, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kBZyti_EdG7Z2tPURAhtvZcDEoq73Vm0cSpJGX4RcB-exQUY_LOdwIilGHZgafdKmRUA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Pompano Beach, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-06-05T17:16:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "iDTE97UYObt71qCUYRhv1v77pKY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-10T13:32:07Z",
+                    "channelId": "UCc2j0JhnR8Hx0Hj13RhCJag",
+                    "title": "City of Delray Beach",
+                    "description": "Delray Beach is a vibrant city with historic charm and award-winning beaches. www.delraybeachfl.gov.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hkeN1RYgvqlnwkuj0kKuDBOlkul4CU-y7ljEQEjNv0pACv8ezIHTXSP5iXtX5f3VAX55uA4wxQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Delray Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-10T13:32:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ieWNyUByhclcax38otYIPZYTN_Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMUGHNG-NKaKPhBSVrdUk_Q"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-20T14:16:09Z",
+                    "channelId": "UCMUGHNG-NKaKPhBSVrdUk_Q",
+                    "title": "PompanoBeachRealty",
+                    "description": "We boast about our golden beaches, charming hotels and thriving communities, that's why locals and visitors are flocking to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_klLeQIZxKja4uYjT1lhPlOdS2uwNn0sUjfFiPVD3qdxA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_klLeQIZxKja4uYjT1lhPlOdS2uwNn0sUjfFiPVD3qdxA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_klLeQIZxKja4uYjT1lhPlOdS2uwNn0sUjfFiPVD3qdxA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "PompanoBeachRealty",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-11-20T14:16:09Z"
+                }
+            }
+        ]
+    }
+]

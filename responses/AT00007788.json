@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "NPgIitpZJzNgl8TqneEYAGrzqqo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 22,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZyVdzW5t7hhdZSDESgGc8XJR7AA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-25T16:11:06Z",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA",
+                    "title": "The Town of Pembroke Park",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Town of Pembroke Park",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-25T16:11:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "QS71eD8iKiT8298TjTawkV56oRE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5C4-X_lLc_8dZ3pJzYRkZA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-28T18:05:51Z",
+                    "channelId": "UC5C4-X_lLc_8dZ3pJzYRkZA",
+                    "title": "Pembroke Pines Media",
+                    "description": "The City of Pembroke Pines provides local information and entertainment about Broward County's 2nd largest city through ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pembroke Pines Media",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-09-28T18:05:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AbOSx2vdOPtDc6dzq3fHBdlweO8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jSPGhdGAfT-3-CcXn8wb4J48gH4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyeUFhilBLvnnYx1jOJ2Jkg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-02T12:26:51Z",
+                    "channelId": "UCyeUFhilBLvnnYx1jOJ2Jkg",
+                    "title": "RWT Adventures [Roadtrippin' with Takacs]",
+                    "description": "We are Jason, Alison, Preston, and Grayson. Stargazers, hikers, and RVers living the dream!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rPfIX-z3q2_Gg76njQa0kZJoDe0YCkMQlr3oFCSZX6NGokoOtrLnJMNJjoXJDUBrKRWlcVcJiA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rPfIX-z3q2_Gg76njQa0kZJoDe0YCkMQlr3oFCSZX6NGokoOtrLnJMNJjoXJDUBrKRWlcVcJiA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rPfIX-z3q2_Gg76njQa0kZJoDe0YCkMQlr3oFCSZX6NGokoOtrLnJMNJjoXJDUBrKRWlcVcJiA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "RWT Adventures [Roadtrippin' with Takacs]",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-02T12:26:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2-X8tf_kDA7py5vQmI3SNrpIcKA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOAsS_oXDEida5PdhtJwYuA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-05T14:34:27Z",
+                    "channelId": "UCOAsS_oXDEida5PdhtJwYuA",
+                    "title": "City of Opa-locka, FL",
+                    "description": "City of Opa-locka's Official YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/XkRm6ucqX285P-hUAvzMudWN84y1o7XEP4RRbZM5nnvOvwX61N1U1wH8zmmbESHkfayiRpdD=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/XkRm6ucqX285P-hUAvzMudWN84y1o7XEP4RRbZM5nnvOvwX61N1U1wH8zmmbESHkfayiRpdD=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/XkRm6ucqX285P-hUAvzMudWN84y1o7XEP4RRbZM5nnvOvwX61N1U1wH8zmmbESHkfayiRpdD=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Opa-locka, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-05T14:34:27Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "0Z4736N0EJov0ld1VJS6txsTvQ4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 118,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZyVdzW5t7hhdZSDESgGc8XJR7AA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-25T16:11:06Z",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA",
+                    "title": "The Town of Pembroke Park",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Town of Pembroke Park",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-25T16:11:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "QS71eD8iKiT8298TjTawkV56oRE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5C4-X_lLc_8dZ3pJzYRkZA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-28T18:05:51Z",
+                    "channelId": "UC5C4-X_lLc_8dZ3pJzYRkZA",
+                    "title": "Pembroke Pines Media",
+                    "description": "The City of Pembroke Pines provides local information and entertainment about Broward County's 2nd largest city through ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/joaXYVwc1ykbG2su7SxndPeNZMp8bkqloTlMDDAv5h3NHS-PcNNPQU9RvZYQr4qtKevcE2sgWA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pembroke Pines Media",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-09-28T18:05:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LxgE8yJ7_kVnIa298LfwcyizyHM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nBKoFRli9LwUb10zTLtkG5xwGmU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCP1V_1OlGaTqrqgRWSyh2Ow"
+                },
+                "snippet": {
+                    "publishedAt": "2007-11-15T22:10:44Z",
+                    "channelId": "UCP1V_1OlGaTqrqgRWSyh2Ow",
+                    "title": "Florida International University",
+                    "description": "Florida International University is a Top 50 public university that drives real talent and innovation in Miami and globally.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/n8fZuecq9RVTzDulYgmG_bwmb6DpIePHis5PhEVldL9kHeIUAMhbdZzyW66sjk5Cy_luHRkM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/n8fZuecq9RVTzDulYgmG_bwmb6DpIePHis5PhEVldL9kHeIUAMhbdZzyW66sjk5Cy_luHRkM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/n8fZuecq9RVTzDulYgmG_bwmb6DpIePHis5PhEVldL9kHeIUAMhbdZzyW66sjk5Cy_luHRkM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida International University",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-11-15T22:10:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "aewa7gjFJki_XSL8FSmPZlWAHV8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T17:22:58Z",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
+                    "title": "City of Hollywood",
+                    "description": "The City of Hollywood, Florida's YouTube Channel contains videos produced by the Office of Communications, Marketing and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Hollywood",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-31T17:22:58Z"
+                }
+            }
+        ]
+    }
+]

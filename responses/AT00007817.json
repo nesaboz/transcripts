@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "AdkmDqVzlqClLAREAogPBwD7c9E",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 69,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ADGcDLDawdFCjU3dyVH3hN7YOqs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmjU7Y4VV9nhneoaX5CW2Xw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-15T18:21:47Z",
+                    "channelId": "UCmjU7Y4VV9nhneoaX5CW2Xw",
+                    "title": "Discover Polk County Florida",
+                    "description": "Welcome to \"Discover Polk County\" your channel for all things Polk County! We'll take you on a virtual tours of the different ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/hTECgvgxaWUZ0oWXSLCOucBx_6C8O4p72eUhT3OdcI2qAVz3dyzq85PZMsnZ5LMXkgsBjIojkFw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/hTECgvgxaWUZ0oWXSLCOucBx_6C8O4p72eUhT3OdcI2qAVz3dyzq85PZMsnZ5LMXkgsBjIojkFw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/hTECgvgxaWUZ0oWXSLCOucBx_6C8O4p72eUhT3OdcI2qAVz3dyzq85PZMsnZ5LMXkgsBjIojkFw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Discover Polk County Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-15T18:21:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GCgUz6gqgb9wbdFsgOJRoNwGeos",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgIiradKIQvysh6DZI7e2WQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-18T12:09:56Z",
+                    "channelId": "UCgIiradKIQvysh6DZI7e2WQ",
+                    "title": "Polk County Fire Rescue Headquarters",
+                    "description": "Polk County Fire Rescue (PCFR) is a division of the Polk County Board of County Commissioners. PCFR provides fire ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lNVZGLW-1FmNBrF3QNBrTNPk4K1F1ubwmwxILgCk2Y3A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lNVZGLW-1FmNBrF3QNBrTNPk4K1F1ubwmwxILgCk2Y3A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lNVZGLW-1FmNBrF3QNBrTNPk4K1F1ubwmwxILgCk2Y3A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Polk County Fire Rescue Headquarters",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-18T12:09:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sSdPQ1Rg_W5QBl_0KtrZQpoiOPY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC--UDwhhZNfC4J9KBZBvq0Q"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-27T03:40:41Z",
+                    "channelId": "UC--UDwhhZNfC4J9KBZBvq0Q",
+                    "title": "Susan Talarico",
+                    "description": "\"REAL ESTATE IS A CONVERSATION ... LET'S TALK! Hello there! With over two decades of experience as a real estate ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kCvxOhLB16vBSGOcCvARmeSeUdtnSx5zCtcZ2QNcTpCur2=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kCvxOhLB16vBSGOcCvARmeSeUdtnSx5zCtcZ2QNcTpCur2=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kCvxOhLB16vBSGOcCvARmeSeUdtnSx5zCtcZ2QNcTpCur2=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Susan Talarico",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-27T03:40:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mxVmwDohqKOEk0d1--BLb0uLca4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCo5E9pEhK_9kWG7-5HHcyRg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-03T21:20:51Z",
+                    "channelId": "UCo5E9pEhK_9kWG7-5HHcyRg",
+                    "title": "COURT TV",
+                    "description": "The Original True Crime Obsession | LIVE Gavel-to-Gavel Trials | In-depth Legal Reporting | Expert Analysis Watch 24/7 Court TV ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-fEuUmtNWRXHj2ne9gKxlUrSvcC1zTiDfO06D6367F1k=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-fEuUmtNWRXHj2ne9gKxlUrSvcC1zTiDfO06D6367F1k=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n-fEuUmtNWRXHj2ne9gKxlUrSvcC1zTiDfO06D6367F1k=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "COURT TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-12-03T21:20:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RSLwWLuOTSEi36uoQVfz8Dk8m2U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrhMWS50UfnLhVg_geI8flg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-11T01:08:02Z",
+                    "channelId": "UCrhMWS50UfnLhVg_geI8flg",
+                    "title": "Florida Wheel Estate",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/yaU9wSS0zqHZMZOrv7IPFp59aI6i_wsft87IHlyqEGzGSXGLWiBA1zl1MznbYDr_cVQgnvxVwQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/yaU9wSS0zqHZMZOrv7IPFp59aI6i_wsft87IHlyqEGzGSXGLWiBA1zl1MznbYDr_cVQgnvxVwQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/yaU9wSS0zqHZMZOrv7IPFp59aI6i_wsft87IHlyqEGzGSXGLWiBA1zl1MznbYDr_cVQgnvxVwQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Wheel Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-11T01:08:02Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "WcvfnTCRFDB6hKFuqUH672cYwLc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 273,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SzdLBbT1wlT52sKOpcn-ARhLMmA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnukjV-mZHhvzzq1h66SChw"
+                },
+                "snippet": {
+                    "publishedAt": "2019-10-09T19:48:39Z",
+                    "channelId": "UCnukjV-mZHhvzzq1h66SChw",
+                    "title": "PUT ON 4 UR CITY",
+                    "description": "NEW YOUTUBE CHANNEL \u27a1\ufe0f https://youtube.com/channel/UCyDBEyaW4DoMi6rM9Yn7zmA FOLLOW ME ON ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nvfg36_6CIBZEVerTgU2vaT63dDjAXCe8XNWrLZHz9Iw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "PUT ON 4 UR CITY",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-10-09T19:48:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1U2KAGsqny8BAAhLj0sF6CjRKsw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCanpinQrg8NxWPkM9qgVmdQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-15T21:30:11Z",
+                    "channelId": "UCanpinQrg8NxWPkM9qgVmdQ",
+                    "title": "First Baptist Church of Polk City",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m0scE3TftpRUvzFQrJAL4I-vwmBPOoGYB9uN4hR5vFRw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m0scE3TftpRUvzFQrJAL4I-vwmBPOoGYB9uN4hR5vFRw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m0scE3TftpRUvzFQrJAL4I-vwmBPOoGYB9uN4hR5vFRw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Baptist Church of Polk City",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-02-15T21:30:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ir79R5CDTggh67mxo4Z34PtJ_40",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC288cyeF-MUbVY0RMSVYF4g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-03-15T18:18:03Z",
+                    "channelId": "UC288cyeF-MUbVY0RMSVYF4g",
+                    "title": "Polk Government",
+                    "description": "Polk County is a leading contributor to Florida's economy and politics. The county's location between the Tampa and Orlando ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0YaCRMvzRtECC-RgAZp7lKyfLS5uaHfnaEhQNicFddWA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0YaCRMvzRtECC-RgAZp7lKyfLS5uaHfnaEhQNicFddWA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0YaCRMvzRtECC-RgAZp7lKyfLS5uaHfnaEhQNicFddWA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Polk Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-03-15T18:18:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HHLxoY99GNZoEPhi-P4XKYrhRfA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKzBRNJBxXQbY-ZCC6Aki0A"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-03T14:13:52Z",
+                    "channelId": "UCKzBRNJBxXQbY-ZCC6Aki0A",
+                    "title": "Polk County Public Schools",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyo9I7M-2RKF6epFpM7vOqRGu4GrvbSHt3t4ScoAuHT80=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyo9I7M-2RKF6epFpM7vOqRGu4GrvbSHt3t4ScoAuHT80=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lyo9I7M-2RKF6epFpM7vOqRGu4GrvbSHt3t4ScoAuHT80=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Polk County Public Schools",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-12-03T14:13:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "L01iWz8YHPe8xEL2d-pXToFbjZM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqfVTpvdKjbv7dim8ktmTOQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-07-19T02:07:42Z",
+                    "channelId": "UCqfVTpvdKjbv7dim8ktmTOQ",
+                    "title": "AFP Polk County Florida Chapter",
+                    "description": "The Association of Fundraising Professionals (AFP) is the professional association of individuals and organizations that generate ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSnOPAz8sMBO6pMKhFRdpBWZrykGQ7hahc-_zk9Tk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSnOPAz8sMBO6pMKhFRdpBWZrykGQ7hahc-_zk9Tk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lSnOPAz8sMBO6pMKhFRdpBWZrykGQ7hahc-_zk9Tk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "AFP Polk County Florida Chapter",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-07-19T02:07:42Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "0dcOLzOhN9eu4mucfnBgjAGEc8U",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 124,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "p4s38bNdoT-mpKPjVXmZFzO53vU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T17:22:58Z",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
+                    "title": "City of Hollywood",
+                    "description": "The City of Hollywood, Florida's YouTube Channel contains videos produced by the Office of Communications, Marketing and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Hollywood",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-31T17:22:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AbOSx2vdOPtDc6dzq3fHBdlweO8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZyVdzW5t7hhdZSDESgGc8XJR7AA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-25T16:11:06Z",
+                    "channelId": "UC-W-rF_hcfNJAg8D2s6K1NA",
+                    "title": "The Town of Pembroke Park",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kpUkla_PBWMJjDv6kHWIRKCbfIV1rwcbnyxr7qirZ5Fk4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Town of Pembroke Park",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-06-25T16:11:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ty0XN_dl1mGtn-2VelSxjmy9fnE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "vIF15tiqHRUUAPH9-ukLOj_MMSM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "6yz3W2a8K7-IpRVl5eU-w6LlO5s",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 28,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tstcqnMm0OEBlS7dbOX5VImZUyQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr7APhdalcD4U0qwJ0bcWOQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-01T21:15:23Z",
+                    "channelId": "UCr7APhdalcD4U0qwJ0bcWOQ",
+                    "title": "Pinewood Sports",
+                    "description": "Pinewood Sports Ride the Wood Established in Chicago, IL 2021.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/YMX9I63ON0z5QeMVU3tEPu4I6l3AQojUBCjV6tonB3E9IlSf5j76DcqNAEwHqw6ocDT4gA9ukQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/YMX9I63ON0z5QeMVU3tEPu4I6l3AQojUBCjV6tonB3E9IlSf5j76DcqNAEwHqw6ocDT4gA9ukQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/YMX9I63ON0z5QeMVU3tEPu4I6l3AQojUBCjV6tonB3E9IlSf5j76DcqNAEwHqw6ocDT4gA9ukQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Pinewood Sports",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-01T21:15:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VSBHOPtLIhqeT0eQYOBNUaaHb2Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyjhyJoPHcQRxPLnWPjOecg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-15T01:33:37Z",
+                    "channelId": "UCyjhyJoPHcQRxPLnWPjOecg",
+                    "title": "J House Vlogs",
+                    "description": "Welcome to J House - an imperfect family trying to improve. We focus on learning, serving, and playing together as a family.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/F1LsPZJN4Q-0-2Q1KRv6fPc2dKV5coIehHsHH5044z2GjgFzH7_-Z39kcu23RljG048qGGOIaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/F1LsPZJN4Q-0-2Q1KRv6fPc2dKV5coIehHsHH5044z2GjgFzH7_-Z39kcu23RljG048qGGOIaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/F1LsPZJN4Q-0-2Q1KRv6fPc2dKV5coIehHsHH5044z2GjgFzH7_-Z39kcu23RljG048qGGOIaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "J House Vlogs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-15T01:33:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "M-WtSLHx9QkU1-CfhEB0MP9gHWM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwp1deDbxgnfT8YsFHXU05w"
+                },
+                "snippet": {
+                    "publishedAt": "2024-01-01T15:59:44Z",
+                    "channelId": "UCwp1deDbxgnfT8YsFHXU05w",
+                    "title": "LIVING IN ORLANDO FLORIDA",
+                    "description": "Welcome to my YouTube channel! With years of experience in public service and an intimate understanding of the local ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/3t6m9u4jIT4vdzlQxlb3KpUZKkGAwOd8KPdya_p5cWNai7SGSEprvM-P7PUHF-OBwWuwv-Werw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/3t6m9u4jIT4vdzlQxlb3KpUZKkGAwOd8KPdya_p5cWNai7SGSEprvM-P7PUHF-OBwWuwv-Werw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/3t6m9u4jIT4vdzlQxlb3KpUZKkGAwOd8KPdya_p5cWNai7SGSEprvM-P7PUHF-OBwWuwv-Werw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN ORLANDO FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-01-01T15:59:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tzp3q4zQ2sTQUnCeJm3O97QB8NI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEDAKkxAvY1QS86RIjQhbkQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-16T19:00:02Z",
+                    "channelId": "UCEDAKkxAvY1QS86RIjQhbkQ",
+                    "title": "Things To Do on Pine Island, FL",
+                    "description": "THINGS TO DO ON PINE ISLAND is all about viewing all things Pine Island! Includes Things to DO in Matlacha, Things to DO in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FKbo8TZRuFfAVnExbXG_O_OeeV9MYMipnBHgnp4aw8wRSqCYYuB5fq1x4cTfZWyaJN5l3r4IOw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FKbo8TZRuFfAVnExbXG_O_OeeV9MYMipnBHgnp4aw8wRSqCYYuB5fq1x4cTfZWyaJN5l3r4IOw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FKbo8TZRuFfAVnExbXG_O_OeeV9MYMipnBHgnp4aw8wRSqCYYuB5fq1x4cTfZWyaJN5l3r4IOw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Things To Do on Pine Island, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-12-16T19:00:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U9pZa9ECRaHHhSJKSwpBZ7u3uoE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPd5PAaAnHjXdh9aZmcYHig"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-01T13:45:46Z",
+                    "channelId": "UCPd5PAaAnHjXdh9aZmcYHig",
+                    "title": "Day Tripping SW Florida",
+                    "description": "The adventures of Chris and Janice as we explore all over SW Florida! We've been in Sw Florida since 1994. We're originally ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n6Aw-7TtNOE9R_TAEhPii7ErqDzDinEqw_gRzvr2nl7g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n6Aw-7TtNOE9R_TAEhPii7ErqDzDinEqw_gRzvr2nl7g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n6Aw-7TtNOE9R_TAEhPii7ErqDzDinEqw_gRzvr2nl7g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Day Tripping SW Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-01T13:45:46Z"
+                }
+            }
+        ]
+    }
+]

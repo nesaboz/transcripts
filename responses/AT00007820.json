@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "NgF2YTg46fiMUJr0p_sZES74zgs",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 13,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uCQWYk5MpbrmKDZx6Cda7-qoodc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9XZHUEv_Miz7gbO9u4351A"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-23T00:45:39Z",
+                    "channelId": "UC9XZHUEv_Miz7gbO9u4351A",
+                    "title": "Artworks Florida Classic Fresnel Lenses, LLC",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lnmW6VnWC0WUiwBWLnn5wYFbJotAg1cl36X5DamRtAkA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Artworks Florida Classic Fresnel Lenses, LLC",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-23T00:45:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "88D2k8GE-UMsu664fdHwuglcWAs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-11-12T15:55:02Z",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ",
+                    "title": "See St Augustine",
+                    "description": "A video guide of the Nation's Oldest City, St. Augustine, Florida. Hi, my name is Joe Mehm and I've been a resident of the St ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "See St Augustine",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-11-12T15:55:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "44dpiW_6sd_sioji6aI7vdQ3HHg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgfUbW5NGRNDR-qnjmeI_QA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-24T17:43:06Z",
+                    "channelId": "UCgfUbW5NGRNDR-qnjmeI_QA",
+                    "title": "Christine Guy",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/UabArtPch5oQNx7939UL2Rb4_sSq6XuHjBvzKh2Tfo4bI4wkLp7ZHbKRLFcZg0S95WVDmMVRyQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/UabArtPch5oQNx7939UL2Rb4_sSq6XuHjBvzKh2Tfo4bI4wkLp7ZHbKRLFcZg0S95WVDmMVRyQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/UabArtPch5oQNx7939UL2Rb4_sSq6XuHjBvzKh2Tfo4bI4wkLp7ZHbKRLFcZg0S95WVDmMVRyQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Christine Guy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-24T17:43:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5ZSdPqXauBLTmAPTJsojNE-C61w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoCCEr8TDb1IaFfZTJ_be8Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-27T14:57:58Z",
+                    "channelId": "UCoCCEr8TDb1IaFfZTJ_be8Q",
+                    "title": "Tri State Happy",
+                    "description": "Hello everyone! I began this channel to explore and learn about regional history. We sometimes travel a little outside the area, but ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k_msKUilpr5oWz8e9NRufSoX_B2wJI-SXMS4nqZzpuuw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k_msKUilpr5oWz8e9NRufSoX_B2wJI-SXMS4nqZzpuuw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k_msKUilpr5oWz8e9NRufSoX_B2wJI-SXMS4nqZzpuuw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tri State Happy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-27T14:57:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_jamG2pCPYK7O5LhM5DHl8aIIkM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5E6xoij907XNOpZYmrde9g"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-10T01:52:20Z",
+                    "channelId": "UC5E6xoij907XNOpZYmrde9g",
+                    "title": "Octavio Rinaldi",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lbfhUnuJ64MjvLmHNpg6AqSI73OvnVeKNtMShBZWWczVw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lbfhUnuJ64MjvLmHNpg6AqSI73OvnVeKNtMShBZWWczVw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lbfhUnuJ64MjvLmHNpg6AqSI73OvnVeKNtMShBZWWczVw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Octavio Rinaldi",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-10T01:52:20Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sXS1dLM1FfA3EBOznm0aFg8zFQQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 50,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tNxGwHug6zuInkXsH6ww0X2A4Zs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNwtaFgYjX_MhRJVBYU1hlA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-07T04:52:27Z",
+                    "channelId": "UCNwtaFgYjX_MhRJVBYU1hlA",
+                    "title": "NBCinPDL Northside Baptist Church in Ponce de Leon",
+                    "description": "Streaming of Worship Services and Classes of Northside Baptist Church in Ponce de Leon, FL.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G6vBiGQf4rGZ4O5QMheAReQwNAYDFsKOqbtdi_nCKjiVYIT4RN9KCbTGJO7l5YOpeuxtoRnvVQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G6vBiGQf4rGZ4O5QMheAReQwNAYDFsKOqbtdi_nCKjiVYIT4RN9KCbTGJO7l5YOpeuxtoRnvVQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G6vBiGQf4rGZ4O5QMheAReQwNAYDFsKOqbtdi_nCKjiVYIT4RN9KCbTGJO7l5YOpeuxtoRnvVQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "NBCinPDL Northside Baptist Church in Ponce de Leon",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-07T04:52:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MYbS0daJ85oaYP8YBggIypKnXnw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8ovWdIliai-6Gt4MwiHi8w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-02T19:41:20Z",
+                    "channelId": "UC8ovWdIliai-6Gt4MwiHi8w",
+                    "title": "Sergio Betancourt",
+                    "description": "Follow me on my quest to find the best food in The Magic City!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l97N6KbXFDq0Jzx8grdDxmdV1xTHrJF66sgouMiEr1pdQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l97N6KbXFDq0Jzx8grdDxmdV1xTHrJF66sgouMiEr1pdQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l97N6KbXFDq0Jzx8grdDxmdV1xTHrJF66sgouMiEr1pdQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sergio Betancourt",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-02T19:41:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BNrb82Pbm6xVDVX-DAoPG8pVVrc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQk7UfkllHcrADBGn1WwZaA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-08T22:51:27Z",
+                    "channelId": "UCQk7UfkllHcrADBGn1WwZaA",
+                    "title": "Mike13USCG",
+                    "description": "Channel is a way for me to share some of my adventures and interesting moments with family and friends.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmDBFf7HGenOHAXVc59rmZ-d5vYczBuJe5qlyCWOAYdnI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmDBFf7HGenOHAXVc59rmZ-d5vYczBuJe5qlyCWOAYdnI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nmDBFf7HGenOHAXVc59rmZ-d5vYczBuJe5qlyCWOAYdnI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Mike13USCG",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-12-08T22:51:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hNL9FOXz7gWzvTwaKg3oD8ytZRw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbtYvHx-YcIYj5qFqL-hI1Q"
+                },
+                "snippet": {
+                    "publishedAt": "2006-07-24T22:19:56Z",
+                    "channelId": "UCbtYvHx-YcIYj5qFqL-hI1Q",
+                    "title": "TheToneman - Gulf Coast Snorkeling",
+                    "description": "I love capturing my snorkeling adventures on my GoPro cameras and sharing them with you. I snorkel the beautiful beaches and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbUlwZUlGVrzvUEc0eJd3N9bDykq5V1rrIQv9Gh5sODNU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbUlwZUlGVrzvUEc0eJd3N9bDykq5V1rrIQv9Gh5sODNU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kbUlwZUlGVrzvUEc0eJd3N9bDykq5V1rrIQv9Gh5sODNU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TheToneman - Gulf Coast Snorkeling",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-07-24T22:19:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sSCjLzmbPY5IarrPhoHflueJNuc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrY3JaoKLEEIWyWdr5nDDUA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-06-20T13:36:46Z",
+                    "channelId": "UCrY3JaoKLEEIWyWdr5nDDUA",
+                    "title": "Firstaa Lasta",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khW2JT7b6zPi6Z7Aek3AT1xwFx9TswWl0bpR8GZaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khW2JT7b6zPi6Z7Aek3AT1xwFx9TswWl0bpR8GZaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khW2JT7b6zPi6Z7Aek3AT1xwFx9TswWl0bpR8GZaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Firstaa Lasta",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-06-20T13:36:46Z"
+                }
+            }
+        ]
+    }
+]
