@@ -303,9 +303,25 @@ def aggregate_analysis_files(crawler, output_file):
     # add a city name by joining with the status file
     combined_df = crawler.df.merge(combined_df, left_on='id', right_on='city_id', how='left')
 
-    combined_df.drop('city_id', axis=1, inplace=True)
+    combined_df.drop(['city_id', 'was_crawled', 'was_analyzed'], axis=1, inplace=True)
+    
+    combined_df.rename(columns={'id': 'ObligorId', 'city': 'extracted_issuer'}, inplace=True)
+    
+    # add county name
+    df_orig = pd.read_excel('assets/cities_to_collect.xlsx')
+    df_orig = df_orig[['ObligorId', 'county']]
+    
+    combined_df = combined_df.merge(df_orig, left_on='ObligorId', right_on='ObligorId', how='left')
+    
+    combined_df = move_col(combined_df, 'county', 2)
+    
+    combined_df.to_excel(output_file, index=False, engine='openpyxl')
 
-    combined_df.to_csv(output_file, index=False)
+
+def move_col(df, col_to_move, new_index):
+    cols = df.columns.tolist()
+    cols.insert(new_index, cols.pop(cols.index(col_to_move)))
+    return df[cols]
 
 
 class Channel(object):
