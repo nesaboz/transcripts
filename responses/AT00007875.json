@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "HeGJvTSVJkML5GQLy5xKkPE-mpE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 583,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eLDJxEkwK8wLJcX8ZytSk0qgTPE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwCRT49oK5sb4OEKcReIbdg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-12T03:16:32Z",
+                    "channelId": "UCwCRT49oK5sb4OEKcReIbdg",
+                    "title": "San Antonio Neighborhood Living!",
+                    "description": "Moving to San Antonio? San Antonio real estate is affordable, compared to other major cities. If you live in San Antonio and you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "San Antonio Neighborhood Living!",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-12T03:16:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jz4F9YN3wKGTTIRawNvs0A30zaQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPnQ9S1ynmo3731gO9LJBLg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-14T16:51:06Z",
+                    "channelId": "UCPnQ9S1ynmo3731gO9LJBLg",
+                    "title": "i Love Florida Living",
+                    "description": "Helping you find the perfect spot in Greater Tampa Bay for over 20 years. I've lived in the area for 30+ years, soaking in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "i Love Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-14T16:51:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "96tnttdC7xoT6Klz5R5NgrHTROg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfA5CSlYGseqSeOhsiiZTfw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-24T04:09:01Z",
+                    "channelId": "UCfA5CSlYGseqSeOhsiiZTfw",
+                    "title": "Sturniolo Triplets",
+                    "description": "Triplet brothers documenting our life.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Qt7wVoYl_BvuSHm0C67mmTtkvV6pFWz-6p3eGBO5as4J7B9-N9BZtEa0-LDyLuYE1IcGQ71vB6w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Qt7wVoYl_BvuSHm0C67mmTtkvV6pFWz-6p3eGBO5as4J7B9-N9BZtEa0-LDyLuYE1IcGQ71vB6w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Qt7wVoYl_BvuSHm0C67mmTtkvV6pFWz-6p3eGBO5as4J7B9-N9BZtEa0-LDyLuYE1IcGQ71vB6w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sturniolo Triplets",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-24T04:09:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tcEEANJy-SD2ireKb1iOA8NcAv0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-08T07:37:23Z",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ",
+                    "title": "Long Island Audit",
+                    "description": "Constitutional Activist Investigative Journalist Exercising Constitutional Rights in a respectful manner. We The People will NOT ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Long Island Audit",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-08T07:37:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "b4GZa7uNXzoEeXBzQDfwDrmqpdg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-01-20T06:48:13Z",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA",
+                    "title": "Peter Santenello",
+                    "description": "I make videos showing you a world that the media fails to capture. No BS polarization or political angle\u2014just pure authentic ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Peter Santenello",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-01-20T06:48:13Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "5LVVGFKxQHHt-_SM7c-ur2uMRtg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 500,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jz4F9YN3wKGTTIRawNvs0A30zaQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPnQ9S1ynmo3731gO9LJBLg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-14T16:51:06Z",
+                    "channelId": "UCPnQ9S1ynmo3731gO9LJBLg",
+                    "title": "i Love Florida Living",
+                    "description": "Helping you find the perfect spot in Greater Tampa Bay for over 20 years. I've lived in the area for 30+ years, soaking in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-ZkYU6rN5rQc30NrV0UH0XjZQ-ViiFtCZkYMVE_d5iL9bOSe0UpnP6hpx1h9qMTENqES0BulIg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "i Love Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-14T16:51:06Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eLDJxEkwK8wLJcX8ZytSk0qgTPE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwCRT49oK5sb4OEKcReIbdg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-06-12T03:16:32Z",
+                    "channelId": "UCwCRT49oK5sb4OEKcReIbdg",
+                    "title": "San Antonio Neighborhood Living!",
+                    "description": "Moving to San Antonio? San Antonio real estate is affordable, compared to other major cities. If you live in San Antonio and you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Q1RblivEcV0zr5t-Had4E_EHD0iyLp_qllhp6KPj47ofXs5ytucndhTg29L49kH4vktqVZibBQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "San Antonio Neighborhood Living!",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-06-12T03:16:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9FYpnjxW3ku3KIMJP1AWZa1UtLE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLWiKMdHFWB2HnlpmDWrwqg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-13T19:20:20Z",
+                    "channelId": "UCLWiKMdHFWB2HnlpmDWrwqg",
+                    "title": "Living in Tampa Bay  by Antonio Adams",
+                    "description": "Are you thinking about moving to Tampa, Florida? My goal is to help you buy, sell, or invest in real estate with confidence in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HQ738a9i8i0LCTGEqPa3QNgbGlgkMgMtwbnxcGuq09sJ2kXoZ7oZw2lvm7xE1AXv5YUMApHtMQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HQ738a9i8i0LCTGEqPa3QNgbGlgkMgMtwbnxcGuq09sJ2kXoZ7oZw2lvm7xE1AXv5YUMApHtMQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HQ738a9i8i0LCTGEqPa3QNgbGlgkMgMtwbnxcGuq09sJ2kXoZ7oZw2lvm7xE1AXv5YUMApHtMQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Tampa Bay  by Antonio Adams",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-11-13T19:20:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "0vDrqtxuhmQ7SOC6JHbRBP84DvI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgVAqdTQlTK7FP2s2anqnrw"
+                },
+                "snippet": {
+                    "publishedAt": "2022-05-02T17:54:25Z",
+                    "channelId": "UCgVAqdTQlTK7FP2s2anqnrw",
+                    "title": "Living in Tampa Florida",
+                    "description": "CONSIDERING A MOVE TO THE TAMPA AREA? Reach out to us ASAP! It's never too early to chat! We have a lot ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Ah9UavfSy_4gtCB0EeyJGjYZwNUEEU3GCgxFDgZbty0ALkn7hAO7K0pfDV7Bd9MHPlDwIcIG=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Ah9UavfSy_4gtCB0EeyJGjYZwNUEEU3GCgxFDgZbty0ALkn7hAO7K0pfDV7Bd9MHPlDwIcIG=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Ah9UavfSy_4gtCB0EeyJGjYZwNUEEU3GCgxFDgZbty0ALkn7hAO7K0pfDV7Bd9MHPlDwIcIG=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Tampa Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-05-02T17:54:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "b4GZa7uNXzoEeXBzQDfwDrmqpdg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA"
+                },
+                "snippet": {
+                    "publishedAt": "2009-01-20T06:48:13Z",
+                    "channelId": "UC3Vuq4Q1bKFtAiKYlwRv3oA",
+                    "title": "Peter Santenello",
+                    "description": "I make videos showing you a world that the media fails to capture. No BS polarization or political angle\u2014just pure authentic ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/PbHZ1B6Ot7YLde7ntHLB0GQ9KAqv-gee4Xjj7F-nAu-lrQ3qBGigCDTZ7h91ad8b890Wzm3khg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Peter Santenello",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-01-20T06:48:13Z"
+                }
+            }
+        ]
+    }
+]

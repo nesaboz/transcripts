@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "F80SNJwxfVJTsxKvajhUdy0-emw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 67,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VTFbwpDpSliYCoYSCLq-UdxGIzs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS8FNOl0kpZJOZfcS4TGh8A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-03-03T17:04:57Z",
+                    "channelId": "UCS8FNOl0kpZJOZfcS4TGh8A",
+                    "title": "City of Rockledge, FL",
+                    "description": "City of Rockledge, Fl.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Rockledge, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-03-03T17:04:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9qCJQpQpSNl4SqbMFsPOULgRsfQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T19:51:29Z",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA",
+                    "title": "City of Cocoa, Florida",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T19:51:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jxhy-lwEnuVNpoyY702IUBUJ3p8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXsllEU_ypQK3m1-xytQsyQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-04-10T12:14:11Z",
+                    "channelId": "UCXsllEU_ypQK3m1-xytQsyQ",
+                    "title": "Bed Brokers, Mattress Store Rockledge Florida",
+                    "description": "Bed Brokers has the best mattresses and beds at the best prices.... The Best for Less! Located on Highway US1 in Rockledge in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mokD_1XiAeC_4eoGfgWEELh025ODHzKZGO0cVmxvc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mokD_1XiAeC_4eoGfgWEELh025ODHzKZGO0cVmxvc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mokD_1XiAeC_4eoGfgWEELh025ODHzKZGO0cVmxvc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bed Brokers, Mattress Store Rockledge Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-04-10T12:14:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xbava5pj6NouEy3o1O9472teSK0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kzxv8n9KqS1FX31ki1Sab1U9eS0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrTkTnaEBb5OmqEGU62r2hA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-16T16:22:07Z",
+                    "channelId": "UCrTkTnaEBb5OmqEGU62r2hA",
+                    "title": "Shane Burgman | Brevard County Realtor",
+                    "description": "After serving nearly a decade in the United States Navy Submarine Force as a Nuclear Missile Technician, I left the military in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/gwMT2iLiiB17Ss1fZMoDh8c_dHQAKMcIdWar8w1vkBOMTgFH7iTWdkCK5l1vW-VodnW2UTUC=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/gwMT2iLiiB17Ss1fZMoDh8c_dHQAKMcIdWar8w1vkBOMTgFH7iTWdkCK5l1vW-VodnW2UTUC=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/gwMT2iLiiB17Ss1fZMoDh8c_dHQAKMcIdWar8w1vkBOMTgFH7iTWdkCK5l1vW-VodnW2UTUC=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Shane Burgman | Brevard County Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-16T16:22:07Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "7bPUoXHEJKpx2JPLwvG5TUYn5ZM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 36,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VTFbwpDpSliYCoYSCLq-UdxGIzs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS8FNOl0kpZJOZfcS4TGh8A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-03-03T17:04:57Z",
+                    "channelId": "UCS8FNOl0kpZJOZfcS4TGh8A",
+                    "title": "City of Rockledge, FL",
+                    "description": "City of Rockledge, Fl.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n5maLrIei9eFyJ8ipEFOiuXjOL0vOhggZUSy2NftN0rA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Rockledge, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-03-03T17:04:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9qCJQpQpSNl4SqbMFsPOULgRsfQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-29T19:51:29Z",
+                    "channelId": "UCbWJK7XQyPVBmp15Fwoa4jA",
+                    "title": "City of Cocoa, Florida",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kzLAR-tyYnnbePmyxRuCx9HGzFGzUI8bOR1ZTnV4JTaaw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-10-29T19:51:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xbava5pj6NouEy3o1O9472teSK0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "X1SzPZrQdosIjroLzldgH0sl-G4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCer9DGpY9n8ULM369ZrbK7A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-18T04:58:11Z",
+                    "channelId": "UCer9DGpY9n8ULM369ZrbK7A",
+                    "title": "STADLER RESTORATION SERVICES",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqVd-2p-sU8eA5b7Hd5kYjNgK-_nGTRUPZ-mZ1ofrEzL8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqVd-2p-sU8eA5b7Hd5kYjNgK-_nGTRUPZ-mZ1ofrEzL8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqVd-2p-sU8eA5b7Hd5kYjNgK-_nGTRUPZ-mZ1ofrEzL8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "STADLER RESTORATION SERVICES",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-02-18T04:58:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1Orefu1qN5DEWUpknGoZZr1WTfs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0Bgagl0ll_IHzGzYt9DJOw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-09-04T19:28:29Z",
+                    "channelId": "UC0Bgagl0ll_IHzGzYt9DJOw",
+                    "title": "Scrapys Auto Salvage",
+                    "description": "We at Scrapys Auto Salvage provide junk car removal services, offering cash for unwanted vehicles in central florida since 2007.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/bxT_b0x-R_eS4uaVklr3ijWZBTsLF7gR5JH1hGxeyb2YqQF-7MMD4yQa8xDjGBpfkQdhNWwesg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/bxT_b0x-R_eS4uaVklr3ijWZBTsLF7gR5JH1hGxeyb2YqQF-7MMD4yQa8xDjGBpfkQdhNWwesg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/bxT_b0x-R_eS4uaVklr3ijWZBTsLF7gR5JH1hGxeyb2YqQF-7MMD4yQa8xDjGBpfkQdhNWwesg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Scrapys Auto Salvage",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-09-04T19:28:29Z"
+                }
+            }
+        ]
+    }
+]

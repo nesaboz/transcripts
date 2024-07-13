@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "KBQdCV83RyDKhEUnhbuurN25N5U",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 139,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VoicZ4gljkR2w08A-hrDkmSR5pg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "whgOBVOxBgKuUdN8stnBsCzBZWE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IldmaMnezBRSmX8FuRDdjhlKws4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-14T23:11:19Z",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ",
+                    "title": "City of Miami Gov",
+                    "description": "The Official City of Miami YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Gov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-14T23:11:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qg7QWf_Zf2tlrGorehQuKoRpwdI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ty0XN_dl1mGtn-2VelSxjmy9fnE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "y9_-KPhBbAXaXh4G0pq5DYUe59k",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 31,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eiiPyvdjW-xK1RlkEShUuq6EtZM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNyaqZjLVNgEgsUxtM4FiEg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-16T14:56:26Z",
+                    "channelId": "UCNyaqZjLVNgEgsUxtM4FiEg",
+                    "title": "Marcel Martin | Realtor | Living in Miami",
+                    "description": "Welcome to the ultimate Miami real estate experience! Dive deep into the heart of Miami with Marcel Martin, your guide to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/TkLDh0lojoqAtI-MWPhaWHO9CYLbdDRK3hCwTb62v1ObwV2Ev-h881vyIyhgpiMC4MB8Vd9H-Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/TkLDh0lojoqAtI-MWPhaWHO9CYLbdDRK3hCwTb62v1ObwV2Ev-h881vyIyhgpiMC4MB8Vd9H-Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/TkLDh0lojoqAtI-MWPhaWHO9CYLbdDRK3hCwTb62v1ObwV2Ev-h881vyIyhgpiMC4MB8Vd9H-Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Marcel Martin | Realtor | Living in Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-05-16T14:56:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2iF-yipxSjtOz_yDfzVl0g9gfVI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnFr-pZIWMPJFVrXodclwug"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-16T18:29:13Z",
+                    "channelId": "UCnFr-pZIWMPJFVrXodclwug",
+                    "title": "NFFOnDemand",
+                    "description": "Founded in 1947 with early leadership from General Douglas MacArthur, legendary Army coach Earl \"Red\" Blaik and immortal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/SEjm04dgUgSbliPOlYmhUQJL0CF--IYXBgmyltZeMGql2gltAc_vwoStH3HV6UiWi-PgqM4l=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/SEjm04dgUgSbliPOlYmhUQJL0CF--IYXBgmyltZeMGql2gltAc_vwoStH3HV6UiWi-PgqM4l=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/SEjm04dgUgSbliPOlYmhUQJL0CF--IYXBgmyltZeMGql2gltAc_vwoStH3HV6UiWi-PgqM4l=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "NFFOnDemand",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-16T18:29:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jhxoGd6FKy5ODxrm5Bo7-m67org",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9mxUt_fmUxlP2qxOiCTgRg"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-07T03:15:56Z",
+                    "channelId": "UC9mxUt_fmUxlP2qxOiCTgRg",
+                    "title": "Miami Eyes ME",
+                    "description": "Living in Miami for the last 40 years , my main hobbie , RC planes pilot and now with drones and must of all cycling ,love cruises ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8FEnSdjZNKtWbX2JmWZ3HXfXq-JXj-k4lEcvUjGqQx4w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8FEnSdjZNKtWbX2JmWZ3HXfXq-JXj-k4lEcvUjGqQx4w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8FEnSdjZNKtWbX2JmWZ3HXfXq-JXj-k4lEcvUjGqQx4w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Miami Eyes ME",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-07T03:15:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Moc25P7-zGK3i5a2-d-ckXw0w_k",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCk6ijJA_fOmq28XjRQYmLRA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-21T06:41:41Z",
+                    "channelId": "UCk6ijJA_fOmq28XjRQYmLRA",
+                    "title": "Tampa Jay",
+                    "description": "I've always had this desire inside of me to EXPLORE. This channel has helped me to get \u201cout there\u201d and find some new ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4MsZgEA57ron-SHWe-E6kfEGQoXVYryqKoD1Wudjh5Vw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4MsZgEA57ron-SHWe-E6kfEGQoXVYryqKoD1Wudjh5Vw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k4MsZgEA57ron-SHWe-E6kfEGQoXVYryqKoD1Wudjh5Vw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Jay",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-11-21T06:41:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PaFlBmNW4IFpcKshg-LdI_0ZIlQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5mvgLtL2vEHgM9ZIM9Za1A"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-26T01:54:21Z",
+                    "channelId": "UC5mvgLtL2vEHgM9ZIM9Za1A",
+                    "title": "Virtual Edge 360",
+                    "description": "Virtual Edge 360 is a fully licensed and insured drone photography and video production company currently servicing all of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzBvgyPEixZk6mixQLod_y0IyIUMIr5u1UUADGzoNPBA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzBvgyPEixZk6mixQLod_y0IyIUMIr5u1UUADGzoNPBA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lzBvgyPEixZk6mixQLod_y0IyIUMIr5u1UUADGzoNPBA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Virtual Edge 360",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-02-26T01:54:21Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "4W4q7nsm9eP98jjU0e7-RWNrIwM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 545,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-aHCcw-9ahdq_GfbZ3mH4e_q8s4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkS9Tuhdex-Q9-bUCHfWMQw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-30T23:09:36Z",
+                    "channelId": "UCkS9Tuhdex-Q9-bUCHfWMQw",
+                    "title": "Seminole First Baptist Church, FL",
+                    "description": "Located in the city center of Seminole, FL, our vision is to be a fellowship of Christ followers helping you connect to God, connect ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Seminole First Baptist Church, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-30T23:09:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "R3vIBdayLc02s49rAu0tD8KQvBo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCc7wuAd78XRfF9p3ALwBtcg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-26T13:44:31Z",
+                    "channelId": "UCc7wuAd78XRfF9p3ALwBtcg",
+                    "title": "Early Learning Coalition of Seminole",
+                    "description": "The purpose of the Early Learning Coalition of Seminole (ELC), now in its 19th year, is to provide access to quality early learning ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fNvV9gBJ5_0QK-CtMY7AF3mQCTLO0XDexE9mG5Sv7T3WbGGhWXUbxJDSs9D3bxUB3paAKVrV=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fNvV9gBJ5_0QK-CtMY7AF3mQCTLO0XDexE9mG5Sv7T3WbGGhWXUbxJDSs9D3bxUB3paAKVrV=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fNvV9gBJ5_0QK-CtMY7AF3mQCTLO0XDexE9mG5Sv7T3WbGGhWXUbxJDSs9D3bxUB3paAKVrV=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Early Learning Coalition of Seminole",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-06-26T13:44:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "m10dmxC1mSNTlNwpCHtGEisrtxY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKTVWuZNqD865DyLfpVQPYw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-17T17:36:03Z",
+                    "channelId": "UCKTVWuZNqD865DyLfpVQPYw",
+                    "title": "Faith Church Seminole",
+                    "description": "Faith Community Church is a gospel-centered community located in Seminole, Florida. We exist for the good of our city and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Faith Church Seminole",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-17T17:36:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "95wWaVhn1uZD32YnrYrqYe-16YQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-28T17:36:18Z",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g",
+                    "title": "City of Sanford, FL",
+                    "description": "Official Youtube Channel of City of Sanford, Florida. There's Always Something Going On in Historic Sanford. As one of the oldest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sanford, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-28T17:36:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GQKHXc4QN6L9ghAlwKgy-1Td3yc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJUQOjPGrlEtAWWQzu04rgA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-02T21:12:49Z",
+                    "channelId": "UCJUQOjPGrlEtAWWQzu04rgA",
+                    "title": "City of Westlake, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Westlake, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-02T21:12:49Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "2AonoVytwc20bsZSVVFYaNMbhSk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 431,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-aHCcw-9ahdq_GfbZ3mH4e_q8s4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkS9Tuhdex-Q9-bUCHfWMQw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-30T23:09:36Z",
+                    "channelId": "UCkS9Tuhdex-Q9-bUCHfWMQw",
+                    "title": "Seminole First Baptist Church, FL",
+                    "description": "Located in the city center of Seminole, FL, our vision is to be a fellowship of Christ followers helping you connect to God, connect ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/t2i-pUVizZ3L0H3BdFnriSDAIt31pi9_tTO-E573mpbGg-xefu6TUsj3Fn4iFiyr9aLduNq_YQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Seminole First Baptist Church, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-30T23:09:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "95wWaVhn1uZD32YnrYrqYe-16YQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-28T17:36:18Z",
+                    "channelId": "UCrOGg6n2Qjw6yujcrwc0Z3g",
+                    "title": "City of Sanford, FL",
+                    "description": "Official Youtube Channel of City of Sanford, Florida. There's Always Something Going On in Historic Sanford. As one of the oldest ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lgHVOmWLm-Sx0XsnAQwOks8TyIcNj5z2Eh-0yvHV62WLA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sanford, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-28T17:36:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "m10dmxC1mSNTlNwpCHtGEisrtxY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKTVWuZNqD865DyLfpVQPYw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-17T17:36:03Z",
+                    "channelId": "UCKTVWuZNqD865DyLfpVQPYw",
+                    "title": "Faith Church Seminole",
+                    "description": "Faith Community Church is a gospel-centered community located in Seminole, Florida. We exist for the good of our city and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lhQcN7_a9ECuQEAhYT_JlFyALOtEahEOfYmRImZNXUUFw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Faith Church Seminole",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-17T17:36:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GQKHXc4QN6L9ghAlwKgy-1Td3yc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJUQOjPGrlEtAWWQzu04rgA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-02T21:12:49Z",
+                    "channelId": "UCJUQOjPGrlEtAWWQzu04rgA",
+                    "title": "City of Westlake, Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mtVfMVDXlyYa-ZLJAbr8pBpsoghP97He4oijl9D66UsA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Westlake, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-02T21:12:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ox-tLqaYGJGVA8llY487_K5c2Qw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCCCWuZPkLXKqGQxkAtH9r3g"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-01T14:36:44Z",
+                    "channelId": "UCCCWuZPkLXKqGQxkAtH9r3g",
+                    "title": "Oviedo Florida",
+                    "description": "Call: 407-863-9833 Email: Hello@TheWestCollection.com The City of Oviedo has been ranked as one of the best places to live ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/9fr85OCkLRPgEYzI6awwdugkGF21lEeQtEhBaPjZnqxpnfGM2msQBzwcASPUXimK5wSrUfCr2Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/9fr85OCkLRPgEYzI6awwdugkGF21lEeQtEhBaPjZnqxpnfGM2msQBzwcASPUXimK5wSrUfCr2Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/9fr85OCkLRPgEYzI6awwdugkGF21lEeQtEhBaPjZnqxpnfGM2msQBzwcASPUXimK5wSrUfCr2Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Oviedo Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-01T14:36:44Z"
+                }
+            }
+        ]
+    }
+]

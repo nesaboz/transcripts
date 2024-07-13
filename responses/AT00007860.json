@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "NXyTZkzEGY9v2sax4O1Mtvx2tR0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 164,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WSK-37oMwxY8FoSOUEjWqAdIFqw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHE45ry8XMtuXa02M0PpT3Q"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-04T18:41:25Z",
+                    "channelId": "UCHE45ry8XMtuXa02M0PpT3Q",
+                    "title": "Coastal Homes Apollo Beach and Ruskin, Florida",
+                    "description": "Welcome to the #SouthShoreRealEstate Insights with Aura Bailey, MBA, Realtor! Unlock the secrets of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Coastal Homes Apollo Beach and Ruskin, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-04T18:41:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pTtsTYAryp7CdPE8MhIuT3I2Wtw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYAu8DP_eE-y3ijXWgyPBiQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-29T09:30:03Z",
+                    "channelId": "UCYAu8DP_eE-y3ijXWgyPBiQ",
+                    "title": "Sun City Center, FL Reverse Mortgage Lending",
+                    "description": "This channel is designed to help Sun City Center, FL residents and those in surrounding areas to learn about reverse mortgages.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/A3CXQwoML4Oxym80X4ld-I-NJWfoNsiJLZAtsFFId96qwTi29rPj01JgIAJKNXWo2_ejiFtXlw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/A3CXQwoML4Oxym80X4ld-I-NJWfoNsiJLZAtsFFId96qwTi29rPj01JgIAJKNXWo2_ejiFtXlw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/A3CXQwoML4Oxym80X4ld-I-NJWfoNsiJLZAtsFFId96qwTi29rPj01JgIAJKNXWo2_ejiFtXlw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sun City Center, FL Reverse Mortgage Lending",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-29T09:30:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PRh9tPMVMsNpqv29WDRDBR2Flss",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMOKdWmooquxsv5WYSX-0QQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-04-15T20:19:44Z",
+                    "channelId": "UCMOKdWmooquxsv5WYSX-0QQ",
+                    "title": "Champion's Life Network",
+                    "description": "Welcome to Champion's Life International Church YouTube Channel! Join us on a journey of faith, love, and community as we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Champion's Life Network",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-04-15T20:19:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "x76X-fh7CIL7MOImwn-JoLkDppY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC42qIqmYLSJEq6Tykx1VKOQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-08T18:32:25Z",
+                    "channelId": "UC42qIqmYLSJEq6Tykx1VKOQ",
+                    "title": "JittFlex",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "JittFlex",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-08T18:32:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "k9WY0b0xDCi3ehah_HdO-lLSTVA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAkNPf00JA9Ri0iKw7xFjPA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-11-09T20:09:39Z",
+                    "channelId": "UCAkNPf00JA9Ri0iKw7xFjPA",
+                    "title": "St. Petersburg, FL",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loIqVHRaarhMhncfia4xiiO8Sz9kuKd_6PFPkQifWa2L0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loIqVHRaarhMhncfia4xiiO8Sz9kuKd_6PFPkQifWa2L0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_loIqVHRaarhMhncfia4xiiO8Sz9kuKd_6PFPkQifWa2L0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Petersburg, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-11-09T20:09:39Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "rtpPi8iIbmwhQveXyAQXs6CnVtE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 102,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WSK-37oMwxY8FoSOUEjWqAdIFqw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHE45ry8XMtuXa02M0PpT3Q"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-04T18:41:25Z",
+                    "channelId": "UCHE45ry8XMtuXa02M0PpT3Q",
+                    "title": "Coastal Homes Apollo Beach and Ruskin, Florida",
+                    "description": "Welcome to the #SouthShoreRealEstate Insights with Aura Bailey, MBA, Realtor! Unlock the secrets of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NikNR_LeJfN5uadvtV55MNzbhnC1_M5EXkN7ZJxEvC8KertwMDwwkEy5eXgZbhWNTM8A-uwj=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Coastal Homes Apollo Beach and Ruskin, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-04T18:41:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PRh9tPMVMsNpqv29WDRDBR2Flss",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMOKdWmooquxsv5WYSX-0QQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-04-15T20:19:44Z",
+                    "channelId": "UCMOKdWmooquxsv5WYSX-0QQ",
+                    "title": "Champion's Life Network",
+                    "description": "Welcome to Champion's Life International Church YouTube Channel! Join us on a journey of faith, love, and community as we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/3CbC3XfkeX8WbDVCLG0gM1hAcQtqBawizoddRlRFKkUjxR_TrmLAKlFSPWdPOJ2QIv3bfbWi7M0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Champion's Life Network",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-04-15T20:19:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "x76X-fh7CIL7MOImwn-JoLkDppY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC42qIqmYLSJEq6Tykx1VKOQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-08T18:32:25Z",
+                    "channelId": "UC42qIqmYLSJEq6Tykx1VKOQ",
+                    "title": "JittFlex",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/TEJ2l1NsGr3Q1c6xjtyE4jSMFDjWQwAl6iZNbt_8e_9NtR4oyydscUpT2fMIQN7u2iWJk3Gc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "JittFlex",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-08T18:32:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jk5anDemTkpntlPiTEXeQOedl_Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCK4EEFCse6H7XUCPuSBQkKw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-04-07T19:24:53Z",
+                    "channelId": "UCK4EEFCse6H7XUCPuSBQkKw",
+                    "title": "Florida Home Show",
+                    "description": "We give you Florida home tours, real estate market updates, and insights on the Sunshine State so you can stay up to date on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/dtZpKOaoI2ZKxjEf3YjJkgkwQIF2dnoD8Z9TGxKsi-i8iuaN8_z29I64XBMUa9cq0Ze1Fwgk4g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/dtZpKOaoI2ZKxjEf3YjJkgkwQIF2dnoD8Z9TGxKsi-i8iuaN8_z29I64XBMUa9cq0Ze1Fwgk4g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/dtZpKOaoI2ZKxjEf3YjJkgkwQIF2dnoD8Z9TGxKsi-i8iuaN8_z29I64XBMUa9cq0Ze1Fwgk4g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Home Show",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-04-07T19:24:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mF7IsxjADpikFIpH4RT8-dII7bE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChqmAHpS3nfVERSqTGMBsYw"
+                },
+                "snippet": {
+                    "publishedAt": "2007-11-26T12:40:14Z",
+                    "channelId": "UChqmAHpS3nfVERSqTGMBsYw",
+                    "title": "The Crossing Church",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/pIkixgGXGczEFXw3IQxzs-7MIYzC09SMNBo86YjqVKiDBs-kUz0lA06oAeVIglpuYVIIWI6eNDk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/pIkixgGXGczEFXw3IQxzs-7MIYzC09SMNBo86YjqVKiDBs-kUz0lA06oAeVIglpuYVIIWI6eNDk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/pIkixgGXGczEFXw3IQxzs-7MIYzC09SMNBo86YjqVKiDBs-kUz0lA06oAeVIglpuYVIIWI6eNDk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Crossing Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-11-26T12:40:14Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "7oH0vnRoQTsPbOYlsIHBiU2zXfQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 214,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "kLSJys_BVmAHfHt8luuonLYjrVo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8pnxGBxSJLXdd1HdDIDQTA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-10T20:05:18Z",
+                    "channelId": "UC8pnxGBxSJLXdd1HdDIDQTA",
+                    "title": "Living in Palm Beach Florida",
+                    "description": "Are you thinking about moving to or relocating to Palm Beach and wondering if you can handle living in South Florida?",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/vwZT3I86sZIWMlDaGCx1o7z_pdl2t-yPPN630AsMvPERWsZ9PYUY8znRHqKFZABdGgKBdcaG_Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/vwZT3I86sZIWMlDaGCx1o7z_pdl2t-yPPN630AsMvPERWsZ9PYUY8znRHqKFZABdGgKBdcaG_Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/vwZT3I86sZIWMlDaGCx1o7z_pdl2t-yPPN630AsMvPERWsZ9PYUY8znRHqKFZABdGgKBdcaG_Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Palm Beach Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-10T20:05:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fWedsT8BI_-AAZD0ZmdZ63x_fNI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCysArJ5osLuR2Xufmukpt-Q"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-20T02:56:58Z",
+                    "channelId": "UCysArJ5osLuR2Xufmukpt-Q",
+                    "title": "Living In South Florida",
+                    "description": "Are you wondering what it's like to live in West Palm Beach and surrounding Area ? Well, this is the channel you need!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/escZFytg3L9ysQQuI-fMFMbY0JH0-LEa8EJvjUtWNUIJhCNSkyMUnsZ7xx5l-nDqNG1LszgFuw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/escZFytg3L9ysQQuI-fMFMbY0JH0-LEa8EJvjUtWNUIJhCNSkyMUnsZ7xx5l-nDqNG1LszgFuw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/escZFytg3L9ysQQuI-fMFMbY0JH0-LEa8EJvjUtWNUIJhCNSkyMUnsZ7xx5l-nDqNG1LszgFuw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living In South Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-20T02:56:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HPQNMRt4CcMKuz0l37kBac60CMM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Km57_jEbSoBSChaQzDr3FHe_0IU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFPqq7L_aURrMj20VcWFwFw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-31T17:50:23Z",
+                    "channelId": "UCFPqq7L_aURrMj20VcWFwFw",
+                    "title": "Preservation Foundation of Palm Beach",
+                    "description": "The Preservation Foundation of Palm Beach is dedicated to preserving the architectural and cultural heritage and the unique ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly_D13CRZDIFFF2WRkRqVbkg0KjGIZuSuJF61Wwb-GhQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly_D13CRZDIFFF2WRkRqVbkg0KjGIZuSuJF61Wwb-GhQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ly_D13CRZDIFFF2WRkRqVbkg0KjGIZuSuJF61Wwb-GhQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Preservation Foundation of Palm Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-31T17:50:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z7qzbqr0_IW71bABgGrS1E0DOyM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-19T22:54:17Z",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ",
+                    "title": "LIVING IN PALM BEACH FLORIDA",
+                    "description": "Originally from New York, I relocated my family to South Florida 18 years ago. Knowing that we wanted to live in Florida but not ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN PALM BEACH FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-19T22:54:17Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "WD_PUeQelq1Rdnyr9jUof03TPeg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 704,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "HGF_ZiStj4mSDKOtzIbL3hWRCq4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8XZn8KmWpYWWirmX206ZPrb3As8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-19T22:54:17Z",
+                    "channelId": "UC6KcefKj7mvfC2wb3ED-lCQ",
+                    "title": "LIVING IN PALM BEACH FLORIDA",
+                    "description": "Originally from New York, I relocated my family to South Florida 18 years ago. Knowing that we wanted to live in Florida but not ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DT96R60ahAcTzV54v-LfV-bpz1VjeHm0nninKI1SJBVw0xD5b0BF-lEx7_6_oYBLzbJa35yCSQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN PALM BEACH FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-05-19T22:54:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6H4g2A3bGQFNr96GAs3W3qz2N6s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw"
+                },
+                "snippet": {
+                    "publishedAt": "2008-09-11T18:12:48Z",
+                    "channelId": "UC8I5opEq1KM8XVH3Rervmkw",
+                    "title": "WPB-TV",
+                    "description": "Welcome to the City of West Palm Beach's official YouTube channel. We broadcast live and prerecorded city meetings and videos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nYgas1ntxR7oIVoFMLccYuc3SiiStBvN_TFlpf__pMZw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPB-TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-09-11T18:12:48Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2B2uAzQgu_GNVx8ya4A_oKboDpw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjCjFoBPc1AkT7iNJ3UWvTA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-29T18:30:17Z",
+                    "channelId": "UCjCjFoBPc1AkT7iNJ3UWvTA",
+                    "title": "LIV South Florida",
+                    "description": "This channel is all about LIVing in South Florida, moving to South Florida and relocating to South Florida. What are we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIV South Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-04-29T18:30:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "k-73WjaeY768X1xOrh13CPman1g",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-17T15:33:48Z",
+                    "channelId": "UCpZEq7PQY2F4ZWYMNHBwGSQ",
+                    "title": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "description": "Whether you're a listing a home for sale or buying a house in Palm Beach Gardens, Jupiter or the greater West Palm Beach area, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NfRfyySY_N0VK_MbocJgnnaEnq3EVybVv3wr-Nd4-sBN0hcMwGNKYyfmjVCOJjthJ_g1hC6j=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Munara - Real Estate Advisor, Palm Beaches Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-09-17T15:33:48Z"
+                }
+            }
+        ]
+    }
+]

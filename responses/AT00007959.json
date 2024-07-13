@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "IgnMgZG3lgjvJWj_0B0WvCRpr0k",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 96,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "y5HrCUvyE91XFJeJolMNQfgSD-A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-04-23T15:12:46Z",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA",
+                    "title": "The Villages Florida",
+                    "description": "The Villages is an active retirement community located in sunny central Florida. Conceived over 50 years ago, our hometown has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-04-23T15:12:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "64POj_HppC2iDWt3HEo8AYmf-uk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnDFH8sOGz653cess4ub-aQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-04-03T17:02:45Z",
+                    "channelId": "UCnDFH8sOGz653cess4ub-aQ",
+                    "title": "LIVING IN THE VILLAGES FLORIDA",
+                    "description": "Are you wondering what it is like to live The Villages, Florida? Well, this is the channel you need! We absolutely love this town, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/9yeCdAJv8n_SzlzYGLZ4LMvJKPZb0Lf26C55y_qbCfiIX4TORZwEhqyzU5cIb4h7xl3Nd83ynck=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/9yeCdAJv8n_SzlzYGLZ4LMvJKPZb0Lf26C55y_qbCfiIX4TORZwEhqyzU5cIb4h7xl3Nd83ynck=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/9yeCdAJv8n_SzlzYGLZ4LMvJKPZb0Lf26C55y_qbCfiIX4TORZwEhqyzU5cIb4h7xl3Nd83ynck=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN THE VILLAGES FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-04-03T17:02:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NGSNEXWl1Q0LNMZ49jaYn3Es_64",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBHPbuR57eczLY2HcbNz4BQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-27T20:46:00Z",
+                    "channelId": "UCBHPbuR57eczLY2HcbNz4BQ",
+                    "title": "The Villages Florida ",
+                    "description": "Welcome to The Villages Homes on tree lined streets. Golf carts cruising by. Neighbors mingling in the town squares.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/K_r3XqoTJ7mcR5Dk-sjmLJduznctyl0He4dWp4mRZLgyZG51x2iW2oRE1MFSeR9d1kvnY7aEwg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/K_r3XqoTJ7mcR5Dk-sjmLJduznctyl0He4dWp4mRZLgyZG51x2iW2oRE1MFSeR9d1kvnY7aEwg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/K_r3XqoTJ7mcR5Dk-sjmLJduznctyl0He4dWp4mRZLgyZG51x2iW2oRE1MFSeR9d1kvnY7aEwg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Villages Florida ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-27T20:46:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S3yBGnmIjtNkCSgdn2ucepMwJjU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4qHy9uOVunU2Nzu-w1FgiA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-01T22:44:39Z",
+                    "channelId": "UC4qHy9uOVunU2Nzu-w1FgiA",
+                    "title": "I GO WHERE YOU GO in The Villages Florida",
+                    "description": "It's FREE to SUBSCRIBE! Welcome, our channel is based in THE VILLAGES, FLORIDA. Our goal is to inspire you to explore what ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "I GO WHERE YOU GO in The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-01T22:44:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F3HhWGfRjCYfOOBzslSMLr1QZBU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiarIFr-7ACHS3dqzohD7jA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-01-18T19:32:49Z",
+                    "channelId": "UCiarIFr-7ACHS3dqzohD7jA",
+                    "title": "Living Life in the Villages Florida",
+                    "description": "Living in the Villages Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/CuerN_UioNKC6oC9NEngxqWaG6ZuK3cnkPG--ZwCqjDkNQX02w0-KwiTba-H30MKMe64d53KSA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/CuerN_UioNKC6oC9NEngxqWaG6ZuK3cnkPG--ZwCqjDkNQX02w0-KwiTba-H30MKMe64d53KSA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/CuerN_UioNKC6oC9NEngxqWaG6ZuK3cnkPG--ZwCqjDkNQX02w0-KwiTba-H30MKMe64d53KSA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living Life in the Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-01-18T19:32:49Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "K7Vfp9dAS2Lxcz22snh1VS7SEIg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 170,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "y5HrCUvyE91XFJeJolMNQfgSD-A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-04-23T15:12:46Z",
+                    "channelId": "UC4UimES_xLEu_7VPyMrIeKA",
+                    "title": "The Villages Florida",
+                    "description": "The Villages is an active retirement community located in sunny central Florida. Conceived over 50 years ago, our hometown has ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_khh6PQxn7745qz2_Vz7gg9MuCKYAXh9Sje-0HUfBGVYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-04-23T15:12:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z91-xOmRoGLW6svNMj7IUCpH6_c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVq6hkSHTakwLuvt5Me-abw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-08T19:17:12Z",
+                    "channelId": "UCVq6hkSHTakwLuvt5Me-abw",
+                    "title": "Exploring The Villages Florida",
+                    "description": "Join us (Dave and Brenda) as we explore The retirement community of The Villages Florida. We will explore new construction ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/B6WnFVdBpt8QLGercC0O191fwgZS4WLacvOCFObofG7qIjFR10xSb5-MI8S08XznA35J5Q7W7WE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/B6WnFVdBpt8QLGercC0O191fwgZS4WLacvOCFObofG7qIjFR10xSb5-MI8S08XznA35J5Q7W7WE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/B6WnFVdBpt8QLGercC0O191fwgZS4WLacvOCFObofG7qIjFR10xSb5-MI8S08XznA35J5Q7W7WE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Exploring The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-08T19:17:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "S3yBGnmIjtNkCSgdn2ucepMwJjU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4qHy9uOVunU2Nzu-w1FgiA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-01T22:44:39Z",
+                    "channelId": "UC4qHy9uOVunU2Nzu-w1FgiA",
+                    "title": "I GO WHERE YOU GO in The Villages Florida",
+                    "description": "It's FREE to SUBSCRIBE! Welcome, our channel is based in THE VILLAGES, FLORIDA. Our goal is to inspire you to explore what ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-bmA22S_YdFSoWFYw8PLhM5tIPMUmctCY9iHlQKIZlHUZ71dUPhdlK4xsnI5_4qxG6TmOFK2aQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "I GO WHERE YOU GO in The Villages Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-01T22:44:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KQ19M8l8IVq30g95U4UBlMGpTZQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQ6UhOOGU1M8hNezBwkM-yw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-27T04:47:15Z",
+                    "channelId": "UCQ6UhOOGU1M8hNezBwkM-yw",
+                    "title": "THE VILLAGES FLORIDA NEWCOMERS",
+                    "description": "Newcomers to The Villages, Florida in December of 2018, Jerry and Linda guide viewers through their experiences in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJywQ-5lMD74ct2hQb_CzmoakgFrCEeejABSGAnsaqKIna=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJywQ-5lMD74ct2hQb_CzmoakgFrCEeejABSGAnsaqKIna=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJywQ-5lMD74ct2hQb_CzmoakgFrCEeejABSGAnsaqKIna=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "THE VILLAGES FLORIDA NEWCOMERS",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-09-27T04:47:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bc70slnoiV8e4c8zkcKulmMt-EY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmJqdQ47SIZeKAhyk3lG70g"
+                },
+                "snippet": {
+                    "publishedAt": "2023-05-03T17:52:07Z",
+                    "channelId": "UCmJqdQ47SIZeKAhyk3lG70g",
+                    "title": "Ladies of the Lanai-Adventures in The Villages, FL",
+                    "description": "We wanted to create a channel for people transitioning into a new and exciting phase of life - moving into their prime. We'll be ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/cTUxSn_l8jjMVKTadEwqIKSl-jL2yYQTpiDztOv5P8HYey83xLc0akCq_2_1VyehPBrWRV5-7Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/cTUxSn_l8jjMVKTadEwqIKSl-jL2yYQTpiDztOv5P8HYey83xLc0akCq_2_1VyehPBrWRV5-7Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/cTUxSn_l8jjMVKTadEwqIKSl-jL2yYQTpiDztOv5P8HYey83xLc0akCq_2_1VyehPBrWRV5-7Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ladies of the Lanai-Adventures in The Villages, FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-05-03T17:52:07Z"
+                }
+            }
+        ]
+    }
+]

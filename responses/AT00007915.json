@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ra-1yFfDUVMHdLX6FXdRVM1Mke0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 18122,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "whgOBVOxBgKuUdN8stnBsCzBZWE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "VoicZ4gljkR2w08A-hrDkmSR5pg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O65ccH3ZpX_qXVq6YVNBrL0TFYE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-26T14:17:54Z",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w",
+                    "title": "City of West Miami",
+                    "description": "West Miami is a city in Miami-Dade County, Florida, United States. The city is part of the Miami metropolitan area of South Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of West Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-26T14:17:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lqrynXncEyaqPZ4-2tzibXT6aEE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXJryYh6xcW5iEeJGzK191A"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-06T16:13:25Z",
+                    "channelId": "UCXJryYh6xcW5iEeJGzK191A",
+                    "title": "CBS Miami",
+                    "description": "Welcome to the official YouTube channel for CBS Miami, your destination for everything local -- including breaking news and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CBS Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-06T16:13:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nyQLTuEdDgi9LfQ_prgatCohgT0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyhPKRdzGskJekibUnJiZyQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-09-01T18:39:33Z",
+                    "channelId": "UCyhPKRdzGskJekibUnJiZyQ",
+                    "title": "South Florida PBS",
+                    "description": "South Florida PBS, Florida's largest public media company, includes public broadcasting stations WPBT2 and WXEL. On this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mqQiIaUdJmwe13eONSejpbmyXQzm_F0902uBHmLqHtyzs=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mqQiIaUdJmwe13eONSejpbmyXQzm_F0902uBHmLqHtyzs=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mqQiIaUdJmwe13eONSejpbmyXQzm_F0902uBHmLqHtyzs=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida PBS",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-09-01T18:39:33Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "NXLgm8XFpTSkjeJBUU0y4Gwu9mU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 16168,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "whgOBVOxBgKuUdN8stnBsCzBZWE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zBk_Gv-GM1N8324L8xv7afic8bY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXJryYh6xcW5iEeJGzK191A"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-06T16:13:25Z",
+                    "channelId": "UCXJryYh6xcW5iEeJGzK191A",
+                    "title": "CBS Miami",
+                    "description": "Welcome to the official YouTube channel for CBS Miami, your destination for everything local -- including breaking news and the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2Wu-xKgB7sgy5zHWsB0g6M6evzr2dKqLhoKxwr7g2bs-VSdgMHNULanhHcx9_mUIXIeWdAxifg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CBS Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-08-06T16:13:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O65ccH3ZpX_qXVq6YVNBrL0TFYE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-26T14:17:54Z",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w",
+                    "title": "City of West Miami",
+                    "description": "West Miami is a city in Miami-Dade County, Florida, United States. The city is part of the Miami metropolitan area of South Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of West Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-26T14:17:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2B2uAzQgu_GNVx8ya4A_oKboDpw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjCjFoBPc1AkT7iNJ3UWvTA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-29T18:30:17Z",
+                    "channelId": "UCjCjFoBPc1AkT7iNJ3UWvTA",
+                    "title": "LIV South Florida",
+                    "description": "This channel is all about LIVing in South Florida, moving to South Florida and relocating to South Florida. What are we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rQWOy7p-VlqUmxQepDPG3DByuyMP02eqj_C9YNBSkUCcfJroln5uSuFMdjO_QR03nVRPkH8j=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIV South Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-04-29T18:30:17Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MeaZvSTGPzH9KPHt5VX5p1BuR-4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsOHlTA3OUtgJDXLmGs0Nww"
+                },
+                "snippet": {
+                    "publishedAt": "2010-01-10T03:45:17Z",
+                    "channelId": "UCsOHlTA3OUtgJDXLmGs0Nww",
+                    "title": "SPCMIAMI",
+                    "description": "Saint Paul is a Church Alive, That's Worth the Drive and changing the world one person at a time. We worship every Sunday with ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/32SzSRQyJSburqFfpIh4roGJtFoYfiXOAW7F0vfUv89G3kkYPM-PNttTFMOC6lbOuyyXMoJXwQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/32SzSRQyJSburqFfpIh4roGJtFoYfiXOAW7F0vfUv89G3kkYPM-PNttTFMOC6lbOuyyXMoJXwQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/32SzSRQyJSburqFfpIh4roGJtFoYfiXOAW7F0vfUv89G3kkYPM-PNttTFMOC6lbOuyyXMoJXwQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "SPCMIAMI",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-01-10T03:45:17Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "A06GwL1VDuX-88YfiSV9nvp3SHo",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 50,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5Aoil68GCisgITpuA2hyJrYU3js",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4hz4fJ9v0_SrgjjeJpmQoQ"
+                },
+                "snippet": {
+                    "publishedAt": "2010-10-21T15:14:13Z",
+                    "channelId": "UC4hz4fJ9v0_SrgjjeJpmQoQ",
+                    "title": "WinterHavenHonda",
+                    "description": "Winter Haven Honda offers many automotive products and services to our Winter Haven area customers. From quality new Honda ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLmfqDt_u0bEeoveuFVWw1YPHwz_EV_urus_MPlI5q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLmfqDt_u0bEeoveuFVWw1YPHwz_EV_urus_MPlI5q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLmfqDt_u0bEeoveuFVWw1YPHwz_EV_urus_MPlI5q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WinterHavenHonda",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-10-21T15:14:13Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FctDkkBId23y9xdWyz2c_cmPeGw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZz0CoD-hl43unqqTFOoAIg"
+                },
+                "snippet": {
+                    "publishedAt": "2021-01-08T20:57:04Z",
+                    "channelId": "UCZz0CoD-hl43unqqTFOoAIg",
+                    "title": "Florida travel vlogs",
+                    "description": "Come see Florida like a true Florida native. I drive around all over florida to show you what each town looks like especially the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxDNZtss2ZaS8O9c9GDw0mTGokcqI9w30Qq0do94rx9Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxDNZtss2ZaS8O9c9GDw0mTGokcqI9w30Qq0do94rx9Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lxDNZtss2ZaS8O9c9GDw0mTGokcqI9w30Qq0do94rx9Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida travel vlogs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-01-08T20:57:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "87v5vd3k6X1DNVBMyQinvcoc2A8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-03-08T07:37:23Z",
+                    "channelId": "UCe1IA5kmY578O_Qo7Skr-TQ",
+                    "title": "Long Island Audit",
+                    "description": "Constitutional Activist Investigative Journalist Exercising Constitutional Rights in a respectful manner. We The People will NOT ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/fXsDcn3pVy6DOATM5aCR9Brhc1n5hHk-1Sap_k3gqbZGFJUYknD3BVJGOA_Fpx0WAG4pY1YemA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Long Island Audit",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-03-08T07:37:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XYShXT9ZZ8JkfwLf_SvbRWm2y3U",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtkzb-ng-Vy4a-GO7WRjbxQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-27T05:15:37Z",
+                    "channelId": "UCtkzb-ng-Vy4a-GO7WRjbxQ",
+                    "title": "Ocean Media",
+                    "description": "1 SOURCE FOR FLORIDA TRAVEL/HIGHSCHOOL BASEBALL CONTENT.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/nCd-qpukmbozRmoBzfVVsSTzBDVkS59bqM7ua-Qg5b_30ZED1mkLiHWCxrL0zfIxoB_vJfG97g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/nCd-qpukmbozRmoBzfVVsSTzBDVkS59bqM7ua-Qg5b_30ZED1mkLiHWCxrL0zfIxoB_vJfG97g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/nCd-qpukmbozRmoBzfVVsSTzBDVkS59bqM7ua-Qg5b_30ZED1mkLiHWCxrL0zfIxoB_vJfG97g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ocean Media",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-27T05:15:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2R8aN8iEQu3tKkG_mbebOfmD8go",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMsRYtUt3RKhsJU_n6HmXdg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-24T22:25:42Z",
+                    "channelId": "UCMsRYtUt3RKhsJU_n6HmXdg",
+                    "title": "Town Manor on the Lake",
+                    "description": "Florida's Best All-Inclusive Beautiful Wedding Venue in Historic Lakeside Setting http://townmanorweddings.com.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWdUeEIYk5i8h0mVPvHxf-Yt18u1lKMJFmZQ82f1p3tg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWdUeEIYk5i8h0mVPvHxf-Yt18u1lKMJFmZQ82f1p3tg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWdUeEIYk5i8h0mVPvHxf-Yt18u1lKMJFmZQ82f1p3tg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town Manor on the Lake",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-24T22:25:42Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "dzlTT--5yBS8WaXZijpA9cN0a4c",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 333,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "NbrQJzWJ7F2doDOmn0uXOzs0IKg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIPu40sAH9fKusJ2Hi4LDmQ"
+                },
+                "snippet": {
+                    "publishedAt": "2022-04-13T19:35:41Z",
+                    "channelId": "UCIPu40sAH9fKusJ2Hi4LDmQ",
+                    "title": "City of Winter Haven, Fl",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Cem2CWnja_ySrbhkbzM6o6SCDIc9IEX6wK8vTKuA0OhmFn2QuTvShouUbLLZNNkODCkzar3v5A=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Cem2CWnja_ySrbhkbzM6o6SCDIc9IEX6wK8vTKuA0OhmFn2QuTvShouUbLLZNNkODCkzar3v5A=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Cem2CWnja_ySrbhkbzM6o6SCDIc9IEX6wK8vTKuA0OhmFn2QuTvShouUbLLZNNkODCkzar3v5A=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Winter Haven, Fl",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-04-13T19:35:41Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "glzTFglBQYf5_ZLT_tds91o-OPs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLrmjqAn3EH8Rn5_-RLoNbw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-03-13T15:43:36Z",
+                    "channelId": "UCLrmjqAn3EH8Rn5_-RLoNbw",
+                    "title": "Redeemer Winter Haven",
+                    "description": "Redeemer Winter Haven.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oRRLHBkMZX6LwMpYiiKDzPCHd5_z72x1DEDeaAtspZHToaEQNn5gIXHGcTfYmXjSAMu3VWPkyg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oRRLHBkMZX6LwMpYiiKDzPCHd5_z72x1DEDeaAtspZHToaEQNn5gIXHGcTfYmXjSAMu3VWPkyg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oRRLHBkMZX6LwMpYiiKDzPCHd5_z72x1DEDeaAtspZHToaEQNn5gIXHGcTfYmXjSAMu3VWPkyg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Redeemer Winter Haven",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-03-13T15:43:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YlJCx1liDKdzZ1P95zFWOI8O7iU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCk3gdcDAEv08lgiufUlGrCw"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-08T14:45:36Z",
+                    "channelId": "UCk3gdcDAEv08lgiufUlGrCw",
+                    "title": "Lakeside Church",
+                    "description": "Lakeside Church had its Grand Opening in Winter Haven, Florida on January 22, 2023. Our mission is to help people learn how to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/x_o8UDzJ0gr2Sl_Dk7R37lCfCKeyg3VJDl2SoycdWvOVgFTYn6GZOCIEN8zE7JFieX4WKMAkcg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/x_o8UDzJ0gr2Sl_Dk7R37lCfCKeyg3VJDl2SoycdWvOVgFTYn6GZOCIEN8zE7JFieX4WKMAkcg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/x_o8UDzJ0gr2Sl_Dk7R37lCfCKeyg3VJDl2SoycdWvOVgFTYn6GZOCIEN8zE7JFieX4WKMAkcg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Lakeside Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-08T14:45:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2iD4wCT8zioVDrhjo4p-hy1odKE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx-KZ8r1hm_nLL9npwsnRSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-08-04T13:30:22Z",
+                    "channelId": "UCx-KZ8r1hm_nLL9npwsnRSQ",
+                    "title": "Winter Haven",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mhz_cskBsGTIDpFSv6GewQLNIx7MwCBxXFq6jxDzI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mhz_cskBsGTIDpFSv6GewQLNIx7MwCBxXFq6jxDzI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mhz_cskBsGTIDpFSv6GewQLNIx7MwCBxXFq6jxDzI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Winter Haven",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-08-04T13:30:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "efz71ZZKPS8rnmsKf_ksx1NuZGw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-l3sUV67w1Prom5qyKmqeg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-02T03:00:21Z",
+                    "channelId": "UC-l3sUV67w1Prom5qyKmqeg",
+                    "title": "Join-T1 D Charity-Winter Haven-Join Our Family",
+                    "description": "JDRF is the only global organisation with a strategic research plan to turn Type One into Type None. Our focus, informed by our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLuXqmayoFkD5wHoEHOdQxu4v3WGpt4hiarzb_ZBTyDA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLuXqmayoFkD5wHoEHOdQxu4v3WGpt4hiarzb_ZBTyDA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLuXqmayoFkD5wHoEHOdQxu4v3WGpt4hiarzb_ZBTyDA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Join-T1 D Charity-Winter Haven-Join Our Family",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-02T03:00:21Z"
+                }
+            }
+        ]
+    }
+]

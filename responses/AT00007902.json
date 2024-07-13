@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "DSDcPxybxyo1CrIIZxVg0IPj_wQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 12,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LJMmnRiL0yvC2v-MhwAH7qpMQYc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_GCWkSDQ75CGjasHV20gNg"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-31T11:16:46Z",
+                    "channelId": "UC_GCWkSDQ75CGjasHV20gNg",
+                    "title": "BillG",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BillG",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-31T11:16:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LP56Ll8W2yReLE-G92iHzeVx9iE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-10-21T14:37:07Z",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA",
+                    "title": "Tallahassee Police Department",
+                    "description": "The Tallahassee Police Department has a distinguished 170-year history of protecting and serving Florida's Capital City while ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tallahassee Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-10-21T14:37:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yZAGEOoy59waFtWaeaARuER-67M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZF_rJhogITiAGgC4iUx5pA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-02T14:15:19Z",
+                    "channelId": "UCZF_rJhogITiAGgC4iUx5pA",
+                    "title": "Aron Diaz",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Aron Diaz",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-02T14:15:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GF94VqaJ_F1-WQg3fe9uQ5YsUFs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfnipN5rfHD57ah2ClyUl3w"
+                },
+                "snippet": {
+                    "publishedAt": "2008-02-28T15:09:28Z",
+                    "channelId": "UCfnipN5rfHD57ah2ClyUl3w",
+                    "title": "Robert Seidler",
+                    "description": "We are a multi-generational group of educators, designers and filmmakers that are pro-active and solution based. Our passion ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Robert Seidler",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-02-28T15:09:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "j0TaMi_BLHslJFJO5YT0qPx-PMY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-VtLB1dfHHkp1_xnYHqQPw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-03-30T21:27:02Z",
+                    "channelId": "UC-VtLB1dfHHkp1_xnYHqQPw",
+                    "title": "MD Adventures",
+                    "description": "Showcasing RV Life through videos that include RV tips and tricks, RV tours, campground tours and camping trips. New videos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "MD Adventures",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-03-30T21:27:02Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "4Mg6dFoeVk3waBZmgij5GTL29UU",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 6,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LJMmnRiL0yvC2v-MhwAH7qpMQYc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_GCWkSDQ75CGjasHV20gNg"
+                },
+                "snippet": {
+                    "publishedAt": "2012-07-31T11:16:46Z",
+                    "channelId": "UC_GCWkSDQ75CGjasHV20gNg",
+                    "title": "BillG",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkeBwWkUBxTrcTT8ctBFn4Q169kMTYdxOJn9kfBJ67uYU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "BillG",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-07-31T11:16:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1PwERzYixEYy6sxP4pKDOKFnCS4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-VtLB1dfHHkp1_xnYHqQPw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-03-30T21:27:02Z",
+                    "channelId": "UC-VtLB1dfHHkp1_xnYHqQPw",
+                    "title": "MD Adventures",
+                    "description": "Showcasing RV Life through videos that include RV tips and tricks, RV tours, campground tours and camping trips. New videos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DY3EbI8qA6e-EmHEuH-bvLqsV6oTOht1NCxfh7RKr69B_ZA9fi6HJANatS2XZ-wRjUDGZDDAJeI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "MD Adventures",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-03-30T21:27:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "yZAGEOoy59waFtWaeaARuER-67M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZF_rJhogITiAGgC4iUx5pA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-02T14:15:19Z",
+                    "channelId": "UCZF_rJhogITiAGgC4iUx5pA",
+                    "title": "Aron Diaz",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDKuLUUEUyET30NmPTVMIHFe5gzb21PV7Rvj6NfSo8or0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Aron Diaz",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-02T14:15:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "GF94VqaJ_F1-WQg3fe9uQ5YsUFs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfnipN5rfHD57ah2ClyUl3w"
+                },
+                "snippet": {
+                    "publishedAt": "2008-02-28T15:09:28Z",
+                    "channelId": "UCfnipN5rfHD57ah2ClyUl3w",
+                    "title": "Robert Seidler",
+                    "description": "We are a multi-generational group of educators, designers and filmmakers that are pro-active and solution based. Our passion ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ku0IjOVusJOlWmV-t4LwLwBPoIYpX8W79iS4VdWxjLCeI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Robert Seidler",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-02-28T15:09:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XLSwpN6eT5RcbE6OrQJwo-eeSWE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfp1b0uNTE5VN6sESqu4I1w"
+                },
+                "snippet": {
+                    "publishedAt": "2006-06-07T15:55:04Z",
+                    "channelId": "UCfp1b0uNTE5VN6sESqu4I1w",
+                    "title": "Eric Griffis",
+                    "description": "these are my documentaries.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLHRVZSVKAqETkHQGBesWP8DiJT9yQrj86d7IfLwFrcQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLHRVZSVKAqETkHQGBesWP8DiJT9yQrj86d7IfLwFrcQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nLHRVZSVKAqETkHQGBesWP8DiJT9yQrj86d7IfLwFrcQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Eric Griffis",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-06-07T15:55:04Z"
+                }
+            }
+        ]
+    }
+]

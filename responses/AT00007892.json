@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "pQxAM5ZYzAZI1H1qr3Bm6Eb-HXk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 9,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "m1v4f-6faaf4qJ6eQuUyb55C4Qg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzeRE7brAko8MtjFpHhbLOg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-14T13:11:12Z",
+                    "channelId": "UCzeRE7brAko8MtjFpHhbLOg",
+                    "title": "Town of Sewall's Point",
+                    "description": "Sewall's Point is a town located on the peninsula of the same name in Martin County, Florida, United States.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0wQ755HKT5IV_MNRTiPWeaKeV33FIHFg12KInQgpGMQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0wQ755HKT5IV_MNRTiPWeaKeV33FIHFg12KInQgpGMQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k0wQ755HKT5IV_MNRTiPWeaKeV33FIHFg12KInQgpGMQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Sewall's Point",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-14T13:11:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SmOrCGnaMIbvbO1O1vPIc5-w1jo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-07T20:23:30Z",
+                    "channelId": "UC0bCUnP5RrkJZUtd3bBz6Kw",
+                    "title": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "description": "WPTV NewsChannel 5, the NBC affiliate in West Palm Beach, is Florida's top rated television station. WPTV covers Palm Beach ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WPTV News - FL Palm Beaches and Treasure Coast",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-07T20:23:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3VDENm35SrehkMoI-fekaUypbP0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvGrjni7RalVDmSMk7-SnXA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-03-27T15:30:12Z",
+                    "channelId": "UCvGrjni7RalVDmSMk7-SnXA",
+                    "title": "Boat Builder Central",
+                    "description": "We are a family owned and operated business based in Fort Pierce, Florida, a town with a rich boat building tradition, and have ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_llCHuf3KZOguIIcnz_5mcfmOOnmDR2KQ3pV2noUFfiCQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_llCHuf3KZOguIIcnz_5mcfmOOnmDR2KQ3pV2noUFfiCQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_llCHuf3KZOguIIcnz_5mcfmOOnmDR2KQ3pV2noUFfiCQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Boat Builder Central",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-03-27T15:30:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "wauDOxbpHupiAu-qsOmZT0FzFQE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqb_A6Ow4qj1MOkIsSZi4mg"
+                },
+                "snippet": {
+                    "publishedAt": "2007-09-18T01:33:05Z",
+                    "channelId": "UCqb_A6Ow4qj1MOkIsSZi4mg",
+                    "title": "Todd Doss",
+                    "description": "Todd Doss is the Broker/Owner of Welcome Home Realty International in Jensen Beach, Florida. Specializing in real estate on the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NhS32WqQPqjdr5ZXETrsrfjMupgBMyDviyYssPi14_RTkyqNhEybg0_XPWrQgCZ5Y8W0iCpx4w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NhS32WqQPqjdr5ZXETrsrfjMupgBMyDviyYssPi14_RTkyqNhEybg0_XPWrQgCZ5Y8W0iCpx4w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NhS32WqQPqjdr5ZXETrsrfjMupgBMyDviyYssPi14_RTkyqNhEybg0_XPWrQgCZ5Y8W0iCpx4w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Todd Doss",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-09-18T01:33:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z1iHAnBHxPAyWJIL6JWzHsjAc74",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1YQf6PAQQJ3DVS3AGF0sFQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-03-01T01:44:50Z",
+                    "channelId": "UC1YQf6PAQQJ3DVS3AGF0sFQ",
+                    "title": "Matthews Media",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/croy1D2-fOI5ef3oeSCwPCdl-Fs4Vu_1vNgbppxHWLis-GpFRG-tXG338v2qWFdS36i0rhzM6Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/croy1D2-fOI5ef3oeSCwPCdl-Fs4Vu_1vNgbppxHWLis-GpFRG-tXG338v2qWFdS36i0rhzM6Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/croy1D2-fOI5ef3oeSCwPCdl-Fs4Vu_1vNgbppxHWLis-GpFRG-tXG338v2qWFdS36i0rhzM6Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Matthews Media",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-03-01T01:44:50Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "EAwfK3u-TA93puPo7wR5qpTHOdI",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 38,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4Zn7vnS4V0J7adyVt_rvVczUM44",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCu94xW_4knm5nxtEL2ucvpg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-04T03:24:51Z",
+                    "channelId": "UCu94xW_4knm5nxtEL2ucvpg",
+                    "title": "Martin County Florida Bird Watching",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkiM4LCOYd4zcCXF3IoptA4wm3taHzhwDnbdFXZBGprQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkiM4LCOYd4zcCXF3IoptA4wm3taHzhwDnbdFXZBGprQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkiM4LCOYd4zcCXF3IoptA4wm3taHzhwDnbdFXZBGprQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Martin County Florida Bird Watching",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-06-04T03:24:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "2LD9f8eOEsWAj80G2fsyEw6N6MI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9SqJsR_4iS3gMy7p9pX72A"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-23T12:47:21Z",
+                    "channelId": "UC9SqJsR_4iS3gMy7p9pX72A",
+                    "title": "Premier Realty Group",
+                    "description": "Premier Realty Group is a boutique real estate agency serving Florida's Treasure Coast including Stuart, Sewall's Point, Hobe ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Ps7T3EBd3NeQpTRIoXrOYRnvSv6yLEhsiyftxbzVoyewGrCJPrQrHK_ot7P1KwHyOE-htJ1ZeCY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Ps7T3EBd3NeQpTRIoXrOYRnvSv6yLEhsiyftxbzVoyewGrCJPrQrHK_ot7P1KwHyOE-htJ1ZeCY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Ps7T3EBd3NeQpTRIoXrOYRnvSv6yLEhsiyftxbzVoyewGrCJPrQrHK_ot7P1KwHyOE-htJ1ZeCY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Premier Realty Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-23T12:47:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XWV1dtOpTyuKO9a6tfLtNQ1K5Nk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChydfnv--Pgbb5vrkVh71Vw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-30T20:36:12Z",
+                    "channelId": "UChydfnv--Pgbb5vrkVh71Vw",
+                    "title": "South Florida Living with Gina Lee",
+                    "description": "Welcome to South Florida Living! This channel is all about what life is like in the beautiful SUNSHINE STATE! Whether you ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/z47Eeyeqw9U52Xm8ESBOVGjXpRPuYZWSmUmvXDeaZzvaqrXM5HdBW76vmtfAlqSfjqsrkBeFo6M=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida Living with Gina Lee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-30T20:36:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4npoqTTAfI8mi6xn94LrRe69bW0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCC-aPRQ0hNYvw3jbKen_lbw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-28T16:26:50Z",
+                    "channelId": "UCC-aPRQ0hNYvw3jbKen_lbw",
+                    "title": "Custom Cleaning of the Treasure Coast, Inc.",
+                    "description": "Custom Cleaning of the Treasure Coast has been cleaning homes in Palm City and neighboring communities for over 25 years.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mofnoJipIpcJouIuJgoc6tLmV7dwfSm6oh-zIQE0Kb0NY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mofnoJipIpcJouIuJgoc6tLmV7dwfSm6oh-zIQE0Kb0NY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mofnoJipIpcJouIuJgoc6tLmV7dwfSm6oh-zIQE0Kb0NY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Custom Cleaning of the Treasure Coast, Inc.",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-07-28T16:26:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LWigXXb1QdYFLq4mcRJ25ioYjH0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC91lBtTOoV61i2U0sbPCVVw"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-05T03:58:58Z",
+                    "channelId": "UC91lBtTOoV61i2U0sbPCVVw",
+                    "title": "Elite Auto Wash & Detailing \ud83d\ude97 Mobile Detailing",
+                    "description": "Visit us online at www.elitedetailstuart.com Mobile detailing in Stuart, Florida. We come to you \u2728 We offer: Interior detailing ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/d6lL-ApQtmhFOJdLHA4ovWzRiuJkk48ADcvzqe8G2y6DY9XlG08ARlqUD2mXiIUrcLKFlhZp=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/d6lL-ApQtmhFOJdLHA4ovWzRiuJkk48ADcvzqe8G2y6DY9XlG08ARlqUD2mXiIUrcLKFlhZp=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/d6lL-ApQtmhFOJdLHA4ovWzRiuJkk48ADcvzqe8G2y6DY9XlG08ARlqUD2mXiIUrcLKFlhZp=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Elite Auto Wash & Detailing \ud83d\ude97 Mobile Detailing",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-05T03:58:58Z"
+                }
+            }
+        ]
+    }
+]

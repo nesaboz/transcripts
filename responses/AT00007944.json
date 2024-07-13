@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "eZWw7Xl6nucXikDGBH0GcBmSA3U",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 127,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fqsry7AicTgnAXkC9gOFhuAXhrk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC46H_GXkwoUnSIIcjxJXbbw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-26T10:22:45Z",
+                    "channelId": "UC46H_GXkwoUnSIIcjxJXbbw",
+                    "title": "Fix Your Credit-BQ-Tamarac Florida",
+                    "description": "Finance and Insurance sector comprises establishments primarily engaged in financial transactions (that is, transactions involving ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Fix Your Credit-BQ-Tamarac Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-26T10:22:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IUIrn_cd3_Z6RrQVL1gVGvEa6JM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNFJYie7wwhGkB-EDM27pCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-14T12:59:21Z",
+                    "channelId": "UCNFJYie7wwhGkB-EDM27pCQ",
+                    "title": "TamaracTalk",
+                    "description": "News for Tamarac Florida and the rest of Broward County.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TamaracTalk",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-14T12:59:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jkjo9gOqw1mBwRJ_pmr_M26wgd0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzozsNwXAN8YMYvCQma_DrA"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-19T16:42:56Z",
+                    "channelId": "UCzozsNwXAN8YMYvCQma_DrA",
+                    "title": "South Florida Laser Dentistry",
+                    "description": "Welcome to South Florida Laser Dentistry, located in the beautiful city of Tamarac, FL. Our practice has been serving patients from ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida Laser Dentistry",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-19T16:42:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "qg7QWf_Zf2tlrGorehQuKoRpwdI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6fshw9fm2q-oQDzffyfrSOb13bY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T17:22:58Z",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
+                    "title": "City of Hollywood",
+                    "description": "The City of Hollywood, Florida's YouTube Channel contains videos produced by the Office of Communications, Marketing and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Hollywood",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-31T17:22:58Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "--cmHTJNqmw8sHkj646-eGe3EWw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 77,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Fqsry7AicTgnAXkC9gOFhuAXhrk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC46H_GXkwoUnSIIcjxJXbbw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-26T10:22:45Z",
+                    "channelId": "UC46H_GXkwoUnSIIcjxJXbbw",
+                    "title": "Fix Your Credit-BQ-Tamarac Florida",
+                    "description": "Finance and Insurance sector comprises establishments primarily engaged in financial transactions (that is, transactions involving ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k9DkZv2T84yu8DBGZ_gy7hJkE6Q5k6HSrhsWLpbLuojQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Fix Your Credit-BQ-Tamarac Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-26T10:22:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IUIrn_cd3_Z6RrQVL1gVGvEa6JM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNFJYie7wwhGkB-EDM27pCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-14T12:59:21Z",
+                    "channelId": "UCNFJYie7wwhGkB-EDM27pCQ",
+                    "title": "TamaracTalk",
+                    "description": "News for Tamarac Florida and the rest of Broward County.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lqTmlmdJRNzd7J2cr52jEMxn3iXdfnc2n_G7bl1YEPwVU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "TamaracTalk",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-04-14T12:59:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Jkjo9gOqw1mBwRJ_pmr_M26wgd0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzozsNwXAN8YMYvCQma_DrA"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-19T16:42:56Z",
+                    "channelId": "UCzozsNwXAN8YMYvCQma_DrA",
+                    "title": "South Florida Laser Dentistry",
+                    "description": "Welcome to South Florida Laser Dentistry, located in the beautiful city of Tamarac, FL. Our practice has been serving patients from ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/tCEvJBY6BjKw-JZgWPP2H8PsR0gV_cb2rJv80nRyX_mT6A_hIdG5FMBjlNKcjkzvubW6wxHhJQ4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "South Florida Laser Dentistry",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-19T16:42:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "dRgsxMgXcCIM6lDKDsnyi64d1zw",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe7ToLPkmrHugD1_APQOFUQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-25T20:25:12Z",
+                    "channelId": "UCe7ToLPkmrHugD1_APQOFUQ",
+                    "title": "At Home in Florida",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mruLrMkjXEQRECX0IuHZDuBxLzyNwQHBtjT2mhH6ZKiA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mruLrMkjXEQRECX0IuHZDuBxLzyNwQHBtjT2mhH6ZKiA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mruLrMkjXEQRECX0IuHZDuBxLzyNwQHBtjT2mhH6ZKiA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "At Home in Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-25T20:25:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ezx2PHMV6q7zCgKASi6zCASzQks",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCL-XUTb71jXP7f6fiqKOnYw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-17T06:40:02Z",
+                    "channelId": "UCL-XUTb71jXP7f6fiqKOnYw",
+                    "title": "The Sunshine State Agent - Tonya Brewton",
+                    "description": "Hello! I'm Tonya Brewton, Realtor in North Lauderdale/ Tamarac, Florida. I serve a wide range of cities from Sunrise to Lake Worth ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Vw7DDKTtCbU8SK6vBXIp-6IE3oTjF2ueIbHrcgpwFb7nZ9SHeb1dbE5m3lymQhw9ZyOoWz19=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Vw7DDKTtCbU8SK6vBXIp-6IE3oTjF2ueIbHrcgpwFb7nZ9SHeb1dbE5m3lymQhw9ZyOoWz19=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Vw7DDKTtCbU8SK6vBXIp-6IE3oTjF2ueIbHrcgpwFb7nZ9SHeb1dbE5m3lymQhw9ZyOoWz19=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "The Sunshine State Agent - Tonya Brewton",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-17T06:40:02Z"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "dnrMCFJ2GodblQECVDpg9SZJ1Jc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 69,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s48jBVjoDIS86v5v-oqSC2FxuTc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS6wNFYhwnmqXcJp84iyVNg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-18T15:17:10Z",
+                    "channelId": "UCS6wNFYhwnmqXcJp84iyVNg",
+                    "title": "Living in Weston FL",
+                    "description": "If you're wondering what it is like to live in Weston, Florida, then this is for you! Born and raised in Weston, my #1 goal is to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Weston FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-18T15:17:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IEhjXr-5e4c7fsMNSHf59FSfLY8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOY8k7l-I0I6PujKdNMWJQg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-07T23:13:27Z",
+                    "channelId": "UCOY8k7l-I0I6PujKdNMWJQg",
+                    "title": "Weston Homes Network",
+                    "description": "Weston Homes Network Professional real estate agents affiliated to Keller Williams Legacy with years of experience in the City of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nSLgp8usN74sA9mvUNt3TmEDDIDzOwxotxWbT0-gBOfw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nSLgp8usN74sA9mvUNt3TmEDDIDzOwxotxWbT0-gBOfw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nSLgp8usN74sA9mvUNt3TmEDDIDzOwxotxWbT0-gBOfw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Weston Homes Network",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-04-07T23:13:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O11uG1Bvo5boF5Z3MCSiDAzuGZo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWs3nMZcS0Au4W0yKbCyhEQ"
+                },
+                "snippet": {
+                    "publishedAt": "2008-03-17T01:12:29Z",
+                    "channelId": "UCWs3nMZcS0Au4W0yKbCyhEQ",
+                    "title": "Weston Florida Homes Courtney Silverman",
+                    "description": "Moving to Weston Florida? You've come to the right place! Subscribe: https://www.youtube.com/@CourtneyRealtor ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VniJ6CQ_7UoA-C6sHbXgELIdnQD9Zo2CRMuVUPeHE_OKIhu4hpWjLQDjPsAEb_7yZUEXx26Ecw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VniJ6CQ_7UoA-C6sHbXgELIdnQD9Zo2CRMuVUPeHE_OKIhu4hpWjLQDjPsAEb_7yZUEXx26Ecw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VniJ6CQ_7UoA-C6sHbXgELIdnQD9Zo2CRMuVUPeHE_OKIhu4hpWjLQDjPsAEb_7yZUEXx26Ecw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Weston Florida Homes Courtney Silverman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-03-17T01:12:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sU3O65aDA3Cxca492GhT8T1z3yk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdgdrW2JIhFMV8H2cqY-PLw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-02-15T22:38:10Z",
+                    "channelId": "UCdgdrW2JIhFMV8H2cqY-PLw",
+                    "title": "APPLEWOODS WESTON",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljo9hoSbcDJdxtMxnqpWw-8BK1GIsc0iG6qJSutI_scA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljo9hoSbcDJdxtMxnqpWw-8BK1GIsc0iG6qJSutI_scA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ljo9hoSbcDJdxtMxnqpWw-8BK1GIsc0iG6qJSutI_scA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "APPLEWOODS WESTON",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-02-15T22:38:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "M1F8Plujfl3WBcFcPO0Z8P-njqI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "hXn7ChGdkyMDfpaYWHNQinNb-fY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 267,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "F2c-YFUX28Cmdi9a5qdcXx9qDX8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsk894Yc5M8HaXI7LDa0HDg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-06-24T20:26:16Z",
+                    "channelId": "UCsk894Yc5M8HaXI7LDa0HDg",
+                    "title": "CityofWeston",
+                    "description": "Welcome to the official City of Weston, FL YouTube video channel. Under Florida law, this is a public record. The City of Weston, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kMBriEhc0_BXgL2m9UsgIYEVijNvE6ECD-RwLX-p5t2kU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kMBriEhc0_BXgL2m9UsgIYEVijNvE6ECD-RwLX-p5t2kU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kMBriEhc0_BXgL2m9UsgIYEVijNvE6ECD-RwLX-p5t2kU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CityofWeston",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-06-24T20:26:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "s48jBVjoDIS86v5v-oqSC2FxuTc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCS6wNFYhwnmqXcJp84iyVNg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-18T15:17:10Z",
+                    "channelId": "UCS6wNFYhwnmqXcJp84iyVNg",
+                    "title": "Living in Weston FL",
+                    "description": "If you're wondering what it is like to live in Weston, Florida, then this is for you! Born and raised in Weston, my #1 goal is to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uHq5X9Fbuxq_CdS0HkPGoXtB9aFtWrdxgNJoU32G9jlq-merskR7SsUorFNYIkAsSXd8F4RnjQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Weston FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-18T15:17:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bcx-m97dwoeIyB1qHUj5FjQfs-w",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEAu3zHWk2TPDxi9spXjQLA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-15T21:00:18Z",
+                    "channelId": "UCEAu3zHWk2TPDxi9spXjQLA",
+                    "title": "Weston Florida Chamber of Commerce",
+                    "description": "The Weston Florida Chamber of Commerce serves the City of Weston, FL in southwest Broward County. The Weston Florida ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLE_U_v1f8sfMjgOQsJLXVdhefxrKrXfzxGwb-LS3lqg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLE_U_v1f8sfMjgOQsJLXVdhefxrKrXfzxGwb-LS3lqg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kLE_U_v1f8sfMjgOQsJLXVdhefxrKrXfzxGwb-LS3lqg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Weston Florida Chamber of Commerce",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-15T21:00:18Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "dXuQcRkRhzVgLO2fa7ZZsVdACs8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCskiA6Ccb-IMYBXY1W-iWqA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-17T17:23:14Z",
+                    "channelId": "UCskiA6Ccb-IMYBXY1W-iWqA",
+                    "title": "Marlene Corte Realtor in Weston Florida, USA",
+                    "description": "Marlene is a licensed Real Estate Professional with extensive knowledge of City of Weston and all South Florida, (living in Weston ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/AIgHbBAa2rI0QXvQymjr08fKla1-Zw2nlnw5iJ9oZgW67miIYLziVSxVaFYQv7NFghZWjJQr=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/AIgHbBAa2rI0QXvQymjr08fKla1-Zw2nlnw5iJ9oZgW67miIYLziVSxVaFYQv7NFghZWjJQr=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/AIgHbBAa2rI0QXvQymjr08fKla1-Zw2nlnw5iJ9oZgW67miIYLziVSxVaFYQv7NFghZWjJQr=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Marlene Corte Realtor in Weston Florida, USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-10-17T17:23:14Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "5nR7QclvsxrjqZkPaJfecOwqZSg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCups4xT-VDK00iq28LO1gDw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-13T15:36:01Z",
+                    "channelId": "UCups4xT-VDK00iq28LO1gDw",
+                    "title": "CiudadWeston Newspaper",
+                    "description": "Ciudad Weston Newspaper, The only English/Spanish source of Community News in West Broward. City of Weston, Community, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mQRnTsis48kKytN0hEFuvEshzm1TCGl28GJeRdWcLmeQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mQRnTsis48kKytN0hEFuvEshzm1TCGl28GJeRdWcLmeQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mQRnTsis48kKytN0hEFuvEshzm1TCGl28GJeRdWcLmeQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CiudadWeston Newspaper",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-07-13T15:36:01Z"
+                }
+            }
+        ]
+    }
+]

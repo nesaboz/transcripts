@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "gR-KGTdWob9F9Od9da7zvVr2PWM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 200,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8_E41XIuFhBPQFfLNHhpbZJC1ko",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC83Ed6Z2xNz1XFdgtwZ_UlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-16T18:27:11Z",
+                    "channelId": "UC83Ed6Z2xNz1XFdgtwZ_UlQ",
+                    "title": "City of Daytona Beach Shores",
+                    "description": "Daytona Beach Shores is a charming, friendly, oceanfront community of 4300 residents located on the barrier island directly south ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Daytona Beach Shores",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-12-16T18:27:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hiqSllbaam6yUQ-vF9e_gU_q9Ws",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvHJrUuSqxh36c0O1Hf7fXw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-21T02:14:39Z",
+                    "channelId": "UCvHJrUuSqxh36c0O1Hf7fXw",
+                    "title": "Kid City USA",
+                    "description": "Kid City USA offers unparalleled early childhood education services in Florida and Indiana. We offer daycare, preschool, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kid City USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-21T02:14:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "dQj8prxV1MQTYXsFKj-amVrYdJk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSRGSsrdrvT4W0VtAvreksg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-30T20:04:55Z",
+                    "channelId": "UCSRGSsrdrvT4W0VtAvreksg",
+                    "title": "Redemption City Church",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HwXtO-GPp6ReX09f6o4VYQyg_n0ovcNVLyb_kkkI3tTjckdUNgKagM4yGFMjWQrIZlZQqZzL6Bg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HwXtO-GPp6ReX09f6o4VYQyg_n0ovcNVLyb_kkkI3tTjckdUNgKagM4yGFMjWQrIZlZQqZzL6Bg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HwXtO-GPp6ReX09f6o4VYQyg_n0ovcNVLyb_kkkI3tTjckdUNgKagM4yGFMjWQrIZlZQqZzL6Bg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Redemption City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-30T20:04:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "25xXx8Zd_sQ_7cV_MlAURsVkEC0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQJ1eUF6WkHgrQ5ir6BAfVA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-30T03:49:22Z",
+                    "channelId": "UCQJ1eUF6WkHgrQ5ir6BAfVA",
+                    "title": "Buddys Towing And wrecker service Daytona Beach Fl",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Buddys Towing And wrecker service Daytona Beach Fl",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-30T03:49:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3Yc62cbKWWe3LYTsaeZyjEwf8_M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-01T20:09:12Z",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ",
+                    "title": "Florida Life Real Estate Group",
+                    "description": "Welcome to Florida Life Real Estate's Youtube Channel. We hope you like our videos. We share clients homes that we have listed ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Life Real Estate Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-01T20:09:12Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "D7JRaWZWfQdvgjyYq6RfmGgGvwc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 161,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "8_E41XIuFhBPQFfLNHhpbZJC1ko",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC83Ed6Z2xNz1XFdgtwZ_UlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-16T18:27:11Z",
+                    "channelId": "UC83Ed6Z2xNz1XFdgtwZ_UlQ",
+                    "title": "City of Daytona Beach Shores",
+                    "description": "Daytona Beach Shores is a charming, friendly, oceanfront community of 4300 residents located on the barrier island directly south ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kUnlJ4Ud_jQwfiNbVKxWxwVViuHSRWQCp6SjIMyg8OiH4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Daytona Beach Shores",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-12-16T18:27:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "hiqSllbaam6yUQ-vF9e_gU_q9Ws",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvHJrUuSqxh36c0O1Hf7fXw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-10-21T02:14:39Z",
+                    "channelId": "UCvHJrUuSqxh36c0O1Hf7fXw",
+                    "title": "Kid City USA",
+                    "description": "Kid City USA offers unparalleled early childhood education services in Florida and Indiana. We offer daycare, preschool, and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lJwDxKapYMww6eBOHO5_XgR-oxzbW7WZ97cjmbHh3_DQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Kid City USA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-10-21T02:14:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3Yc62cbKWWe3LYTsaeZyjEwf8_M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-01T20:09:12Z",
+                    "channelId": "UC0jvaXQtsw6Av7RqonyFqJQ",
+                    "title": "Florida Life Real Estate Group",
+                    "description": "Welcome to Florida Life Real Estate's Youtube Channel. We hope you like our videos. We share clients homes that we have listed ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXNKcm-DAbsnCDXuouQb6Jja-AenDZJkVjRGHtSckjWhfamvKerN_XDPqKpm9Q_Fse3F3doROQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Florida Life Real Estate Group",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-05-01T20:09:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "25xXx8Zd_sQ_7cV_MlAURsVkEC0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQJ1eUF6WkHgrQ5ir6BAfVA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-30T03:49:22Z",
+                    "channelId": "UCQJ1eUF6WkHgrQ5ir6BAfVA",
+                    "title": "Buddys Towing And wrecker service Daytona Beach Fl",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lfHf_ryO5XL33LZvUJiUJa0jMxgtOyk4O4lVxqGlrHzg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Buddys Towing And wrecker service Daytona Beach Fl",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-30T03:49:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "95q2Hf_D0OlFXV43ldSWQqIBBno",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCd2jFzzwF92PHRpYrQrVPqw"
+                },
+                "snippet": {
+                    "publishedAt": "2009-03-03T22:21:51Z",
+                    "channelId": "UCd2jFzzwF92PHRpYrQrVPqw",
+                    "title": "HANKSTERS HOT RODS",
+                    "description": "Welcome to Hanksters Hot Rods YouTube channel! We specialize in quality Muscle Cars, Classic Cars, Hot Rods, Resto Mods ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/j9-aWnkbSaKCF70Fm72ecw1fCtQh9THboc5ZRA1ueuWz0n-JrzDqAHbgxDA1FldtIi7CHuCghHI=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/j9-aWnkbSaKCF70Fm72ecw1fCtQh9THboc5ZRA1ueuWz0n-JrzDqAHbgxDA1FldtIi7CHuCghHI=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/j9-aWnkbSaKCF70Fm72ecw1fCtQh9THboc5ZRA1ueuWz0n-JrzDqAHbgxDA1FldtIi7CHuCghHI=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "HANKSTERS HOT RODS",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-03-03T22:21:51Z"
+                }
+            }
+        ]
+    }
+]

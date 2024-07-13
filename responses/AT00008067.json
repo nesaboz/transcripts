@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "A4ELAK5OHZVE_SV0nakbwvhR7J4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 22,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SvV6TTB3mIc0tP5QOYZXizTerLE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoqPRe-x623dciRPRu8GuJA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-04T03:39:26Z",
+                    "channelId": "UCoqPRe-x623dciRPRu8GuJA",
+                    "title": "My Town Planner",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iKhYufOrpROu2jrX9XaO_SUZ2h7wZDUdge3Ybp2nqKrvK9pTdazFvrigi-3eEtFFvQKAboJa=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iKhYufOrpROu2jrX9XaO_SUZ2h7wZDUdge3Ybp2nqKrvK9pTdazFvrigi-3eEtFFvQKAboJa=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iKhYufOrpROu2jrX9XaO_SUZ2h7wZDUdge3Ybp2nqKrvK9pTdazFvrigi-3eEtFFvQKAboJa=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "My Town Planner",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-03-04T03:39:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YycD-rH-NOjvpnATLIlG1hlsIps",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCA6ICUwzIVY_XQBN6bcmlTw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-21T20:49:37Z",
+                    "channelId": "UCA6ICUwzIVY_XQBN6bcmlTw",
+                    "title": "Moving to Jacksonville FL by Mary Henton",
+                    "description": "Educating buyers and sellers about Jacksonville FL and helping everyone make smart decisions.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/S4ErT38ZLxx0OwQKx5tVbU9uD18QMGkUws3qiTmKbZ24QAq__6IjFfuEGFpHk3e4FtM_m7Dc=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/S4ErT38ZLxx0OwQKx5tVbU9uD18QMGkUws3qiTmKbZ24QAq__6IjFfuEGFpHk3e4FtM_m7Dc=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/S4ErT38ZLxx0OwQKx5tVbU9uD18QMGkUws3qiTmKbZ24QAq__6IjFfuEGFpHk3e4FtM_m7Dc=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Moving to Jacksonville FL by Mary Henton",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-21T20:49:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JNAqZcwIAukf6tQmtTne_dYahHs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx2bGNY3hdcZ7LxlnbDZotw"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-13T18:32:57Z",
+                    "channelId": "UCx2bGNY3hdcZ7LxlnbDZotw",
+                    "title": "LIVING IN JACKSONVILLE FLORIDA",
+                    "description": "This channel is all about living in Jacksonville, Florida, moving to Jacksonville Florida, and relocating to Jacksonville Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/f4WF89MO1FVQHRuzn5cvPRkvovbcOO00SKogrKDe9i2PJmBhj7eyp5u-7OJB5Zm_7h5RARZ_YA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN JACKSONVILLE FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-13T18:32:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZDzPjnSpi1G1ijRgBXJBikhS92E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPUnQ5_Pn-2FJ8XPYhWMaSQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-28T14:43:56Z",
+                    "channelId": "UCPUnQ5_Pn-2FJ8XPYhWMaSQ",
+                    "title": "Wildlight",
+                    "description": "Welcome to a new kind of lowcountry living in Wildlight, FL. Where the beachy vibe of Amelia Island and the culture of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nMB0UhX3xtDR8fKARm9Fy8W4Llti0G9-0xC0puMIN0-TM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nMB0UhX3xtDR8fKARm9Fy8W4Llti0G9-0xC0puMIN0-TM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nMB0UhX3xtDR8fKARm9Fy8W4Llti0G9-0xC0puMIN0-TM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Wildlight",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-12-28T14:43:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JyRx1nuhu_NjnLpeTb8KEKMkTn8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCj3rh7Rph9BzoXpYOeKw2ZQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-04-01T17:21:45Z",
+                    "channelId": "UCj3rh7Rph9BzoXpYOeKw2ZQ",
+                    "title": "Jacksonville & St Johns Florida- Nick Powell",
+                    "description": "Helping you discover Jacksonville and St Johns County Florida Real Estate, Life & Local News Hi, I am Nick Powell with Your ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Rf0rDUl3QAF3wamm4a04mgeLyaEJlboARpuH2-QURxrf3EJffO-EHsALLuttvptiPzSIHO0BRQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Rf0rDUl3QAF3wamm4a04mgeLyaEJlboARpuH2-QURxrf3EJffO-EHsALLuttvptiPzSIHO0BRQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Rf0rDUl3QAF3wamm4a04mgeLyaEJlboARpuH2-QURxrf3EJffO-EHsALLuttvptiPzSIHO0BRQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jacksonville & St Johns Florida- Nick Powell",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-04-01T17:21:45Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "hkXIumQtJePe9LODS2xP-2l4U8o",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 33,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Gb10OwnTA7wgUFJ2zn6ETk5dE_Y",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSef-pRmXAdZvGVb_sdqzOw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-09-14T13:24:00Z",
+                    "channelId": "UCSef-pRmXAdZvGVb_sdqzOw",
+                    "title": "Jacksonville Florida Living - Andrea Delancy",
+                    "description": "Welcome to Jacksonville Florida Living! My channel is dedicated to helping you navigate Jax and make informed decisions about ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EokHVeEN4v-HS_ASs25R2KM-9ffJ9bJfp2ezdVgL23VKcWMpG4lq8GcBViuAK-96jtn1x2ZsYQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EokHVeEN4v-HS_ASs25R2KM-9ffJ9bJfp2ezdVgL23VKcWMpG4lq8GcBViuAK-96jtn1x2ZsYQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EokHVeEN4v-HS_ASs25R2KM-9ffJ9bJfp2ezdVgL23VKcWMpG4lq8GcBViuAK-96jtn1x2ZsYQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jacksonville Florida Living - Andrea Delancy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-09-14T13:24:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZMDaElTv2aRaDjysrPDgE6PdITs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCslEAb86725xio48ZMDHz7w"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-20T17:51:16Z",
+                    "channelId": "UCslEAb86725xio48ZMDHz7w",
+                    "title": "CarlosMarcello TV",
+                    "description": "Carlos Marcello, is an American rap artist born September 9th in the city of Yulee Fl, a small town just 15 minutes outside of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/MAFBhtDBVR7CGavivpdv1U8HrBqVAg0sYcJHdaujQNY5gJS_1B5ASqJsb6K7NekVYWxCl3LkRw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/MAFBhtDBVR7CGavivpdv1U8HrBqVAg0sYcJHdaujQNY5gJS_1B5ASqJsb6K7NekVYWxCl3LkRw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/MAFBhtDBVR7CGavivpdv1U8HrBqVAg0sYcJHdaujQNY5gJS_1B5ASqJsb6K7NekVYWxCl3LkRw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "CarlosMarcello TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-12-20T17:51:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-N2CIe7kxlBlJMQATe0pBZTQ5Cg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC77Q-RdyfaQbum7dTyH_vQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2009-04-29T20:07:12Z",
+                    "channelId": "UC77Q-RdyfaQbum7dTyH_vQQ",
+                    "title": "piinklemonadegiirl",
+                    "description": "My \"name\" is Juniper, but my birth name is Sun (i just like to be called Juniper). I was born in Seoul, (South) Korea, whcih is a BIG ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mSCbB5OO5Tl6Ps93XHShZlA0GByGp1ZxCK-Ik4IcIIyQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mSCbB5OO5Tl6Ps93XHShZlA0GByGp1ZxCK-Ik4IcIIyQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mSCbB5OO5Tl6Ps93XHShZlA0GByGp1ZxCK-Ik4IcIIyQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "piinklemonadegiirl",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2009-04-29T20:07:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "9jNuJHfszxJ4w5KYhXcxGtDhVE8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR6DVUhOR4HtHZKPCcG6fnw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-26T17:36:58Z",
+                    "channelId": "UCR6DVUhOR4HtHZKPCcG6fnw",
+                    "title": "Dave Ramsey Financial Investment Advisor in Florida FL",
+                    "description": "A Local Team Dave Ramsey ENDORSED Financial Investment Advisors & Professionals serving Jacksonville FL, Jacksonville ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nE4ct2Sj8SGmnZVUz6XcXINaoEi2GYfcOmEtIKF6N2Bg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Dave Ramsey Financial Investment Advisor in Florida FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-26T17:36:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DwcQox4VHRmBxjJ-LbrixqVcyGQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCpXKOa8h6a963vFvzySdswQ"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-07T13:25:24Z",
+                    "channelId": "UCpXKOa8h6a963vFvzySdswQ",
+                    "title": "First Federal Bank",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wnd_h4IrNYcgAE6MVsObTnxHAItPfwzbFp2Un84ZlzzVbT8qTv92WvOLAZr1lWltcFjmCSlL=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wnd_h4IrNYcgAE6MVsObTnxHAItPfwzbFp2Un84ZlzzVbT8qTv92WvOLAZr1lWltcFjmCSlL=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wnd_h4IrNYcgAE6MVsObTnxHAItPfwzbFp2Un84ZlzzVbT8qTv92WvOLAZr1lWltcFjmCSlL=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "First Federal Bank",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-08-07T13:25:24Z"
+                }
+            }
+        ]
+    }
+]

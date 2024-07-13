@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "WxsgNa1PBwW4Flf2U5RkmFruRBY",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 16645,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3cUe9hxfdRpAiEXnvG7PwOAaBaU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-22T09:57:53Z",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ",
+                    "title": "Tampa Florida Living",
+                    "description": "Are you wondering what it is like to live in Tampa Florida? Well this is the channel you need! We absolutely love this city and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-22T09:57:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "bEybL5OMhAoAkrkDwDmTpKtJL4s",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe1OUqkt-rI7Ng_J7Ppq6yA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-10T13:59:31Z",
+                    "channelId": "UCe1OUqkt-rI7Ng_J7Ppq6yA",
+                    "title": "LIVING IN TAMPA FLORIDA \ud83c\udf34",
+                    "description": "Are you wondering what it is like to live in Tampa, Florida? Good news! This channel is all about living in Tampa, Florida, moving ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/EdyUoyjCSIQmyXw1IaaAo_E_g1yTkiB5NQ_U0BdGEJ3BcbC1hlBpoIsWDk9i9FI97cx3o_7mIc0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/EdyUoyjCSIQmyXw1IaaAo_E_g1yTkiB5NQ_U0BdGEJ3BcbC1hlBpoIsWDk9i9FI97cx3o_7mIc0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/EdyUoyjCSIQmyXw1IaaAo_E_g1yTkiB5NQ_U0BdGEJ3BcbC1hlBpoIsWDk9i9FI97cx3o_7mIc0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN TAMPA FLORIDA \ud83c\udf34",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-04-10T13:59:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JVISveqnAacNY9_OhIZ_Bfwxoig",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr6XWNVRabCffhD5d3C2uTw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-01-20T18:41:42Z",
+                    "channelId": "UCr6XWNVRabCffhD5d3C2uTw",
+                    "title": "LIVING IN TAMPA FLORIDA",
+                    "description": "Let's connect \"In-Person\" on Zoom \u2b07\ufe0f \ud83c\udfdd\ufe0f If you wondering what life is like Living In Tampa, Florida, this is the channel for you!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN TAMPA FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-01-20T18:41:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WpQMS82gHpDOfK5s4n0gMCdoTOk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfkFU8cVNz20kNGPOqVS_WQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-11-13T20:34:33Z",
+                    "channelId": "UCfkFU8cVNz20kNGPOqVS_WQ",
+                    "title": "Living in Tampa FL",
+                    "description": "Are you wondering what it is like to live in Tampa Florida? Well, this is the channel you need! We love this town and love to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lXUgLWMy3NrNmKqOb62mSmSW_u9DC2Cybf4mSAmhwMhw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lXUgLWMy3NrNmKqOb62mSmSW_u9DC2Cybf4mSAmhwMhw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lXUgLWMy3NrNmKqOb62mSmSW_u9DC2Cybf4mSAmhwMhw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Tampa FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-11-13T20:34:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZHn0FKUh5y-MzuyEWQL65c-39pA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-09-14T19:27:53Z",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA",
+                    "title": "City of Tampa",
+                    "description": "Tampa, home to over 340000 residents, is a vibrant, dynamic and beautiful city. Located on the banks of the Hillsborough River, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Tampa",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-09-14T19:27:53Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "sfAR78WKDyTL4kt5nVTsTr-sgRk",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 16549,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZHn0FKUh5y-MzuyEWQL65c-39pA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-09-14T19:27:53Z",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA",
+                    "title": "City of Tampa",
+                    "description": "Tampa, home to over 340000 residents, is a vibrant, dynamic and beautiful city. Located on the banks of the Hillsborough River, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Tampa",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-09-14T19:27:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "JVISveqnAacNY9_OhIZ_Bfwxoig",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCr6XWNVRabCffhD5d3C2uTw"
+                },
+                "snippet": {
+                    "publishedAt": "2021-01-20T18:41:42Z",
+                    "channelId": "UCr6XWNVRabCffhD5d3C2uTw",
+                    "title": "LIVING IN TAMPA FLORIDA",
+                    "description": "Let's connect \"In-Person\" on Zoom \u2b07\ufe0f \ud83c\udfdd\ufe0f If you wondering what life is like Living In Tampa, Florida, this is the channel for you!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/KRu39wFroMoTqaYJeCLu8q2H4xtUu8RH9vOD1Xkt89SV06DCyQsTLJOVnFojEahn_uML_GdFxJY=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN TAMPA FLORIDA",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-01-20T18:41:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "nDeLjN5IyuL6keaBcxURJPapnzo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLzohJmEgvfJOEd4YJNIHbg"
+                },
+                "snippet": {
+                    "publishedAt": "2020-06-04T14:24:39Z",
+                    "channelId": "UCLzohJmEgvfJOEd4YJNIHbg",
+                    "title": "City Of Tampa Meetings",
+                    "description": "Archive for City of Tampa meetings. Meetings are organized in playlists. Selecting \"view full playlist\" will open a list sorted by date ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nI84m15yFX3J3kmBFv9QR8HREV-gTmhypvimMtQt832Q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nI84m15yFX3J3kmBFv9QR8HREV-gTmhypvimMtQt832Q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nI84m15yFX3J3kmBFv9QR8HREV-gTmhypvimMtQt832Q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Of Tampa Meetings",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-06-04T14:24:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3cUe9hxfdRpAiEXnvG7PwOAaBaU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-22T09:57:53Z",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ",
+                    "title": "Tampa Florida Living",
+                    "description": "Are you wondering what it is like to live in Tampa Florida? Well this is the channel you need! We absolutely love this city and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-22T09:57:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "CasLrk-S1v-cH2IU6t8OONAYbEU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCu1Kn3t6M_lyFxDTjPRzSsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-17T13:36:53Z",
+                    "channelId": "UCu1Kn3t6M_lyFxDTjPRzSsQ",
+                    "title": "Tampa Florida",
+                    "description": "This channel hosts videos from the official City of Tampa web site.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mybH45fY1RCRODra0podbcDCnuh8hmApGvbO37_9W42g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mybH45fY1RCRODra0podbcDCnuh8hmApGvbO37_9W42g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mybH45fY1RCRODra0podbcDCnuh8hmApGvbO37_9W42g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-06-17T13:36:53Z"
+                }
+            }
+        ]
+    }
+]

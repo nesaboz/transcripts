@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "8dozT1fsmO8EH1N3hU_u3XLLlII",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 86,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7Z3GIyn9Mg0BVL9yQtdm9gDrVZU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4z9CgD1RQNAwFPMKbTKupw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-08T20:24:16Z",
+                    "channelId": "UC4z9CgD1RQNAwFPMKbTKupw",
+                    "title": "Temple Terrace",
+                    "description": "Incorporated in 1925, Temple Terrace is a city of 25000 on the banks of the Hillsborough River in West Central Florida. Temple ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Temple Terrace",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-11-08T20:24:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ZHn0FKUh5y-MzuyEWQL65c-39pA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA"
+                },
+                "snippet": {
+                    "publishedAt": "2010-09-14T19:27:53Z",
+                    "channelId": "UCx4-4RHo_bhTMQJNh6Du0AA",
+                    "title": "City of Tampa",
+                    "description": "Tampa, home to over 340000 residents, is a vibrant, dynamic and beautiful city. Located on the banks of the Hillsborough River, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/OLrKACrXfLg6aOU-3pe2qj-JvIAmO_61kHp9EMMJ6rWDn_M2AF-casSBGjWoIPK7SLU4Exia=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Tampa",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-09-14T19:27:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E_ypHina-KNf1qD1Ezjgi5FvLnQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-22T09:57:53Z",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ",
+                    "title": "Tampa Florida Living",
+                    "description": "Are you wondering what it is like to live in Tampa Florida? Well this is the channel you need! We absolutely love this city and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-22T09:57:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XIj9nY2h-WZic3Av8wEQYo-tC-c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrh0i30ju-xWNRJsthZTR_A"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-25T13:55:49Z",
+                    "channelId": "UCrh0i30ju-xWNRJsthZTR_A",
+                    "title": "Plan Hillsborough",
+                    "description": "Plan Hillsborough is a consolidated planning agency serving Tampa, Temple Terrace, Plant City and Unincorporated ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Plan Hillsborough",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-25T13:55:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fDPSsTj96Nzttzh7TeI-SBZB6vQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsojHyZb_mkYIU3o32Tbg4w"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-25T19:42:05Z",
+                    "channelId": "UCsojHyZb_mkYIU3o32Tbg4w",
+                    "title": "Hillsborough TPO",
+                    "description": "The Hillsborough County Metropolitan Planning Organization (MPO) is a transportation policy-making board mandated by federal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hillsborough TPO",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-25T19:42:05Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ExtPKfDozN85e7ms2VfKHILnkGA",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 46,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "7Z3GIyn9Mg0BVL9yQtdm9gDrVZU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4z9CgD1RQNAwFPMKbTKupw"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-08T20:24:16Z",
+                    "channelId": "UC4z9CgD1RQNAwFPMKbTKupw",
+                    "title": "Temple Terrace",
+                    "description": "Incorporated in 1925, Temple Terrace is a city of 25000 on the banks of the Hillsborough River in West Central Florida. Temple ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lmWQVaZkNVf6OVIsVyKZfwC93KhIM2qnWU-3GHbAZuXg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Temple Terrace",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-11-08T20:24:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "E_ypHina-KNf1qD1Ezjgi5FvLnQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ"
+                },
+                "snippet": {
+                    "publishedAt": "2020-12-22T09:57:53Z",
+                    "channelId": "UCetDYq6cgZOkEqlsJ90NFJQ",
+                    "title": "Tampa Florida Living",
+                    "description": "Are you wondering what it is like to live in Tampa Florida? Well this is the channel you need! We absolutely love this city and our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/FuQuZ9oMZjpcFciEOk816UctXJcRxccArQe79_BD0grTdZK7AvYxRqAIO2eY9WWznZ9Zd1AC=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tampa Florida Living",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-12-22T09:57:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XIj9nY2h-WZic3Av8wEQYo-tC-c",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrh0i30ju-xWNRJsthZTR_A"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-25T13:55:49Z",
+                    "channelId": "UCrh0i30ju-xWNRJsthZTR_A",
+                    "title": "Plan Hillsborough",
+                    "description": "Plan Hillsborough is a consolidated planning agency serving Tampa, Temple Terrace, Plant City and Unincorporated ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lQ-sEYz2xCd9xZhIUm1fto7_l8Ezx_muS2XFJ0ke4B_vk=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Plan Hillsborough",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-07-25T13:55:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BfZlMvKskuhHqpuNzvANQaWuxt8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-06-06T00:01:04Z",
+                    "channelId": "UCgCg1kVddzePlggApvCL5BA",
+                    "title": "Grace Family Church",
+                    "description": "Helping families follow Jesus.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iYzBq2bbmGMOkTQ_3H8ld934gHQHReZKs4IDP9zuHOUos_lLBlSM4tr5vhmkfLtxCn7E-aqofg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Grace Family Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-06-06T00:01:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fDPSsTj96Nzttzh7TeI-SBZB6vQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsojHyZb_mkYIU3o32Tbg4w"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-25T19:42:05Z",
+                    "channelId": "UCsojHyZb_mkYIU3o32Tbg4w",
+                    "title": "Hillsborough TPO",
+                    "description": "The Hillsborough County Metropolitan Planning Organization (MPO) is a transportation policy-making board mandated by federal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFQfN0JcBP9IS4VdqfN4W-1Efzf3xQ4_V62nr0nD9qCA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hillsborough TPO",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-08-25T19:42:05Z"
+                }
+            }
+        ]
+    }
+]

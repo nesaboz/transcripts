@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "i3Ju4YMFZKkNZwlAwO8cMCfB8-o",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 6944,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O65ccH3ZpX_qXVq6YVNBrL0TFYE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-26T14:17:54Z",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w",
+                    "title": "City of West Miami",
+                    "description": "West Miami is a city in Miami-Dade County, Florida, United States. The city is part of the Miami metropolitan area of South Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of West Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-26T14:17:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fa9JhJBGp__58ve2ctRM_D6JrRg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2007-06-30T14:05:47Z",
+                    "channelId": "UCAthAfV8Iqgyl8znznZodlQ",
+                    "title": "City of Miami Beach TV",
+                    "description": "This is the official \"You Tube\" home of the City of Miami Beach, Florida, government. Our communications department is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NSuR2lU0E7H891R9Al-fmIebN_Qcakh8kzlrzb4ySEd6ZnAOx2-6dwDZngg5_o5Pn2AstW_e=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Beach TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-06-30T14:05:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "3zYlqA3mdLfq8D5kg5Rx-6WkSL0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-30T16:40:26Z",
+                    "channelId": "UCSCzXpZ82FfA5udLY6WynCQ",
+                    "title": "Town of Miami Lakes",
+                    "description": "When it incorporated in December 2000, the Town of Miami Lakes became the 31st municipality in Miami-Dade County. Known ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2aF_KoOZz7rqaerD5e5cw53UCzawFMrwUxnjhFQjsPJKcHXNhG4R9J5EE7piJc2rnOpxvNslgA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Miami Lakes",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-01-30T16:40:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "CCaPBSOD2VUKj-CRGCrupurfED4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-14T23:11:19Z",
+                    "channelId": "UCSsI2UhZkrUHM0HjP9T7wDQ",
+                    "title": "City of Miami Gov",
+                    "description": "The Official City of Miami YouTube Channel.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/BB7RvOuW5IY4HHWvc1qfu03VhW6vYw0BTJORGWFdtKfni5mTDRa3V8DQQ_yTbQvnubkl2IGmtA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Miami Gov",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-01-14T23:11:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uDXanqPO3nuUENr3djGqt3NNNUg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwWs-vZ6h-5P6XvQOCllSCA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-25T15:49:03Z",
+                    "channelId": "UCwWs-vZ6h-5P6XvQOCllSCA",
+                    "title": "City of Sunrise, Florida",
+                    "description": "The City of Sunrise, located in western Broward County, Florida is home to approximately 92000 residents and host to several ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ke3Q5ncRFrgCCcZ38XoYP73Y8IDSFz4dRTBP2RTGUXRA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sunrise, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-07-25T15:49:03Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "k7oKGB0udKSZR9xe4douHfdF7Ao",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 2111,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "O65ccH3ZpX_qXVq6YVNBrL0TFYE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-26T14:17:54Z",
+                    "channelId": "UC7X7aBKcMKGq04z6JAc3f1w",
+                    "title": "City of West Miami",
+                    "description": "West Miami is a city in Miami-Dade County, Florida, United States. The city is part of the Miami metropolitan area of South Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/wtlL53RzOyf_GNSWhTk3iffWXUOMAp1Wcmd9lVP6fqN21l_BuJtQ67Y_lCzoSkI9trwxzsNd3g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of West Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-26T14:17:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Oyzi-34mkhz7bnzdnsQ8UtYBkqA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQ4ep1O3dLiHsda9rOPccsQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-30T14:13:45Z",
+                    "channelId": "UCQ4ep1O3dLiHsda9rOPccsQ",
+                    "title": "Miami Police Department",
+                    "description": "Welcome to City of Miami Police Department's official YouTube page, where you will find the Miami Police VLOG created by our ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOquJvhz8a5WFSbKc6irzO6cuNIH6YC_bA1Xxzr2KGlQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOquJvhz8a5WFSbKc6irzO6cuNIH6YC_bA1Xxzr2KGlQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kOquJvhz8a5WFSbKc6irzO6cuNIH6YC_bA1Xxzr2KGlQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Miami Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-10-30T14:13:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eslrbhArLHxyEUBKTjQrj6z33kM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEjIjshJ8bvvCkGNk0pkYcA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-16T15:28:34Z",
+                    "channelId": "UCEjIjshJ8bvvCkGNk0pkYcA",
+                    "title": "Jesse James West",
+                    "description": "Stay Relentless and Subscribe\u2764\ufe0f Training programs https://www.jessejameswest.com/shop Merch ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhDUDc1GyWYDq6gD2cU7BztipCZy1u8hpCdpdCrTkrkl-q=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhDUDc1GyWYDq6gD2cU7BztipCZy1u8hpCdpdCrTkrkl-q=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nhDUDc1GyWYDq6gD2cU7BztipCZy1u8hpCdpdCrTkrkl-q=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jesse James West",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-05-16T15:28:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "rVFPGYxDo0avTZaVsYsSWlxkKCE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeYssWmEDwADOXQBbVdB4MA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-11T17:57:19Z",
+                    "channelId": "UCeYssWmEDwADOXQBbVdB4MA",
+                    "title": "Miami PD Live Radio - Police Scanner",
+                    "description": "24/7 Miami police scanner from all four City of Miami Police districts. This is not an official channel and has no association to any ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/qEQK5djrKpQ22fsBJRNbphC5LMiPSqKMYk9LuZhdUaML29sWGdGFpegfbuOAMmEd-z_pyU8ZanE=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/qEQK5djrKpQ22fsBJRNbphC5LMiPSqKMYk9LuZhdUaML29sWGdGFpegfbuOAMmEd-z_pyU8ZanE=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/qEQK5djrKpQ22fsBJRNbphC5LMiPSqKMYk9LuZhdUaML29sWGdGFpegfbuOAMmEd-z_pyU8ZanE=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Miami PD Live Radio - Police Scanner",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-11T17:57:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IqRfDRoBY7AtmVecSo4hISdyRC8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCg0twTdev4t65_dxqyi860g"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-04T18:09:20Z",
+                    "channelId": "UCg0twTdev4t65_dxqyi860g",
+                    "title": "Oscar Castro",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ka6O9ztv4vV8Wi-qdYGHgT8qBOxnGg-5ENcNs-1z4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ka6O9ztv4vV8Wi-qdYGHgT8qBOxnGg-5ENcNs-1z4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ka6O9ztv4vV8Wi-qdYGHgT8qBOxnGg-5ENcNs-1z4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Oscar Castro",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-11-04T18:09:20Z"
+                }
+            }
+        ]
+    }
+]

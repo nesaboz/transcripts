@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "aWnMaB4OUWzqR3B5awsyD68912E",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 22,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "z7y95aAqISxuYUWvrR7bJj85Ilk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrjhUv0Borw9ddIX_zUmlqA"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-30T12:21:21Z",
+                    "channelId": "UCrjhUv0Borw9ddIX_zUmlqA",
+                    "title": "Photo And Film Journey",
+                    "description": "In this channel I feature my videos as a hobby. I'm loving the videos taken while driving around my town. Subscribe and get to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mXVnWDIZtBffmNLSo0iZX7k0PoScZlOfo70INOj8ORKw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mXVnWDIZtBffmNLSo0iZX7k0PoScZlOfo70INOj8ORKw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mXVnWDIZtBffmNLSo0iZX7k0PoScZlOfo70INOj8ORKw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Photo And Film Journey",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-30T12:21:21Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "M1F8Plujfl3WBcFcPO0Z8P-njqI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "C6s4I8TzLthuWWF2CIya38tfXw0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrqfMAUJ3raiTe_H4hfbx3A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-08-26T03:33:47Z",
+                    "channelId": "UCrqfMAUJ3raiTe_H4hfbx3A",
+                    "title": "OutCoast TV: LGBTQ+ Florida & U.S. Gay",
+                    "description": "OutCoastTV and OutCoast.com create travel content to highlight LGBTQ-inclusive destinations around the country. That's right!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HbeiPpLOID1yWjmBTpQqwDiDZU-rxEI3nby2Gr-j3p-0Boug1F5_ZVHauXepDdtnBN3dWoJa=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HbeiPpLOID1yWjmBTpQqwDiDZU-rxEI3nby2Gr-j3p-0Boug1F5_ZVHauXepDdtnBN3dWoJa=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HbeiPpLOID1yWjmBTpQqwDiDZU-rxEI3nby2Gr-j3p-0Boug1F5_ZVHauXepDdtnBN3dWoJa=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "OutCoast TV: LGBTQ+ Florida & U.S. Gay",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-08-26T03:33:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "eEntGd7WGUDnX1qEUbdqaDIsEDI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbrdp3aw-flJUh4pVPxO5RA"
+                },
+                "snippet": {
+                    "publishedAt": "2023-12-20T10:19:40Z",
+                    "channelId": "UCbrdp3aw-flJUh4pVPxO5RA",
+                    "title": "J and her friends",
+                    "description": "Made in Taiwan \u53f0\u7063\u88fd\u9020   South Florida \u5357\u4f5b\u5dde     Living life one bite at a time, I document my adventures in eating, drinking ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/9VjBpB8BqPIj_nIF0Rjc0tO337M1ObRPWIFPJTMYj6ffazSZOXkiOoggIDDSP8CM60t81GO_=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/9VjBpB8BqPIj_nIF0Rjc0tO337M1ObRPWIFPJTMYj6ffazSZOXkiOoggIDDSP8CM60t81GO_=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/9VjBpB8BqPIj_nIF0Rjc0tO337M1ObRPWIFPJTMYj6ffazSZOXkiOoggIDDSP8CM60t81GO_=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "J and her friends",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-12-20T10:19:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ty0XN_dl1mGtn-2VelSxjmy9fnE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "paA5fsk5WVInSgohYypx8BtDtr0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 64,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "STttqi1_MGwd5C3oPzpUETCv0B0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzPPu1PG9fclSXg70e_LJFg"
+                },
+                "snippet": {
+                    "publishedAt": "2022-10-13T08:26:04Z",
+                    "channelId": "UCzPPu1PG9fclSXg70e_LJFg",
+                    "title": "Island City Smiles",
+                    "description": "Dentist Wilton Manors FL, Cosmetic Dentistry, (954) 994-2893.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iPTc7v3askyROXtyKmfVd5rnJGn-ljONr7uAtqvCemsMYu8ptnBHC7K1ZtNvtRu6xguvEH0gkw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iPTc7v3askyROXtyKmfVd5rnJGn-ljONr7uAtqvCemsMYu8ptnBHC7K1ZtNvtRu6xguvEH0gkw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iPTc7v3askyROXtyKmfVd5rnJGn-ljONr7uAtqvCemsMYu8ptnBHC7K1ZtNvtRu6xguvEH0gkw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Island City Smiles",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-10-13T08:26:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "i6PHrLv__GbTOSlSRGC1vv6i9Os",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCh3legBFKeKNlo7eM11pUsA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-06T04:20:11Z",
+                    "channelId": "UCh3legBFKeKNlo7eM11pUsA",
+                    "title": "WILMALifeTV",
+                    "description": "Videos in and around the city of Wilton Manors, FL.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWTXhfO8nDz7IZ_Vhec_n7DrfqpZvCXLuD5M0xcOWtGw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWTXhfO8nDz7IZ_Vhec_n7DrfqpZvCXLuD5M0xcOWtGw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nWTXhfO8nDz7IZ_Vhec_n7DrfqpZvCXLuD5M0xcOWtGw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "WILMALifeTV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-04-06T04:20:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "6-DrBn5C1XZ7-YNoOxyD1YMEz54",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxMq-qQUX4_yATDa3w-2GuA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-02T14:38:04Z",
+                    "channelId": "UCxMq-qQUX4_yATDa3w-2GuA",
+                    "title": "Manuel Barrios Real Estate",
+                    "description": "Local Real Estate Agent in Fort Lauderdale.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIwIHGTeRYQrnq6AjQHVMp9GAQnbThdaGfoAwKsLKyi5M=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIwIHGTeRYQrnq6AjQHVMp9GAQnbThdaGfoAwKsLKyi5M=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lIwIHGTeRYQrnq6AjQHVMp9GAQnbThdaGfoAwKsLKyi5M=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Manuel Barrios Real Estate",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-11-02T14:38:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "WW1F4rVicfJGSj42SI5xcTXjQNU",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-r8hO3D4QBrTyMFT85MFZw"
+                },
+                "snippet": {
+                    "publishedAt": "2007-05-16T23:19:11Z",
+                    "channelId": "UC-r8hO3D4QBrTyMFT85MFZw",
+                    "title": "bocadral",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwVqAnhG8Nb6RnqiNHHm88MrVXiSw7F15WQrW9CQ4=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwVqAnhG8Nb6RnqiNHHm88MrVXiSw7F15WQrW9CQ4=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lwVqAnhG8Nb6RnqiNHHm88MrVXiSw7F15WQrW9CQ4=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "bocadral",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-05-16T23:19:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "_5HfMzyM2ts9r-Qvt54lLb_Gchs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFLWvXg4v4bc1TXIgplgfww"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-24T16:51:54Z",
+                    "channelId": "UCFLWvXg4v4bc1TXIgplgfww",
+                    "title": "FORT LAUDERDALE HOME TOURS",
+                    "description": "754-244-1933 This channel is designed to showcase the work of DAN OBRIAN PHOTO at FORT LAUDERDALE HOME TOURS.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lISsWiryBDRDBQcyiISnBnHvzK6LuTnv4i0yqrqxI9UA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lISsWiryBDRDBQcyiISnBnHvzK6LuTnv4i0yqrqxI9UA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lISsWiryBDRDBQcyiISnBnHvzK6LuTnv4i0yqrqxI9UA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "FORT LAUDERDALE HOME TOURS",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-10-24T16:51:54Z"
+                }
+            }
+        ]
+    }
+]

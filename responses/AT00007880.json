@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "dbg9imCvZf9lFlWEb1lNZXYP7mE",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 3557,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lQfXlNw7I1TIAekybvh3vvTqUY8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmDaDe0Ed9_fIORZ1pArVfA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-02T19:39:01Z",
+                    "channelId": "UCmDaDe0Ed9_fIORZ1pArVfA",
+                    "title": "City of Sarasota",
+                    "description": "News and events from the City of Sarasota, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sarasota",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-10-02T19:39:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "u0vHox8C7P-iP61cUu8uCBhw2ig",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCfS6qPa7jxPbUP_eBUtXYfw"
+                },
+                "snippet": {
+                    "publishedAt": "2022-02-17T16:46:43Z",
+                    "channelId": "UCfS6qPa7jxPbUP_eBUtXYfw",
+                    "title": "SarasotaWOW",
+                    "description": "Welcome to the best destination in Florida- Sarasota, Longboat and Siesta Key! As a 40-year resident of Sarasota, I know of no ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a7066Rsib1AAt1oKMSb3ZuQOpvK7FLeBty1DUXGc-8cVwMStIgnUyUeZbgdfos2JEnU7-4mmTg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a7066Rsib1AAt1oKMSb3ZuQOpvK7FLeBty1DUXGc-8cVwMStIgnUyUeZbgdfos2JEnU7-4mmTg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a7066Rsib1AAt1oKMSb3ZuQOpvK7FLeBty1DUXGc-8cVwMStIgnUyUeZbgdfos2JEnU7-4mmTg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "SarasotaWOW",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-02-17T16:46:43Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lf3gnP1n6uKdtgC2Sm500mq-RU0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCeyBY5sLCLTLXEkT3nPdopg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-05T03:27:10Z",
+                    "channelId": "UCeyBY5sLCLTLXEkT3nPdopg",
+                    "title": "Sarasota Lifestyle",
+                    "description": "Welcome to SARASOTA LIFESTYLE on YouTube. Join Mike Payne & his son Zach for relocation straight talk (inc. real estate) and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ltGvTebgihWws-dmEea0AjL7Fwl3Pmf8bLbJDJTK_mNM-oyNKaDy7ptdC7XIAjnhLkS5Ujf2Dw8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ltGvTebgihWws-dmEea0AjL7Fwl3Pmf8bLbJDJTK_mNM-oyNKaDy7ptdC7XIAjnhLkS5Ujf2Dw8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ltGvTebgihWws-dmEea0AjL7Fwl3Pmf8bLbJDJTK_mNM-oyNKaDy7ptdC7XIAjnhLkS5Ujf2Dw8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sarasota Lifestyle",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-03-05T03:27:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "a2JZs_FBDWFo3is-H8bpP4eXNCk",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCD_4QmlC0IgoL1-pagmMrmQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-05-15T02:17:59Z",
+                    "channelId": "UCD_4QmlC0IgoL1-pagmMrmQ",
+                    "title": "Where To Live in Sarasota, Florida ",
+                    "description": "Welcome to our channel, \"Where to Live in Sarasota, Florida\". https://www.fltrealty.com/perfecthome Fill out your free Perfect ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uyyX6pGJ779aNrS3HtMgK-QjNC5gIQVIg-GXAHdFm4Pkrj4tGDK0YiOO6wm3KUQd1h8gNLVNtg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Where To Live in Sarasota, Florida ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-05-15T02:17:59Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-AORUARRqFD9TMZyvZxt79MvQMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCyk3AmsO_XUzG4kUKDXSxlw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-08T20:29:36Z",
+                    "channelId": "UCyk3AmsO_XUzG4kUKDXSxlw",
+                    "title": "Jon Buice | Real Estate Agent in Sarasota FL",
+                    "description": "Welcome to 'The Ultimate Guide to Moving to Sarasota, Florida! On our channel, we'll cover everything you need to know about ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/KwRdTsdntu7JucmzEtEKw2lEziWM5_7mRQKv1_GJdfv-JoZmMhSBcXieKRbqFjuc7Th96bVEKg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/KwRdTsdntu7JucmzEtEKw2lEziWM5_7mRQKv1_GJdfv-JoZmMhSBcXieKRbqFjuc7Th96bVEKg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/KwRdTsdntu7JucmzEtEKw2lEziWM5_7mRQKv1_GJdfv-JoZmMhSBcXieKRbqFjuc7Th96bVEKg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Jon Buice | Real Estate Agent in Sarasota FL",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-08T20:29:36Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "YS-tG843QW8Po0XFNLuTy9ctnQg",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 1019,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lQfXlNw7I1TIAekybvh3vvTqUY8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmDaDe0Ed9_fIORZ1pArVfA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-02T19:39:01Z",
+                    "channelId": "UCmDaDe0Ed9_fIORZ1pArVfA",
+                    "title": "City of Sarasota",
+                    "description": "News and events from the City of Sarasota, Florida.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lKcJuK1hy_E6lVrVrehNllWryIWvMlbG2Lsp6Fc2OziQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Sarasota",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-10-02T19:39:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zOzz5OhzypFGKLrQ_xY3jvrOnj0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUHOHCE17eQP99uJT7_u-aw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-18T03:10:59Z",
+                    "channelId": "UCUHOHCE17eQP99uJT7_u-aw",
+                    "title": "Hope City Church",
+                    "description": "Hope City Church is located in Sarasota, Florida. Hope City launched on January 22nd, 2017 by Pastor Peter Gowesky. If you are ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFfp2W7t1-V0Ks8FgztWY5NNcZuUj9fQxNHmMu_RjdRw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFfp2W7t1-V0Ks8FgztWY5NNcZuUj9fQxNHmMu_RjdRw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lFfp2W7t1-V0Ks8FgztWY5NNcZuUj9fQxNHmMu_RjdRw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Hope City Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-12-18T03:10:59Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "1Noshgue0w9aNtJOMzK7Bnz9vMo",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCA-v3ISGs0kF51HHHRIcUtg"
+                },
+                "snippet": {
+                    "publishedAt": "2010-07-20T20:44:31Z",
+                    "channelId": "UCA-v3ISGs0kF51HHHRIcUtg",
+                    "title": "Sarasota Police Department",
+                    "description": "YouTube Channel for the Sarasota Police Department | Not monitored 24/7 | Emergencies 911 | Non-emergencies 941-316-1199 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/bC1_A0K13BXHmcpK7lhSPLMiFnFiWsOd7XT_qKdwiHpKUWIeR3H3nnWVphOqEZDtl8Vqj7NMig=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/bC1_A0K13BXHmcpK7lhSPLMiFnFiWsOd7XT_qKdwiHpKUWIeR3H3nnWVphOqEZDtl8Vqj7NMig=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/bC1_A0K13BXHmcpK7lhSPLMiFnFiWsOd7XT_qKdwiHpKUWIeR3H3nnWVphOqEZDtl8Vqj7NMig=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sarasota Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-07-20T20:44:31Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MwtmnLO-oeXioOXJCulsZotu2vA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwBXyXZjuHVP5d2dTi5cHkw"
+                },
+                "snippet": {
+                    "publishedAt": "2006-12-31T02:35:28Z",
+                    "channelId": "UCwBXyXZjuHVP5d2dTi5cHkw",
+                    "title": "Sarasota Florida",
+                    "description": "Want to know about Sarasota? Watch, like and Subscribe. Weekly updates. Have questions? Ask.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGgTussjAawaSmzm21XexNmtHlwNYcQusfKatiBT-WiT8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGgTussjAawaSmzm21XexNmtHlwNYcQusfKatiBT-WiT8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kGgTussjAawaSmzm21XexNmtHlwNYcQusfKatiBT-WiT8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sarasota Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2006-12-31T02:35:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KelbTg5W1Cff8UwBwZxO78i5XcQ",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCTh3-EEpBJ7yKjG6T5lO8_A"
+                },
+                "snippet": {
+                    "publishedAt": "2008-03-19T16:44:37Z",
+                    "channelId": "UCTh3-EEpBJ7yKjG6T5lO8_A",
+                    "title": "North Port, Florida",
+                    "description": "Located in Southwest Florida between Tampa and Fort Myers, the City of North Port is the largest city in Sarasota County.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ESMz9IZdDhW53appMV-CcQEDxNyNeytWTum_4s4YVEuD_2YZkwezUd7uErcBy-ABn_GAZfywHQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ESMz9IZdDhW53appMV-CcQEDxNyNeytWTum_4s4YVEuD_2YZkwezUd7uErcBy-ABn_GAZfywHQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ESMz9IZdDhW53appMV-CcQEDxNyNeytWTum_4s4YVEuD_2YZkwezUd7uErcBy-ABn_GAZfywHQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "North Port, Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-03-19T16:44:37Z"
+                }
+            }
+        ]
+    }
+]

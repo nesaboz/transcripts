@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "tbU-aR3SJSpEX8whJxUx2zP3ES0",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 142,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "xLpiy6HzWIN_lPb-_KkF50TFd-I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbcCIfGpv6T5wk9WWozgQiA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-07-31T18:55:56Z",
+                    "channelId": "UCbcCIfGpv6T5wk9WWozgQiA",
+                    "title": "Sweetwater Organic Community Farm",
+                    "description": "Sweetwater Organic Community Farm was established in 1995 as a nonprofit community-supported urban organic farm and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k-XcygMfTCWUMrnIZSBJswFcp8agwJcQ35nmRLM2b8Aw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k-XcygMfTCWUMrnIZSBJswFcp8agwJcQ35nmRLM2b8Aw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k-XcygMfTCWUMrnIZSBJswFcp8agwJcQ35nmRLM2b8Aw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Sweetwater Organic Community Farm",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2015-07-31T18:55:56Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "fiuv--rL7s7jD46dq50TIwKHBHY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T17:22:58Z",
+                    "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
+                    "title": "City of Hollywood",
+                    "description": "The City of Hollywood, Florida's YouTube Channel contains videos produced by the Office of Communications, Marketing and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_ld3rAdxCzRc5a87zuutYdbpNglfg-MF0Q87-CaotU6upo=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Hollywood",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-08-31T17:22:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RUoVbsxt-jXnhRuQgzN0IbLa_7I",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJbIxoo_qHcdZUo2B0TfqtQ"
+                },
+                "snippet": {
+                    "publishedAt": "2024-04-15T02:04:28Z",
+                    "channelId": "UCJbIxoo_qHcdZUo2B0TfqtQ",
+                    "title": "Gainesville, Florida - A Secret Paradise ",
+                    "description": "Welcome to the beautiful world of Gainesville! Originally a South Florida girl, I arrived to Gainesville in 2023. A few months later, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJUxkkmi665AmRCz4ilJfPTAan1TU452g2UM5ek9PklkcAAb7dnzzInZhXZe_Ftp4s2g=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJUxkkmi665AmRCz4ilJfPTAan1TU452g2UM5ek9PklkcAAb7dnzzInZhXZe_Ftp4s2g=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mJUxkkmi665AmRCz4ilJfPTAan1TU452g2UM5ek9PklkcAAb7dnzzInZhXZe_Ftp4s2g=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Gainesville, Florida - A Secret Paradise ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-04-15T02:04:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "AbOSx2vdOPtDc6dzq3fHBdlweO8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-09T15:22:49Z",
+                    "channelId": "UCsjG_WlAS2qv-Hic6K16o3w",
+                    "title": "City of Fort Lauderdale",
+                    "description": "WeAreFTL: the official channel for the City of #FortLauderdale, a breathtaking coastal community in the heart of south Florida that ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mEY8jhJ1_sNNoY9d3SCwrGAvzkmYdpVHvCUQqAtBIRP7I=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Fort Lauderdale",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-12-09T15:22:49Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ty0XN_dl1mGtn-2VelSxjmy9fnE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-06T15:06:20Z",
+                    "channelId": "UClAfziZQ5Gra8DrGRzyq37w",
+                    "title": "Town of Davie TV",
+                    "description": "This is the official \"YouTube\" home of the Town of Davie, Florida, government. Our Public Information Office is responsible for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/G4dbYLFX1o3MYM85TyWXpH_a_qY8-zRANNQM8k7kLckl32iI40YkLrTxpqUcrya0AG7s7GPoj_Y=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Town of Davie TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2019-03-06T15:06:20Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "zxkiwRNLnhrgB5Caex94U_paUao",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 55,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KiKJmEXs5_HcB5V3j_0Ha0Ii3ek",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRvMHILaTNIncY4E-BTFeyw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-09-19T16:36:32Z",
+                    "channelId": "UCRvMHILaTNIncY4E-BTFeyw",
+                    "title": "Adonel Concrete",
+                    "description": "This the official YouTube channel of Adonel Concrete, located in the City of Sweetwater, Florida. Adonel Concrete is South ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8NDYIjuxpRQPQx6BxJ8gpUe_dbAC0yqsF-yeDd7MfWg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8NDYIjuxpRQPQx6BxJ8gpUe_dbAC0yqsF-yeDd7MfWg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_l8NDYIjuxpRQPQx6BxJ8gpUe_dbAC0yqsF-yeDd7MfWg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Adonel Concrete",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-09-19T16:36:32Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Ra_XopezmTNxbGRqlDI6tLzndAA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCgt2zOaustc2C0ZET6l2WVg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-12T22:20:14Z",
+                    "channelId": "UCgt2zOaustc2C0ZET6l2WVg",
+                    "title": "Adonel Concrete",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDM_o-j4Vw5LUchCq6eKSOknERKxsF_n167WE4ERIBHA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDM_o-j4Vw5LUchCq6eKSOknERKxsF_n167WE4ERIBHA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lDM_o-j4Vw5LUchCq6eKSOknERKxsF_n167WE4ERIBHA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Adonel Concrete",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-04-12T22:20:14Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "EiPiW4p72F4edyw9fhiuhIbDEZY",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChYi8P98Bt94wuN25V_up8g"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-23T21:16:58Z",
+                    "channelId": "UChYi8P98Bt94wuN25V_up8g",
+                    "title": "Bravo Tattoo Miami",
+                    "description": "Are you looking to make a bold statement and stand out from the crowd? Look no further than Bravo Tattoo Studio! We are raising ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/xzPkCpliQU-D9rtRzyO3HpahdVOXAps8syDfSiAyJG4_scGyY4lNzFql1zcdPxEbAd5pXgdg-w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/xzPkCpliQU-D9rtRzyO3HpahdVOXAps8syDfSiAyJG4_scGyY4lNzFql1zcdPxEbAd5pXgdg-w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/xzPkCpliQU-D9rtRzyO3HpahdVOXAps8syDfSiAyJG4_scGyY4lNzFql1zcdPxEbAd5pXgdg-w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Bravo Tattoo Miami",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-23T21:16:58Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "RgcBJtUgOgggju1N5oXyX8QwsHA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOIkT9bq-1N2BvrsBjhNlag"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-31T11:51:37Z",
+                    "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
+                    "title": "Virtual Railfan",
+                    "description": "Official channel of Virtual Railfan, Inc. Virtual Railfan is the premiere provider for live train cams all over the United States ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2iOIWLFX_nPU_vgHCPDiyW-juluAJYSk_5cGKFVqyXo52qvUi-eAERuWcy8FHMsyPTdM4FPIGK0=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Virtual Railfan",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-31T11:51:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uMrqSeCdbtc0QJ7vR9iHTH0l3z4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChYZRZl3XfCWK2_Jt4ZaY0g"
+                },
+                "snippet": {
+                    "publishedAt": "2013-12-18T17:43:08Z",
+                    "channelId": "UChYZRZl3XfCWK2_Jt4ZaY0g",
+                    "title": "Site Doral",
+                    "description": "Doral, incorporated on June 24, 2003, in one of thirty-four municipalities in Miami-Dade County, Florida. Conveniently located just ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkT3rUtlKk8M-hlUp52VqQG2IQnJyl-Q9_-tvstQIPKw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkT3rUtlKk8M-hlUp52VqQG2IQnJyl-Q9_-tvstQIPKw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lkT3rUtlKk8M-hlUp52VqQG2IQnJyl-Q9_-tvstQIPKw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Site Doral",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-12-18T17:43:08Z"
+                }
+            }
+        ]
+    }
+]

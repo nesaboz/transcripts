@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "BvhvaWX2ZCFr_OigZETWO9eumEQ",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 88,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "KSitmjK5WE0uykDzBC3akGBFpME",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC787CmsX8Z9Y6-Uc2zEYusQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-03-09T16:53:27Z",
+                    "channelId": "UC787CmsX8Z9Y6-Uc2zEYusQ",
+                    "title": "Satellite Beach Daily",
+                    "description": "Videos from Satellite Beach, Florida. Around town, the beach, the ocean, surfing!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kEWjj8hAdQDLMs6IK_fNUe-Mmeasn_xdFFPqK6HADXIg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kEWjj8hAdQDLMs6IK_fNUe-Mmeasn_xdFFPqK6HADXIg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kEWjj8hAdQDLMs6IK_fNUe-Mmeasn_xdFFPqK6HADXIg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Satellite Beach Daily",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-03-09T16:53:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Xbava5pj6NouEy3o1O9472teSK0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Y2lh6WS6o5kZJfsVzMfd2XhrIJI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-gY-OfEvTm83qJF4-ViDbA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-30T10:56:52Z",
+                    "channelId": "UC-gY-OfEvTm83qJF4-ViDbA",
+                    "title": "@Moving to Satellite Beach-Linda Landman-Realtor",
+                    "description": "321-421-9101 Are you curious about the Central Florida East Coast beaches. Famous for surfing and the Space Program these ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "@Moving to Satellite Beach-Linda Landman-Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-30T10:56:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "-W039ZkXHV9Pxc5jM_P9Z4y8w_E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnP8FHSilw3ZG-CMnM_FIkA"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-01T12:33:51Z",
+                    "channelId": "UCnP8FHSilw3ZG-CMnM_FIkA",
+                    "title": "Local Video Showcase",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nunUlOvPcWviWmLfYxwJotCfDauo0i60QlogvV1KF3yg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nunUlOvPcWviWmLfYxwJotCfDauo0i60QlogvV1KF3yg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nunUlOvPcWviWmLfYxwJotCfDauo0i60QlogvV1KF3yg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Local Video Showcase",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-09-01T12:33:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "lueH77JzpBdfP0jpJdFbfVQkNwE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-WGHDJ-dt9cku05LRFjB-w"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-19T23:18:15Z",
+                    "channelId": "UC-WGHDJ-dt9cku05LRFjB-w",
+                    "title": "Trinity Wellsprings Church",
+                    "description": "Trinity Wellsprings Church is an inter-generational congregation that gathers in four different worship environments each week in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m-xemHVIw77OHnX5v_vKV73iC9bAnMVkTpycebk5YAsyM=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m-xemHVIw77OHnX5v_vKV73iC9bAnMVkTpycebk5YAsyM=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m-xemHVIw77OHnX5v_vKV73iC9bAnMVkTpycebk5YAsyM=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Trinity Wellsprings Church",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2012-09-19T23:18:15Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "qO_3LE1ObNsMYRPTHu5ftyNjnNw",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 54,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "Y2lh6WS6o5kZJfsVzMfd2XhrIJI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-gY-OfEvTm83qJF4-ViDbA"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-30T10:56:52Z",
+                    "channelId": "UC-gY-OfEvTm83qJF4-ViDbA",
+                    "title": "@Moving to Satellite Beach-Linda Landman-Realtor",
+                    "description": "321-421-9101 Are you curious about the Central Florida East Coast beaches. Famous for surfing and the Space Program these ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/JIEZdbHT4EoWU0y8lNaIhzuHiG-_-AzxVPulWhUb3v3g2TzHGoYEdYaPul1crguXDUJF-uifGQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "@Moving to Satellite Beach-Linda Landman-Realtor",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-09-30T10:56:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tRwrC1spdbft5av617swgNON_hg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A"
+                },
+                "snippet": {
+                    "publishedAt": "2022-08-31T17:19:55Z",
+                    "channelId": "UCzVNSjCc0HnwzvaDCtpAj5A",
+                    "title": "City of Cocoa Beach - Government",
+                    "description": "IMPORTANT NOTICE UNDER FLORIDA'S PUBLIC RECORDS LAW: Please be aware that under Chapter 119, Florida Statutes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HXPa3h9vAk56ViAyYlwVytxdsaEfD2I0jXA-U_xy_DnwaGEzkDhf4DaSiNJYEj_FY4pgAy9LJ1E=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of Cocoa Beach - Government",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2022-08-31T17:19:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "4BSxjs9yHVT56dZUK3CYqH8X3j4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGt6WmeGmHJ8xi--udGPTLw"
+                },
+                "snippet": {
+                    "publishedAt": "2023-01-27T20:13:36Z",
+                    "channelId": "UCGt6WmeGmHJ8xi--udGPTLw",
+                    "title": "Advocates Voice",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/DsFT09Hd8gVCZB2R4cTeKDCcwR-IbiTdSxh9eQyf5FNIp3sQBV2t9Lznf17DMha8eaaMvSiU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/DsFT09Hd8gVCZB2R4cTeKDCcwR-IbiTdSxh9eQyf5FNIp3sQBV2t9Lznf17DMha8eaaMvSiU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/DsFT09Hd8gVCZB2R4cTeKDCcwR-IbiTdSxh9eQyf5FNIp3sQBV2t9Lznf17DMha8eaaMvSiU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Advocates Voice",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-01-27T20:13:36Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "PpGDYngK13U_w7-P6g7vjOAK_VM",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoXg2QbVOqvdAc3r4NnsPvw"
+                },
+                "snippet": {
+                    "publishedAt": "2020-07-06T12:02:37Z",
+                    "channelId": "UCoXg2QbVOqvdAc3r4NnsPvw",
+                    "title": "KD Travel Videos",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/_wBpl9_hj0oRl_e8vj6I-pjAzORt55u_9vrDTzPQN1fw-AuO5DQ9ip7t3izmnM8YkpSjEKq7Eh8=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/_wBpl9_hj0oRl_e8vj6I-pjAzORt55u_9vrDTzPQN1fw-AuO5DQ9ip7t3izmnM8YkpSjEKq7Eh8=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/_wBpl9_hj0oRl_e8vj6I-pjAzORt55u_9vrDTzPQN1fw-AuO5DQ9ip7t3izmnM8YkpSjEKq7Eh8=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "KD Travel Videos",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-07-06T12:02:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "ewaubEkrqex-ByqXa7yzG1eRO9M",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSfi2Wa4uv32lYCQdLlIn1g"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-19T23:36:32Z",
+                    "channelId": "UCSfi2Wa4uv32lYCQdLlIn1g",
+                    "title": "Allen Soto",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m9KC4LqyO2rqkAjkgF4wYdQDXEaKVL70ovrkVp2UU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m9KC4LqyO2rqkAjkgF4wYdQDXEaKVL70ovrkVp2UU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_m9KC4LqyO2rqkAjkgF4wYdQDXEaKVL70ovrkVp2UU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Allen Soto",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-04-19T23:36:32Z"
+                }
+            }
+        ]
+    }
+]

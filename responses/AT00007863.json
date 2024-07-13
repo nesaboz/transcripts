@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "ygP558QMil63_JHoAq38756u0sc",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 554,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uvTIepVXV18iF0P-jSyGjAMbrx4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-13T19:16:44Z",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w",
+                    "title": "City of St. Augustine Beach",
+                    "description": "This channel is setup for the City of St. Augustine Beach Florida, our residents, and visitors. http://www.staugbch.com/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of St. Augustine Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-13T19:16:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "MaspvTb64O5xwbaR7ND5aPmP3G0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGo5vwRYSpfXUkOzdLYP7Vw"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-24T23:30:35Z",
+                    "channelId": "UCGo5vwRYSpfXUkOzdLYP7Vw",
+                    "title": "Saint Augustine Florida",
+                    "description": "St. Augustine Florida but also about FL in general with a focus on history, nature, houses and practical information about St. Johns ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg90_it6B1UDNdHO8AfLHy5Q6wiWSb57P5YNuX2DxOXg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg90_it6B1UDNdHO8AfLHy5Q6wiWSb57P5YNuX2DxOXg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lg90_it6B1UDNdHO8AfLHy5Q6wiWSb57P5YNuX2DxOXg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Saint Augustine Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2011-10-24T23:30:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "jHW3GniJ9Agr4fD5YoQnvEalp90",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaZ52yuQngijy0dC1xGCDbw"
+                },
+                "snippet": {
+                    "publishedAt": "2010-05-03T21:04:37Z",
+                    "channelId": "UCaZ52yuQngijy0dC1xGCDbw",
+                    "title": "LIVING IN ST AUGUSTINE",
+                    "description": "Are you wondering what it is like to live in St Augustine, Florida? Well, this is the channel you need! We absolutely love this town ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/kLw-7Y4n5rgUzJOJPejwOjYJqW_SgSCVfgGKj1hZ3bpBCp8_csIqoNIRS2qNqxfANfffEG2w4w=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/kLw-7Y4n5rgUzJOJPejwOjYJqW_SgSCVfgGKj1hZ3bpBCp8_csIqoNIRS2qNqxfANfffEG2w4w=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/kLw-7Y4n5rgUzJOJPejwOjYJqW_SgSCVfgGKj1hZ3bpBCp8_csIqoNIRS2qNqxfANfffEG2w4w=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING IN ST AUGUSTINE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2010-05-03T21:04:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "tYJdBe73kjsOSwBFz04zCBxhRAc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCznXKvxj3U1dEQDprXBmlQA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-13T02:16:22Z",
+                    "channelId": "UCznXKvxj3U1dEQDprXBmlQA",
+                    "title": "St. Augustine Live",
+                    "description": "Enjoy our 24/7 LIVE cameras and videos from historic St. Augustine, Florida https://www.stauglive.com A big thank you to our local ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Augustine Live",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-13T02:16:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "88D2k8GE-UMsu664fdHwuglcWAs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-11-12T15:55:02Z",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ",
+                    "title": "See St Augustine",
+                    "description": "A video guide of the Nation's Oldest City, St. Augustine, Florida. Hi, my name is Joe Mehm and I've been a resident of the St ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "See St Augustine",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-11-12T15:55:02Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "UAc2AvG2SEAP5RxOjGO2byh2dUs",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 380,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "uvTIepVXV18iF0P-jSyGjAMbrx4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-13T19:16:44Z",
+                    "channelId": "UCNzeny-WIgQIAP-W6ljZ-7w",
+                    "title": "City of St. Augustine Beach",
+                    "description": "This channel is setup for the City of St. Augustine Beach Florida, our residents, and visitors. http://www.staugbch.com/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_k1_OUOT0ihAvMNmXcMaO49YqezALEJGFe6XikQaOzVoQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of St. Augustine Beach",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2014-06-13T19:16:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "SG0oxb7iXsSge4T9khBNaijycu8",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCznXKvxj3U1dEQDprXBmlQA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-13T02:16:22Z",
+                    "channelId": "UCznXKvxj3U1dEQDprXBmlQA",
+                    "title": "St. Augustine Live",
+                    "description": "Enjoy our 24/7 LIVE cameras and videos from historic St. Augustine, Florida https://www.stauglive.com A big thank you to our local ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/POtT4oU3u68se8fCEKozXUZvrgBtBhJcaPENr_a2GjuWAmbhc-uHIjJKw4EQFicCIkkifXLpUA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "St. Augustine Live",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2016-08-13T02:16:22Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "w_hFG9sDl7C2PKEcgEJk49IA4RA",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdrmowtz6SxfFXcqeUZIiMg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-31T20:09:12Z",
+                    "channelId": "UCdrmowtz6SxfFXcqeUZIiMg",
+                    "title": "Ronnie Martin JPAR City & Beach St Augustine ",
+                    "description": "There's much to see here as you look for a home in NE FL and in particular St Augustine . We have the beaches, marshes, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VgsDhaIBWimIaLLgY9dhxxSVRCr5Z7NPTkxo7Z064stqQcEFM_Q6FbfwAz6STYrw8leBwvT-=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VgsDhaIBWimIaLLgY9dhxxSVRCr5Z7NPTkxo7Z064stqQcEFM_Q6FbfwAz6STYrw8leBwvT-=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VgsDhaIBWimIaLLgY9dhxxSVRCr5Z7NPTkxo7Z064stqQcEFM_Q6FbfwAz6STYrw8leBwvT-=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Ronnie Martin JPAR City & Beach St Augustine ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-03-31T20:09:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "88D2k8GE-UMsu664fdHwuglcWAs",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2023-11-12T15:55:02Z",
+                    "channelId": "UCn-85XvIe4GenO_y303lFqQ",
+                    "title": "See St Augustine",
+                    "description": "A video guide of the Nation's Oldest City, St. Augustine, Florida. Hi, my name is Joe Mehm and I've been a resident of the St ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/enAMXVHfuRs_Q84xhCgaUICXyh7tC9LMbB9tpAE56YhA9uQdGdDY0j8zwUtucJO1jpoEehiBhA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "See St Augustine",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-11-12T15:55:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "DhrIWzDL5KnhOxZWD_gL_mYF8D4",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC4RXa62LavoYrKHOU6VSpXw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-11-26T22:12:07Z",
+                    "channelId": "UC4RXa62LavoYrKHOU6VSpXw",
+                    "title": "LIVING in Jacksonville & St Augustine Florida",
+                    "description": "Are you wondering what it's like to live in Jacksonville or St. Augustine Florida? Josh & Katelynn Cotton, Founders of the \"Move ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/LIV50l7E6qvWEyiyEzJKr0mAdjcWDyGyFqUODNR8vx6D-EezEdBbC5s91TzvrdPdExIwmrEhGA=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/LIV50l7E6qvWEyiyEzJKr0mAdjcWDyGyFqUODNR8vx6D-EezEdBbC5s91TzvrdPdExIwmrEhGA=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/LIV50l7E6qvWEyiyEzJKr0mAdjcWDyGyFqUODNR8vx6D-EezEdBbC5s91TzvrdPdExIwmrEhGA=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "LIVING in Jacksonville & St Augustine Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2013-11-26T22:12:07Z"
+                }
+            }
+        ]
+    }
+]

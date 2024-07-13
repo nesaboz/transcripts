@@ -1,0 +1,306 @@
+[
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "Ludnu2d_Z1YMjS9BrM0akEw9QJ4",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 546,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "sjWhkeLSyWJqo6gas9Bm9o-Q70A",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmWwxcTi1xtq5xeic4DbZzA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-02-06T20:06:27Z",
+                    "channelId": "UCmWwxcTi1xtq5xeic4DbZzA",
+                    "title": "City of TLH",
+                    "description": "Tallahassee, the capital of Florida, is nestled among the rolling hills of northwest Florida. The City of Tallahassee provides a wide ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of TLH",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-02-06T20:06:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mIsDQdfcfvgvqmVVtsbBbbNldYc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-iKH94BiaHQRrnHQpP2prQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-13T15:47:08Z",
+                    "channelId": "UC-iKH94BiaHQRrnHQpP2prQ",
+                    "title": "City of TLH Meetings",
+                    "description": "Tallahassee, the capital of Florida, is nestled among the rolling hills of northwest Florida. The City of Tallahassee provides a wide ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of TLH Meetings",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-13T15:47:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "A3V7aT-NsM83Qb4rnArfiTCINQI",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8HUVw1ZGutCdLq6LwiHuxA"
+                },
+                "snippet": {
+                    "publishedAt": "2008-06-15T23:34:16Z",
+                    "channelId": "UC8HUVw1ZGutCdLq6LwiHuxA",
+                    "title": "Living in Tallahassee Florida",
+                    "description": "Are you wondering what it is like to live in Tallahassee Florida? Well, this is the channel you need! We absolutely love this town ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/WE1dB6u-Omek2d75IHph1SsbdYta1pRjo_gG2Ctjnv-MsoDyhpcFuI0K0Cl8r1W7WamvrqgQYg=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/WE1dB6u-Omek2d75IHph1SsbdYta1pRjo_gG2Ctjnv-MsoDyhpcFuI0K0Cl8r1W7WamvrqgQYg=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/WE1dB6u-Omek2d75IHph1SsbdYta1pRjo_gG2Ctjnv-MsoDyhpcFuI0K0Cl8r1W7WamvrqgQYg=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Living in Tallahassee Florida",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2008-06-15T23:34:16Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pJlY4oHROhtu_g1bltFbVCwjAd0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC74Hj2m3LeGhMjHpnU4tl3A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-08T17:40:44Z",
+                    "channelId": "UC74Hj2m3LeGhMjHpnU4tl3A",
+                    "title": "City Church Tallahassee",
+                    "description": "This is the YouTube Channel for City Church, located in Tallahassee, FL. You can find videos of music, sermons, and other digital ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Church Tallahassee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-08T17:40:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LP56Ll8W2yReLE-G92iHzeVx9iE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-10-21T14:37:07Z",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA",
+                    "title": "Tallahassee Police Department",
+                    "description": "The Tallahassee Police Department has a distinguished 170-year history of protecting and serving Florida's Capital City while ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tallahassee Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-10-21T14:37:07Z"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#searchListResponse",
+        "etag": "YdR-065RJZC2XQ91RVGpDj17lSM",
+        "nextPageToken": "CAUQAA",
+        "regionCode": "RS",
+        "pageInfo": {
+            "totalResults": 471,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "BjBt7MLGrKBL-eL9gOV5N69Ck1E",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCmWwxcTi1xtq5xeic4DbZzA"
+                },
+                "snippet": {
+                    "publishedAt": "2007-02-06T20:06:27Z",
+                    "channelId": "UCmWwxcTi1xtq5xeic4DbZzA",
+                    "title": "City of TLH",
+                    "description": "Tallahassee, the capital of Florida, is nestled among the rolling hills of northwest Florida. The City of Tallahassee provides a wide ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/E75m3FvXnK2RX_FG7LhNAnpl-lPseke-YK8BfTys1icVCgkmq02DLAjH9H38ouNcvRtH-aG2NQ=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of TLH",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2007-02-06T20:06:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "mIsDQdfcfvgvqmVVtsbBbbNldYc",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC-iKH94BiaHQRrnHQpP2prQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-09-13T15:47:08Z",
+                    "channelId": "UC-iKH94BiaHQRrnHQpP2prQ",
+                    "title": "City of TLH Meetings",
+                    "description": "Tallahassee, the capital of Florida, is nestled among the rolling hills of northwest Florida. The City of Tallahassee provides a wide ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/7UZv23iw4HCdbsaSKKmKzrOtiBHWG_EGQ57SjC6TCt34oPuwCtAkKtOePgPcTGitc_G4MBYu=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City of TLH Meetings",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-09-13T15:47:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "pJlY4oHROhtu_g1bltFbVCwjAd0",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC74Hj2m3LeGhMjHpnU4tl3A"
+                },
+                "snippet": {
+                    "publishedAt": "2020-04-08T17:40:44Z",
+                    "channelId": "UC74Hj2m3LeGhMjHpnU4tl3A",
+                    "title": "City Church Tallahassee",
+                    "description": "This is the YouTube Channel for City Church, located in Tallahassee, FL. You can find videos of music, sermons, and other digital ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/sWQoECNg07q-Gpf68o4nCCEcNxUnTKfpuhycTtW6adaunBJqa88Si4rX3Ctlk8KMwOK1HZiItw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "City Church Tallahassee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2020-04-08T17:40:44Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "LP56Ll8W2yReLE-G92iHzeVx9iE",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA"
+                },
+                "snippet": {
+                    "publishedAt": "2021-10-21T14:37:07Z",
+                    "channelId": "UCsETCk0YSV0FhsYxQadpnKA",
+                    "title": "Tallahassee Police Department",
+                    "description": "The Tallahassee Police Department has a distinguished 170-year history of protecting and serving Florida's Capital City while ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oWugjlro4_wOworRd3RvK9eeFnf2AG85hqr_jgChHXGrLDZdy5BPdttQrwi0OEMMe8Wxq6ac-uU=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Tallahassee Police Department",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-10-21T14:37:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "zMlN-lutwhmWQkPdkefvm9txRqg",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChedZJ5iWsGPAe6TsPMS7UQ"
+                },
+                "snippet": {
+                    "publishedAt": "2021-02-08T05:27:11Z",
+                    "channelId": "UChedZJ5iWsGPAe6TsPMS7UQ",
+                    "title": "Our Tallahassee",
+                    "description": "Breaking News and Commentary from the spear tip of America's culture war, Tallahassee Florida. OurTallahassee.com.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kRhFu4gGukYNMWki51DwQ7pGnW3ICoxafpw6rPY9eDEw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kRhFu4gGukYNMWki51DwQ7pGnW3ICoxafpw6rPY9eDEw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_kRhFu4gGukYNMWki51DwQ7pGnW3ICoxafpw6rPY9eDEw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "Our Tallahassee",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-02-08T05:27:11Z"
+                }
+            }
+        ]
+    }
+]
