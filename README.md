@@ -8,17 +8,26 @@ From list of towns in Florida I used YouTube API to first search for official to
 
 For code to work one needs to have YouTube developer API key and OpenAI key. These should be secret and should not be commited to GitHub which is why I use these as environment variables and not hard-coded directly.
 
-All one have to do once, is:
+All one have to do once is:
 - find API keys (for example follow [this](https://docs.themeum.com/tutor-lms/tutorials/get-youtube-api-key/) and [this](https://whatsthebigdata.com/how-to-get-openai-api-key/), or many more other online tutorials).
-- set them up as env variables: I use [dotenv](https://pypi.org/project/python-dotenv/) library for this:
-    - create a file named ".env" in the project root
-    - replace XYZ1 and XYZ2 with your secret keys:
+- set them up as env variables by creating a file named ".env" in the project root (or Google Drive root) that looks like this (replace XYZ1 and XYZ2 with your secret keys, and note not to use quotation marks):
         ```text
         YT_API_KEY=XYZ1
         OPENAI_API_KEY=XYZ2
         ```
+    I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file 
 
-This .env file should be local only and not commited to the GitHub (hence it is present in .gitignore).
+This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
+
+## Local vs Google colab
+
+Repo assumes runing both in the local environment and Google Colab. Code is already suited for both.
+
+If running locally, data folder is called 'data' and is in the root, for Colab, create a shortcut to shared `PN` folder in the root of your Google Drive.
+
+## Run code
+
+Start by runing `main.ipynb` and refer to `utils.py` for all lower level code. Watch [screencast](https://drive.google.com/file/d/1YnyMtkF-NpkP7jvEpkkfNuBSYYTaiwEg/view?usp=share_link) if this is first-time running.
 
 ## Appendix
 
