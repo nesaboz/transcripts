@@ -6,6 +6,7 @@ import os
 import shutil
 import pandas as pd
 import isodate
+from pathlib import Path
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -15,8 +16,12 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from pandas.errors import EmptyDataError
 from dotenv import load_dotenv
 
+OBLIGOR_ID = 'ObligorId'
+EXTRACTED_ISSUER = 'extracted_issuer'
+COUNTY = 'county'
+
 STATUS_FILE = 'status.csv'
-RESPONSES_DIR = 'responses' 
+RESPONSES_DIR = 'responses'
 ANALYSIS_DIR = 'analysis'
 BACKUP_DIR = 'backup'
 
@@ -26,25 +31,27 @@ WAS_ANALYZED = 'was_analyzed'
 NO = 'no'
 YES = 'yes'
 SKIP = 'skip'
-OBLIGOR_ID = 'ObligorId'
-EXTRACTED_ISSUER = 'extracted_issuer'
+
 
 # Load environment variables from .env file
 load_dotenv()
 
 
-def create_backup(csv_file):
-    if not os.path.exists(BACKUP_DIR):
-        os.makedirs(BACKUP_DIR)
+def create_backup(status_file: str):
+
+    backup_dir = os.path.join(os.path.dirname(status_file), BACKUP_DIR)
+
+    if not os.path.exists(backup_dir):
+        os.makedirs(backup_dir)
     
     backup_file = os.path.join(
-        BACKUP_DIR,
-        f"{csv_file}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
+        backup_dir,
+        f"status_backup_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.bak"
         )
     try:
-        shutil.copy(csv_file, backup_file)
+        shutil.copy(status_file, backup_file)
     except FileNotFoundError:
-        print(f"No file to back up.")
+        print(f"No file to back up so skipping backup.")
 
 
 class ChannelCrawler:
@@ -59,32 +66,34 @@ class ChannelCrawler:
     """
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
 
-    def __init__(self, search_query_fns, csv_file=STATUS_FILE):
+    def __init__(self, search_query_fns, data_folder):
         self.search_query_fns = search_query_fns
-        self.csv_file = csv_file
-        self.df = self.load_status_file(self.csv_file)
+        self.status_file = os.path.join(data_folder, STATUS_FILE)
+        self.df = self.load_status_file(self.status_file)
+
+        self.responses_dir = os.path.join(data_folder, RESPONSES_DIR)
         
-        if not os.path.exists(RESPONSES_DIR):
-            os.makedirs(RESPONSES_DIR)
+        if not os.path.exists(self.responses_dir):
+            os.makedirs(self.responses_dir)
     
     @staticmethod
-    def load_status_file(csv_file):
+    def load_status_file(status_file):
         try:
-            return pd.read_csv(csv_file)
+            return pd.read_csv(status_file, dtype=str)
         except FileNotFoundError:
-            print(f"File {csv_file} not found. Creating a new one.")
+            print(f"File {status_file} not found. Creating a new one.")
             df = pd.read_excel('assets/cities_to_collect.xlsx')
             
-            df = df[[OBLIGOR_ID, EXTRACTED_ISSUER]]
+            df = df[[OBLIGOR_ID, EXTRACTED_ISSUER, COUNTY]]
             
             df[WAS_CRAWLED] = ''
             df[WAS_ANALYZED] = ''
             df.to_csv(STATUS_FILE, index=False)
             return df
     
-    def save_csv(self):
-        create_backup(self.csv_file)        
-        self.df.to_csv(self.csv_file, index=False)
+    def save_status(self):
+        create_backup(self.status_file)        
+        self.df.to_csv(self.status_file, index=False)
     
     def search_one(self, search_query):
         # Search for videos matching the query
@@ -104,7 +113,7 @@ class ChannelCrawler:
                 response = self.search_one(search_query_fn(extracted_issuer))
                 responses.append(response)
                 
-            with open(os.path.join(RESPONSES_DIR,f'{obligor_id}.json'), 'w') as f:
+            with open(os.path.join(self.responses_dir,f'{obligor_id}.json'), 'w') as f:
                 json.dump(responses, f, indent=4)
             
             return True
@@ -118,21 +127,25 @@ class ChannelCrawler:
             return False
     
     def start(self, limit=float("inf")):
+        counter = 0
         for index, row in self.df.iterrows():
-            if index < limit: 
-                if row[WAS_CRAWLED] != YES:
+            if row[WAS_CRAWLED] != YES:
+                if counter < limit:
+                    print('.', end="")
+                    if (counter + 1) % 80 == 0:
+                        print()
                     obligor_id = row[OBLIGOR_ID]
                     extracted_issuer = row[EXTRACTED_ISSUER]
-                    if self.crawl(obligor_id, extracted_issuer):
+                    success = self.crawl(obligor_id, extracted_issuer)
+                    if success:
                         self.df.at[index, WAS_CRAWLED] = YES
                     else:
                         break
-                    self.save_csv()
-        self.save_csv()
+                    self.save_status()
+                counter += 1
         
         
 class ChannelAnalyzer:
-    
     """
     Loads status.csv file and then analyzes the newly crawled cities 
     (where 'was_crawled' == 'yes' and 'was_analyzed' == 'no')
@@ -143,18 +156,21 @@ class ChannelAnalyzer:
     """
     
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    
-    def __init__(self, model_name, prompt_fn, csv_file=STATUS_FILE):
+
+    def __init__(self, model_name, prompt_fn, data_folder):
         self.model_name = model_name
         self.prompt_fn = prompt_fn
-        self.csv_file = csv_file
-        self.status_df = pd.read_csv(self.csv_file)
+        self.status_file = os.path.join(data_folder, STATUS_FILE)
+        self.status_df = pd.read_csv(self.status_file, dtype=str)
+
+        self.responses_dir = os.path.join(data_folder, RESPONSES_DIR)
+        self.analysis_dir = os.path.join(data_folder, ANALYSIS_DIR)
         
-        if not os.path.exists(ANALYSIS_DIR):
-            os.makedirs(ANALYSIS_DIR)
+        if not os.path.exists(self.analysis_dir):
+            os.makedirs(self.analysis_dir)
 
     def save_status(self):
-        self.status_df.to_csv(self.csv_file, index=False)
+        self.status_df.to_csv(self.status_file, index=False)
 
     def is_official(self, blurb, extracted_issuer):  
         
@@ -189,7 +205,7 @@ class ChannelAnalyzer:
     
     def analyze(self, obligor_id, extracted_issuer):
         try:
-            with open(os.path.join(RESPONSES_DIR, f'{obligor_id}.json'), 'r') as f:
+            with open(os.path.join(self.responses_dir, f'{obligor_id}.json'), 'r') as f:
                 responses = json.load(f)
                 
             rows = []
@@ -211,21 +227,26 @@ class ChannelAnalyzer:
             df = pd.DataFrame(rows)
                 
             # Save the analysis DataFrame to a CSV file named with the unique city id
-            df.to_csv(os.path.join(ANALYSIS_DIR,f'{obligor_id}.csv'), index=False)
+            df.to_csv(os.path.join(self.analysis_dir,f'{obligor_id}.csv'), index=False)
             
         except FileNotFoundError:
-            print(f"File {RESPONSES_DIR}/{obligor_id}.json not found.")
+            print(f"File {os.path.join(self.responses_dir, obligor_id)}.json not found.")
 
     def start(self):
+        counter = 0
         for index, row in self.status_df.iterrows():
             if row[WAS_CRAWLED] == YES and (pd.isna(row[WAS_ANALYZED]) or row[WAS_ANALYZED] == NO): 
+                print('.', end="")
+                if (counter + 1) % 80 == 0:
+                    print()
                 try:
-                    self.analyze(row.OBLIGOR_ID, row[EXTRACTED_ISSUER])
+                    self.analyze(row[OBLIGOR_ID], row[EXTRACTED_ISSUER])
                     self.status_df.at[index, WAS_ANALYZED] = YES
                 except Exception as e:
                     print(e)
                     self.status_df.at[index, WAS_ANALYZED] = e
                 self.save_status()
+                counter += 1
     
     def print_result(self, result):
         print(f"Channel ID: {result['channel_id']}")
@@ -235,26 +256,24 @@ class ChannelAnalyzer:
         print("\n")
         
 
-def aggregate_analysis_files(crawler, output_file):
+def aggregate_analysis_files(crawler: ChannelCrawler, analyzer: ChannelAnalyzer, data_folder: csv):
     """
     For each city, takes analyzed CSV responses, looks only for the ones ChatGPT marked as yes, and combines them into one row.
     Creates a new csv: aggregated_analysis.csv.
-    
-    Args:
-        crawler (_type_): _description_
-        output_file (_type_): _description_
     """
     
+    analysis_dir = analyzer.analysis_dir
+
     dfs = []
 
-    for filename in os.listdir(ANALYSIS_DIR):
+    for filename in os.listdir(analysis_dir):
         if filename.endswith('.csv'):
             
-            city_id = filename.split('.')[0]
-            file_path = os.path.join(ANALYSIS_DIR, filename)
+            obligor_id = filename.split('.')[0]
+            file_path = os.path.join(analysis_dir, filename)
                     
             try:  
-                df = pd.read_csv(file_path)
+                df = pd.read_csv(file_path, dtype=str)
                 
                 # first remove all but `yes` responses
                 df = df[df['is_official'] == 'yes']
@@ -278,10 +297,10 @@ def aggregate_analysis_files(crawler, output_file):
                 new_df.columns = [f"{col}_{i+1}" for i in range(len(df)) for col in df.columns]
                 
                 # then add a column with the city_id
-                new_df['city_id'] = city_id
+                new_df[OBLIGOR_ID] = obligor_id
                 
-                # Move 'city_id' to the first column
-                new_df.insert(0, 'city_id', new_df.pop('city_id'))
+                # Move 'obligor_id' to the first column
+                new_df.insert(0, OBLIGOR_ID, new_df.pop(OBLIGOR_ID))
                 
             except EmptyDataError:
                 print(f"Error reading {file_path}. Skipping it.")
@@ -292,21 +311,11 @@ def aggregate_analysis_files(crawler, output_file):
     combined_df = pd.concat(dfs, ignore_index=True)
 
     # add a city name by joining with the status file
-    combined_df = crawler.df.merge(combined_df, left_on='id', right_on='city_id', how='left')
+    combined_df = crawler.df.merge(combined_df, on=OBLIGOR_ID, how='left')
 
-    combined_df.drop(['city_id', 'was_crawled', 'was_analyzed'], axis=1, inplace=True)
+    combined_df.drop([WAS_CRAWLED, WAS_ANALYZED], axis=1, inplace=True)
     
-    combined_df.rename(columns={'id': OBLIGOR_ID, 'city': EXTRACTED_ISSUER}, inplace=True)
-    
-    # add county name
-    df_orig = pd.read_excel('assets/cities_to_collect.xlsx')
-    df_orig = df_orig[[OBLIGOR_ID, 'county']]
-    
-    combined_df = combined_df.merge(df_orig, left_on=OBLIGOR_ID, right_on=OBLIGOR_ID, how='left')
-    
-    combined_df = move_col(combined_df, 'county', 2)
-    
-    combined_df.to_excel(output_file, index=False, engine='openpyxl')
+    combined_df.to_excel(os.path.join(data_folder, 'aggregated_analysis.xlsx'), index=False, engine='openpyxl')
 
 
 def move_col(df, col_to_move, new_index):
