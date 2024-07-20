@@ -6,7 +6,6 @@ import os
 import shutil
 import pandas as pd
 import isodate
-from tqdm import tqdm
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -14,6 +13,7 @@ from openai import OpenAI
 from youtube_transcript_api import YouTubeTranscriptApi
 
 from pandas.errors import EmptyDataError
+from dotenv import load_dotenv
 
 STATUS_FILE = 'status.csv'
 RESPONSES_DIR = 'responses' 
@@ -21,17 +21,13 @@ ANALYSIS_DIR = 'analysis'
 BACKUP_DIR = 'backup'
 
 # status.csv columns and answers
-ID = 'id'
-CITY = 'city'
 WAS_CRAWLED = 'was_crawled'
 WAS_ANALYZED = 'was_analyzed'
 NO = 'no'
 YES = 'yes'
 SKIP = 'skip'
-
-
-import os
-from dotenv import load_dotenv
+OBLIGOR_ID = 'ObligorId'
+EXTRACTED_ISSUER = 'extracted_issuer'
 
 # Load environment variables from .env file
 load_dotenv()
@@ -63,7 +59,8 @@ class ChannelCrawler:
     """
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
 
-    def __init__(self, csv_file=STATUS_FILE):
+    def __init__(self, search_query_fns, csv_file=STATUS_FILE):
+        self.search_query_fns = search_query_fns
         self.csv_file = csv_file
         self.df = self.load_status_file(self.csv_file)
         
@@ -77,8 +74,9 @@ class ChannelCrawler:
         except FileNotFoundError:
             print(f"File {csv_file} not found. Creating a new one.")
             df = pd.read_excel('assets/cities_to_collect.xlsx')
-            df = df[['ObligorId', 'extracted_issuer']]
-            df.rename(columns={'ObligorId': ID, 'extracted_issuer': CITY}, inplace=True)
+            
+            df = df[[OBLIGOR_ID, EXTRACTED_ISSUER]]
+            
             df[WAS_CRAWLED] = ''
             df[WAS_ANALYZED] = ''
             df.to_csv(STATUS_FILE, index=False)
@@ -99,16 +97,14 @@ class ChannelCrawler:
         response = request.execute()
         return response
     
-    def crawl(self, unique_id, city):
-                    
+    def crawl(self, obligor_id, extracted_issuer):
         try:
             responses = []
-            for query in ['town', 'city']:
-                search_query = f"{query} of {city} florida"
-                response = self.search_one(search_query)
+            for search_query_fn in self.search_query_fns:
+                response = self.search_one(search_query_fn(extracted_issuer))
                 responses.append(response)
                 
-            with open(os.path.join(RESPONSES_DIR,f'{unique_id}.json'), 'w') as f:
+            with open(os.path.join(RESPONSES_DIR,f'{obligor_id}.json'), 'w') as f:
                 json.dump(responses, f, indent=4)
             
             return True
@@ -121,16 +117,17 @@ class ChannelCrawler:
                     return False
             return False
     
-    def start(self):
-        for index, row in tqdm(self.df.iterrows()):
-            if row[WAS_CRAWLED] != YES:
-                unique_id = row[ID]
-                city = row[CITY]
-                if self.crawl(unique_id, city):
-                    self.df.at[index, WAS_CRAWLED] = YES
-                else:
-                    break
-                self.save_csv()
+    def start(self, limit=float("inf")):
+        for index, row in self.df.iterrows():
+            if index < limit: 
+                if row[WAS_CRAWLED] != YES:
+                    obligor_id = row[OBLIGOR_ID]
+                    extracted_issuer = row[EXTRACTED_ISSUER]
+                    if self.crawl(obligor_id, extracted_issuer):
+                        self.df.at[index, WAS_CRAWLED] = YES
+                    else:
+                        break
+                    self.save_csv()
         self.save_csv()
         
         
@@ -141,16 +138,15 @@ class ChannelAnalyzer:
     (where 'was_crawled' == 'yes' and 'was_analyzed' == 'no')
     
     The analysis loads a respective json file with responses, and creates a DataFrame 
-    with column `is_official`, then save this to a csv file named with unique city id, 
+    with column `is_official`, then save this to a csv file named with obligor_id, 
     all in folder named 'analysis'.
     """
     
-    openai_api_key = os.getenv("OPENAI_API_KEY")
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     
-    # Set your API key here
-    client = OpenAI(api_key=openai_api_key)
-    
-    def __init__(self, csv_file=STATUS_FILE):
+    def __init__(self, model_name, prompt_fn, csv_file=STATUS_FILE):
+        self.model_name = model_name
+        self.prompt_fn = prompt_fn
         self.csv_file = csv_file
         self.status_df = pd.read_csv(self.csv_file)
         
@@ -160,16 +156,14 @@ class ChannelAnalyzer:
     def save_status(self):
         self.status_df.to_csv(self.csv_file, index=False)
 
-    def is_official(self, blurb):  
+    def is_official(self, blurb, extracted_issuer):  
         
-            chat_history =[{"role": "system", "content": "Your job will be to analyze short prompts \
-            comprised of title and description of YouTube channels to asses whether the channel \
-            is official town or city you tube channel. You answer 'Yes' or 'No' only"}]
+            chat_history =[{"role": "system", "content": self.prompt_fn(extracted_issuer)}]
             
             chat_history.append({"role": "user", "content": blurb})
 
             reply = self.client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model=self.model_name, 
                 messages=chat_history
                 )
 
@@ -193,9 +187,9 @@ class ChannelAnalyzer:
             smaller_response.append(result)
         return smaller_response
     
-    def analyze(self, unique_id):
+    def analyze(self, obligor_id, extracted_issuer):
         try:
-            with open(os.path.join(RESPONSES_DIR, f'{unique_id}.json'), 'r') as f:
+            with open(os.path.join(RESPONSES_DIR, f'{obligor_id}.json'), 'r') as f:
                 responses = json.load(f)
                 
             rows = []
@@ -205,7 +199,7 @@ class ChannelAnalyzer:
                     blurb = f"channel title is: {item['channel_title']} and \
                         channel description is: {item['channel_description']}"
                         
-                    is_official = self.is_official(blurb)
+                    is_official = self.is_official(blurb, extracted_issuer)
                     item.update({'is_official': is_official})
                     rows.append(item)
                     
@@ -217,24 +211,21 @@ class ChannelAnalyzer:
             df = pd.DataFrame(rows)
                 
             # Save the analysis DataFrame to a CSV file named with the unique city id
-            df.to_csv(os.path.join(ANALYSIS_DIR,f'{unique_id}.csv'), index=False)
+            df.to_csv(os.path.join(ANALYSIS_DIR,f'{obligor_id}.csv'), index=False)
             
         except FileNotFoundError:
-            print(f"File {RESPONSES_DIR}/{unique_id}.json not found.")
+            print(f"File {RESPONSES_DIR}/{obligor_id}.json not found.")
 
     def start(self):
-        for index, row in tqdm(self.status_df.iterrows()):
-            if row[WAS_CRAWLED] == YES and pd.isna(row[WAS_ANALYZED]):
+        for index, row in self.status_df.iterrows():
+            if row[WAS_CRAWLED] == YES and (pd.isna(row[WAS_ANALYZED]) or row[WAS_ANALYZED] == NO): 
                 try:
-                    unique_id = row[ID]
-                    self.analyze(unique_id)
+                    self.analyze(row.OBLIGOR_ID, row[EXTRACTED_ISSUER])
                     self.status_df.at[index, WAS_ANALYZED] = YES
                 except Exception as e:
                     print(e)
                     self.status_df.at[index, WAS_ANALYZED] = e
                 self.save_status()
-                
-        self.save_status()
     
     def print_result(self, result):
         print(f"Channel ID: {result['channel_id']}")
@@ -305,13 +296,13 @@ def aggregate_analysis_files(crawler, output_file):
 
     combined_df.drop(['city_id', 'was_crawled', 'was_analyzed'], axis=1, inplace=True)
     
-    combined_df.rename(columns={'id': 'ObligorId', 'city': 'extracted_issuer'}, inplace=True)
+    combined_df.rename(columns={'id': OBLIGOR_ID, 'city': EXTRACTED_ISSUER}, inplace=True)
     
     # add county name
     df_orig = pd.read_excel('assets/cities_to_collect.xlsx')
-    df_orig = df_orig[['ObligorId', 'county']]
+    df_orig = df_orig[[OBLIGOR_ID, 'county']]
     
-    combined_df = combined_df.merge(df_orig, left_on='ObligorId', right_on='ObligorId', how='left')
+    combined_df = combined_df.merge(df_orig, left_on=OBLIGOR_ID, right_on=OBLIGOR_ID, how='left')
     
     combined_df = move_col(combined_df, 'county', 2)
     

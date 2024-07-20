@@ -5,5 +5,5 @@ python-dotenv
 ipykernel
 pandas
 openpyxl
-tqdm
 openai
+debugpy

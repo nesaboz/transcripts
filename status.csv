@@ -1,4 +1,4 @@
-id,city,was_crawled,was_analyzed
+ObligorId,extracted_issuer,was_crawled,was_analyzed
 AT00007025,alachua,yes,yes
 AT00007036,alford,yes,yes
 AT00007051,altamonte springs,yes,yes
