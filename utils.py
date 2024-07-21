@@ -76,8 +76,7 @@ class ChannelCrawler:
         if not os.path.exists(self.responses_dir):
             os.makedirs(self.responses_dir)
     
-    @staticmethod
-    def load_status_file(status_file):
+    def load_status_file(self, status_file):
         try:
             return pd.read_csv(status_file, dtype=str)
         except FileNotFoundError:
@@ -88,7 +87,7 @@ class ChannelCrawler:
             
             df[WAS_CRAWLED] = ''
             df[WAS_ANALYZED] = ''
-            df.to_csv(STATUS_FILE, index=False)
+            df.to_csv(self.status_file, index=False)
             return df
     
     def save_status(self):
