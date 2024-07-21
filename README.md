@@ -6,20 +6,22 @@ From list of towns in Florida I used YouTube API to first search for official to
 
 ## API developer keys
 
-For code to work one needs to have YouTube developer API key and OpenAI key. These should be secret and should not be commited to GitHub which is why I use these as environment variables and not hard-coded directly.
+For code to work one needs to have YouTube developer API key and OpenAI key (both are just a long string of specific charactes). To find them folow for example [this](https://docs.themeum.com/tutor-lms/tutorials/get-youtube-api-key/) and [this](https://whatsthebigdata.com/how-to-get-openai-api-key/), or any other online tutorials).
 
-All one have to do once is:
-- find API keys (for example follow [this](https://docs.themeum.com/tutor-lms/tutorials/get-youtube-api-key/) and [this](https://whatsthebigdata.com/how-to-get-openai-api-key/), or many more other online tutorials).
-- set them up as env variables by creating a file named ".env" in the project root (or Google Drive root) that looks like this (replace XYZ1 and XYZ2 with your secret keys, and note not to use quotation marks):
+Note that these should be secret and should not be commited to GitHub which is why I use these as environment variables and not hard-coded directly.
+
+Once you have the keys, all one has to do **once** is to create a file named ".env" in the project root (or Google Drive root) that looks like this:
 
 ```text
 YT_API_KEY=XYZ1
 OPENAI_API_KEY=XYZ2
 ```
 
-I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file.
+(replace XYZ1 and XYZ2 with your secret keys, and note not to use quotation marks).
 
-This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
+I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file, and this is all automatic.
+
+This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore for that reason).
 
 ## Data 
 
@@ -31,15 +33,15 @@ If using data locally, create folder `data` and place it in a root of a cloned r
 
 Repo assumes runing both in the local environment and Google Colab. Code is already suited for both.
 
-Watch [screencast](https://drive.google.com/file/d/1YnyMtkF-NpkP7jvEpkkfNuBSYYTaiwEg/view?usp=share_link) if this is first-time running.
+Watch [screencast](https://drive.google.com/file/d/1fdjXyA4WmW_G3Rac45mhmXhtAS2GnRoS/view?usp=sharing) if this is first-time running.
 
 Google Colab: run [link](https://colab.research.google.com/github/nesaboz/transcripts/blob/main/main.ipynb). 
 
 Locally: run `main.ipynb` and refer to `utils.py` for all lower level code. 
 
-## Appendix
+## Known issues
 
-Some transcripts are unavailable in which case transcript is empty (API gives following error):
+Some transcripts are unavailable in which case transcript is empty (API gives the following error):
 
 ```text
 Could not get transcript for video:  XYZ
