@@ -4,7 +4,7 @@ Get transcripts from Town Hall meetings in Florida cities and towns for the rese
 
 From list of towns in Florida I used YouTube API to first search for official town/city channel, and asked ChatGPT to evaluate if the channel seems official based on a channel title and description. I then called YouTube API to get all videos from the channel and then get transcripts for each video.
 
-## Setup
+## API developer keys
 
 For code to work one needs to have YouTube developer API key and OpenAI key. These should be secret and should not be commited to GitHub which is why I use these as environment variables and not hard-coded directly.
 
@@ -19,15 +19,21 @@ All one have to do once is:
 
 This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
 
+## Data 
+
+If using Google Colab data folder is shared via [`PN`](https://drive.google.com/drive/folders/1Y40dEWaFAvuKVPDPwa8cK1Tj8_6O5Bw4?usp=sharing) folder. You must create a shortcut to this folder and place it in the root of your Google Drive.
+
+If using data locally, create folder `data` and place it in a root of a cloned repo.
+
 ## Run code
 
 Repo assumes runing both in the local environment and Google Colab. Code is already suited for both.
 
 Watch [screencast](https://drive.google.com/file/d/1YnyMtkF-NpkP7jvEpkkfNuBSYYTaiwEg/view?usp=share_link) if this is first-time running.
 
-Google Colab: run [link](https://colab.research.google.com/github/nesaboz/transcripts/blob/main/main.ipynb). Data folder is shared so create a shortcut to a shared `PN` folder in the root of your Google Drive.
+Google Colab: run [link](https://colab.research.google.com/github/nesaboz/transcripts/blob/main/main.ipynb). 
 
-Locally: run `main.ipynb` and refer to `utils.py` for all lower level code. Data folder is called `data` and is in the root.
+Locally: run `main.ipynb` and refer to `utils.py` for all lower level code. 
 
 ## Appendix
 
