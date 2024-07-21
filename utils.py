@@ -328,7 +328,8 @@ class Channel(object):
     
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
     
-    def __init__(self, channel_id):
+    def __init__(self, channel_id, data_folder):
+        self.data_folder = data_folder
         self.channel_id = channel_id
         self.url = f'https://www.youtube.com/channel/{self.channel_id}'
         self.videos = []
@@ -372,7 +373,7 @@ class Channel(object):
         self.export_video_list()
 
     def export_video_list(self):
-        filepath = os.path.join('channels', self.channel_id, 'videos.json')
+        filepath = os.path.join(self.data_folder ,'channels', self.channel_id, 'videos.json')
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
         
         # Export to JSON file
@@ -396,7 +397,8 @@ class VideoInfo(object):
     """
     youtube = build('youtube', 'v3', developerKey=os.getenv('YT_API_KEY'))
     
-    def __init__(self, video_id):
+    def __init__(self, video_id, data_folder):
+        self.data_folder = data_folder
         self.id = video_id
         self.url = f'https://www.youtube.com/watch?v={self.id}'
             
@@ -441,7 +443,7 @@ class VideoInfo(object):
             
             self.transcript = transcript_text
             
-            filepath = os.path.join('channels', self.channel_id, 'transcripts', f'transcript_{self.id}.csv')
+            filepath = os.path.join(self.data_folder, 'channels', self.channel_id, 'transcripts', f'transcript_{self.id}.csv')
             
             os.makedirs(os.path.dirname(filepath), exist_ok=True)
             
@@ -480,7 +482,7 @@ class VideoInfo(object):
             'transcript': self.transcript
         }
         
-        filepath = os.path.join('channels', self.channel_id, 'videos', f'{self.id}.json')
+        filepath = os.path.join(self.data_folder, 'channels', self.channel_id, 'videos', f'{self.id}.json')
         
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
             
