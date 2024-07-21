@@ -11,11 +11,13 @@ For code to work one needs to have YouTube developer API key and OpenAI key. The
 All one have to do once is:
 - find API keys (for example follow [this](https://docs.themeum.com/tutor-lms/tutorials/get-youtube-api-key/) and [this](https://whatsthebigdata.com/how-to-get-openai-api-key/), or many more other online tutorials).
 - set them up as env variables by creating a file named ".env" in the project root (or Google Drive root) that looks like this (replace XYZ1 and XYZ2 with your secret keys, and note not to use quotation marks):
-        ```text
-        YT_API_KEY=XYZ1
-        OPENAI_API_KEY=XYZ2
-        ```
-    I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file 
+
+```text
+YT_API_KEY=XYZ1
+OPENAI_API_KEY=XYZ2
+```
+
+I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file 
 
 This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
 
