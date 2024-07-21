@@ -19,15 +19,15 @@ All one have to do once is:
 
 This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
 
-## Local vs Google colab
+## Run code
 
 Repo assumes runing both in the local environment and Google Colab. Code is already suited for both.
 
-If running locally, data folder is called 'data' and is in the root, for Colab, create a shortcut to shared `PN` folder in the root of your Google Drive.
+Watch [screencast](https://drive.google.com/file/d/1YnyMtkF-NpkP7jvEpkkfNuBSYYTaiwEg/view?usp=share_link) if this is first-time running.
 
-## Run code
+Google Colab: run [link](https://colab.research.google.com/github/nesaboz/transcripts/blob/main/main.ipynb). Data folder is shared so create a shortcut to a shared `PN` folder in the root of your Google Drive.
 
-Start by runing `main.ipynb` and refer to `utils.py` for all lower level code. Watch [screencast](https://drive.google.com/file/d/1YnyMtkF-NpkP7jvEpkkfNuBSYYTaiwEg/view?usp=share_link) if this is first-time running.
+Locally: run `main.ipynb` and refer to `utils.py` for all lower level code. Data folder is called `data` and is in the root.
 
 ## Appendix
 
