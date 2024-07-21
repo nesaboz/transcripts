@@ -17,7 +17,7 @@ YT_API_KEY=XYZ1
 OPENAI_API_KEY=XYZ2
 ```
 
-I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file 
+I use [dotenv](https://pypi.org/project/python-dotenv/) library to create env variables from this file.
 
 This .env file should never be shared and never be commited to the GitHub (it is also present in .gitignore).
 
