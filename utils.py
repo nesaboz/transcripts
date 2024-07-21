@@ -68,6 +68,9 @@ class ChannelCrawler:
 
     def __init__(self, search_query_fns, data_folder):
         self.search_query_fns = search_query_fns
+        if not os.path.exists(data_folder):
+            raise FileNotFoundError(f"The folder '{data_folder}' does not exist. Refer to README.md section 'Data' on how to create it.")
+
         self.status_file = os.path.join(data_folder, STATUS_FILE)
         self.df = self.load_status_file(self.status_file)
 
